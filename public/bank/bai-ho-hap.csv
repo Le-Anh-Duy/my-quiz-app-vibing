@@ -1,16 +1,16 @@
-"câu hỏi","đáp án a","đáp án b","đáp án c","đáp án d","đáp án đúng"
-"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho khan:","Giãn phế quản","Ho gà","Hen phế quản","Viêm thanh quản","a"
-"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho khan:","Viêm thanh quản","Viêm họng","Suy tim","Áp-xe phổi","d"
-"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:","Viêm phổi","Giãn phế quản","Viêm phế quản","Hen phế quản","d"
-"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:","Viêm phổi","Ho gà","Viêm phế quản","Áp-xe phổi","b"
-"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:","Viêm thanh quản","Lao phổi","Viêm phế quản","Áp-xe phổi","a"
-"Ho khan nhiều về đêm, gần sáng thường gặp trong bệnh lí nào sau đây:","Viêm phổi","Hen phế quản","Viêm phế quản","Giãn phế quản","b"
-"Ho khan nhiều về đêm, gần sáng thường gặp trong bệnh lí nào sau đây:","Suy tim","Ung thư phổi","Viêm phế quản","Giãn phế quản","a"
-"Ho khạc đàm 3 lớp là triệu chứng gặp trong bệnh lý nào sau đây:","Viêm phế quản mạn","Giãn phế quản","Bệnh phổi tắc nghẽn mạn tính","Viêm phổi","b"
-"Trong bệnh lý giãn phế quản, đàm 3 lớp theo tứ tự nào sau đây là đúng:","Dịch nhầy, mủ, bọt","Mủ, bọt, dịch nhầy","Bọt, dịch nhầy, mủ","Dịch nhầy, bọt, mủ","c"
-"Nhận định nào sau đây là đúng về triệu chứng ho gợi ý viêm phế quản mạn tính:","Ho về đêm kéo dài trên 3 tháng/năm trong 2 năm liên tiếp","Ho khan kéo dài trên 3 tháng/năm trong 2 năm liên tiếp","Ho khạc đàm kéo dài trên 3 tháng/năm trong 2 năm liên tiếp","Ho ra máu kéo dài trên 3 tháng/năm trong 2 năm liên tiếp","c"
-"Trong các nguyên nhân sau đây, đâu là nguyên nhân gây ho ra máu từ khí phế quản:","Dị vật đường thở","Thuyên tắc phổi","Lao phổi","Áp-xe phổi","a"
-"Trong các nguyên nhân sau đây, đâu không phải là nguyên nhân gây ho ra máu từ nhu mô phổi:","Lao phổi","Viêm phổi","Thuyên tắc phổi","Bệnh bụi phổi","c"
-"Trong các nguyên nhân sau đây, đâu không phải là nguyên nhân gây ho ra máu từ khí phế quản:","Dãn phế quản","U phế quản","Dị vật đường thở","Lao phổi","d"
-"Gọi là thở chậm khi tần số thở đạt mốc nào trong các giá trị sau đây:","≤10 lần/phút","≤12 lần/phút","≤14 lần/phút","≤16 lần/phút","b"
-"Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì hít vào:","Cơn hen cấp nặng","Nhồi máu phổi","Viêm phổi","Viêm thanh quản","d"
+câu hỏi,đáp án a,đáp án b,đáp án c,đáp án d,đáp án đúng
+"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho khan:",Giãn phế quản,Ho gà,Hen phế quản,Viêm thanh quản,a
+"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho khan:",Viêm thanh quản,Viêm họng,Suy tim,Áp-xe phổi,d
+"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:",Viêm phổi,Giãn phế quản,Viêm phế quản,Hen phế quản,d
+"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:",Viêm phổi,Ho gà,Viêm phế quản,Áp-xe phổi,b
+"Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:",Viêm thanh quản,Lao phổi,Viêm phế quản,Áp-xe phổi,a
+"Ho khan nhiều về đêm, gần sáng thường gặp trong bệnh lí nào sau đây:",Viêm phổi,Hen phế quản,Viêm phế quản,Giãn phế quản,b
+"Ho khan nhiều về đêm, gần sáng thường gặp trong bệnh lí nào sau đây:",Suy tim,Ung thư phổi,Viêm phế quản,Giãn phế quản,a
+Ho khạc đàm 3 lớp là triệu chứng gặp trong bệnh lý nào sau đây:,Viêm phế quản mạn,Giãn phế quản,Bệnh phổi tắc nghẽn mạn tính,Viêm phổi,b
+"Trong bệnh lý giãn phế quản, đàm 3 lớp theo tứ tự nào sau đây là đúng:","Dịch nhầy, mủ, bọt","Mủ, bọt, dịch nhầy","Bọt, dịch nhầy, mủ","Dịch nhầy, bọt, mủ",c
+Nhận định nào sau đây là đúng về triệu chứng ho gợi ý viêm phế quản mạn tính:,Ho về đêm kéo dài trên 3 tháng/năm trong 2 năm liên tiếp,Ho khan kéo dài trên 3 tháng/năm trong 2 năm liên tiếp,Ho khạc đàm kéo dài trên 3 tháng/năm trong 2 năm liên tiếp,Ho ra máu kéo dài trên 3 tháng/năm trong 2 năm liên tiếp,c
+"Trong các nguyên nhân sau đây, đâu là nguyên nhân gây ho ra máu từ khí phế quản:",Dị vật đường thở,Thuyên tắc phổi,Lao phổi,Áp-xe phổi,a
+"Trong các nguyên nhân sau đây, đâu không phải là nguyên nhân gây ho ra máu từ nhu mô phổi:",Lao phổi,Viêm phổi,Thuyên tắc phổi,Bệnh bụi phổi,c
+"Trong các nguyên nhân sau đây, đâu không phải là nguyên nhân gây ho ra máu từ khí phế quản:",Dãn phế quản,U phế quản,Dị vật đường thở,Lao phổi,d
+Gọi là thở chậm khi tần số thở đạt mốc nào trong các giá trị sau đây:,≤10 lần/phút,≤12 lần/phút,≤14 lần/phút,≤16 lần/phút,b
+"Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì hít vào:",Cơn hen cấp nặng,Nhồi máu phổi,Viêm phổi,Viêm thanh quản,d
