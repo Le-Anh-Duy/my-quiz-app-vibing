@@ -14,14 +14,22 @@ interface Question {
   "đáp án đúng": string;
 }
 
+interface Bai {
+  id: string;
+  name: string;
+  file: string;
+  questionCount?: number;
+}
+
 interface Settings {
   mode: "instant" | "exam";
   limit: number;
   shuffle: boolean;
   cleanQuestion: boolean; // Tùy chọn mới: Xóa "Câu X."
+  selectedBai: string; // ID bài được chọn
 }
 
-type GameState = "loading" | "menu" | "playing" | "result";
+type GameState = "loading" | "selecting" | "menu" | "playing" | "result";
 
 interface UserHistory {
   questionIndex: number;
@@ -49,6 +57,7 @@ const cleanText = (text: string) => {
 export default function Home() {
   const [allQuestions, setAllQuestions] = useState<Question[]>([]);
   const [gameState, setGameState] = useState<GameState>("loading");
+  const [availableBai, setAvailableBai] = useState<Bai[]>([]);
   
   // Cấu hình mặc định
   const [settings, setSettings] = useState<Settings>({
@@ -56,6 +65,7 @@ export default function Home() {
     limit: 10,
     shuffle: true,
     cleanQuestion: true, // Mặc định bật chế độ làm sạch
+    selectedBai: "", // Sẽ được set khi load xong
   });
 
   const [currentQuestions, setCurrentQuestions] = useState<Question[]>([]);
@@ -65,9 +75,28 @@ export default function Home() {
   const [isChecking, setIsChecking] = useState(false);
   const [selectedTemp, setSelectedTemp] = useState<string | null>(null);
 
-  // 1. Load file CSV
+  // 1. Load danh sách các bài từ manifest.json
   useEffect(() => {
-    fetch("/data.csv")
+    fetch("/bank/manifest.json")
+      .then((res) => res.json())
+      .then((baiList: Bai[]) => {
+        setAvailableBai(baiList);
+        setSettings(prev => ({ ...prev, selectedBai: baiList[0]?.id || "" }));
+        setGameState("selecting");
+      })
+      .catch((err) => {
+        console.error("Không thể load danh sách bài:", err);
+        alert("Lỗi khi tải danh sách bài học!");
+      });
+  }, []);
+
+  // 2. Load file CSV khi chọn bài
+  const loadBai = (baiId: string) => {
+    const bai = availableBai.find(b => b.id === baiId);
+    if (!bai) return;
+
+    setGameState("loading");
+    fetch(bai.file)
       .then((res) => res.text())
       .then((csvText) => {
         Papa.parse(csvText, {
@@ -76,14 +105,18 @@ export default function Home() {
           complete: (result: any) => {
             const validData = result.data.filter((q: any) => q["câu hỏi"]);
             setAllQuestions(validData);
-            setSettings(prev => ({ ...prev, limit: validData.length }));
+            setSettings(prev => ({ ...prev, limit: validData.length, selectedBai: baiId }));
             setGameState("menu");
           },
         });
+      })
+      .catch(() => {
+        alert("Không thể tải bài học. Vui lòng thử lại!");
+        setGameState("selecting");
       });
-  }, []);
+  };
 
-  // 2. Bắt đầu game
+  // 3. Bắt đầu game
   const startGame = () => {
     let questionsToPlay = [...allQuestions];
 
@@ -104,7 +137,7 @@ export default function Home() {
     setGameState("playing");
   };
 
-  // 3. Xử lý đáp án
+  // 4. Xử lý đáp án
   const handleAnswer = (key: string) => {
     if (isChecking) return;
 
@@ -149,12 +182,56 @@ export default function Home() {
     return <div className="flex h-screen items-center justify-center text-xl text-gray-600 font-medium">Đang tải dữ liệu...</div>;
   }
 
+  // UI: SELECTING - Chọn bài học
+  if (gameState === "selecting") {
+    return (
+      <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
+        <div className="w-full max-w-2xl rounded-2xl bg-white p-8 shadow-2xl border border-gray-100">
+          <div className="text-center mb-8">
+            <h1 className="text-4xl font-extrabold text-blue-600 mb-2">Trắc Nghiệm Y Khoa</h1>
+            <p className="text-gray-500">Chọn bài học để bắt đầu luyện tập</p>
+          </div>
+          
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {availableBai.map((bai) => (
+              <button
+                key={bai.id}
+                onClick={() => loadBai(bai.id)}
+                className="group relative rounded-xl border-2 border-gray-200 bg-white p-6 text-left transition-all hover:border-blue-500 hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]"
+              >
+                <div className="flex items-center gap-3">
+                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-blue-100 text-2xl group-hover:bg-blue-500 transition-colors">
+                    📚
+                  </div>
+                  <div className="flex-1">
+                    <h3 className="text-lg font-bold text-gray-800 group-hover:text-blue-600 transition-colors">
+                      {bai.name}
+                    </h3>
+                    <p className="text-sm text-gray-500">Nhấn để chọn</p>
+                  </div>
+                </div>
+              </button>
+            ))}
+          </div>
+        </div>
+      </main>
+    );
+  }
+
   // UI: MENU
   if (gameState === "menu") {
+    const currentBai = availableBai.find(b => b.id === settings.selectedBai);
     return (
       <main className="flex min-h-screen flex-col items-center justify-center bg-gray-50 p-4">
         <div className="w-full max-w-md rounded-xl bg-white p-8 shadow-xl border border-gray-100">
-          <h1 className="mb-6 text-center text-3xl font-extrabold text-blue-600 tracking-tight">Trắc Nghiệm Y Khoa</h1>
+          <div className="mb-6">
+            <h1 className="text-center text-3xl font-extrabold text-blue-600 tracking-tight">Trắc Nghiệm Y Khoa</h1>
+            <div className="mt-3 text-center">
+              <span className="inline-flex items-center gap-2 rounded-full bg-blue-100 px-4 py-2 text-sm font-bold text-blue-700">
+                📚 {currentBai?.name || "Đang chọn..."}
+              </span>
+            </div>
+          </div>
           
           <div className="space-y-6">
             {/* Mode */}
@@ -219,12 +296,20 @@ export default function Home() {
                 </label>
             </div>
 
-            <button
-              onClick={startGame}
-              className="w-full rounded-xl bg-gradient-to-r from-blue-600 to-blue-700 py-4 text-lg font-bold text-white shadow-lg transition transform hover:scale-[1.02] hover:shadow-xl active:scale-[0.98]"
-            >
-              Vào thi ngay
-            </button>
+            <div className="flex gap-3">
+              <button
+                onClick={() => setGameState("selecting")}
+                className="rounded-xl bg-gray-100 px-6 py-4 text-sm font-bold text-gray-700 hover:bg-gray-200 transition"
+              >
+                ← Chọn bài khác
+              </button>
+              <button
+                onClick={startGame}
+                className="flex-1 rounded-xl bg-gradient-to-r from-blue-600 to-blue-700 py-4 text-lg font-bold text-white shadow-lg transition transform hover:scale-[1.02] hover:shadow-xl active:scale-[0.98]"
+              >
+                Vào thi ngay
+              </button>
+            </div>
           </div>
         </div>
       </main>

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ho-hap",
+    "name": "Hô Hấp",
+    "file": "/bank/bai-ho-hap.csv"
+  },
+  {
+    "id": "tim-mach",
+    "name": "Tim Mạch",
+    "file": "/bank/bai-tim-mach.csv"
+  },
+  {
+    "id": "tieu-hoa",
+    "name": "Tiêu Hóa",
+    "file": "/bank/bai-tieu-hoa.csv"
+  },
+  {
+    "id": "than-kinh",
+    "name": "Thần Kinh",
+    "file": "/bank/bai-than-kinh.csv"
+  },
+  {
+    "id": "noi-tiet-1",
+    "name": "Nội Tiết 1",
+    "file": "/bank/bai-noi-tiet.csv"
+  },
+  {
+    "id": "noi-tiet-2",
+    "name": "Nội Tiết 2 - Cận Lâm Sàng",
+    "file": "/bank/TN_Lam_sang_Can_lam_sang_Noi_tiet.csv"
+  },
+  {
+    "id": "data",
+    "name": "Hô Hấp (Bài cũ)",
+    "file": "/bank/data.csv"
+  }
+]
