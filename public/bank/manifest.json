@@ -63,6 +63,11 @@
         "id": "Trac_nghiem_Hoi_chung_Thieu_mau",
         "name": "Trắc Nghiệm Hội Chứng Thiếu Máu",
         "file": "/bank/Trac_nghiem_Hoi_chung_Thieu_mau.csv"
+    },
+    {
+        "id": "trac-nghiem-trieu-chung-tieu-hoa",
+        "name": "Trắc Nghiệm Triệu Chứng Tiêu Hóa",
+        "file": "/bank/Trac_nghiem_Trieu_chung_Tieu_hoa.csv"
     }
 
 ]
