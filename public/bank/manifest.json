@@ -33,5 +33,15 @@
     "id": "data",
     "name": "Hô Hấp (Bài cũ)",
     "file": "/bank/data.csv"
-  }
+  },
+  {
+      "id": "trac-nghiem-trieu-chung-ho-hap",
+      "name": "Trắc Nghiệm Triệu Chứng Hô Hấp",
+      "file": "/bank/Trac_nghiem_Trieu_chung_Ho_hap.csv"
+    },
+    {
+        "id": "trac-nghiem-trieu-chung-tim-mach",
+        "name": "Trắc Nghiệm Triệu Chứng Tim Mạch",
+        "file": "/bank/Trac_nghiem_Trieu_chung_Tim_mach.csv"
+    }
 ]
