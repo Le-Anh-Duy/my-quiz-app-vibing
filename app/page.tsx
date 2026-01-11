@@ -506,21 +506,52 @@ export default function Home() {
                       <div className="flex-1">
                         <p className="font-semibold text-gray-800 text-lg mb-3">{renderQuestionText(q["câu hỏi"])}</p>
                         
-                        <div className="space-y-2 text-sm">
-                          {/* Nếu sai thì hiện câu đã chọn */}
-                          {!isCorrect && userChoice && (
-                             <div className="flex items-start gap-2 text-red-600 bg-red-100/50 p-2 rounded">
-                               <span className="font-bold whitespace-nowrap">❌ Bạn chọn:</span> 
-                               <span>{userChoice.toUpperCase()}. {getOptionContent(userChoice)}</span>
-                             </div>
-                          )}
-                          
-                          {/* Luôn hiện đáp án đúng */}
-                          <div className="flex items-start gap-2 text-green-700 bg-green-50 p-2 rounded">
-                            <span className="font-bold whitespace-nowrap">✅ Đáp án:</span> 
-                            <span>{correctKey.toUpperCase()}. {getOptionContent(correctKey)}</span>
-                          </div>
+                        <div className="flex flex-col gap-2">
+                          {["a", "b", "c", "d"].map((key) => {
+                            // @ts-ignore
+                            const content = q[`đáp án ${key}`];
+                            const isSelected = userChoice === key;
+                            const isThisCorrect = correctKey === key;
+                            
+                            let optionClass = "border-gray-200 bg-gray-50 text-gray-500";
+                            
+                            if (isThisCorrect) {
+                              optionClass = "border-green-500 bg-green-50 text-green-800 font-bold ring-1 ring-green-500";
+                            } else if (isSelected) {
+                              // Nếu chọn sai thì tô đỏ
+                              optionClass = "border-red-500 bg-red-50 text-red-800 font-medium";
+                            }
+
+                            return (
+                              <div 
+                                key={key} 
+                                className={`flex items-start rounded-lg border p-3 text-sm transition-all ${optionClass} ${!isThisCorrect && !isSelected ? "opacity-70" : ""}`}
+                              >
+                                <span className={`mr-3 mt-0.5 flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full border text-[10px] font-bold uppercase ${
+                                  isThisCorrect 
+                                  ? "bg-green-500 text-white border-green-500"
+                                  : isSelected 
+                                  ? "bg-red-500 text-white border-red-500"
+                                  : "bg-white text-gray-400 border-gray-300"
+                                }`}>
+                                  {key}
+                                </span>
+                                <div>
+                                  {content}
+                                  {isThisCorrect && <span className="ml-2 text-xs font-bold text-green-600">✓ Đáp án đúng</span>}
+                                  {isSelected && !isThisCorrect && <span className="ml-2 text-xs font-bold text-red-600">✗ Bạn chọn</span>}
+                                </div>
+                              </div>
+                            );
+                          })}
                         </div>
+                        
+                        {/* Hiển thị thêm dòng thông báo kết quả rõ ràng hơn nếu làm sai */}
+                        {!isCorrect && (
+                          <div className="mt-3 rounded bg-blue-50 p-2 text-sm text-blue-800">
+                             👉 Đáp án đúng là: <strong>{correctKey?.toUpperCase()}</strong>
+                          </div>
+                        )}
                       </div>
                     </div>
                   </div>
