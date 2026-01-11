@@ -43,5 +43,26 @@
         "id": "trac-nghiem-trieu-chung-tim-mach",
         "name": "Trắc Nghiệm Triệu Chứng Tim Mạch",
         "file": "/bank/Trac_nghiem_Trieu_chung_Tim_mach.csv"
+    },
+    {
+        "id": "On_tap_Can_lam_sang_Tim_mach",
+        "name": "Trắc Nghiệm cận lâm sàng Tim Mạch",
+        "file": "/bank/On_tap_Can_lam_sang_Tim_mach.csv"
+    },
+    {
+        "id": "On_tap_Can_lam_sang_Ho_hap",
+        "name": "Trắc Nghiệm cận lâm sàng Hô Hấp",
+        "file": "/bank/Trac_nghiem_CLS_Ho_hap.csv"
+    },
+    {
+        "id": "Trac_nghiem_Hoi_chung_Xuat_huyet",
+        "name": "Trắc Nghiệm Hội Chứng Xuất Huyết",
+        "file": "/bank/Trac_nghiem_Hoi_chung_Xuat_huyet.csv"
+    },
+    {
+        "id": "Trac_nghiem_Hoi_chung_Thieu_mau",
+        "name": "Trắc Nghiệm Hội Chứng Thiếu Máu",
+        "file": "/bank/Trac_nghiem_Hoi_chung_Thieu_mau.csv"
     }
+
 ]
