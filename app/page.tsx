@@ -74,6 +74,7 @@ export default function Home() {
   const [history, setHistory] = useState<UserHistory[]>([]);
   const [isChecking, setIsChecking] = useState(false);
   const [selectedTemp, setSelectedTemp] = useState<string | null>(null);
+  const [showExplanation, setShowExplanation] = useState(false); // Hiển thị đáp án đúng
 
   // 1. Load danh sách các bài từ manifest.json
   useEffect(() => {
@@ -134,6 +135,7 @@ export default function Home() {
     setHistory([]);
     setIsChecking(false);
     setSelectedTemp(null);
+    setShowExplanation(false); // Reset
     setGameState("playing");
   };
 
@@ -153,14 +155,18 @@ export default function Home() {
     if (settings.mode === "instant") {
       setSelectedTemp(key);
       setIsChecking(true);
-      setTimeout(() => {
-        goToNextQuestion();
-        setIsChecking(false);
-        setSelectedTemp(null);
-      }, 1200);
+      // Không tự động chuyển câu nữa, để user tự click "Tiếp theo"
     } else {
       goToNextQuestion();
     }
+  };
+
+  // Hàm chuyển sang câu tiếp theo (cho chế độ instant)
+  const handleNextQuestion = () => {
+    goToNextQuestion();
+    setIsChecking(false);
+    setSelectedTemp(null);
+    setShowExplanation(false); // Reset trạng thái hiển thị giải thích
   };
 
   const goToNextQuestion = () => {
@@ -390,6 +396,47 @@ export default function Home() {
                 );
               })}
             </div>
+
+            {/* Hiển thị giải thích và nút tiếp theo (chế độ luyện tập) */}
+            {settings.mode === "instant" && isChecking && (
+              <div className="mt-6 space-y-4">
+                {/* Giải thích - chỉ hiện khi bấm xem */}
+                {showExplanation && (
+                  <div className={`rounded-lg border-2 p-4 ${selectedTemp === correctKey ? 'border-green-500 bg-green-50' : 'border-red-500 bg-red-50'}`}>
+                    <div className="space-y-3">
+                      {selectedTemp !== correctKey && (
+                        <div className="flex items-start gap-2">
+                          <span className="text-red-600 font-bold text-sm">❌ Bạn đã chọn:</span>
+                          <span className="text-red-700 font-medium">{selectedTemp?.toUpperCase()}. {q[`đáp án ${selectedTemp}` as keyof Question]}</span>
+                        </div>
+                      )}
+                      <div className="flex items-start gap-2">
+                        <span className="text-green-700 font-bold text-sm">✅ Đáp án đúng:</span>
+                        <span className="text-green-800 font-medium">{correctKey.toUpperCase()}. {q[`đáp án ${correctKey}` as keyof Question]}</span>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
+                {/* 2 nút song song */}
+                <div className="grid grid-cols-2 gap-3">
+                  {!showExplanation && (
+                    <button
+                      onClick={() => setShowExplanation(true)}
+                      className="rounded-lg border-2 border-blue-500 bg-blue-50 py-4 text-base font-bold text-blue-700 transition hover:bg-blue-100 active:scale-[0.98]"
+                    >
+                      👁️ Xem đáp án
+                    </button>
+                  )}
+                  <button
+                    onClick={handleNextQuestion}
+                    className={`rounded-lg bg-blue-600 py-4 text-base font-bold text-white shadow-lg transition hover:bg-blue-700 hover:shadow-xl active:scale-[0.98] ${!showExplanation ? '' : 'col-span-2'}`}
+                  >
+                    {currentQIndex < currentQuestions.length - 1 ? "➡️ Câu tiếp theo" : "🏁 Xem kết quả"}
+                  </button>
+                </div>
+              </div>
+            )}
           </div>
         </div>
       </main>
