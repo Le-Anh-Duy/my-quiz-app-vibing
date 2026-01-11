@@ -366,8 +366,16 @@ export default function Home() {
                 let btnClass = "border-gray-200 hover:bg-blue-50 hover:border-blue-300 text-gray-700";
                 
                 if (settings.mode === "instant" && isChecking) {
+                  // Logic mới: Chỉ hiện màu xanh (đúng) nếu đã bấm "Xem đáp án" HOẶC người dùng đã chọn đúng
+                  const shouldRevealCorrect = showExplanation || selectedTemp === correctKey;
+
                   if (option.key === correctKey) {
-                    btnClass = "bg-green-100 border-green-500 text-green-800 font-bold ring-1 ring-green-500";
+                    if (shouldRevealCorrect) {
+                       btnClass = "bg-green-100 border-green-500 text-green-800 font-bold ring-1 ring-green-500";
+                    } else {
+                       // Nếu chưa muốn reveal thì làm mờ đi như các câu khác
+                       btnClass = "opacity-40 border-gray-100";
+                    }
                   } else if (option.key === selectedTemp) {
                     btnClass = "bg-red-100 border-red-500 text-red-800 font-medium";
                   } else {
@@ -383,7 +391,7 @@ export default function Home() {
                     className={`group relative flex items-start rounded-lg border-2 p-4 text-left transition-all active:scale-[0.98] ${btnClass}`}
                   >
                     <span className={`mr-4 mt-0.5 flex h-7 w-7 flex-shrink-0 items-center justify-center rounded-full border text-xs font-bold uppercase ${
-                       settings.mode === "instant" && isChecking && option.key === correctKey 
+                       settings.mode === "instant" && isChecking && option.key === correctKey && (showExplanation || selectedTemp === correctKey)
                        ? "bg-green-500 text-white border-green-500" 
                        : settings.mode === "instant" && isChecking && option.key === selectedTemp
                        ? "bg-red-500 text-white border-red-500"
