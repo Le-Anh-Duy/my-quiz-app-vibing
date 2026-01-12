@@ -68,6 +68,11 @@
         "id": "trac-nghiem-trieu-chung-tieu-hoa",
         "name": "Trắc Nghiệm Triệu Chứng Tiêu Hóa",
         "file": "/bank/Trac_nghiem_Trieu_chung_Tieu_hoa.csv"
+    },
+    {
+        "id": "Ngan_hang_cau_hoi_Noi_Co_so",
+        "name": "Ngân Hàng Câu Hỏi Nội Cơ Sở",
+        "file": "/bank/Ngan_hang_cau_hoi_Noi_Co_so.csv"
     }
 
 ]
