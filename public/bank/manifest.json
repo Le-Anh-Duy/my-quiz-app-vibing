@@ -2,77 +2,110 @@
   {
     "id": "ho-hap",
     "name": "Hô Hấp",
-    "file": "/bank/bai-ho-hap.csv"
+    "file": "/bank/bai-ho-hap.csv",
+    "updatedAt": "2023-01-01"
   },
   {
     "id": "tim-mach",
     "name": "Tim Mạch",
-    "file": "/bank/bai-tim-mach.csv"
+    "file": "/bank/bai-tim-mach.csv",
+    "updatedAt": "2023-01-01"
   },
   {
     "id": "tieu-hoa",
     "name": "Tiêu Hóa",
-    "file": "/bank/bai-tieu-hoa.csv"
+    "file": "/bank/bai-tieu-hoa.csv",
+    "updatedAt": "2023-01-01"
   },
   {
     "id": "than-kinh",
     "name": "Thần Kinh",
-    "file": "/bank/bai-than-kinh.csv"
+    "file": "/bank/bai-than-kinh.csv",
+    "updatedAt": "2023-01-01"
   },
   {
     "id": "noi-tiet-1",
     "name": "Nội Tiết 1",
-    "file": "/bank/bai-noi-tiet.csv"
+    "file": "/bank/bai-noi-tiet.csv",
+    "updatedAt": "2023-01-01"
   },
   {
     "id": "noi-tiet-2",
     "name": "Nội Tiết 2 - Cận Lâm Sàng",
-    "file": "/bank/TN_Lam_sang_Can_lam_sang_Noi_tiet.csv"
+    "file": "/bank/TN_Lam_sang_Can_lam_sang_Noi_tiet.csv",
+    "updatedAt": "2023-01-01"
   },
   {
     "id": "data",
     "name": "Hô Hấp (Bài cũ)",
-    "file": "/bank/data.csv"
+    "file": "/bank/data.csv",
+    "updatedAt": "2022-01-01"
   },
   {
       "id": "trac-nghiem-trieu-chung-ho-hap",
       "name": "Trắc Nghiệm Triệu Chứng Hô Hấp",
-      "file": "/bank/Trac_nghiem_Trieu_chung_Ho_hap.csv"
+      "file": "/bank/Trac_nghiem_Trieu_chung_Ho_hap.csv",
+      "updatedAt": "2023-01-01"
     },
     {
         "id": "trac-nghiem-trieu-chung-tim-mach",
         "name": "Trắc Nghiệm Triệu Chứng Tim Mạch",
-        "file": "/bank/Trac_nghiem_Trieu_chung_Tim_mach.csv"
+        "file": "/bank/Trac_nghiem_Trieu_chung_Tim_mach.csv",
+        "updatedAt": "2023-01-01"
     },
     {
         "id": "On_tap_Can_lam_sang_Tim_mach",
         "name": "Trắc Nghiệm cận lâm sàng Tim Mạch",
-        "file": "/bank/On_tap_Can_lam_sang_Tim_mach.csv"
+        "file": "/bank/On_tap_Can_lam_sang_Tim_mach.csv",
+        "updatedAt": "2023-01-01"
     },
     {
         "id": "On_tap_Can_lam_sang_Ho_hap",
         "name": "Trắc Nghiệm cận lâm sàng Hô Hấp",
-        "file": "/bank/Trac_nghiem_CLS_Ho_hap.csv"
+        "file": "/bank/Trac_nghiem_CLS_Ho_hap.csv",
+        "updatedAt": "2023-01-01"
     },
     {
         "id": "Trac_nghiem_Hoi_chung_Xuat_huyet",
         "name": "Trắc Nghiệm Hội Chứng Xuất Huyết",
-        "file": "/bank/Trac_nghiem_Hoi_chung_Xuat_huyet.csv"
+        "file": "/bank/Trac_nghiem_Hoi_chung_Xuat_huyet.csv",
+        "updatedAt": "2023-01-01"
     },
     {
         "id": "Trac_nghiem_Hoi_chung_Thieu_mau",
         "name": "Trắc Nghiệm Hội Chứng Thiếu Máu",
-        "file": "/bank/Trac_nghiem_Hoi_chung_Thieu_mau.csv"
+        "file": "/bank/Trac_nghiem_Hoi_chung_Thieu_mau.csv",
+        "updatedAt": "2023-01-01"
     },
     {
         "id": "trac-nghiem-trieu-chung-tieu-hoa",
         "name": "Trắc Nghiệm Triệu Chứng Tiêu Hóa",
-        "file": "/bank/Trac_nghiem_Trieu_chung_Tieu_hoa.csv"
+        "file": "/bank/Trac_nghiem_Trieu_chung_Tieu_hoa.csv",
+        "updatedAt": "2023-01-01"
     },
     {
         "id": "Ngan_hang_cau_hoi_Noi_Co_so",
         "name": "Ngân Hàng Câu Hỏi Nội Cơ Sở",
-        "file": "/bank/Ngan_hang_cau_hoi_Noi_Co_so.csv"
+        "file": "/bank/Ngan_hang_cau_hoi_Noi_Co_so.csv",
+        "updatedAt": "2023-01-01"
+    },
+    {
+      "id": "mo-phoi-rang-mieng",
+      "name": "Mô Phôi Răng Miệng",
+      "file": "/bank/mo-phoi-rang-mieng.csv",
+      "updatedAt": "2026-03-30"
+    },
+    {
+      "id": "mo-phong-lam-sang",
+      "name": "Mô Phỏng Lâm Sàng",
+      "file": "/bank/mo-phong-lam-sang.csv",
+      "updatedAt": "2026-03-30"
+    },
+    {
+      "id": "can-khop-hoc",
+      "name": "Cắn Khớp Học",
+      "file": "/bank/can-khop-hoc.csv",
+      "updatedAt": "2026-03-30"
     }
 
 ]

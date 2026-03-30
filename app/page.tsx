@@ -18,6 +18,7 @@ interface Bai {
   id: string;
   name: string;
   file: string;
+  updatedAt?: string;
   questionCount?: number;
 }
 
@@ -54,10 +55,33 @@ const cleanText = (text: string) => {
   return text.replace(/^(Câu|câu)\s+\d+[:.]\s*/, "").trim();
 };
 
+const RECENT_DAYS = 30;
+const DAY_MS = 24 * 60 * 60 * 1000;
+
+const parseDateMs = (dateValue?: string) => {
+  if (!dateValue) return Number.NaN;
+  const ms = Date.parse(dateValue);
+  return Number.isNaN(ms) ? Number.NaN : ms;
+};
+
+const isRecentQuestionSet = (dateValue?: string) => {
+  const ms = parseDateMs(dateValue);
+  if (Number.isNaN(ms)) return false;
+  const now = Date.now();
+  return now >= ms && now - ms <= RECENT_DAYS * DAY_MS;
+};
+
+const formatUpdatedDate = (dateValue?: string) => {
+  const ms = parseDateMs(dateValue);
+  if (Number.isNaN(ms)) return "Chưa có ngày cập nhật";
+  return new Date(ms).toLocaleDateString("vi-VN");
+};
+
 export default function Home() {
   const [allQuestions, setAllQuestions] = useState<Question[]>([]);
   const [gameState, setGameState] = useState<GameState>("loading");
   const [availableBai, setAvailableBai] = useState<Bai[]>([]);
+  const [searchTerm, setSearchTerm] = useState("");
   
   // Cấu hình mặc định
   const [settings, setSettings] = useState<Settings>({
@@ -190,34 +214,104 @@ export default function Home() {
 
   // UI: SELECTING - Chọn bài học
   if (gameState === "selecting") {
+    const keyword = searchTerm.trim().toLowerCase();
+    const filteredBai = availableBai.filter((bai) => {
+      if (!keyword) return true;
+      return bai.name.toLowerCase().includes(keyword) || bai.id.toLowerCase().includes(keyword);
+    });
+
+    const newQuestionBai = filteredBai
+      .filter((bai) => isRecentQuestionSet(bai.updatedAt))
+      .sort((a, b) => parseDateMs(b.updatedAt) - parseDateMs(a.updatedAt));
+
+    const allQuestionBai = [...filteredBai].sort((a, b) => a.name.localeCompare(b.name, "vi"));
+
+    const renderBaiCard = (bai: Bai, highlightNew: boolean) => (
+      <button
+        key={bai.id}
+        onClick={() => loadBai(bai.id)}
+        className={`group relative rounded-xl border-2 p-5 text-left transition-all hover:shadow-lg hover:scale-[1.01] active:scale-[0.98] ${
+          highlightNew
+            ? "border-emerald-200 bg-emerald-50/40 hover:border-emerald-400"
+            : "border-gray-200 bg-white hover:border-blue-500"
+        }`}
+      >
+        <div className="flex items-start gap-3">
+          <div className={`flex h-11 w-11 items-center justify-center rounded-full text-xl transition-colors ${highlightNew ? "bg-emerald-100" : "bg-blue-100 group-hover:bg-blue-500"}`}>
+            📚
+          </div>
+          <div className="flex-1">
+            <div className="flex items-center justify-between gap-2">
+              <h3 className={`text-base font-bold transition-colors ${highlightNew ? "text-emerald-800" : "text-gray-800 group-hover:text-blue-600"}`}>
+                {bai.name}
+              </h3>
+              {highlightNew && (
+                <span className="rounded-full bg-emerald-500 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white">
+                  Mới
+                </span>
+              )}
+            </div>
+            <p className="mt-1 text-xs text-gray-500">Cập nhật: {formatUpdatedDate(bai.updatedAt)}</p>
+          </div>
+        </div>
+      </button>
+    );
+
     return (
       <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
-        <div className="w-full max-w-2xl rounded-2xl bg-white p-8 shadow-2xl border border-gray-100">
-          <div className="text-center mb-8">
+        <div className="w-full max-w-5xl rounded-2xl bg-white p-6 shadow-2xl border border-gray-100 md:p-8">
+          <div className="text-center mb-6">
             <h1 className="text-4xl font-extrabold text-blue-600 mb-2">Trắc Nghiệm Y Khoa</h1>
             <p className="text-gray-500">Chọn bài học để bắt đầu luyện tập</p>
           </div>
-          
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            {availableBai.map((bai) => (
-              <button
-                key={bai.id}
-                onClick={() => loadBai(bai.id)}
-                className="group relative rounded-xl border-2 border-gray-200 bg-white p-6 text-left transition-all hover:border-blue-500 hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="flex h-12 w-12 items-center justify-center rounded-full bg-blue-100 text-2xl group-hover:bg-blue-500 transition-colors">
-                    📚
-                  </div>
-                  <div className="flex-1">
-                    <h3 className="text-lg font-bold text-gray-800 group-hover:text-blue-600 transition-colors">
-                      {bai.name}
-                    </h3>
-                    <p className="text-sm text-gray-500">Nhấn để chọn</p>
-                  </div>
+
+          <div className="mb-6">
+            <input
+              type="text"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Tìm theo tên bộ câu hỏi..."
+              className="w-full rounded-xl border border-gray-300 px-4 py-3 text-sm text-gray-700 outline-none ring-0 transition focus:border-blue-500 focus:shadow-sm"
+            />
+          </div>
+
+          <div className="space-y-8">
+            <section>
+              <div className="mb-3 flex items-center justify-between">
+                <h2 className="text-lg font-bold text-emerald-700">New Questions</h2>
+                <span className="text-xs font-semibold text-emerald-700 bg-emerald-100 rounded-full px-3 py-1">
+                  {newQuestionBai.length} bộ trong {RECENT_DAYS} ngày
+                </span>
+              </div>
+              {newQuestionBai.length > 0 ? (
+                <div className="grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3">
+                  {newQuestionBai.map((bai) => renderBaiCard(bai, true))}
                 </div>
-              </button>
-            ))}
+              ) : (
+                <div className="rounded-xl border border-dashed border-emerald-300 bg-emerald-50/40 p-4 text-sm text-emerald-700">
+                  Không có bộ câu hỏi mới trong 30 ngày gần đây.
+                </div>
+              )}
+            </section>
+
+            <section>
+              <div className="mb-3 flex items-center justify-between">
+                <h2 className="text-lg font-bold text-gray-800">All Questions</h2>
+                <span className="text-xs font-semibold text-gray-600 bg-gray-100 rounded-full px-3 py-1">
+                  {allQuestionBai.length} bộ câu hỏi
+                </span>
+              </div>
+
+              {allQuestionBai.length > 0 ? (
+                <div className="grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3">
+                  {allQuestionBai.map((bai) => renderBaiCard(bai, false))}
+                </div>
+              ) : (
+                <div className="rounded-xl border border-dashed border-gray-300 bg-gray-50 p-4 text-sm text-gray-600">
+                  Không tìm thấy bộ câu hỏi phù hợp với từ khóa.
+                </div>
+              )}
+            </section>
           </div>
         </div>
       </main>
