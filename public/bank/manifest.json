@@ -106,6 +106,12 @@
       "name": "Cắn Khớp Học",
       "file": "/bank/can-khop-hoc.csv",
       "updatedAt": "2026-03-30"
+    },
+    {
+      "id": "ngan-hang-de-thi-tu-the-va-thiet-bi-nha-khoa",
+      "name": "Bài 21 SỰ HÌNH THÀNH - PHÁT TRIỂN CỦA MẦM RĂNG",
+      "file": "/bank/ngan_hang_de_thi_chuyen_sau_tu_the_thuc_hanh_lam_sang_va_quan_ly_trang_thiet_bi_nha_khoa.csv",
+      "updatedAt": "2026-04-12"
     }
 
 ]
