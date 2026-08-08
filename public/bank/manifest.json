@@ -112,6 +112,84 @@
       "name": "Bài 21 SỰ HÌNH THÀNH - PHÁT TRIỂN CỦA MẦM RĂNG",
       "file": "/bank/ngan_hang_de_thi_chuyen_sau_tu_the_thuc_hanh_lam_sang_va_quan_ly_trang_thiet_bi_nha_khoa.csv",
       "updatedAt": "2026-04-12"
+    },
+    {
+      "id": "benh-tuyen-giap",
+      "name": "Bệnh Tuyến Giáp (GPB)",
+      "file": "/bank/benh-tuyen-giap.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "benh-da-day",
+      "name": "Bệnh Dạ Dày (GPB)",
+      "file": "/bank/benh-da-day.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "benh-gan-duong-mat",
+      "name": "Bệnh Gan & Đường Mật (GPB)",
+      "file": "/bank/benh-gan-duong-mat.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "benh-ly-tu-cung",
+      "name": "Bệnh Lý Tử Cung (GPB)",
+      "file": "/bank/benh-ly-tu-cung.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "benh-phoi",
+      "name": "Bệnh Phổi (GPB)",
+      "file": "/bank/benh-phoi.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "benh-ruot-non-dai-trang",
+      "name": "Bệnh Ruột Non & Đại Tràng (GPB)",
+      "file": "/bank/benh-ruot-non-dai-trang.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "benh-hach-lympho",
+      "name": "Bệnh Hạch Lymphô (GPB)",
+      "file": "/bank/benh-hach-lympho.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "gioi-thieu-mon-gpb",
+      "name": "Giới Thiệu Môn GPB",
+      "file": "/bank/gioi-thieu-mon-gpb.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "ton-thuong-roi-loan-tuan-hoan",
+      "name": "Tổn Thương Do Rối Loạn Tuần Hoàn (GPB)",
+      "file": "/bank/ton-thuong-roi-loan-tuan-hoan.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "ton-thuong-te-bao-mo",
+      "name": "Tổn Thương Tế Bào & Mô (GPB)",
+      "file": "/bank/ton-thuong-te-bao-mo.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "u-buong-trung",
+      "name": "U Buồng Trứng (GPB)",
+      "file": "/bank/u-buong-trung.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "u-tuyen-vu",
+      "name": "U Tuyến Vú (GPB)",
+      "file": "/bank/u-tuyen-vu.csv",
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "u-lanh-tinh-ung-thu",
+      "name": "U Lành Tính & Ung Thư (GPB)",
+      "file": "/bank/u-lanh-tinh-ung-thu.csv",
+      "updatedAt": "2026-08-08"
     }
 
 ]
