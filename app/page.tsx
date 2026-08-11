@@ -30,7 +30,7 @@ interface Settings {
   selectedBai: string; // ID bài được chọn
 }
 
-type GameState = "loading" | "selecting" | "menu" | "playing" | "result";
+type GameState = "loading" | "selecting" | "combo-select" | "menu" | "playing" | "result";
 
 interface UserHistory {
   questionIndex: number;
@@ -77,11 +77,61 @@ const formatUpdatedDate = (dateValue?: string) => {
   return new Date(ms).toLocaleDateString("vi-VN");
 };
 
+// Bộ bài mặc định cho đề tổng hợp (các bài GPB đã gửi)
+const DEFAULT_COMBO_IDS = [
+  "benh-tuyen-giap",
+  "ton-thuong-roi-loan-tuan-hoan",
+  "gioi-thieu-mon-gpb",
+  "benh-ruot-non-dai-trang",
+  "benh-phoi",
+  "benh-gan-duong-mat",
+  "u-lanh-tinh-ung-thu",
+  "benh-ly-tu-cung",
+  "u-tuyen-vu",
+  "u-buong-trung",
+  "benh-hach-lympho",
+  "ton-thuong-te-bao-mo",
+  "benh-da-day",
+];
+
+// Trộn từng bài rồi rải xoay vòng để câu hỏi giữa các bài được rải đều nhau
+const interleaveBalanced = (buckets: Question[][]) => {
+  const shuffledBuckets = buckets.map(shuffleArray);
+  const maxLen = Math.max(0, ...shuffledBuckets.map((b) => b.length));
+  const result: Question[] = [];
+  for (let i = 0; i < maxLen; i++) {
+    for (const bucket of shuffledBuckets) {
+      if (i < bucket.length) result.push(bucket[i]);
+    }
+  }
+  return result;
+};
+
+const fetchBaiQuestions = (bai: Bai): Promise<Question[]> =>
+  fetch(bai.file)
+    .then((res) => res.text())
+    .then(
+      (csvText) =>
+        new Promise<Question[]>((resolve) => {
+          Papa.parse(csvText, {
+            header: true,
+            skipEmptyLines: true,
+            complete: (result: any) => {
+              resolve(result.data.filter((q: any) => q["câu hỏi"]));
+            },
+          });
+        })
+    );
+
 export default function Home() {
   const [allQuestions, setAllQuestions] = useState<Question[]>([]);
   const [gameState, setGameState] = useState<GameState>("loading");
   const [availableBai, setAvailableBai] = useState<Bai[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
+  const [comboMode, setComboMode] = useState(false);
+  const [comboSelectedIds, setComboSelectedIds] = useState<string[]>(DEFAULT_COMBO_IDS);
+  const [comboSearch, setComboSearch] = useState("");
+  const [comboBaiNames, setComboBaiNames] = useState<string[]>([]);
   
   // Cấu hình mặc định
   const [settings, setSettings] = useState<Settings>({
@@ -121,19 +171,12 @@ export default function Home() {
     if (!bai) return;
 
     setGameState("loading");
-    fetch(bai.file)
-      .then((res) => res.text())
-      .then((csvText) => {
-        Papa.parse(csvText, {
-          header: true,
-          skipEmptyLines: true,
-          complete: (result: any) => {
-            const validData = result.data.filter((q: any) => q["câu hỏi"]);
-            setAllQuestions(validData);
-            setSettings(prev => ({ ...prev, limit: validData.length, selectedBai: baiId }));
-            setGameState("menu");
-          },
-        });
+    fetchBaiQuestions(bai)
+      .then((validData) => {
+        setComboMode(false);
+        setAllQuestions(validData);
+        setSettings(prev => ({ ...prev, limit: validData.length, selectedBai: baiId }));
+        setGameState("menu");
       })
       .catch(() => {
         alert("Không thể tải bài học. Vui lòng thử lại!");
@@ -141,16 +184,42 @@ export default function Home() {
       });
   };
 
+  // 2b. Gộp nhiều bài thành một đề tổng hợp (chỉ tồn tại trong phiên này, không lưu lại)
+  const loadCombo = (ids: string[]) => {
+    const selected = availableBai.filter((b) => ids.includes(b.id));
+    if (selected.length === 0) return;
+
+    setGameState("loading");
+    Promise.all(selected.map(fetchBaiQuestions))
+      .then((buckets) => {
+        const pool = interleaveBalanced(buckets);
+        setComboMode(true);
+        setComboBaiNames(selected.map((b) => b.name));
+        setAllQuestions(pool);
+        setSettings(prev => ({ ...prev, limit: pool.length, selectedBai: "__combo__" }));
+        setGameState("menu");
+      })
+      .catch(() => {
+        alert("Không thể tải đề tổng hợp. Vui lòng thử lại!");
+        setGameState("combo-select");
+      });
+  };
+
   // 3. Bắt đầu game
   const startGame = () => {
-    let questionsToPlay = [...allQuestions];
+    let questionsToPlay: Question[];
 
-    if (settings.shuffle) {
-      questionsToPlay = shuffleArray(questionsToPlay);
-    }
-
-    if (settings.limit > 0 && settings.limit < questionsToPlay.length) {
-      questionsToPlay = questionsToPlay.slice(0, settings.limit);
+    if (comboMode) {
+      // allQuestions đã được rải đều theo bài, cắt trước rồi mới xáo để giữ tỉ lệ đều
+      const count = settings.limit > 0 ? settings.limit : allQuestions.length;
+      questionsToPlay = allQuestions.slice(0, count);
+      if (settings.shuffle) questionsToPlay = shuffleArray(questionsToPlay);
+    } else {
+      questionsToPlay = [...allQuestions];
+      if (settings.shuffle) questionsToPlay = shuffleArray(questionsToPlay);
+      if (settings.limit > 0 && settings.limit < questionsToPlay.length) {
+        questionsToPlay = questionsToPlay.slice(0, settings.limit);
+      }
     }
 
     setCurrentQuestions(questionsToPlay);
@@ -265,14 +334,24 @@ export default function Home() {
             <p className="text-gray-500">Chọn bài học để bắt đầu luyện tập</p>
           </div>
 
-          <div className="mb-6">
+          <div className="mb-6 flex flex-col gap-3 sm:flex-row">
             <input
               type="text"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               placeholder="Tìm theo tên bộ câu hỏi..."
-              className="w-full rounded-xl border border-gray-300 px-4 py-3 text-sm text-gray-700 outline-none ring-0 transition focus:border-blue-500 focus:shadow-sm"
+              className="flex-1 rounded-xl border border-gray-300 px-4 py-3 text-sm text-gray-700 outline-none ring-0 transition focus:border-blue-500 focus:shadow-sm"
             />
+            <button
+              onClick={() => {
+                setComboSelectedIds(DEFAULT_COMBO_IDS);
+                setComboSearch("");
+                setGameState("combo-select");
+              }}
+              className="rounded-xl bg-indigo-600 px-5 py-3 text-sm font-bold text-white shadow transition hover:bg-indigo-700 hover:shadow-lg active:scale-[0.98] whitespace-nowrap"
+            >
+              🧩 Tạo đề tổng hợp
+            </button>
           </div>
 
           <div className="space-y-8">
@@ -318,9 +397,111 @@ export default function Home() {
     );
   }
 
+  // UI: COMBO-SELECT - Chọn nhiều bài để gộp thành đề tổng hợp
+  if (gameState === "combo-select") {
+    const keyword = comboSearch.trim().toLowerCase();
+    const filteredBai = availableBai
+      .filter((bai) => !keyword || bai.name.toLowerCase().includes(keyword))
+      .sort((a, b) => a.name.localeCompare(b.name, "vi"));
+
+    const toggleBai = (id: string) => {
+      setComboSelectedIds((prev) =>
+        prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]
+      );
+    };
+
+    return (
+      <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-indigo-50 to-blue-100 p-4">
+        <div className="w-full max-w-5xl rounded-2xl bg-white p-6 shadow-2xl border border-gray-100 md:p-8">
+          <div className="text-center mb-6">
+            <h1 className="text-3xl font-extrabold text-indigo-600 mb-2">🧩 Tạo Đề Tổng Hợp</h1>
+            <p className="text-gray-500 text-sm">
+              Chọn các bài muốn gộp lại — câu hỏi sẽ được random và rải đều giữa các bài đã chọn. Đề này chỉ dùng cho phiên làm bài hiện tại, không được lưu lại.
+            </p>
+          </div>
+
+          <div className="mb-4">
+            <input
+              type="text"
+              value={comboSearch}
+              onChange={(e) => setComboSearch(e.target.value)}
+              placeholder="Tìm theo tên bộ câu hỏi..."
+              className="w-full rounded-xl border border-gray-300 px-4 py-3 text-sm text-gray-700 outline-none transition focus:border-indigo-500 focus:shadow-sm"
+            />
+          </div>
+
+          <div className="mb-4 flex flex-wrap items-center gap-2">
+            <button
+              onClick={() => setComboSelectedIds(DEFAULT_COMBO_IDS)}
+              className="rounded-full bg-indigo-100 px-4 py-1.5 text-xs font-bold text-indigo-700 hover:bg-indigo-200 transition"
+            >
+              ↺ Mặc định ({DEFAULT_COMBO_IDS.length} bài)
+            </button>
+            <button
+              onClick={() => setComboSelectedIds(availableBai.map((b) => b.id))}
+              className="rounded-full bg-gray-100 px-4 py-1.5 text-xs font-bold text-gray-700 hover:bg-gray-200 transition"
+            >
+              Chọn tất cả
+            </button>
+            <button
+              onClick={() => setComboSelectedIds([])}
+              className="rounded-full bg-gray-100 px-4 py-1.5 text-xs font-bold text-gray-700 hover:bg-gray-200 transition"
+            >
+              Bỏ chọn hết
+            </button>
+            <span className="ml-auto text-sm font-semibold text-indigo-700">
+              {comboSelectedIds.length} bài đã chọn
+            </span>
+          </div>
+
+          <div className="grid max-h-[45vh] grid-cols-1 gap-2 overflow-y-auto pr-1 md:grid-cols-2 xl:grid-cols-3">
+            {filteredBai.map((bai) => {
+              const checked = comboSelectedIds.includes(bai.id);
+              return (
+                <label
+                  key={bai.id}
+                  className={`flex cursor-pointer items-center gap-3 rounded-xl border-2 p-3 text-sm transition ${
+                    checked ? "border-indigo-400 bg-indigo-50" : "border-gray-200 hover:bg-gray-50"
+                  }`}
+                >
+                  <input
+                    type="checkbox"
+                    checked={checked}
+                    onChange={() => toggleBai(bai.id)}
+                    className="h-4 w-4 flex-shrink-0 accent-indigo-600"
+                  />
+                  <span className={`font-medium ${checked ? "text-indigo-800" : "text-gray-700"}`}>{bai.name}</span>
+                </label>
+              );
+            })}
+          </div>
+
+          <div className="mt-6 flex gap-3">
+            <button
+              onClick={() => setGameState("selecting")}
+              className="rounded-xl bg-gray-100 px-6 py-4 text-sm font-bold text-gray-700 hover:bg-gray-200 transition"
+            >
+              ← Quay lại
+            </button>
+            <button
+              disabled={comboSelectedIds.length === 0}
+              onClick={() => loadCombo(comboSelectedIds)}
+              className="flex-1 rounded-xl bg-gradient-to-r from-indigo-600 to-indigo-700 py-4 text-lg font-bold text-white shadow-lg transition hover:scale-[1.02] hover:shadow-xl active:scale-[0.98] disabled:opacity-40 disabled:hover:scale-100"
+            >
+              Tạo đề ngay →
+            </button>
+          </div>
+        </div>
+      </main>
+    );
+  }
+
   // UI: MENU
   if (gameState === "menu") {
     const currentBai = availableBai.find(b => b.id === settings.selectedBai);
+    const menuLabel = comboMode
+      ? `🧩 Đề tổng hợp (${comboBaiNames.length} bài)`
+      : currentBai?.name || "Đang chọn...";
     return (
       <main className="flex min-h-screen flex-col items-center justify-center bg-gray-50 p-4">
         <div className="w-full max-w-md rounded-xl bg-white p-8 shadow-xl border border-gray-100">
@@ -328,7 +509,7 @@ export default function Home() {
             <h1 className="text-center text-3xl font-extrabold text-blue-600 tracking-tight">Trắc Nghiệm Y Khoa</h1>
             <div className="mt-3 text-center">
               <span className="inline-flex items-center gap-2 rounded-full bg-blue-100 px-4 py-2 text-sm font-bold text-blue-700">
-                📚 {currentBai?.name || "Đang chọn..."}
+                {comboMode ? "" : "📚 "}{menuLabel}
               </span>
             </div>
           </div>
@@ -398,7 +579,7 @@ export default function Home() {
 
             <div className="flex gap-3">
               <button
-                onClick={() => setGameState("selecting")}
+                onClick={() => setGameState(comboMode ? "combo-select" : "selecting")}
                 className="rounded-xl bg-gray-100 px-6 py-4 text-sm font-bold text-gray-700 hover:bg-gray-200 transition"
               >
                 ← Chọn bài khác
