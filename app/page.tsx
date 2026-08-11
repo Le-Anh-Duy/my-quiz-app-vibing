@@ -123,6 +123,21 @@ const fetchBaiQuestions = (bai: Bai): Promise<Question[]> =>
         })
     );
 
+// Cột ẩn đánh dấu bài gốc của từng câu, dùng để ép rải đều khi file là đề đã gộp sẵn
+const SOURCE_FIELD = "__nguon";
+
+const splitBySource = (rows: any[]): Question[][] | null => {
+  if (!rows.some((r) => r[SOURCE_FIELD])) return null;
+  const groups = new Map<string, Question[]>();
+  for (const row of rows) {
+    const key = row[SOURCE_FIELD] || "?";
+    const { [SOURCE_FIELD]: _drop, ...clean } = row;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key)!.push(clean as Question);
+  }
+  return Array.from(groups.values());
+};
+
 export default function Home() {
   const [allQuestions, setAllQuestions] = useState<Question[]>([]);
   const [gameState, setGameState] = useState<GameState>("loading");
@@ -131,7 +146,7 @@ export default function Home() {
   const [comboMode, setComboMode] = useState(false);
   const [comboSelectedIds, setComboSelectedIds] = useState<string[]>(DEFAULT_COMBO_IDS);
   const [comboSearch, setComboSearch] = useState("");
-  const [comboBaiNames, setComboBaiNames] = useState<string[]>([]);
+  const [comboLabel, setComboLabel] = useState("");
   
   // Cấu hình mặc định
   const [settings, setSettings] = useState<Settings>({
@@ -172,10 +187,14 @@ export default function Home() {
 
     setGameState("loading");
     fetchBaiQuestions(bai)
-      .then((validData) => {
-        setComboMode(false);
-        setAllQuestions(validData);
-        setSettings(prev => ({ ...prev, limit: validData.length, selectedBai: baiId }));
+      .then((rows) => {
+        // Nếu file có sẵn cột nguồn (đề gộp đã lưu), ép rải đều theo từng bài gốc
+        const buckets = splitBySource(rows);
+        const finalData = buckets ? interleaveBalanced(buckets) : rows;
+        setComboMode(!!buckets);
+        setComboLabel(bai.name);
+        setAllQuestions(finalData);
+        setSettings(prev => ({ ...prev, limit: finalData.length, selectedBai: baiId }));
         setGameState("menu");
       })
       .catch(() => {
@@ -194,7 +213,7 @@ export default function Home() {
       .then((buckets) => {
         const pool = interleaveBalanced(buckets);
         setComboMode(true);
-        setComboBaiNames(selected.map((b) => b.name));
+        setComboLabel(`🧩 Đề tổng hợp (${selected.length} bài)`);
         setAllQuestions(pool);
         setSettings(prev => ({ ...prev, limit: pool.length, selectedBai: "__combo__" }));
         setGameState("menu");
@@ -499,9 +518,7 @@ export default function Home() {
   // UI: MENU
   if (gameState === "menu") {
     const currentBai = availableBai.find(b => b.id === settings.selectedBai);
-    const menuLabel = comboMode
-      ? `🧩 Đề tổng hợp (${comboBaiNames.length} bài)`
-      : currentBai?.name || "Đang chọn...";
+    const menuLabel = comboMode ? comboLabel : currentBai?.name || "Đang chọn...";
     return (
       <main className="flex min-h-screen flex-col items-center justify-center bg-gray-50 p-4">
         <div className="w-full max-w-md rounded-xl bg-white p-8 shadow-xl border border-gray-100">
