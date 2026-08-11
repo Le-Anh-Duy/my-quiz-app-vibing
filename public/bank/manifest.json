@@ -190,6 +190,12 @@
       "name": "U Lành Tính & Ung Thư (GPB)",
       "file": "/bank/u-lanh-tinh-ung-thu.csv",
       "updatedAt": "2026-08-08"
+    },
+    {
+      "id": "de-tong-hop-gpb",
+      "name": "🧩 Đề Tổng Hợp GPB (13 bài)",
+      "file": "/bank/de-tong-hop-gpb.csv",
+      "updatedAt": "2026-08-11"
     }
 
 ]
