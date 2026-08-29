@@ -94,13 +94,14 @@ const DEFAULT_COMBO_IDS = [
   "benh-da-day",
 ];
 
-// Trộn từng bài rồi rải xoay vòng để câu hỏi giữa các bài được rải đều nhau
-const interleaveBalanced = (buckets: Question[][]) => {
-  const shuffledBuckets = buckets.map(shuffleArray);
-  const maxLen = Math.max(0, ...shuffledBuckets.map((b) => b.length));
+// Rải xoay vòng để câu hỏi giữa các bài được rải đều nhau.
+// shuffle=true: trộn từng bài trước khi rải (để cắt bớt vẫn random đều). shuffle=false: giữ nguyên thứ tự gốc.
+const interleaveBalanced = (buckets: Question[][], shuffle: boolean) => {
+  const orderedBuckets = shuffle ? buckets.map(shuffleArray) : buckets;
+  const maxLen = Math.max(0, ...orderedBuckets.map((b) => b.length));
   const result: Question[] = [];
   for (let i = 0; i < maxLen; i++) {
-    for (const bucket of shuffledBuckets) {
+    for (const bucket of orderedBuckets) {
       if (i < bucket.length) result.push(bucket[i]);
     }
   }
@@ -144,6 +145,7 @@ export default function Home() {
   const [availableBai, setAvailableBai] = useState<Bai[]>([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [comboMode, setComboMode] = useState(false);
+  const [sourceBuckets, setSourceBuckets] = useState<Question[][] | null>(null);
   const [comboSelectedIds, setComboSelectedIds] = useState<string[]>(DEFAULT_COMBO_IDS);
   const [comboSearch, setComboSearch] = useState("");
   const [comboLabel, setComboLabel] = useState("");
@@ -190,11 +192,11 @@ export default function Home() {
       .then((rows) => {
         // Nếu file có sẵn cột nguồn (đề gộp đã lưu), ép rải đều theo từng bài gốc
         const buckets = splitBySource(rows);
-        const finalData = buckets ? interleaveBalanced(buckets) : rows;
         setComboMode(!!buckets);
+        setSourceBuckets(buckets);
         setComboLabel(bai.name);
-        setAllQuestions(finalData);
-        setSettings(prev => ({ ...prev, limit: finalData.length, selectedBai: baiId }));
+        setAllQuestions(buckets ? buckets.flat() : rows);
+        setSettings(prev => ({ ...prev, limit: rows.length, selectedBai: baiId }));
         setGameState("menu");
       })
       .catch(() => {
@@ -211,11 +213,11 @@ export default function Home() {
     setGameState("loading");
     Promise.all(selected.map(fetchBaiQuestions))
       .then((buckets) => {
-        const pool = interleaveBalanced(buckets);
         setComboMode(true);
+        setSourceBuckets(buckets);
         setComboLabel(`🧩 Đề tổng hợp (${selected.length} bài)`);
-        setAllQuestions(pool);
-        setSettings(prev => ({ ...prev, limit: pool.length, selectedBai: "__combo__" }));
+        setAllQuestions(buckets.flat());
+        setSettings(prev => ({ ...prev, limit: buckets.flat().length, selectedBai: "__combo__" }));
         setGameState("menu");
       })
       .catch(() => {
@@ -228,10 +230,11 @@ export default function Home() {
   const startGame = () => {
     let questionsToPlay: Question[];
 
-    if (comboMode) {
-      // allQuestions đã được rải đều theo bài, cắt trước rồi mới xáo để giữ tỉ lệ đều
-      const count = settings.limit > 0 ? settings.limit : allQuestions.length;
-      questionsToPlay = allQuestions.slice(0, count);
+    if (sourceBuckets) {
+      // Rải đều theo từng bài nguồn trước, cắt theo số lượng, rồi mới xáo toàn bộ nếu bật random
+      const pool = interleaveBalanced(sourceBuckets, settings.shuffle);
+      const count = settings.limit > 0 ? settings.limit : pool.length;
+      questionsToPlay = pool.slice(0, count);
       if (settings.shuffle) questionsToPlay = shuffleArray(questionsToPlay);
     } else {
       questionsToPlay = [...allQuestions];
@@ -759,7 +762,7 @@ export default function Home() {
               {percentage >= 80 ? "Xuất sắc! Bạn nắm kiến thức rất chắc." : percentage >= 50 ? "Khá tốt, hãy cố gắng thêm nhé." : "Cần ôn tập lại nhiều hơn!"}
             </p>
             
-            <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <div className="no-print flex flex-col sm:flex-row justify-center gap-4">
               <button
                 onClick={() => setGameState("menu")}
                 className="rounded-lg bg-gray-100 px-6 py-3 font-bold text-gray-700 hover:bg-gray-200 transition"
@@ -771,6 +774,12 @@ export default function Home() {
                 className="rounded-lg bg-blue-600 px-6 py-3 font-bold text-white hover:bg-blue-700 transition shadow-lg hover:shadow-blue-500/30"
               >
                 🔄 Làm lại đề này
+              </button>
+              <button
+                onClick={() => window.print()}
+                className="rounded-lg bg-emerald-600 px-6 py-3 font-bold text-white hover:bg-emerald-700 transition shadow-lg hover:shadow-emerald-500/30"
+              >
+                📄 Tải PDF kết quả
               </button>
             </div>
           </div>
