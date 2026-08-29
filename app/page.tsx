@@ -28,6 +28,9 @@ interface Settings {
   shuffle: boolean;
   cleanQuestion: boolean; // Tùy chọn mới: Xóa "Câu X."
   selectedBai: string; // ID bài được chọn
+  rangeMode: boolean; // Chọn theo khoảng câu thay vì số lượng
+  rangeFrom: number;
+  rangeTo: number;
 }
 
 type GameState = "loading" | "selecting" | "combo-select" | "menu" | "playing" | "result";
@@ -157,6 +160,9 @@ export default function Home() {
     shuffle: true,
     cleanQuestion: true, // Mặc định bật chế độ làm sạch
     selectedBai: "", // Sẽ được set khi load xong
+    rangeMode: false,
+    rangeFrom: 1,
+    rangeTo: 10,
   });
 
   const [currentQuestions, setCurrentQuestions] = useState<Question[]>([]);
@@ -196,7 +202,7 @@ export default function Home() {
         setSourceBuckets(buckets);
         setComboLabel(bai.name);
         setAllQuestions(buckets ? buckets.flat() : rows);
-        setSettings(prev => ({ ...prev, limit: rows.length, selectedBai: baiId }));
+        setSettings(prev => ({ ...prev, limit: rows.length, selectedBai: baiId, rangeMode: false, rangeFrom: 1, rangeTo: rows.length }));
         setGameState("menu");
       })
       .catch(() => {
@@ -217,7 +223,8 @@ export default function Home() {
         setSourceBuckets(buckets);
         setComboLabel(`🧩 Đề tổng hợp (${selected.length} bài)`);
         setAllQuestions(buckets.flat());
-        setSettings(prev => ({ ...prev, limit: buckets.flat().length, selectedBai: "__combo__" }));
+        const total = buckets.flat().length;
+        setSettings(prev => ({ ...prev, limit: total, selectedBai: "__combo__", rangeMode: false, rangeFrom: 1, rangeTo: total }));
         setGameState("menu");
       })
       .catch(() => {
@@ -228,21 +235,19 @@ export default function Home() {
 
   // 3. Bắt đầu game
   const startGame = () => {
-    let questionsToPlay: Question[];
+    // Rải đều theo từng bài nguồn nếu là đề gộp, giữ nguyên thứ tự gốc nếu không (hoặc không bật random)
+    const basePool = sourceBuckets ? interleaveBalanced(sourceBuckets, settings.shuffle) : allQuestions;
 
-    if (sourceBuckets) {
-      // Rải đều theo từng bài nguồn trước, cắt theo số lượng, rồi mới xáo toàn bộ nếu bật random
-      const pool = interleaveBalanced(sourceBuckets, settings.shuffle);
-      const count = settings.limit > 0 ? settings.limit : pool.length;
-      questionsToPlay = pool.slice(0, count);
-      if (settings.shuffle) questionsToPlay = shuffleArray(questionsToPlay);
+    let questionsToPlay: Question[];
+    if (settings.rangeMode) {
+      const from = Math.max(1, Math.min(settings.rangeFrom, basePool.length));
+      const to = Math.max(from, Math.min(settings.rangeTo, basePool.length));
+      questionsToPlay = basePool.slice(from - 1, to);
     } else {
-      questionsToPlay = [...allQuestions];
-      if (settings.shuffle) questionsToPlay = shuffleArray(questionsToPlay);
-      if (settings.limit > 0 && settings.limit < questionsToPlay.length) {
-        questionsToPlay = questionsToPlay.slice(0, settings.limit);
-      }
+      const count = settings.limit > 0 ? settings.limit : basePool.length;
+      questionsToPlay = basePool.slice(0, count);
     }
+    if (settings.shuffle) questionsToPlay = shuffleArray(questionsToPlay);
 
     setCurrentQuestions(questionsToPlay);
     setCurrentQIndex(0);
@@ -554,21 +559,71 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Slider */}
+            {/* Chọn số lượng hoặc khoảng câu */}
             <div>
-              <div className="flex justify-between mb-2">
-                 <label className="font-semibold text-gray-700">Số lượng câu:</label>
-                 <span className="font-bold text-blue-600">{settings.limit} câu</span>
+              <div className="mb-2 grid grid-cols-2 gap-2">
+                <button
+                  onClick={() => setSettings({ ...settings, rangeMode: false })}
+                  className={`rounded-lg p-2 border transition text-xs font-bold ${!settings.rangeMode ? "bg-blue-50 border-blue-500 text-blue-700 ring-1 ring-blue-500" : "border-gray-200 hover:bg-gray-50 text-gray-600"}`}
+                >
+                  🔢 Theo số lượng
+                </button>
+                <button
+                  onClick={() => setSettings({ ...settings, rangeMode: true })}
+                  className={`rounded-lg p-2 border transition text-xs font-bold ${settings.rangeMode ? "bg-blue-50 border-blue-500 text-blue-700 ring-1 ring-blue-500" : "border-gray-200 hover:bg-gray-50 text-gray-600"}`}
+                >
+                  🎯 Theo khoảng câu
+                </button>
               </div>
-              <input
-                type="range"
-                min="1"
-                max={allQuestions.length}
-                value={settings.limit}
-                onChange={(e) => setSettings({ ...settings, limit: Number(e.target.value) })}
-                className="h-2 w-full cursor-pointer appearance-none rounded-lg bg-gray-200 accent-blue-600"
-              />
-              <div className="text-right text-xs text-gray-400 mt-1">Tổng kho: {allQuestions.length} câu</div>
+
+              {!settings.rangeMode ? (
+                <>
+                  <div className="flex justify-between mb-2">
+                     <label className="font-semibold text-gray-700">Số lượng câu:</label>
+                     <span className="font-bold text-blue-600">{settings.limit} câu</span>
+                  </div>
+                  <input
+                    type="range"
+                    min="1"
+                    max={allQuestions.length}
+                    value={settings.limit}
+                    onChange={(e) => setSettings({ ...settings, limit: Number(e.target.value) })}
+                    className="h-2 w-full cursor-pointer appearance-none rounded-lg bg-gray-200 accent-blue-600"
+                  />
+                  <div className="text-right text-xs text-gray-400 mt-1">Tổng kho: {allQuestions.length} câu</div>
+                </>
+              ) : (
+                <>
+                  <div className="flex items-center gap-3">
+                    <div className="flex-1">
+                      <label className="mb-1 block text-xs font-semibold text-gray-500">Từ câu</label>
+                      <input
+                        type="number"
+                        min={1}
+                        max={allQuestions.length}
+                        value={settings.rangeFrom}
+                        onChange={(e) => setSettings({ ...settings, rangeFrom: Number(e.target.value) })}
+                        className="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm text-gray-700 outline-none focus:border-blue-500"
+                      />
+                    </div>
+                    <span className="mt-5 text-gray-400">→</span>
+                    <div className="flex-1">
+                      <label className="mb-1 block text-xs font-semibold text-gray-500">Đến câu</label>
+                      <input
+                        type="number"
+                        min={1}
+                        max={allQuestions.length}
+                        value={settings.rangeTo}
+                        onChange={(e) => setSettings({ ...settings, rangeTo: Number(e.target.value) })}
+                        className="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm text-gray-700 outline-none focus:border-blue-500"
+                      />
+                    </div>
+                  </div>
+                  <div className="text-right text-xs text-gray-400 mt-1">
+                    Tổng kho: {allQuestions.length} câu · Đã chọn: {Math.max(0, Math.min(settings.rangeTo, allQuestions.length) - Math.max(1, settings.rangeFrom) + 1)} câu
+                  </div>
+                </>
+              )}
             </div>
 
             {/* Toggles */}
