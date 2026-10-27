@@ -42,166 +42,213 @@
     "updatedAt": "2022-01-01"
   },
   {
-      "id": "trac-nghiem-trieu-chung-ho-hap",
-      "name": "Trắc Nghiệm Triệu Chứng Hô Hấp",
-      "file": "/bank/Trac_nghiem_Trieu_chung_Ho_hap.csv",
-      "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "trac-nghiem-trieu-chung-tim-mach",
-        "name": "Trắc Nghiệm Triệu Chứng Tim Mạch",
-        "file": "/bank/Trac_nghiem_Trieu_chung_Tim_mach.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "On_tap_Can_lam_sang_Tim_mach",
-        "name": "Trắc Nghiệm cận lâm sàng Tim Mạch",
-        "file": "/bank/On_tap_Can_lam_sang_Tim_mach.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "On_tap_Can_lam_sang_Ho_hap",
-        "name": "Trắc Nghiệm cận lâm sàng Hô Hấp",
-        "file": "/bank/Trac_nghiem_CLS_Ho_hap.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "Trac_nghiem_Hoi_chung_Xuat_huyet",
-        "name": "Trắc Nghiệm Hội Chứng Xuất Huyết",
-        "file": "/bank/Trac_nghiem_Hoi_chung_Xuat_huyet.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "Trac_nghiem_Hoi_chung_Thieu_mau",
-        "name": "Trắc Nghiệm Hội Chứng Thiếu Máu",
-        "file": "/bank/Trac_nghiem_Hoi_chung_Thieu_mau.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "trac-nghiem-trieu-chung-tieu-hoa",
-        "name": "Trắc Nghiệm Triệu Chứng Tiêu Hóa",
-        "file": "/bank/Trac_nghiem_Trieu_chung_Tieu_hoa.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-        "id": "Ngan_hang_cau_hoi_Noi_Co_so",
-        "name": "Ngân Hàng Câu Hỏi Nội Cơ Sở",
-        "file": "/bank/Ngan_hang_cau_hoi_Noi_Co_so.csv",
-        "updatedAt": "2023-01-01"
-    },
-    {
-      "id": "mo-phoi-rang-mieng",
-      "name": "Mô Phôi Răng Miệng",
-      "file": "/bank/mo-phoi-rang-mieng.csv",
-      "updatedAt": "2026-03-30"
-    },
-    {
-      "id": "mo-phong-lam-sang",
-      "name": "Mô Phỏng Lâm Sàng",
-      "file": "/bank/mo-phong-lam-sang.csv",
-      "updatedAt": "2026-03-30"
-    },
-    {
-      "id": "can-khop-hoc",
-      "name": "Cắn Khớp Học",
-      "file": "/bank/can-khop-hoc.csv",
-      "updatedAt": "2026-03-30"
-    },
-    {
-      "id": "ngan-hang-de-thi-tu-the-va-thiet-bi-nha-khoa",
-      "name": "Bài 21 SỰ HÌNH THÀNH - PHÁT TRIỂN CỦA MẦM RĂNG",
-      "file": "/bank/ngan_hang_de_thi_chuyen_sau_tu_the_thuc_hanh_lam_sang_va_quan_ly_trang_thiet_bi_nha_khoa.csv",
-      "updatedAt": "2026-04-12"
-    },
-    {
-      "id": "benh-tuyen-giap",
-      "name": "Bệnh Tuyến Giáp (GPB)",
-      "file": "/bank/benh-tuyen-giap.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "benh-da-day",
-      "name": "Bệnh Dạ Dày (GPB)",
-      "file": "/bank/benh-da-day.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "benh-gan-duong-mat",
-      "name": "Bệnh Gan & Đường Mật (GPB)",
-      "file": "/bank/benh-gan-duong-mat.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "benh-ly-tu-cung",
-      "name": "Bệnh Lý Tử Cung (GPB)",
-      "file": "/bank/benh-ly-tu-cung.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "benh-phoi",
-      "name": "Bệnh Phổi (GPB)",
-      "file": "/bank/benh-phoi.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "benh-ruot-non-dai-trang",
-      "name": "Bệnh Ruột Non & Đại Tràng (GPB)",
-      "file": "/bank/benh-ruot-non-dai-trang.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "benh-hach-lympho",
-      "name": "Bệnh Hạch Lymphô (GPB)",
-      "file": "/bank/benh-hach-lympho.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "gioi-thieu-mon-gpb",
-      "name": "Giới Thiệu Môn GPB",
-      "file": "/bank/gioi-thieu-mon-gpb.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "ton-thuong-roi-loan-tuan-hoan",
-      "name": "Tổn Thương Do Rối Loạn Tuần Hoàn (GPB)",
-      "file": "/bank/ton-thuong-roi-loan-tuan-hoan.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "ton-thuong-te-bao-mo",
-      "name": "Tổn Thương Tế Bào & Mô (GPB)",
-      "file": "/bank/ton-thuong-te-bao-mo.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "u-buong-trung",
-      "name": "U Buồng Trứng (GPB)",
-      "file": "/bank/u-buong-trung.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "u-tuyen-vu",
-      "name": "U Tuyến Vú (GPB)",
-      "file": "/bank/u-tuyen-vu.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "u-lanh-tinh-ung-thu",
-      "name": "U Lành Tính & Ung Thư (GPB)",
-      "file": "/bank/u-lanh-tinh-ung-thu.csv",
-      "updatedAt": "2026-08-08"
-    },
-    {
-      "id": "de-tong-hop-gpb",
-      "name": "🧩 Đề Tổng Hợp GPB (13 bài)",
-      "file": "/bank/de-tong-hop-gpb.csv",
-      "updatedAt": "2026-08-11"
-    },
-    {
-      "id": "on-thi-sat-hach-cntt",
-      "name": "Ôn Thi Sát Hạch CNTT",
-      "file": "/bank/on-thi-sat-hach-cntt.csv",
-      "updatedAt": "2026-08-26"
-    }
-
+    "id": "trac-nghiem-trieu-chung-ho-hap",
+    "name": "Trắc Nghiệm Triệu Chứng Hô Hấp",
+    "file": "/bank/Trac_nghiem_Trieu_chung_Ho_hap.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "trac-nghiem-trieu-chung-tim-mach",
+    "name": "Trắc Nghiệm Triệu Chứng Tim Mạch",
+    "file": "/bank/Trac_nghiem_Trieu_chung_Tim_mach.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "On_tap_Can_lam_sang_Tim_mach",
+    "name": "Trắc Nghiệm cận lâm sàng Tim Mạch",
+    "file": "/bank/On_tap_Can_lam_sang_Tim_mach.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "On_tap_Can_lam_sang_Ho_hap",
+    "name": "Trắc Nghiệm cận lâm sàng Hô Hấp",
+    "file": "/bank/Trac_nghiem_CLS_Ho_hap.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "Trac_nghiem_Hoi_chung_Xuat_huyet",
+    "name": "Trắc Nghiệm Hội Chứng Xuất Huyết",
+    "file": "/bank/Trac_nghiem_Hoi_chung_Xuat_huyet.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "Trac_nghiem_Hoi_chung_Thieu_mau",
+    "name": "Trắc Nghiệm Hội Chứng Thiếu Máu",
+    "file": "/bank/Trac_nghiem_Hoi_chung_Thieu_mau.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "trac-nghiem-trieu-chung-tieu-hoa",
+    "name": "Trắc Nghiệm Triệu Chứng Tiêu Hóa",
+    "file": "/bank/Trac_nghiem_Trieu_chung_Tieu_hoa.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "Ngan_hang_cau_hoi_Noi_Co_so",
+    "name": "Ngân Hàng Câu Hỏi Nội Cơ Sở",
+    "file": "/bank/Ngan_hang_cau_hoi_Noi_Co_so.csv",
+    "updatedAt": "2023-01-01"
+  },
+  {
+    "id": "mo-phoi-rang-mieng",
+    "name": "Mô Phôi Răng Miệng",
+    "file": "/bank/mo-phoi-rang-mieng.csv",
+    "updatedAt": "2026-03-30"
+  },
+  {
+    "id": "mo-phong-lam-sang",
+    "name": "Mô Phỏng Lâm Sàng",
+    "file": "/bank/mo-phong-lam-sang.csv",
+    "updatedAt": "2026-03-30"
+  },
+  {
+    "id": "can-khop-hoc",
+    "name": "Cắn Khớp Học",
+    "file": "/bank/can-khop-hoc.csv",
+    "updatedAt": "2026-03-30"
+  },
+  {
+    "id": "ngan-hang-de-thi-tu-the-va-thiet-bi-nha-khoa",
+    "name": "Bài 21 SỰ HÌNH THÀNH - PHÁT TRIỂN CỦA MẦM RĂNG",
+    "file": "/bank/ngan_hang_de_thi_chuyen_sau_tu_the_thuc_hanh_lam_sang_va_quan_ly_trang_thiet_bi_nha_khoa.csv",
+    "updatedAt": "2026-04-12"
+  },
+  {
+    "id": "benh-tuyen-giap",
+    "name": "Bệnh Tuyến Giáp (GPB)",
+    "file": "/bank/benh-tuyen-giap.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "benh-da-day",
+    "name": "Bệnh Dạ Dày (GPB)",
+    "file": "/bank/benh-da-day.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "benh-gan-duong-mat",
+    "name": "Bệnh Gan & Đường Mật (GPB)",
+    "file": "/bank/benh-gan-duong-mat.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "benh-ly-tu-cung",
+    "name": "Bệnh Lý Tử Cung (GPB)",
+    "file": "/bank/benh-ly-tu-cung.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "benh-phoi",
+    "name": "Bệnh Phổi (GPB)",
+    "file": "/bank/benh-phoi.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "benh-ruot-non-dai-trang",
+    "name": "Bệnh Ruột Non & Đại Tràng (GPB)",
+    "file": "/bank/benh-ruot-non-dai-trang.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "benh-hach-lympho",
+    "name": "Bệnh Hạch Lymphô (GPB)",
+    "file": "/bank/benh-hach-lympho.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "gioi-thieu-mon-gpb",
+    "name": "Giới Thiệu Môn GPB",
+    "file": "/bank/gioi-thieu-mon-gpb.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ton-thuong-roi-loan-tuan-hoan",
+    "name": "Tổn Thương Do Rối Loạn Tuần Hoàn (GPB)",
+    "file": "/bank/ton-thuong-roi-loan-tuan-hoan.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "ton-thuong-te-bao-mo",
+    "name": "Tổn Thương Tế Bào & Mô (GPB)",
+    "file": "/bank/ton-thuong-te-bao-mo.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "u-buong-trung",
+    "name": "U Buồng Trứng (GPB)",
+    "file": "/bank/u-buong-trung.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "u-tuyen-vu",
+    "name": "U Tuyến Vú (GPB)",
+    "file": "/bank/u-tuyen-vu.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "u-lanh-tinh-ung-thu",
+    "name": "U Lành Tính & Ung Thư (GPB)",
+    "file": "/bank/u-lanh-tinh-ung-thu.csv",
+    "updatedAt": "2026-08-08"
+  },
+  {
+    "id": "de-tong-hop-gpb",
+    "name": "🧩 Đề Tổng Hợp GPB (13 bài)",
+    "file": "/bank/de-tong-hop-gpb.csv",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "on-thi-sat-hach-cntt",
+    "name": "Ôn Thi Sát Hạch CNTT",
+    "file": "/bank/on-thi-sat-hach-cntt.csv",
+    "updatedAt": "2026-08-26"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-1",
+    "name": "Phục Hình Chương 1 - Bài 1: Đại cương về phục hình tháo lắp bán hàm",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_1_Dai_cuong_ve_phuc_hinh_thao_lap_ban_ham.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-2",
+    "name": "Phục Hình Chương 1 - Bài 2: Khám bệnh nhân phục hình tháo lắp bán hàm",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_2_Kham_benh_nhan_phuc_hinh_thao_lap_ban_ham.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-3",
+    "name": "Phục Hình Chương 1 - Bài 3: Những điểm căn bản của phục hình tháo lắp bán hàm",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_3_Nhung_diem_can_ban_cua_phuc_hinh_thao_lap_ban_ham.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-4",
+    "name": "Phục Hình Chương 1 - Bài 4: Vật liệu và phương pháp lấy dấu",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_4_Vat_lieu_va_phuong_phap_lay_dau.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-5",
+    "name": "Phục Hình Chương 1 - Bài 5: Tương quan khớp cắn",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_5_Tuong_quan_khop_can.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-6",
+    "name": "Phục Hình Chương 1 - Bài 6: Lựa chọn, sắp răng và thử răng",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_6_Lua_chon_sap_rang_va_thu_rang.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-7",
+    "name": "Phục Hình Chương 1 - Bài 7: Các giai đoạn thực hiện trong labo",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_7_Cac_giai_doan_thuc_hien_trong_labo.csv",
+    "updatedAt": "2026-10-27"
+  },
+  {
+    "id": "phuc-hinh-c1-bai-8",
+    "name": "Phục Hình Chương 1 - Bài 8: Lắp và điều chỉnh phục hình",
+    "file": "/bank/Phuc_Hinh_Chuong_1_-_Bai_8_Lap_va_dieu_chinh_phuc_hinh.csv",
+    "updatedAt": "2026-10-27"
+  }
 ]
