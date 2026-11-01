@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Theo Tổ chức Y tế Thế giới (WHO), thiếu máu được định nghĩa là tình trạng giảm:",
+      "options": [
+        {
+          "text": "Số lượng hồng cầu (RBC) trong máu ngoại vi so với người cùng tuổi, cùng giới và cùng điều kiện sống"
+        },
+        {
+          "text": "Dung tích hồng cầu (Hct) trong máu ngoại vi so với người cùng tuổi, cùng giới và cùng điều kiện sống"
+        },
+        {
+          "text": "Nồng độ hemoglobin (Hb) trong máu ngoại vi so với người cùng tuổi, cùng giới và cùng điều kiện sống"
+        },
+        {
+          "text": "Sự phân bố về kích thước hồng cầu (RDW) trong máu ngoại vi so với người cùng tuổi, cùng giới và cùng điều kiện sống"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chỉ số được xem quan trọng nhất của dòng hồng cầu trên công thức máu là:",
+      "options": [
+        {
+          "text": "Nồng độ hemoglobin (Hb)"
+        },
+        {
+          "text": "Số lượng hồng cầu (RBC)"
+        },
+        {
+          "text": "Dung tích hồng cầu (Hct)"
+        },
+        {
+          "text": "Sự phân bố về kích thước hồng cầu (RDW)"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tiêu chuẩn chẩn đoán thiếu máu theo WHO 2011 ở nam giới (≥15 tuổi) là khi nồng độ Hemoglobin (g/L) nhỏ hơn:",
+      "options": [
+        {
+          "text": "110"
+        },
+        {
+          "text": "120"
+        },
+        {
+          "text": "130"
+        },
+        {
+          "text": "140"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tiêu chuẩn chẩn đoán thiếu máu theo WHO 2011 ở phụ nữ không mang thai (≥15 tuổi) là khi nồng độ Hemoglobin (g/L) nhỏ hơn:",
+      "options": [
+        {
+          "text": "110"
+        },
+        {
+          "text": "120"
+        },
+        {
+          "text": "130"
+        },
+        {
+          "text": "140"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tiêu chuẩn chẩn đoán thiếu máu theo WHO 2011 ở phụ nữ mang thai là khi nồng độ Hemoglobin (g/L) nhỏ hơn:",
+      "options": [
+        {
+          "text": "110"
+        },
+        {
+          "text": "120"
+        },
+        {
+          "text": "130"
+        },
+        {
+          "text": "140"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo WHO 2011, trẻ từ 6 đến 59 tháng tuổi được chẩn đoán thiếu máu mức độ nhẹ khi nồng độ Hemoglobin (g/L) nằm trong khoảng:",
+      "options": [
+        {
+          "text": "100 - 109"
+        },
+        {
+          "text": "90 - 99"
+        },
+        {
+          "text": "80 - 89"
+        },
+        {
+          "text": "70 - 79"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo WHO 2011, nam giới (≥15 tuổi) được chẩn đoán thiếu máu mức độ trung bình khi nồng độ Hemoglobin (g/L) nằm trong khoảng:",
+      "options": [
+        {
+          "text": "110 - 129"
+        },
+        {
+          "text": "100 - 109"
+        },
+        {
+          "text": "80 - 109"
+        },
+        {
+          "text": "70 - 99"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo WHO 2011, phụ nữ không mang thai (≥15 tuổi) được chẩn đoán thiếu máu mức độ nặng khi nồng độ Hemoglobin (g/L) nhỏ hơn:",
+      "options": [
+        {
+          "text": "100"
+        },
+        {
+          "text": "90"
+        },
+        {
+          "text": "80"
+        },
+        {
+          "text": "70"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo tiêu chuẩn WHO 2011, nhóm đối tượng nào có ngưỡng chẩn đoán thiếu máu mức độ nặng như nhau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Phụ nữ mang thai"
+        },
+        {
+          "text": "Trẻ từ 12 đến 14 tuổi"
+        },
+        {
+          "text": "Nam giới (≥15 tuổi)"
+        },
+        {
+          "text": "Phụ nữ không mang thai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Biểu hiện lâm sàng của hội chứng thiếu máu phụ thuộc vào các yếu tố sau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Mức độ thiếu máu"
+        },
+        {
+          "text": "Diễn tiến thiếu máu"
+        },
+        {
+          "text": "Tuổi"
+        },
+        {
+          "text": "Nguyên nhân của thiếu máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi hỏi bệnh và khám lâm sàng liên quan đến hội chứng thiếu máu cần trả lời bao nhiêu vấn đề chính:",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các vấn đề chính cần trả lời liên quan đến hội chứng thiếu máu là, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Chẩn đoán thiếu máu"
+        },
+        {
+          "text": "Mức độ thiếu máu"
+        },
+        {
+          "text": "Diễn tiến thiếu máu cấp tính/mạn tính"
+        },
+        {
+          "text": "Khả năng bù trừ của cơ thể"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Dấu hiệu nào sau đây KHÔNG là triệu chứng của thiếu máu:",
+      "options": [
+        {
+          "text": "Niêm mạc nhợt"
+        },
+        {
+          "text": "Da xanh"
+        },
+        {
+          "text": "Tiểu sậm màu"
+        },
+        {
+          "text": "Chóng mặt"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dấu hiệu nào sau đây KHÔNG là triệu chứng của thiếu máu:",
+      "options": [
+        {
+          "text": "Niêm mạc nhợt"
+        },
+        {
+          "text": "Da xanh"
+        },
+        {
+          "text": "Khó thở khi gắng sức"
+        },
+        {
+          "text": "Vàng da"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào dưới đây có độ nhạy cao nhất trong chẩn đoán thiếu máu:",
+      "options": [
+        {
+          "text": "Kết mạc mi dưới nhợt"
+        },
+        {
+          "text": "Giường móng tay nhợt"
+        },
+        {
+          "text": "Da lòng bàn tay nhợt"
+        },
+        {
+          "text": "Tóc dễ gãy rụng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Triệu chứng đau cơ do thiếu máu mạn tính có đặc điểm, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Nặng dần về cuối ngày"
+        },
+        {
+          "text": "Do tích tụ acid lactic"
+        },
+        {
+          "text": "Kèm theo tê bì và dị cảm"
+        },
+        {
+          "text": "Đáp ứng tốt với nghỉ ngơi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hoa mắt, chóng mặt, ù tai, nhức đầu là những triệu chứng của thiếu máu do:",
+      "options": [
+        {
+          "text": "Thiếu oxy ở da, niêm mạc"
+        },
+        {
+          "text": "Thiếu oxy ở hệ cơ"
+        },
+        {
+          "text": "Thiếu oxy ở não"
+        },
+        {
+          "text": "Thiếu oxy ở tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dấu hiệu Lhermitte (cảm giác điện giật lan dọc xương sống khi gập cổ) gợi ý nguyên nhân thiếu máu do:",
+      "options": [
+        {
+          "text": "Thiếu sắt"
+        },
+        {
+          "text": "Thiếu vitamin B12"
+        },
+        {
+          "text": "Tan máu"
+        },
+        {
+          "text": "Suy tủy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong thiếu máu, nhịp tim thường:",
+      "options": [
+        {
+          "text": "Chậm"
+        },
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Nhanh"
+        },
+        {
+          "text": "Lúc nhanh lúc chậm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Âm thổi tâm thu cơ năng ở mỏm tim hoặc ổ van động mạch phổi trong thiếu máu là do:",
+      "options": [
+        {
+          "text": "Tăng độ quánh của máu"
+        },
+        {
+          "text": "Giảm cung lượng tim"
+        },
+        {
+          "text": "Giảm tốc độ tuần hoàn"
+        },
+        {
+          "text": "Giảm độ quánh của máu, tăng tốc độ tuần hoàn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thiếu máu cấp tính có đặc điểm sau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Xảy ra đột ngột"
+        },
+        {
+          "text": "Bệnh nhân thường nhập viện ngay"
+        },
+        {
+          "text": "Do mất máu hoặc tan máu cấp"
+        },
+        {
+          "text": "Cơ thể có thời gian để thích nghi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm nào sau đây KHÔNG phù hợp với thiếu máu mạn tính:",
+      "options": [
+        {
+          "text": "Diễn tiến từ từ trong nhiều tháng"
+        },
+        {
+          "text": "Cơ thể có khả năng thích nghi"
+        },
+        {
+          "text": "Biểu hiện lâm sàng rầm rộ"
+        },
+        {
+          "text": "Triệu chứng thường xuất hiện khi mức độ thiếu máu nặng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tiếng thổi tâm thu do thiếu máu thường xuất hiện ở mức độ nào:",
+      "options": [
+        {
+          "text": "Mức độ nhẹ"
+        },
+        {
+          "text": "Mức độ trung bình"
+        },
+        {
+          "text": "Mức độ nặng"
+        },
+        {
+          "text": "Cấp tính"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hoạt động thích nghi của cơ thể khi thiếu máu gồm, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Kích thích trung tâm hô hấp"
+        },
+        {
+          "text": "Gan, lách giảm tạo máu"
+        },
+        {
+          "text": "Tăng nhịp tim"
+        },
+        {
+          "text": "Tăng tạo erythropoietin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mốc thời gian để phân biệt một cách tương đối thiếu máu cấp và mạn tính là:",
+      "options": [
+        {
+          "text": "1 tuần"
+        },
+        {
+          "text": "2 tuần"
+        },
+        {
+          "text": "3 tuần"
+        },
+        {
+          "text": "4 tuần"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ số nào sau đây giúp phân biệt thiếu máu do nguyên nhân trung ương hay ngoại vi:",
+      "options": [
+        {
+          "text": "Nồng độ hemoglobin (Hb)"
+        },
+        {
+          "text": "Thể tích trung bình hồng cầu (MCV)"
+        },
+        {
+          "text": "Nồng độ hemoglobin trung bình hồng cầu (MCHC)"
+        },
+        {
+          "text": "Số lượng hồng cầu lưới"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thiếu máu hồng cầu nhỏ khi thể tích trung bình hồng cầu (MCV) là:",
+      "options": [
+        {
+          "text": "< 80 fL"
+        },
+        {
+          "text": "80 - 100 fL"
+        },
+        {
+          "text": "> 100 fL"
+        },
+        {
+          "text": "> 120 fL"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thiếu máu hồng cầu bình thường khi thể tích trung bình hồng cầu (MCV) là:",
+      "options": [
+        {
+          "text": "< 80 fL"
+        },
+        {
+          "text": "80 - 100 fL"
+        },
+        {
+          "text": "> 100 fL"
+        },
+        {
+          "text": "> 120 fL"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thiếu máu hồng cầu to khi thể tích trung bình hồng cầu (MCV) là:",
+      "options": [
+        {
+          "text": "< 80 fL"
+        },
+        {
+          "text": "80 - 100 fL"
+        },
+        {
+          "text": "> 100 fL"
+        },
+        {
+          "text": "< 120 fL"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo phân loại dựa vào hình thái hồng cầu, thiếu máu được chia thành:",
+      "options": [
+        {
+          "text": "Thiếu máu hồng cầu nhỏ, bình thường, to"
+        },
+        {
+          "text": "Thiếu máu nhược sắc, bình sắc, ưu sắc"
+        },
+        {
+          "text": "Thiếu máu cấp tính, mạn tính"
+        },
+        {
+          "text": "Thiếu máu có đáp ứng tạo máu và không có đáp ứng tạo máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dựa vào chỉ số MCH (lượng Hb trung bình hồng cầu), thiếu máu nhược sắc khi:",
+      "options": [
+        {
+          "text": "> 32 pg"
+        },
+        {
+          "text": "28 - 32 pg"
+        },
+        {
+          "text": "< 28 pg"
+        },
+        {
+          "text": "< 27 pg"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất gây thiếu máu hồng cầu nhỏ là:",
+      "options": [
+        {
+          "text": "Tan máu"
+        },
+        {
+          "text": "Bệnh Thalassemia"
+        },
+        {
+          "text": "Thiếu sắt"
+        },
+        {
+          "text": "Bệnh lý mạn tính"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nguyên nhân gây thiếu máu hồng cầu to, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Thiếu vitamin B12"
+        },
+        {
+          "text": "Thiếu acid folic"
+        },
+        {
+          "text": "Bệnh lý gan"
+        },
+        {
+          "text": "Bệnh Thalassemia"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Theo cơ chế bệnh sinh, dựa vào xét nghiệm nào dưới đây để chia thiếu máu thành có đáp ứng tạo máu và không có đáp ứng tạo máu:",
+      "options": [
+        {
+          "text": "Số lượng hồng cầu"
+        },
+        {
+          "text": "Công thức bạch cầu"
+        },
+        {
+          "text": "Số lượng tiểu cầu"
+        },
+        {
+          "text": "Số lượng hồng cầu lưới"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tình trạng KHÔNG có đáp ứng tạo máu (thiếu máu do nguyên nhân trung ương) là do:",
+      "options": [
+        {
+          "text": "Suy giảm sản xuất hồng cầu tại tủy xương"
+        },
+        {
+          "text": "Tăng phá hủy hồng cầu ở ngoại vi"
+        },
+        {
+          "text": "Mất máu cấp"
+        },
+        {
+          "text": "Tan máu mạn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thiếu máu do suy tủy xương thuộc nhóm nguyên nhân nào theo cơ chế bệnh sinh:",
+      "options": [
+        {
+          "text": "Trung ương"
+        },
+        {
+          "text": "Ngoại vi"
+        },
+        {
+          "text": "Tại hồng cầu"
+        },
+        {
+          "text": "Ngoài hồng cầu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tình trạng có đáp ứng tạo máu (thiếu máu do nguyên nhân ngoại vi) là do, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Mất máu cấp"
+        },
+        {
+          "text": "Tan máu cấp"
+        },
+        {
+          "text": "Tan máu mạn"
+        },
+        {
+          "text": "Suy tủy xương"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân có tiền sử đi tiêu phân đen kéo dài, gợi ý nguyên nhân thiếu máu do:",
+      "options": [
+        {
+          "text": "Tan máu"
+        },
+        {
+          "text": "Thiếu sắt"
+        },
+        {
+          "text": "Suy tủy"
+        },
+        {
+          "text": "Thiếu vitamin B12"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân có biểu hiện vàng da, lách to, nước tiểu sậm màu, gợi ý nguyên nhân thiếu máu do:",
+      "options": [
+        {
+          "text": "Tan máu"
+        },
+        {
+          "text": "Mất máu mạn"
+        },
+        {
+          "text": "Thiếu sắt"
+        },
+        {
+          "text": "Suy tủy"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân có kèm xuất huyết da niêm, gợi ý nguyên nhân thiếu máu do:",
+      "options": [
+        {
+          "text": "Mất máu mạn"
+        },
+        {
+          "text": "Tan máu"
+        },
+        {
+          "text": "Bệnh lý tủy xương"
+        },
+        {
+          "text": "Thiếu acid folic"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Để chẩn đoán thiếu máu do thiếu sắt, xét nghiệm nào sau đây có giá trị nhất:",
+      "options": [
+        {
+          "text": "Sắt huyết thanh"
+        },
+        {
+          "text": "Transferrin"
+        },
+        {
+          "text": "Ferritin huyết thanh"
+        },
+        {
+          "text": "Độ bão hòa transferrin"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xét nghiệm phết máu ngoại biên có vai trò, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Đánh giá hình thái, kích thước, màu sắc hồng cầu"
+        },
+        {
+          "text": "Đánh giá các tế bào bất thường"
+        },
+        {
+          "text": "Đánh giá chính xác số lượng hồng cầu lưới"
+        },
+        {
+          "text": "Góp phần định hướng nguyên nhân thiếu máu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây giúp chẩn đoán xác định các bệnh lý tại tủy xương (suy tủy, lơ-xê-mi):",
+      "options": [
+        {
+          "text": "Phết máu ngoại biên"
+        },
+        {
+          "text": "Định lượng erythropoietin"
+        },
+        {
+          "text": "Tủy đồ"
+        },
+        {
+          "text": "Điện di hemoglobin"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điện di hemoglobin là xét nghiệm cần thiết để chẩn đoán bệnh lý nào:",
+      "options": [
+        {
+          "text": "Thiếu máu thiếu sắt"
+        },
+        {
+          "text": "Thiếu máu do suy tủy"
+        },
+        {
+          "text": "Thalassemia và các bệnh hemoglobin khác"
+        },
+        {
+          "text": "Thiếu máu tan máu tự miễn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Các vấn đề chính cần trả lời liên quan đến hội chứng thiếu máu là: (1). Khả năng bù trừ của cơ thể. (2). Mức độ thiếu máu. (3). Bệnh lý đi kèm. (4). Nguyên nhân gây thiếu máu.",
+      "options": [
+        {
+          "text": "Câu 1 và 3 đúng"
+        },
+        {
+          "text": "Câu 2 và 4 đúng"
+        },
+        {
+          "text": "Câu 1, 2 và 3 đúng"
+        },
+        {
+          "text": "Câu 4 đúng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu nào sau đây là triệu chứng của thiếu máu: (1). Niêm mạc nhợt. (2). Đau nhức cơ. (3). Nhức đầu. (4). Tiểu sậm màu.",
+      "options": [
+        {
+          "text": "Câu 1 và 3 đúng"
+        },
+        {
+          "text": "Câu 2 và 4 đúng"
+        },
+        {
+          "text": "Câu 1, 2 và 3 đúng"
+        },
+        {
+          "text": "Câu 4 đúng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thiếu máu do mất máu cấp, các chỉ số huyết học trong những giờ đầu có thể:",
+      "options": [
+        {
+          "text": "Giảm ngay lập tức"
+        },
+        {
+          "text": "Bình thường hoặc giảm nhẹ"
+        },
+        {
+          "text": "Tăng"
+        },
+        {
+          "text": "Không thay đổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây tăng trong thiếu máu tan máu:",
+      "options": [
+        {
+          "text": "Haptoglobin"
+        },
+        {
+          "text": "Bilirubin gián tiếp"
+        },
+        {
+          "text": "Sắt huyết thanh"
+        },
+        {
+          "text": "Ferritin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nói về phân loại thiếu máu trên lâm sàng: (1). Theo diễn tiến. (2). Theo hình thái hồng cầu. (3). Theo cơ chế bệnh sinh. (4). Theo thể tích máu chảy.",
+      "options": [
+        {
+          "text": "Câu 1 và 3 đúng"
+        },
+        {
+          "text": "Câu 2 và 4 đúng"
+        },
+        {
+          "text": "Câu 1, 2 và 3 đúng"
+        },
+        {
+          "text": "Câu 4 đúng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại thiếu máu theo cơ chế bệnh sinh giúp ích gì trên lâm sàng:",
+      "options": [
+        {
+          "text": "Đánh giá mức độ nặng của thiếu máu"
+        },
+        {
+          "text": "Định hướng chẩn đoán nguyên nhân và điều trị"
+        },
+        {
+          "text": "Theo dõi diễn tiến bệnh"
+        },
+        {
+          "text": "Tiên lượng bệnh"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

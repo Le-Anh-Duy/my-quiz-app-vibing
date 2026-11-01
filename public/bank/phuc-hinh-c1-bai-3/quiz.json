@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Tại sao độ cong lồi của thân các răng thật còn lại (đặc biệt là răng trụ) là một yếu tố giải phẫu thuận lợi?",
+      "options": [
+        {
+          "text": "Vì tạo vị trí lẹm giải phẫu giúp tay móc kềm giữ và nền nhựa ôm sát vững chắc hơn"
+        },
+        {
+          "text": "Vì làm tăng diện tích tiếp xúc với thức ăn"
+        },
+        {
+          "text": "Vì kích thích tủy răng tạo ngà thứ cấp"
+        },
+        {
+          "text": "Vì giúp răng tự làm sạch mảng bám vi khuẩn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điểm tiếp xúc bình thường giữa các răng thật còn lại trên cung hàm mang lại lợi ích gì cho phục hình tháo lắp?",
+      "options": [
+        {
+          "text": "Thay thế hoàn toàn chức năng của tay móc đối kháng"
+        },
+        {
+          "text": "Làm tăng tiết nước bọt bôi trơn nền hàm"
+        },
+        {
+          "text": "Làm tăng kích thước dọc của khuôn mặt"
+        },
+        {
+          "text": "Giúp nền hàm vững ổn hơn và ngăn chặn thức ăn nhồi nhét vào các kẽ răng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm mô học của niêm mạc vùng sau răng cửa và triền sóng hàm phía khẩu cái là gì?",
+      "options": [
+        {
+          "text": "Được che chở bởi lớp niêm mạc sợi săn chắc, có khả năng chịu lực nén đè tốt"
+        },
+        {
+          "text": "Có mạng lưới thần kinh cảm giác rất nhạy cảm với đau"
+        },
+        {
+          "text": "Lớp niêm mạc mỏng manh dễ trầy xước"
+        },
+        {
+          "text": "Chứa nhiều nang tuyến nước bọt phụ tiết chất nhầy"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi mất toàn bộ các răng cối phía sau hàm trên, bờ nền hàm giả cần bao phủ lồi cùng đến giới hạn nào để đảm bảo yên vị hàm giả?",
+      "options": [
+        {
+          "text": "Chỉ bao phủ một nửa mặt trước của lồi cùng"
+        },
+        {
+          "text": "Bao phủ hoàn toàn lồi cùng tới rãnh chân bướm hàm (hamular notch)"
+        },
+        {
+          "text": "Bao phủ vượt quá khẩu cái mềm đến tận lưỡi gà"
+        },
+        {
+          "text": "Dừng lại cách lồi cùng ít nhất 5 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tại sao khi thiết kế nền hàm trên cần tránh đè nén mạnh lên vùng núm sau răng cửa (nhú khẩu cái)?",
+      "options": [
+        {
+          "text": "Vì làm nền nhựa dễ bị nứt gãy dọc đường giữa"
+        },
+        {
+          "text": "Vì nơi đây có xương xốp rất mềm"
+        },
+        {
+          "text": "Vì sẽ làm đổi màu răng cửa nhựa"
+        },
+        {
+          "text": "Vì nơi đây có bó mạch máu và thần kinh đi ra từ lỗ khẩu cái trước, đè nén sẽ gây đau rát hoặc tê bì"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm giải phẫu của đường nối giữa xương hàm trên khiến nó trở thành vùng bất lợi chịu lực là:",
+      "options": [
+        {
+          "text": "Có cơ bám rất chắc co kéo liên tục"
+        },
+        {
+          "text": "Chứa nhiều mô mỡ lỏng lẻo dễ phập phồng"
+        },
+        {
+          "text": "Lớp niêm mạc phủ bên trên rất mỏng và nằm sát xương, không chịu được lực nén mạnh"
+        },
+        {
+          "text": "Là nơi thoát ra của động mạch khẩu cái lớn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vùng Schröder ở vòm miệng được định nghĩa là gì và có đặc tính chịu lực như thế nào?",
+      "options": [
+        {
+          "text": "Vùng lõm ở khẩu cái từ vị trí răng cối nhỏ trở vào trong, chứa nhiều mô mỡ và tuyến, không chịu được lực nén mạnh"
+        },
+        {
+          "text": "Vùng rãnh giữa lồi cùng và xương bướm; chịu lực trung bình"
+        },
+        {
+          "text": "Vùng trước lỗ răng cửa; chịu lực rất tốt"
+        },
+        {
+          "text": "Vùng tam giác sau hàm dưới; chịu lực tốt nhất"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cấu trúc giải phẫu ở mặt trong xương hàm dưới gây bất lợi lớn nhất khi đặt bờ nền hàm giả do sắc nhọn và niêm mạc mỏng là:",
+      "options": [
+        {
+          "text": "Gai cằm trên"
+        },
+        {
+          "text": "Đường chéo ngoài"
+        },
+        {
+          "text": "Đường chéo trong (gờ hàm móng)"
+        },
+        {
+          "text": "Lỗ cằm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Gối hậu nha ở hàm dưới là một phần tử giải phẫu thuận lợi vì:",
+      "options": [
+        {
+          "text": "Giúp lưu giữ móc dây tròn"
+        },
+        {
+          "text": "Chứa tuyến nước bọt dưới hàm"
+        },
+        {
+          "text": "Nền hàm phủ lên 1/2 đến 2/3 gối hậu nha giúp chặn sự trượt ra sau và tăng độ vững ổn, đồng thời làm mốc xác định mặt phẳng nhai"
+        },
+        {
+          "text": "Là nơi bám duy nhất của cơ thái dương"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mặt phẳng Francfort là mặt phẳng quy chiếu giải phẫu đi qua các điểm mốc nào?",
+      "options": [
+        {
+          "text": "Hai điểm tragus (nắp tai) và điểm thấp nhất của bờ dưới hốc mắt"
+        },
+        {
+          "text": "Hai điểm tragus (nắp tai) và bờ dưới cánh mũi"
+        },
+        {
+          "text": "Đường nối giữa hai con ngươi mắt và khóe miệng"
+        },
+        {
+          "text": "Bờ cắn răng cửa và đỉnh múi răng cối lớn thứ hai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mặt phẳng nhai phục hình trên lâm sàng được xác định dựa trên mối tương quan hình học nào?",
+      "options": [
+        {
+          "text": "Trùng hoàn toàn với mặt phẳng Francfort"
+        },
+        {
+          "text": "Song song với mặt phẳng Camper ở phía sau và song song với đường liên đồng tử ở phía trước"
+        },
+        {
+          "text": "Tạo với mặt phẳng Camper một góc 45 độ"
+        },
+        {
+          "text": "Vuông góc với mặt phẳng đứng dọc giữa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo bảng hệ số nhai của người trưởng thành (tổng sức nhai hai hàm là 100 điểm), răng nào có hệ số nhai cao nhất?",
+      "options": [
+        {
+          "text": "Răng cửa giữa (răng 1)"
+        },
+        {
+          "text": "Răng cối lớn thứ nhất (răng 6) và răng cối lớn thứ hai (răng 7)"
+        },
+        {
+          "text": "Răng nanh (răng 3)"
+        },
+        {
+          "text": "Răng cối nhỏ thứ hai (răng 5)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hệ số nhai quy ước của răng nanh (răng 3) ở mỗi phần tư hàm là bao nhiêu điểm?",
+      "options": [
+        {
+          "text": "4 điểm"
+        },
+        {
+          "text": "5 điểm"
+        },
+        {
+          "text": "1 điểm"
+        },
+        {
+          "text": "2 điểm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hệ số nhai quy ước của răng cối nhỏ thứ nhất (răng 4) và răng cối nhỏ thứ hai (răng 5) là:",
+      "options": [
+        {
+          "text": "3 điểm mỗi răng"
+        },
+        {
+          "text": "1 điểm mỗi răng"
+        },
+        {
+          "text": "5 điểm mỗi răng"
+        },
+        {
+          "text": "2 điểm mỗi răng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điểm số hệ số nhai của răng cửa giữa hàm trên và răng cửa giữa hàm dưới tương ứng là:",
+      "options": [
+        {
+          "text": "Đều bằng 4 điểm"
+        },
+        {
+          "text": "Hàm trên 2 điểm, hàm dưới 1 điểm"
+        },
+        {
+          "text": "Hàm trên 1 điểm, hàm dưới 2 điểm"
+        },
+        {
+          "text": "Đều bằng 3 điểm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nhược điểm lớn nhất của phương pháp tính sức nhai bằng 'Hệ số nhai' trên lâm sàng là gì?",
+      "options": [
+        {
+          "text": "Không đánh giá chính xác được chất lượng thực tế của răng (bệnh nha chu, mức độ tiêu xương, răng nghiêng lệch, khớp cắn đối diện)"
+        },
+        {
+          "text": "Bắt buộc phải có máy chụp cắt lớp CT Cone Beam mới tính được"
+        },
+        {
+          "text": "Chỉ áp dụng được cho trẻ em đang thay răng"
+        },
+        {
+          "text": "Rất khó tính toán cộng trừ số học"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo Kennedy, loại mất răng nào được định nghĩa là 'mất răng phía sau ở cả hai bên cung hàm'?",
+      "options": [
+        {
+          "text": "Kennedy loại II"
+        },
+        {
+          "text": "Kennedy loại IV"
+        },
+        {
+          "text": "Kennedy loại III"
+        },
+        {
+          "text": "Kennedy loại I"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mất răng phía sau ở một bên cung hàm và không còn răng giới hạn phía xa thuộc loại nào theo Kennedy?",
+      "options": [
+        {
+          "text": "Kennedy loại II"
+        },
+        {
+          "text": "Kennedy loại III"
+        },
+        {
+          "text": "Kennedy loại IV"
+        },
+        {
+          "text": "Kennedy loại I"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mất răng một bên ở phía sau nhưng khoảng mất răng có răng thật kẹp ở cả hai đầu được xếp vào loại:",
+      "options": [
+        {
+          "text": "Kennedy loại I"
+        },
+        {
+          "text": "Kennedy loại III"
+        },
+        {
+          "text": "Kennedy loại II"
+        },
+        {
+          "text": "Kennedy loại IV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm nào sau đây là DUY NHẤT và quan trọng nhất của mất răng Kennedy loại IV?",
+      "options": [
+        {
+          "text": "Luôn có răng khôn kẹp ở phía xa"
+        },
+        {
+          "text": "Khoảng mất răng nằm ở một bên cung hàm"
+        },
+        {
+          "text": "Được phân chia thành 4 biến thể khác nhau"
+        },
+        {
+          "text": "Đoạn mất răng ở phía trước băng qua đường giữa và KHÔNG CÓ BIẾN THỂ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Theo quy tắc phân loại của Applegate cho bảng phân loại Kennedy, nếu có thêm các khoảng mất răng ngoài khoảng mất răng chính thì:",
+      "options": [
+        {
+          "text": "Số lượng răng bị mất quyết định tên của biến thể"
+        },
+        {
+          "text": "Khoảng mất răng phía trước nhất quyết định loại chính"
+        },
+        {
+          "text": "Các biến thể được gọi là loại V và VI"
+        },
+        {
+          "text": "Khoảng mất răng nằm xa nhất về phía sau quyết định loại chính, các khoảng mất răng còn lại được gọi là biến thể"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân mất các răng 16, 17, 18 và mất thêm răng 11, 21 (các răng khác còn nguyên vẹn). Theo phân loại Kennedy, trường hợp này thuộc loại:",
+      "options": [
+        {
+          "text": "Loại IV biến thể 1"
+        },
+        {
+          "text": "Loại I biến thể 1"
+        },
+        {
+          "text": "Loại II biến thể 1"
+        },
+        {
+          "text": "Loại III biến thể 2"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh nhân mất các răng 36, 37, 46, 47 và mất thêm răng 31, 41. Phân loại Kennedy chính xác là:",
+      "options": [
+        {
+          "text": "Loại I biến thể 1"
+        },
+        {
+          "text": "Loại III biến thể 1"
+        },
+        {
+          "text": "Loại II biến thể 2"
+        },
+        {
+          "text": "Loại IV biến thể 2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nếu một khoảng mất răng biến thể bao gồm mất liên tiếp 3 răng (ví dụ mất cả răng 14, 15, 16), khoảng này được tính là mấy biến thể?",
+      "options": [
+        {
+          "text": "2 biến thể"
+        },
+        {
+          "text": "Không được tính là biến thể"
+        },
+        {
+          "text": "3 biến thể"
+        },
+        {
+          "text": "1 biến thể (vì chỉ tính theo số lượng khoảng mất răng cách đoạn, không tính số răng mất)"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Theo hệ thống phân loại Kennedy mở rộng, 'Loại V' được dùng để chỉ trường hợp nào?",
+      "options": [
+        {
+          "text": "Mất toàn bộ răng cửa trên và dưới"
+        },
+        {
+          "text": "Mất 4 răng cửa dưới"
+        },
+        {
+          "text": "Mất răng toàn bộ hai hàm"
+        },
+        {
+          "text": "Mất răng một bên trên một đoạn rất rộng, chỉ còn lại 1 hoặc 2 răng cối đơn độc ở phía sau"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ưu điểm nổi bật nhất của bảng phân loại mất răng theo Applegate so với các bảng phân loại khác là:",
+      "options": [
+        {
+          "text": "Dựa trực tiếp trên cơ chế và khả năng nâng đỡ của phục hình"
+        },
+        {
+          "text": "Dựa trên loại móc kim loại sử dụng"
+        },
+        {
+          "text": "Dựa trên hình thái khuôn mặt bệnh nhân"
+        },
+        {
+          "text": "Dựa trên số lượng tiền chi trả của bệnh nhân"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo phân loại Applegate, mất răng Loại III khác với Loại VI ở điểm cốt lõi nào?",
+      "options": [
+        {
+          "text": "Cả hai đều có răng giới hạn hai đầu, nhưng ở Loại III các răng trụ không thể chịu toàn bộ lực nhai (do khoảng mất dài, xương tiêu, trụ yếu) nên cần thêm tựa niêm mạc"
+        },
+        {
+          "text": "Loại III là mất răng hai bên, Loại VI mất răng một bên"
+        },
+        {
+          "text": "Loại III không thể làm hàm tháo lắp"
+        },
+        {
+          "text": "Loại VI có răng trụ bị lung lay độ 3"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm lâm sàng của mất răng Loại V theo phân loại Applegate là:",
+      "options": [
+        {
+          "text": "Chỉ gặp ở người dưới 20 tuổi"
+        },
+        {
+          "text": "Không bao giờ có tiêu xương ổ răng"
+        },
+        {
+          "text": "Mất toàn bộ răng cối lớn hàm dưới"
+        },
+        {
+          "text": "Khoảng mất răng giới hạn phía trước bằng một răng cửa bên yếu với chân răng nhỏ và ngắn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Dạng mất răng nào theo Applegate được xem là đơn giản nhất, thường gặp nhất và phục hình được nâng đỡ hoàn toàn trên các răng trụ vững chắc?",
+      "options": [
+        {
+          "text": "Applegate Loại VI"
+        },
+        {
+          "text": "Applegate Loại IV"
+        },
+        {
+          "text": "Applegate Loại I"
+        },
+        {
+          "text": "Applegate Loại II"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi răng cối lớn thứ ba (răng 8) bị mất nhưng không có răng đối diện và không có chỉ định phục hồi răng này, theo quy tắc Applegate:",
+      "options": [
+        {
+          "text": "Bắt buộc phân loại là Kennedy loại I"
+        },
+        {
+          "text": "Khoảng mất răng 8 này vẫn quyết định loại Kennedy"
+        },
+        {
+          "text": "Phải tính thêm 1 biến thể"
+        },
+        {
+          "text": "Khoảng mất răng 8 này hoàn toàn không được xem xét trong phân loại"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

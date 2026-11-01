@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Viêm gan cấp mô học đặc trưng bởi:",
+      "options": [
+        {
+          "text": "Tăng sinh mô sợi"
+        },
+        {
+          "text": "Thâm nhiễm tế bào viêm quanh tĩnh mạch cửa, tổn thương tế bào gan rải rác"
+        },
+        {
+          "text": "Dị sản biểu mô"
+        },
+        {
+          "text": "Tăng sinh ống mật"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tế bào viêm chủ yếu trong viêm gan do virus là:",
+      "options": [
+        {
+          "text": "Bạch cầu trung tính"
+        },
+        {
+          "text": "Bạch cầu ái toan"
+        },
+        {
+          "text": "Lympho bào"
+        },
+        {
+          "text": "Tương bào"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thể Councilman là:",
+      "options": [
+        {
+          "text": "Hạt mỡ"
+        },
+        {
+          "text": "Tế bào gan hoại tử ái toan"
+        },
+        {
+          "text": "Tế bào viêm dạng u"
+        },
+        {
+          "text": "Tế bào Kupffer phì đại"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm gan mạn được chẩn đoán khi kéo dài trên:",
+      "options": [
+        {
+          "text": "1 tuần"
+        },
+        {
+          "text": "1 tháng"
+        },
+        {
+          "text": "3 tháng"
+        },
+        {
+          "text": "6 tháng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong viêm gan mạn hoạt động, mô học cho thấy:",
+      "options": [
+        {
+          "text": "Hoại tử mảng (piecemeal necrosis) quanh khoảng cửa"
+        },
+        {
+          "text": "Viêm cấp tính lan tỏa"
+        },
+        {
+          "text": "Viêm mô mỡ"
+        },
+        {
+          "text": "Viêm ống mật"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Biến chứng lâu dài của viêm gan mạn:",
+      "options": [
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Viêm ruột thừa"
+        },
+        {
+          "text": "Sỏi mật"
+        },
+        {
+          "text": "Gan nhiễm mỡ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Viêm gan siêu vi B có thể gây:",
+      "options": [
+        {
+          "text": "Viêm tụy cấp"
+        },
+        {
+          "text": "Xơ gan và ung thư tế bào gan"
+        },
+        {
+          "text": "Bệnh Wilson"
+        },
+        {
+          "text": "Thiếu máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương mô học ở viêm gan virus cấp nặng:",
+      "options": [
+        {
+          "text": "Hoại tử cầu gan (bridging necrosis)"
+        },
+        {
+          "text": "Viêm mạch hoại tử"
+        },
+        {
+          "text": "Nang lao"
+        },
+        {
+          "text": "Tế bào hình nhẫn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hoại tử tế bào gan trong viêm gan cấp thường xảy ra ở:",
+      "options": [
+        {
+          "text": "Vùng quanh cửa"
+        },
+        {
+          "text": "Trung tâm tiểu thùy gan"
+        },
+        {
+          "text": "Mô liên kết quanh gan"
+        },
+        {
+          "text": "Mô mỡ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm gan siêu vi C mạn thường diễn tiến âm thầm và dễ gây:",
+      "options": [
+        {
+          "text": "Viêm túi mật"
+        },
+        {
+          "text": "Gan nhiễm mỡ"
+        },
+        {
+          "text": "Xơ gan và ung thư gan tế bào nhỏ"
+        },
+        {
+          "text": "Viêm tụy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Định nghĩa xơ gan:",
+      "options": [
+        {
+          "text": "Viêm cấp gan"
+        },
+        {
+          "text": "Thoái hóa mỡ nặng"
+        },
+        {
+          "text": "Sự hình thành các dải xơ và nốt tái tạo gan"
+        },
+        {
+          "text": "Tăng áp tĩnh mạch cửa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mô học xơ gan cho thấy:",
+      "options": [
+        {
+          "text": "Viêm loét lan tỏa"
+        },
+        {
+          "text": "Các nốt tế bào gan được bao quanh bởi mô xơ"
+        },
+        {
+          "text": "Hoại tử trung tâm tiểu thùy"
+        },
+        {
+          "text": "Dị sản ống mật"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất của xơ gan:",
+      "options": [
+        {
+          "text": "Nhiễm ký sinh trùng"
+        },
+        {
+          "text": "Viêm tụy mạn"
+        },
+        {
+          "text": "Viêm gan virus B, C và nghiện rượu"
+        },
+        {
+          "text": "Viêm túi mật"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại xơ gan do rượu thường có đặc điểm:",
+      "options": [
+        {
+          "text": "Gan mềm và phồng"
+        },
+        {
+          "text": "Gan teo nhỏ, bề mặt hạt nhỏ đều"
+        },
+        {
+          "text": "Mô gan tăng sinh lan tỏa"
+        },
+        {
+          "text": "Tế bào Kupffer phì đại"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biến chứng nghiêm trọng của xơ gan:",
+      "options": [
+        {
+          "text": "Viêm đại tràng"
+        },
+        {
+          "text": "Tắc mật"
+        },
+        {
+          "text": "Tăng áp lực tĩnh mạch cửa, cổ trướng, ung thư gan"
+        },
+        {
+          "text": "Sỏi mật"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xơ gan mô học còn gọi là:",
+      "options": [
+        {
+          "text": "Viêm gan cấp"
+        },
+        {
+          "text": "Gan sợi hóa"
+        },
+        {
+          "text": "Gan nhiễm sắt"
+        },
+        {
+          "text": "Gan mỡ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nốt tái tạo ở xơ gan hình thành từ:",
+      "options": [
+        {
+          "text": "Tăng sinh ống mật"
+        },
+        {
+          "text": "Tế bào Kupffer"
+        },
+        {
+          "text": "Tăng sinh tế bào gan còn lại"
+        },
+        {
+          "text": "Đại thực bào"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại xơ gan dựa vào:",
+      "options": [
+        {
+          "text": "Mức độ đau"
+        },
+        {
+          "text": "Nồng độ enzym gan"
+        },
+        {
+          "text": "Kích thước nốt tái tạo"
+        },
+        {
+          "text": "Lượng mỡ gan"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư tế bào gan nguyên phát là:",
+      "options": [
+        {
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "text": "Hepatocellular carcinoma (HCC)"
+        },
+        {
+          "text": "Sarcoma"
+        },
+        {
+          "text": "Metastasis từ ruột"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nguy cơ chính gây HCC:",
+      "options": [
+        {
+          "text": "Nhiễm HBV, HCV, xơ gan"
+        },
+        {
+          "text": "Sỏi mật"
+        },
+        {
+          "text": "Rượu cấp"
+        },
+        {
+          "text": "Nhiễm vi khuẩn HP"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm mô học của HCC:",
+      "options": [
+        {
+          "text": "Tế bào hình tròn sắp xếp tuyến"
+        },
+        {
+          "text": "Tế bào gan dị dạng, bè tế bào dày >2 lớp"
+        },
+        {
+          "text": "Tế bào cơ trơn"
+        },
+        {
+          "text": "Tế bào hình nhẫn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu mô học đặc trưng trong carcinôm ống mật:",
+      "options": [
+        {
+          "text": "Tuyến tăng sản và mô đệm xơ hóa mạnh"
+        },
+        {
+          "text": "Bè tế bào"
+        },
+        {
+          "text": "Tế bào gan hình thoi"
+        },
+        {
+          "text": "Hoại tử dạng bã đậu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cholangiocarcinoma thường xuất hiện ở:",
+      "options": [
+        {
+          "text": "Trong lòng ruột"
+        },
+        {
+          "text": "Tế bào Kupffer"
+        },
+        {
+          "text": "Biểu mô ống mật trong và ngoài gan"
+        },
+        {
+          "text": "Đại tràng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm túi mật cấp thường do:",
+      "options": [
+        {
+          "text": "Viêm tụy"
+        },
+        {
+          "text": "Sỏi túi mật gây tắc ống cổ túi mật"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Rối loạn miễn dịch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học của viêm túi mật cấp:",
+      "options": [
+        {
+          "text": "Thâm nhập lympho và tổ chức xơ"
+        },
+        {
+          "text": "Thấm nhập bạch cầu đa nhân trung tính, phù nề, xung huyết"
+        },
+        {
+          "text": "U hạt"
+        },
+        {
+          "text": "Dị sản ruột"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm đường mật thường là hậu quả của:",
+      "options": [
+        {
+          "text": "Tăng cholesterol"
+        },
+        {
+          "text": "Vi khuẩn xâm nhập do tắc mật bởi sỏi"
+        },
+        {
+          "text": "Tăng áp lực gan"
+        },
+        {
+          "text": "Viêm gan siêu vi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học trong viêm đường mật cho thấy:",
+      "options": [
+        {
+          "text": "Thấm nhập lympho và hoại tử ống mật"
+        },
+        {
+          "text": "Loạn sản tế bào gan"
+        },
+        {
+          "text": "Xơ hóa tiểu thùy"
+        },
+        {
+          "text": "Hoại tử tế bào hình nhẫn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sỏi mật hình thành chủ yếu do:",
+      "options": [
+        {
+          "text": "Thiếu canxi"
+        },
+        {
+          "text": "Rối loạn chuyển hóa acid mật và cholesterol"
+        },
+        {
+          "text": "Dị ứng thực phẩm"
+        },
+        {
+          "text": "Nhiễm nấm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sỏi sắc tố thường liên quan đến:",
+      "options": [
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Nhiễm vi khuẩn và ký sinh trùng"
+        },
+        {
+          "text": "Rượu"
+        },
+        {
+          "text": "Tăng insulin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biến chứng nguy hiểm của viêm đường mật:",
+      "options": [
+        {
+          "text": "Rối loạn đông máu"
+        },
+        {
+          "text": "Viêm phúc mạc nhiễm trùng huyết"
+        },
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Viêm ruột"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

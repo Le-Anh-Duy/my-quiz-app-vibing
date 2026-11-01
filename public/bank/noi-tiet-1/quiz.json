@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "text": "Triệu chứng nào sau đây là triệu chứng của đái tháo đường:",
+      "options": [
+        {
+          "text": "Khát nhiều"
+        },
+        {
+          "text": "Tiểu nhiều"
+        },
+        {
+          "text": "Ăn nhiều"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đường huyết lúc đói ≥ bao nhiêu được chẩn đoán đái tháo đường:",
+      "options": [
+        {
+          "text": "≥5.6 mmol/L"
+        },
+        {
+          "text": "≥6.1 mmol/L"
+        },
+        {
+          "text": "≥7.0 mmol/L"
+        },
+        {
+          "text": "≥11.1 mmol/L"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng cấp tính nguy hiểm nhất của đái tháo đường là:",
+      "options": [
+        {
+          "text": "Nhiễm trùng"
+        },
+        {
+          "text": "Hạ đường huyết"
+        },
+        {
+          "text": "Hôn mê ceton"
+        },
+        {
+          "text": "Cả b và c"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào sau đây gợi ý cường giáp:",
+      "options": [
+        {
+          "text": "Gầy sút cân"
+        },
+        {
+          "text": "Run tay"
+        },
+        {
+          "text": "Mắt lồi"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây quan trọng nhất để chẩn đoán cường giáp:",
+      "options": [
+        {
+          "text": "TSH"
+        },
+        {
+          "text": "FT4"
+        },
+        {
+          "text": "FT3"
+        },
+        {
+          "text": "Cả a và b"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Suy giáp có biểu hiện nào sau đây:",
+      "options": [
+        {
+          "text": "Mệt mỏi"
+        },
+        {
+          "text": "Tăng cân"
+        },
+        {
+          "text": "Rụng tóc"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "HbA1c phản ánh đường huyết trong thời gian:",
+      "options": [
+        {
+          "text": "1 tháng"
+        },
+        {
+          "text": "2-3 tháng"
+        },
+        {
+          "text": "6 tháng"
+        },
+        {
+          "text": "1 năm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biến chứng mạn tính của đái tháo đường bao gồm:",
+      "options": [
+        {
+          "text": "Bệnh thận"
+        },
+        {
+          "text": "Bệnh mắt"
+        },
+        {
+          "text": "Bệnh thần kinh"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mục tiêu điều trị HbA1c ở bệnh nhân đái tháo đường là:",
+      "options": [
+        {
+          "text": "<6.5%"
+        },
+        {
+          "text": "<7%"
+        },
+        {
+          "text": "<8%"
+        },
+        {
+          "text": "<9%"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thuốc hạ đường huyết đầu tay trong đái tháo đường type 2 là:",
+      "options": [
+        {
+          "text": "Insulin"
+        },
+        {
+          "text": "Metformin"
+        },
+        {
+          "text": "Sulfonylurea"
+        },
+        {
+          "text": "Glinid"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

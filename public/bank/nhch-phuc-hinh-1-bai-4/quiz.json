@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Khi lấy dấu bằng Alginate:",
+      "options": [
+        {
+          "text": "Khay không quá cứng để dễ đưa vào miệng"
+        },
+        {
+          "text": "Khay phải có cơ chế lưu chất lấy dấu"
+        },
+        {
+          "text": "Khay vừa khít niêm mạc để không làm dư chất lấy dấu"
+        },
+        {
+          "text": "Khay lấy dấu phải rộng để lấy dấu không bị thiếu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khay lấy dấu thích hợp là:",
+      "options": [
+        {
+          "text": "Khay phải mềm dẻo không gây đau cho bệnh nhân"
+        },
+        {
+          "text": "Khay cách đều các mặt răng từ 5 - 7 mm"
+        },
+        {
+          "text": "Chiều trước sau khay phải ngắn hơn cung hàm 3 – 5 mm"
+        },
+        {
+          "text": "Chiều cao khay phải tương ứng chiều cao sống hàm và bờ khay cách đáy hành lang 3 – 5 mm."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi trộn chất lấy dấu alginate:",
+      "options": [
+        {
+          "text": "Bột: nước theo tỷ lệ 1:2"
+        },
+        {
+          "text": "Xoay nhẹ bay trộn để có chất lấy dấu min và đồng nhất"
+        },
+        {
+          "text": "Chỉ cần trộn cho bột thấm đều vào nước"
+        },
+        {
+          "text": "Cần miết chất lấy dấu vào thành chén trộn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặt Alginate vào khay lấy dấu:",
+      "options": [
+        {
+          "text": "Đặt cả khối alginate vào khay"
+        },
+        {
+          "text": "Chia alginate thành nhiều phần và đặt từng phần vào khay để tránh tạo bọt trong chất lấy dấu"
+        },
+        {
+          "text": "Đặt alginate dư ra khỏi bờ khay để bảo đảm lấy dấu không bị thiếu"
+        },
+        {
+          "text": "Đặt alginate thấp hơn bờ khay để khi lấy dấu alginate tràn ra là vừa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yêu cầu của khay lấy dấu làm sẵn",
+      "options": [
+        {
+          "text": "Mềm dẻo để không gây đau cho bệnh nhân"
+        },
+        {
+          "text": "Bờ khay càng sát đáy hành lang càng tốt"
+        },
+        {
+          "text": "Cứng rắn để không biến dạng khi lấy dấu"
+        },
+        {
+          "text": "Trơn láng để không dính chất lấy dấu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi lấy dấu:",
+      "options": [
+        {
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "text": "Bác sĩ đứng phía trước và bên phải bệnh nhân khi lấy dấu hàm trên"
+        },
+        {
+          "text": "Bác sĩ đứng phía sau và bên phải bệnh nhân khi lấy dấu hàm dưới"
+        },
+        {
+          "text": "Bệnh nhân ngồi thẳng tựa đầu vào ghế nha khoa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi lấy dấu, vị trí bác sĩ:",
+      "options": [
+        {
+          "text": "Lấy dấu hàm trên, bác sĩ đứng phía trước, bên phải bệnh nhân"
+        },
+        {
+          "text": "Lấy dấu hàm trên, bác sĩ đứng sau, bên trái bệnh nhân"
+        },
+        {
+          "text": "Lấy dấu hàm trên, bác sĩ đứng sau, bên phải bệnh nhân."
+        },
+        {
+          "text": "Lấy dấu hàm trên, bác sĩ đứng trước hay sau bệnh nhân đều được."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi lấy dấu hàm trên, vị trí đứng của Bs như sau:",
+      "options": [
+        {
+          "text": "Đứng về phía sau và về phía bên phải của bệnh nhân"
+        },
+        {
+          "text": "Đứng về phía trước và về phía bên phải của bệnh nhân"
+        },
+        {
+          "text": "Đứng phía sau bệnh nhân"
+        },
+        {
+          "text": "Đứng phía trước bệnh nhân"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi lấy dấu hàm dưới, vị trí đứng của Bs như sau:",
+      "options": [
+        {
+          "text": "Đứng phía sau, về phía bên phải bệnh nhân"
+        },
+        {
+          "text": "Đứng phía sau, về phía bên trái bệnh nhân"
+        },
+        {
+          "text": "Đứng phía trước, về phía bên phải bệnh nhân"
+        },
+        {
+          "text": "Đứng phía trước, về phía bên trái bệnh nhân"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tư thế bệnh nhân khi lấy dấu:",
+      "options": [
+        {
+          "text": "Ngồi ngã ra sau"
+        },
+        {
+          "text": "Ngối thẳng và thấp hơn tầm tay bác sĩ"
+        },
+        {
+          "text": "Ngồi thẳng, đầu hơi cuối ra phía trước"
+        },
+        {
+          "text": "Ngồi thẳng, miệng ngang tầm tay bác sĩ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọn phát biểu đúng về kỹ thuật lấy dấu bằng Alginate",
+      "options": [
+        {
+          "text": "Đặt khay lấy dấu vào cung hàm, ấn từ sau ra trước cho Alginate tràn ra khỏi khay. Đồng thời cho bệnh nhân cử động môi"
+        },
+        {
+          "text": "Đặt khay lấy dấu có chứa algiante vào cung hàm nhẹ nhàng tránh làm đau bệnh nhân, trong khi đó bảo bệnh nhân há to và giữ yên để tránh làm biến dạng dấu"
+        },
+        {
+          "text": "Khay lấy dấu được lấy ra khỏi miệng khi Alginate vừa đông để dễ dàng lấy dấu ra khỏi miệng. Tránh để alginate cứng quá vì sẽ khó lấy ra khỏi vùng lẹm."
+        },
+        {
+          "text": "Khay được giữ yên bằng hai ngón trỏ và gia tăng áp lực đè lên răng trong thời gian chờ Alginate đông cứng hoàn toàn."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn phát biểu đúng về kỹ thuật đỗ mẫu với thạch cao",
+      "options": [
+        {
+          "text": "Thạch cao trộn theo tỷ lệ bột:nước là 2:1"
+        },
+        {
+          "text": "Thạch cao trộn càng lỏng thì khả năng chui vào những chi tiết nhỏ càng cao và càng ít bọt"
+        },
+        {
+          "text": "Thạch cao được đổ vào dấu bắt đầu từ một phía trên cao của dấu với lượng nhỏ"
+        },
+        {
+          "text": "Thời gian trộng càng dài làm tăng độ mềm của thạch cao"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yêu cầu của khay lấy dấu cá nhân trong PHỤC HÌNH THÁO LẮPBH",
+      "options": [
+        {
+          "text": "Khay làm bằng nhựa tự cứng và cách đều niêm mạc và đáy hành lang 3mm"
+        },
+        {
+          "text": "Khay phải phủ hoàn toàn vùng mô cần lấy, bờ khay ngang đáy hành lang"
+        },
+        {
+          "text": "Khay bị thiếu đáy hành lang thì nên đắp thêm sáp"
+        },
+        {
+          "text": "Khay bị dư đáy hành lang thì mài bớt sao cho cách đáy hành lang 3mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi lấy dấu:",
+      "options": [
+        {
+          "text": "Bác sĩ đứng phía trước bệnh nhân"
+        },
+        {
+          "text": "Bác sĩ đứng bên phải hoặc phía sau bệnh nhân ở vị trí 9h30 hoặc 11h30"
+        },
+        {
+          "text": "Bác sĩ đứng bên trái bệnh nhân ở vị trí 15h"
+        },
+        {
+          "text": "Bác sĩ đứng phía sau bệnh nhân"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm của gối sáp:",
+      "options": [
+        {
+          "text": "Nằm trên lồi cùng và gối hậu nha."
+        },
+        {
+          "text": "Chiều cao gối sáp thấp hơn các tăng còn lại 1-1,5mm."
+        },
+        {
+          "text": "Bề ngang 8mm ở vùng răng trước, 6mm ở vùng răng sau."
+        },
+        {
+          "text": "Chiều dài vừa chạm răng thật ở đầu khoảng mất răng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Kích thước dọc được đo từ:",
+      "options": [
+        {
+          "text": "2 - 4 mm."
+        },
+        {
+          "text": "Điểm nhô ra nhất mũi đến điểm nhô ra nhất của cằm."
+        },
+        {
+          "text": "Mặt phẳng Camper và mặt phẳng phục hình."
+        },
+        {
+          "text": "Nhân trung đến lồi cằm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các trường hợp cần xác định tương quan tâm:",
+      "options": [
+        {
+          "text": "Mất răng toàn hàm."
+        },
+        {
+          "text": "Răng mòn quá nhiều."
+        },
+        {
+          "text": "Mất răng từng khoảng không còn điểm chạm giữa các răng còn lại."
+        },
+        {
+          "text": "Tất cả đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Kích thước ngang của 6 răng trước là:",
+      "options": [
+        {
+          "text": "Khoảng cách giữa 2 cánh mũi."
+        },
+        {
+          "text": "Khoảng cách giữa 2 khoé miệng."
+        },
+        {
+          "text": "Chỉ số LEE."
+        },
+        {
+          "text": "Tất cả sai."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi lấy dấu hàm trên, vị trí đứng của Bác sĩ:",
+      "options": [
+        {
+          "text": "Đứng về phía sau và bên phải của BN"
+        },
+        {
+          "text": "Đứng về phía trước và bên phải của BN"
+        },
+        {
+          "text": "Đứng về phía sau BN"
+        },
+        {
+          "text": "Đứng phía trước BN"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lí thuận lợi cho hàm trên",
+      "options": [
+        {
+          "text": "Vùng sau răng cửa"
+        },
+        {
+          "text": "Thắng bên"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Đường nối giữa xương hàm trên"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mặt phẳng Francfort",
+      "options": [
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua 2 điểm tragus và điểm phía dưới cánh mũi"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng song song với mặt phẳng Camper"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua điểm phía dưới cánh mũi và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hệ số nhai của R6 hàm trên là",
+      "options": [
+        {
+          "text": "Nhỏ hơn R3 hàm trên"
+        },
+        {
+          "text": "Nhỏ hơn R8 hàm trên"
+        },
+        {
+          "text": "Nhỏ nhất hàm trên"
+        },
+        {
+          "text": "Hệ số nhai bằng 5"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng bán hàm theo Kennedy thì mất răng sau 1 bên và thêm 1 đoạn mất răng phía trước",
+      "options": [
+        {
+          "text": "Loại 1 biến thể 1"
+        },
+        {
+          "text": "Loại 2 biến thể 1"
+        },
+        {
+          "text": "Loại 1 biến thể 2"
+        },
+        {
+          "text": "Loại 2 biến thể 2"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn câu SAI. Về việc lấy dấu trong phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "text": "Chất lấy dấu thường dùng là một hydrocolloide"
+        },
+        {
+          "text": "Mục đích là để ghi nhận và tái lập một cách trung thực hình dạng 3 chiều của cung răng và vùng mất răng"
+        },
+        {
+          "text": "Vật liệu ghi dấu phải có một áp lực đủ và tập trung lên mặt nhai của răng so với các mặt khác."
+        },
+        {
+          "text": "Tránh tạo bọt khí"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tư thế bác sĩ khi lấy dấu hàm dưới",
+      "options": [
+        {
+          "text": "Đứng phía sau và về bên phải bệnh nhân"
+        },
+        {
+          "text": "Đứng phía trước và về bên phải bệnh nhân"
+        },
+        {
+          "text": "Vị trí 11 giờ 30"
+        },
+        {
+          "text": "VỊ trí 3 giờ 30"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chất lấy dấu có mấy nhóm chính:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phương pháp lấy dấu trong phục hình tháo lắp bán hàm, chọn câu sai",
+      "options": [
+        {
+          "text": "Vật liệu lấy dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt."
+        },
+        {
+          "text": "Tránh tạo những bọt do không khí hay nước bọt."
+        },
+        {
+          "text": "Đổ mẫu ngay trong thời gian ngắn."
+        },
+        {
+          "text": "Dấu sẽ không bị biến dạng theo thời gian."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Vật liệu nào sau đây được dùng để lấy dấu phổ biếng nhất?",
+      "options": [
+        {
+          "text": "Alginate"
+        },
+        {
+          "text": "Silicones"
+        },
+        {
+          "text": "Polyethers"
+        },
+        {
+          "text": "Proxy sulphides"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Có bao nhiêu loại khay lấy dấu cơ bản?",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo chỉ số chức năng ăn nhai thì",
+      "options": [
+        {
+          "text": "Các răng cửa giữa trên và dưới như nhau"
+        },
+        {
+          "text": "Các răng nanh trên lớn hơn các răng nanh dưới"
+        },
+        {
+          "text": "Các răng cối nhỏ trên và dưới như nhau"
+        },
+        {
+          "text": "Các răng cối lớn trên và dưới như nhau"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Kỹ thuật lấy dấu:",
+      "options": [
+        {
+          "text": "Ấn khay từ trước ra sau cho alginate tràn ra khỏi khay và lấp đầy đáy hành lang"
+        },
+        {
+          "text": "Cho bệnh nhân thổi để lấy dấu thắng môi, má"
+        },
+        {
+          "text": "Cho bệnh nhân đưa lưỡi ra sau và sang bên để lấy dấu thắng lưỡi"
+        },
+        {
+          "text": "Giữ khay ổn định trong 2-3 phút"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọn câu sai. Yêu cầu của một nền tạm là gì?",
+      "options": [
+        {
+          "text": "Không cần phải phủ và ôm sát sống hàm, vòm khẩu cái"
+        },
+        {
+          "text": "Hình dạng của một nền tạm tương đối đối xương qua đường giữa hàm"
+        },
+        {
+          "text": "Có chiều dày đồng nhất khoảng 2mm"
+        },
+        {
+          "text": "Nền tạm phải nhẵn, bóng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn đặc điểm đúng về thạch cao",
+      "options": [
+        {
+          "text": "Là vật liệu lấy dấu ra đời lâu nhất và không ổn định, dễ biến dạng"
+        },
+        {
+          "text": "Mới được đưa vào sử dụng trong nha khoa ở thế kỉ XX và rất ổn định, khó biến dạng"
+        },
+        {
+          "text": "Cứng, dễ vỡ khi lấy ra khỏi miệng và có thành phần là CaSO4 và bột khoai tây"
+        },
+        {
+          "text": "Cả ba câu trên đều sai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tư thế bác sĩ khi lấy dấu",
+      "options": [
+        {
+          "text": "Đứng bên phải phía trước khi lấy dấu hàm trên"
+        },
+        {
+          "text": "Đứng bên phải phía sau khi lấy dấu hàm trên"
+        },
+        {
+          "text": "Đứng bên trái phía trước khi lấy dấu hàm dưới"
+        },
+        {
+          "text": "Đứng bên trái phía sau khi lấy dấu hàm dưới"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những yêu cầu khi lấy dấu cho bệnh nhân, chọn câu sai:",
+      "options": [
+        {
+          "text": "Vật liệu ghi dấu phải có một áp lực đủ và đồng đều trên tất cả các bề mặt"
+        },
+        {
+          "text": "Tránh tạo những bọt do không khí hay nước bọt"
+        },
+        {
+          "text": "Tránh làm biến dạng dấu khi tháo khay ra trên lâm sàng và tránh biến dạng sau đó do thời gian"
+        },
+        {
+          "text": "Khi lấy dấu xong có thể đỗ mẫu lúc nào cũng được"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong phục hình tháo lắp bán phần, chất liệu lấy dấu nào sau đây thường được sử dụng nhất:",
+      "options": [
+        {
+          "text": "Agar – agar"
+        },
+        {
+          "text": "Alginate"
+        },
+        {
+          "text": "Silicones"
+        },
+        {
+          "text": "Poly sulphides"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yêu cầu của một khay lấy khuôn",
+      "options": [
+        {
+          "text": "Mặt trong thành thìa cách đều các mặt răng 4-5mm"
+        },
+        {
+          "text": "Bờ thành thìa cách ngách lợi 4-5mm"
+        },
+        {
+          "text": "Mặt trong thìa hàm trên cách vòm miệng 4-5mm"
+        },
+        {
+          "text": "Chiều dài thìa hàm dưới phủ tam giác sau hàm 2-3mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "khi trộn chất lấy dấu alginate:",
+      "options": [
+        {
+          "text": "Tỉ lệ bột và nước là 1:2"
+        },
+        {
+          "text": "Trộn càng lâu càng tốt."
+        },
+        {
+          "text": "Dùng nước lạnh sẽ làm cho alginate lâu đông hơn."
+        },
+        {
+          "text": "Xoay nhẹ bay trộn để alginate mịn hơn."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khay lấy dấu gồm:",
+      "options": [
+        {
+          "text": "Khay làm sẵn"
+        },
+        {
+          "text": "Khay cá nhân"
+        },
+        {
+          "text": "A,B đúng"
+        },
+        {
+          "text": "A,B sai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yêu cầu của kĩ thuật lấy dấu, ngoại trừ:",
+      "options": [
+        {
+          "text": "Tránh tạo bọt do không khí hay nước bọt"
+        },
+        {
+          "text": "Tránh làm biến dạng dấu khi tháo khay ra trên lâm sàng"
+        },
+        {
+          "text": "Có thể đổ mẫu sau lấy dấu 24h"
+        },
+        {
+          "text": "Vật liệu ghi dấu phải có áp lực đủ và đồng đều trên tất cả các bề mặt"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điều nào sau đây không phải là đặc điểm của Alginate lấy dấu:",
+      "options": [
+        {
+          "text": "Là vật liệu đàn hồi có khả năng phục hồi"
+        },
+        {
+          "text": "Thấm nước và dễ sử dụng"
+        },
+        {
+          "text": "Dễ biến dạng khi để ngoài không khí"
+        },
+        {
+          "text": "Được chiết xuất từ tảo nâu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tư thế bệnh nhân khi lấy dấu:",
+      "options": [
+        {
+          "text": "Ngồi ngã ra sau."
+        },
+        {
+          "text": "Ngồi thẳng và thấp hơn tầm tay bác sĩ."
+        },
+        {
+          "text": "Ngồi thẳng, đầu hơi cuối ra phía trước."
+        },
+        {
+          "text": "Ngồi thẳng, miệng ngang tầm tay bác sĩ."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tại sao alginate lại thường được dùng làm vật liệu lấy dấu",
+      "options": [
+        {
+          "text": "Giá rẻ"
+        },
+        {
+          "text": "Có thể tái sử dụng"
+        },
+        {
+          "text": "Dễ thực hiện"
+        },
+        {
+          "text": "Cho kết quả tốt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kỹ thuật lấy dấu",
+      "options": [
+        {
+          "text": "BS đứng góc 9h30 khi lấy dấu hàm trên"
+        },
+        {
+          "text": "BS đứng góc 11h30 khi lấy dấu hàm dưới"
+        },
+        {
+          "text": "BN ngồi thẳng, miệng ngang tầm BS"
+        },
+        {
+          "text": "Cả abc đều đúng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi lấy dấu bằng Alginate",
+      "options": [
+        {
+          "text": "Khay không quá cứng để dễ đưa vào miệng"
+        },
+        {
+          "text": "Khay phải có cơ chế để lưu chất lấy dấu"
+        },
+        {
+          "text": "Khay vừa khít niêm mạc để không làm dư chất lấy dấu"
+        },
+        {
+          "text": "Khay lấy dấu phải rộng để lấy dấu không bị thiếu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tư thế bác sĩ khi lấy dấu hàm trên",
+      "options": [
+        {
+          "text": "Bác sĩ đứng phía trước, bên phải bệnh nhân vị trí 9h30"
+        },
+        {
+          "text": "Bác sĩ đứng phía sau, bên phải bệnh nhân vị trí 11h 30"
+        },
+        {
+          "text": "Bác sĩ đứng phía trước, bên phải bệnh nhân vị trí 8h"
+        },
+        {
+          "text": "Bác sĩ đứng phía sau, bên trái bệnh nhân vị trí 1h30"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi lấy dấu hàm dưới cho bệnh nhân, bác sĩ nên đứng phía trước về bên phải bệnh nhân ở vị trí mấy giờ:",
+      "options": [
+        {
+          "text": "7 giờ 30"
+        },
+        {
+          "text": "8 giờ 30"
+        },
+        {
+          "text": "9 giờ 30"
+        },
+        {
+          "text": "10 giờ 30"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tại sao alginate được sử dụng làm vật liệu lấy dấu? Chọn câu sai",
+      "options": [
+        {
+          "text": "Rẻ"
+        },
+        {
+          "text": "Dễ thao tác"
+        },
+        {
+          "text": "Sử dụng đúng cho kết quả hoàn hảo"
+        },
+        {
+          "text": "Khó biến dạng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tái lập khớp cắn khi lắp và điều chỉnh phục hình tháo lắp bán hàm cần dựa vào:",
+      "options": [
+        {
+          "text": "Quy tắc Bull"
+        },
+        {
+          "text": "Quy tắc đường phân giác"
+        },
+        {
+          "text": "Chỉ số LEE"
+        },
+        {
+          "text": "Mặt phẳng Francfort"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lấy dấu hàm trên hướng mấy giờ?",
+      "options": [
+        {
+          "text": "9h30."
+        },
+        {
+          "text": "10h30."
+        },
+        {
+          "text": "11h30 ."
+        },
+        {
+          "text": "12h30."
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

@@ -1,0 +1,1699 @@
+{
+  "questions": [
+    {
+      "text": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo ……………… và tương quan theo ……………..",
+      "options": [
+        {
+          "text": "Chiều dọc/ chiều ngang."
+        },
+        {
+          "text": "Chiều dọc/ chiều đứng."
+        },
+        {
+          "text": "Chiều cao/ chiều đứng."
+        },
+        {
+          "text": "Chiều cao/ chiều ngang."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo ……………… và tương quan theo ……………..",
+      "options": [
+        {
+          "text": "Chiều dọc/ chiều đứng."
+        },
+        {
+          "text": "Chiều dọc/ chiều ngang."
+        },
+        {
+          "text": "Chiều cao/ chiều đứng."
+        },
+        {
+          "text": "Chiều cao/ chiều ngang."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo ……………… và tương quan theo ……………..",
+      "options": [
+        {
+          "text": "Chiều dọc/ chiều đứng."
+        },
+        {
+          "text": "Chiều cao/ chiều đứng."
+        },
+        {
+          "text": "Chiều dọc/ chiều ngang."
+        },
+        {
+          "text": "Chiều cao/ chiều ngang."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điền khuyết. Tương quan hai hàm là tương quan về vị trí giữa hàm trên và hàm dưới, bao gồm tương quan theo ……………… và tương quan theo ……………..",
+      "options": [
+        {
+          "text": "Chiều dọc/ chiều đứng."
+        },
+        {
+          "text": "Chiều cao/ chiều đứng."
+        },
+        {
+          "text": "Chiều cao/ chiều ngang."
+        },
+        {
+          "text": "Chiều dọc/ chiều ngang."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "text": "Trên miệng."
+        },
+        {
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "text": "Trên hai mẫu hàm thạch cao."
+        },
+        {
+          "text": "Trên giá khớp."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "text": "Trên miệng bệnh nhân."
+        },
+        {
+          "text": "Trên hai mẫu hàm thạch cao."
+        },
+        {
+          "text": "Trên giá khớp."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "text": "Trên hai mẫu hàm thạch cao."
+        },
+        {
+          "text": "Trên miệng."
+        },
+        {
+          "text": "Trên giá khớp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tương quan hai hàm được xác định:",
+      "options": [
+        {
+          "text": "Trên hai bản nền tạm – gối sáp"
+        },
+        {
+          "text": "Trên hai mẫu hàm thạch cao."
+        },
+        {
+          "text": "Trên giá khớp"
+        },
+        {
+          "text": "Trên miệng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Điền khuyết. Tương quan hai hàm, được xác định ……. nhờ vào nền tạm – gối sáp và được chuyển qua mẫu hàm để hai mẫu hàm của bệnh nhân có mối tương quan ……………...",
+      "options": [
+        {
+          "text": "Trên miệng/ giống như trên miệng."
+        },
+        {
+          "text": "Trên miệng/ gần giống như trên miệng."
+        },
+        {
+          "text": "Ngoài miệng/ giống như trên miệng."
+        },
+        {
+          "text": "Ngoài miệng/ giống như trên miệng."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nền tạm cần đạt các yêu cầu sau:",
+      "options": [
+        {
+          "text": "Phủ 2/3 lồi cùng và 2/3 gối hậu nha"
+        },
+        {
+          "text": "Ôm sát cổ răng các răng cửa, răng cối nhỏ, răng cối lớn"
+        },
+        {
+          "text": "Có chiều dày đồng nhất khoảng 2mm và được làm nhẵn, bóng"
+        },
+        {
+          "text": "Càng rộng, càng dày càng tốt."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Câu nào sau đây là SAI khi nói về đặc điểm của nền tạm:",
+      "options": [
+        {
+          "text": "Được làm bằng nhựa tự cứng, Shellac, sáp hồng."
+        },
+        {
+          "text": "Có chiều dày đồng nhất khoảng 3 mm"
+        },
+        {
+          "text": "Tránh thắng môi, má, lưỡi."
+        },
+        {
+          "text": "Tương đối đối xứng qua đường giữa hàm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm của gối sáp:",
+      "options": [
+        {
+          "text": "Nằm ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Làm bằng hoặc cao hơn các răng còn lại 1 -1,5 mm"
+        },
+        {
+          "text": "Hai đầu gối sáp vừa chạm các răng thật"
+        },
+        {
+          "text": "Tất cả các câu trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm gối sáp là:",
+      "options": [
+        {
+          "text": "Nằm ngay trên đỉnh sống hàm."
+        },
+        {
+          "text": "Chiều cao gối sáp cao hơn các răng còn lại khoảng 1 – 1,5 mm."
+        },
+        {
+          "text": "Chiều ngang gối sáp rộng hơn các răng còn lại từ 1 – 1,5 mm."
+        },
+        {
+          "text": "Tất cả các câu trên đều đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi ghi khớp cắn trung tâm, bác sĩ cần lưu ý:",
+      "options": [
+        {
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại."
+        },
+        {
+          "text": "Cần so màu răng"
+        },
+        {
+          "text": "Không cần thử nền tạm –gối sáp"
+        },
+        {
+          "text": "Luôn luôn làm khóa chữ H"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các trường hợp cần xác định tương quan tâm",
+      "options": [
+        {
+          "text": "Mất răng toàn hàm"
+        },
+        {
+          "text": "Răng mòn quá nhiều"
+        },
+        {
+          "text": "Mất răng từng khoảng mà không còn điểm chạm giữa các răng còn lại"
+        },
+        {
+          "text": "Tất cả các câu trên đều đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nền tạm (chọn câu sai)",
+      "options": [
+        {
+          "text": "Được làm bằng nhựa tự cứng, Shellac, sáp hồng."
+        },
+        {
+          "text": "Có chiều dày đồng nhất khoản g 3 mm ."
+        },
+        {
+          "text": "Tránh thắng môi, má, lưỡi."
+        },
+        {
+          "text": "Tương đối đối xứng qua đường giữa hàm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn phát biểu đúng khi nói về cách ghi cắn khít trung tâm:",
+      "options": [
+        {
+          "text": "Khi có ít răng bị mất vẫn luôn luôn lấy dấu cắn mới đảm bảo ghi đúng cắn khít trung tâm."
+        },
+        {
+          "text": "Trường hợp mất răng loại I và loại II Kennedy trên 1 cung hàm, cung hàm đối diện còn răng phía sau thì cần phải đo kích thước dọc trước khi ghi cắn khít trung tâm."
+        },
+        {
+          "text": "Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm thì bắt buộc phải đo kích thước dọc trước khi ghi cắn khít trung tâm."
+        },
+        {
+          "text": "Trường hợp cả cung hàm mất răng mà không còn điểm chạm thì cần phải đo kích thước dọc trước khi ghi cắn khít trung tâm."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nền tạm cần đạt các yêu cầu sau:",
+      "options": [
+        {
+          "text": "Phủ sống hàm, ôm một phần vòm khẩu cái, phủ 2/3 lồi cùng và 2/3 tam giác hậu hàm"
+        },
+        {
+          "text": "Ôm sát cổ các răng cửa, răng cối nhỏ và răng cối lớn"
+        },
+        {
+          "text": "Có chiều dày đồng nhất và được làm nhẵn, láng."
+        },
+        {
+          "text": "Nền tạm càng rộng càng tốt để giảm lực nén xuống mô chịu bên dưới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi ghi khớp cắn trung tâm:",
+      "options": [
+        {
+          "text": "Không cần thử khung sườn trước"
+        },
+        {
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại trên cung hàm."
+        },
+        {
+          "text": "Cần so màu răng"
+        },
+        {
+          "text": "Làm khóa chữ H khi mất nhiều răng phía trước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các trường hợp cần xác định tương quan tâm:",
+      "options": [
+        {
+          "text": "Mất răng toàn hàm"
+        },
+        {
+          "text": "Răng mòn quá nhiều"
+        },
+        {
+          "text": "Mất răng từng khoảng mà không còn điểm chạm giữa các răng còn lại"
+        },
+        {
+          "text": "Tất cả đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trường hợp nào sau đây cần phải xác định lại kích thước dọc trước khi ghi tương quan hai hàm:",
+      "options": [
+        {
+          "text": "Khi cung hàm còn răng thật và có tình trạng khớp cắn bình thường."
+        },
+        {
+          "text": "Trường hợp mất răng loại I và loại II Kennedy trên 1 cung hàm."
+        },
+        {
+          "text": "Trường hợp mất răng loại I, loại II Kennedy trên 2 cung hàm."
+        },
+        {
+          "text": "Trường hợp mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi ghi khớp cắn trung tâm:",
+      "options": [
+        {
+          "text": "Không cần thử nền tạm – gối sáp trước"
+        },
+        {
+          "text": "Cần ghi nhận vị trí và điểm chạm của các răng còn lại trên cung hàm"
+        },
+        {
+          "text": "Cần so màu răng"
+        },
+        {
+          "text": "Làm khóa chữ H khi mất nhiều răng phía trước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các trường hợp cần xác định tương quan tâm:",
+      "options": [
+        {
+          "text": "Mất răng toàn hàm"
+        },
+        {
+          "text": "Răng mòn quá nhiều"
+        },
+        {
+          "text": "Mất răng từng khoảng mà không còn điểm chạm giữa các răng còn lại"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Có bao nhiêu phương pháp để thiết lập tương quan hai hàm theo chiều ngang?",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cách ghi tương quan sau đây là đúng trong trường hợp mất răng Kenedy loại I trên cả hai cung hàm",
+      "options": [
+        {
+          "text": "Cho 2 mẫu hàm khớp vào nhau mà không cần cách ghi nào khác"
+        },
+        {
+          "text": "Khắc khóa trên gối sáp hàm dưới, gối sáp hàm trên nơi đối diện phủ 1 lớp sáp nhôm khoảng 1mm"
+        },
+        {
+          "text": "Khắc khóa trên gối sáp hàm trên, gối sáp hàm dưới nơi đối diện phủ 1 lớp sáp lá khoảng 1mm"
+        },
+        {
+          "text": "Khắc khóa trên gối sáp hàm trên, gối sáp hàm dưới nơi đối diện phủ 1 lớp sáp nhôm khoảng 1mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bề ngang gối sáp:",
+      "options": [
+        {
+          "text": "4 mm vùng răng trước, 6 mm vùng răng sau"
+        },
+        {
+          "text": "5 mm vùng răng trước, 7 mm vùng răng sau"
+        },
+        {
+          "text": "6 mm vùng răng trước, 8 mm vùng răng sau"
+        },
+        {
+          "text": "7 mm vùng răng trước, 9 mm vùng răng sau"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Kích thước dọc cắn khớp:",
+      "options": [
+        {
+          "text": "Khoảng cách từ điểm nhô nhất ở mũi đến điểm nhô nhất ở cằm"
+        },
+        {
+          "text": "Khoảng cách từ điểm nhô nhất ở mũi đến điểm nhô nhất ở cằm trừ đi 2mm (hoặc 4 mm)"
+        },
+        {
+          "text": "Được xác định khi hàm dưới ở tư thế nghỉ"
+        },
+        {
+          "text": "Không liên quan đến kích thước dọc nghỉ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điều phải làm trong trường hợp răng thật không tiếp nhau ở kích thước dọc khớp cắn đúng ( mất răng từng khoảng mà không còn điểm chạm giữa các răng còn lại hoặc răng mòn quá mức)",
+      "options": [
+        {
+          "text": "Xác định lại kích thước dọc"
+        },
+        {
+          "text": "Điều chỉnh nền tạm gối sáp hai hàm sao cho bệnh nhân cắn lại kích thước dọc đúng"
+        },
+        {
+          "text": "Hướng dẫn bệnh nhân đưa về tương quan tâm"
+        },
+        {
+          "text": "Tất cả ý trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọn câu đúng. Trong phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "text": "Nền tạm cần ôm sát cổ tất cả các răng thật còn lại"
+        },
+        {
+          "text": "Mất răng tới đâu, gối sáp được làm tới đó"
+        },
+        {
+          "text": "Gối sáp được đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Nền tạm không được phủ lồi cùng và gối hậu nha"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chọn câu SAI:",
+      "options": [
+        {
+          "text": "Tương quan 2 hàm được xác định trên 2 mẫu hàm"
+        },
+        {
+          "text": "Thiết lập tương quan tâm trong trường hợp các răng thật không tiếp xúc nhau ở kích thước dọc khớp cắn đúng"
+        },
+        {
+          "text": "Mất răng loại III và IV Kennedy thường ghi được khớp cắn trung tâm một cách dễ dàng."
+        },
+        {
+          "text": "Vô giá khớp đúng sẽ giúp sắp răng giả vào đúng vị trí thích hợp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phải tìm chiều cao tầng mặt dưới ở tư thế nghỉ sinh lý khi:",
+      "options": [
+        {
+          "text": "Chỉ còn 1 điểm chạm"
+        },
+        {
+          "text": "Không còn điểm chạm"
+        },
+        {
+          "text": "Còn 2 điểm chạm"
+        },
+        {
+          "text": "Còn đủ 3 điểm chạm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Câu SAI khi nói về khớp cắn bình thường:",
+      "options": [
+        {
+          "text": "Khớp cắn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới theo 2 chiều."
+        },
+        {
+          "text": "Độ overbite khoảng 2mm là bình thường"
+        },
+        {
+          "text": "Độ overjet hơn 4mm là cắn sâu"
+        },
+        {
+          "text": "Độ overbite không chạm là cắn hở"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chọn câu đúng, trường hợp mất hết các răng sau",
+      "options": [
+        {
+          "text": "Gối sáp chỉ được làm đến vùng R6 và vát một góc 45 độ tại vùng R7"
+        },
+        {
+          "text": "Gối sáp chỉ được làm đến vùng R7 và vát một góc 45 độ tại vùng R8"
+        },
+        {
+          "text": "Gối sáp chỉ được làm đến vùng R5 và vát một góc 45 độ tại vùng R6"
+        },
+        {
+          "text": "Vát một góc 45 độ ở bất kì vị trí nào"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn câu đúng",
+      "options": [
+        {
+          "text": "Luôn luôn làm khóa chữ H"
+        },
+        {
+          "text": "Xác định lại kích thước dọc khi mất răng xen kẽ không còn điểm chạm"
+        },
+        {
+          "text": "Đối với bệnh nhân có kích thước dọc cắn khớp đúng ta nên ghi tương quan tâm"
+        },
+        {
+          "text": "Sự tiếp xúc của các răng đối kháng sẽ xác định kích thước dọc nghỉ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn câu sai:",
+      "options": [
+        {
+          "text": "Khi hàm dưới ở tư thế nghỉ sinh lý, khoảng nghỉ sinh lý trung bình từ 2-4 mm"
+        },
+        {
+          "text": "Kích thước dọc đúng là khoảng cách được đo từ điểm nhô ra nhất của mũi đến điểm nhô ra nhất ở môi"
+        },
+        {
+          "text": "Kích thước dọc cắn khớp = kích thước dọc nghỉ - 2 ( hoặc 4 mm)"
+        },
+        {
+          "text": "Khi không còn sự tiếp xúc răng, ta phải xác định lại kích thước dọc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm gối sáp",
+      "options": [
+        {
+          "text": "Cao hơn các răng còn lại 1.5-2 mm"
+        },
+        {
+          "text": "Rộng hơn các răng còn lại từ 0.5-1 mm"
+        },
+        {
+          "text": "Vát một góc 45 độ tại vùng R7"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "1 Tái lập kích thước dọc đứng\n2 Hoàn hảo cắn khớp làm việc và thăng bằng\n3 Tái lập khớp cắn tới đúng\n4 Tái lập cắn khớp trung tâm đúng\nSắp xếp theo đúng thứ tự:",
+      "options": [
+        {
+          "text": "1-4-2-3"
+        },
+        {
+          "text": "1-2-3-4"
+        },
+        {
+          "text": "4-2-3-1"
+        },
+        {
+          "text": "4-3-1-2"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Gối sáp, chọn câu sai",
+      "options": [
+        {
+          "text": "Đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Là nơi sắp các răng giả thay thế các răng đã mất"
+        },
+        {
+          "text": "Cao hơn các răng còn lại khoảng 1 -1,5cm"
+        },
+        {
+          "text": "Dùng để ghi lại tương quan 2 hàm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Yêu cầu của một nền tạm trong PHỤC HÌNH THÁO LẮPBH? Chọn câu sai?",
+      "options": [
+        {
+          "text": "Tránh thắng môi ,má lưỡi"
+        },
+        {
+          "text": "Đối xứng qua đường giữa hàm"
+        },
+        {
+          "text": "Nền tạm phải nhẵn, bóng"
+        },
+        {
+          "text": "Độ dày nền tạm phải lớn hơn 3cm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Đặc điểm của gối sáp:",
+      "options": [
+        {
+          "text": "Đặt ra trước đỉnh sống hàm 2-3 mm"
+        },
+        {
+          "text": "Chiều cao cao hơn các răng còn lại 3-4 mm"
+        },
+        {
+          "text": "Chiều ngang rộng hơn các răng còn lại 1-1,5mm"
+        },
+        {
+          "text": "Nằm phủ lồi cùng và gối hậu nha"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi hàm dưới ở tư thế nghỉ sinh lý, các răng đối kháng không chạm nhau mà cách nhau một khoảng sinh lý trung bình:",
+      "options": [
+        {
+          "text": "1-2mm"
+        },
+        {
+          "text": "2-4mm"
+        },
+        {
+          "text": "2-6mm"
+        },
+        {
+          "text": "4-6mm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Chọn câu sai. Gối sáp:",
+      "options": [
+        {
+          "text": "Được đặt ngay trên đỉnh sóng hàm"
+        },
+        {
+          "text": "Vừa chạm với răng thật ở đầu khoảng mất răng"
+        },
+        {
+          "text": "Nằm trên lồi cùng và gối hậu nha"
+        },
+        {
+          "text": "Trường hợp mất hết răng sau, gối sáp chỉ được làm đến vùng răng 6 và được vát một góc 450 tại vùng răng 7"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Trường hợp nào trong PHỤC HÌNH THÁO LẮPBH cần xác định lại kích thước dọc (KTD) cắn khớp đúng?",
+      "options": [
+        {
+          "text": "Các răng thật ở hàm trên và hàm dưới tiếp xúc nhau tại kích thước dọc có khoảng nghỉ sinh lý từ 2-4mm"
+        },
+        {
+          "text": "Các răng thật có tiếp xúc nhau nhưng cho khoảng nghỉ sinh lý >4mm"
+        },
+        {
+          "text": "Các răng thật không tiếp xúc nhau (mất hết răng, mất răng xen kẽ…)"
+        },
+        {
+          "text": "B và C"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Cách đo kích thức dọc là?",
+      "options": [
+        {
+          "text": "Kích thước dọc là khoảng cách được đo từ điểm nhô ra nhất của mũi đến điểm nhô ra nhất ở cằm."
+        },
+        {
+          "text": "Kích thước dọc là khoảng cách được đo từ điểm nhô ra nhất của mũi đến điểm nhô ra nhất ở môi trên."
+        },
+        {
+          "text": "Kích thước dọc là khoảng cách được đo từ điểm nhô ra nhất của mũi đến điểm nhô ra nhất ở môi dưới"
+        },
+        {
+          "text": "Cả ba câu trên đều sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn câu sai về đặc điểm của gối sáp.",
+      "options": [
+        {
+          "text": "Gối sáp được đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Chiều cao của gối sáp cao hơn các R còn lại từ 1 – 1,5mm"
+        },
+        {
+          "text": "Chiều rộng của gối sáp hơn các R còn lại từ 1 – 1,5mm"
+        },
+        {
+          "text": "Gối sáp nằm cùng trên lồi cùng và gối hậu nha"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tương quan 2 hàm là gì?",
+      "options": [
+        {
+          "text": "Là tương quan về vị trí giữa hàm trên và hàm dưới theo chiều dọc"
+        },
+        {
+          "text": "Là tương quan về vị trí giữa hàm trên và hàm dưới bao gồm tương quan theo chiều dọc và chiều ngang"
+        },
+        {
+          "text": "Là tương quan về vị trí giữa các răng cửa hàm trên và dưới"
+        },
+        {
+          "text": "Là tương quan về vị trí giữa hàm dưới so với đường giữa hàm trên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chiều cao của gối sáp như thế nào so với các răng còn lại:",
+      "options": [
+        {
+          "text": "0,5-0,6 mm"
+        },
+        {
+          "text": "0,6-0,8 mm"
+        },
+        {
+          "text": "0,8-1 mm"
+        },
+        {
+          "text": "1-1,5 mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọn câu trả lời SAI về giá khớp:",
+      "options": [
+        {
+          "text": "Giá khớp là dụng cụ cơ học tượng trưng cho khớp TDH và các yếu tố cấu thành của hàm."
+        },
+        {
+          "text": "Giá khớp là dụng cụ hoá học tượng trưng cho khớp TDH và các yếu tố cấu thành của hàm."
+        },
+        {
+          "text": "Giá khớp có 2 loại điều chỉnh được và không điều chỉnh được."
+        },
+        {
+          "text": "Giá khớp có thể tái lập được các vận động của hàm dưới."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn đáp án đúng về móc răng trong hàm giả tháo lắp từng phần nền nhựa",
+      "options": [
+        {
+          "text": "Móc răng là những dây hay lá kim loại, ôm quanh một hay nhiều thân răng, có chức năng giữ dính, truyền lực nhai và ngăn cản các chuyển động bất lợi của phục hình"
+        },
+        {
+          "text": "Đây là phần liên kết giữa hàm giả và hệ thống răng thật"
+        },
+        {
+          "text": "Móc cần phải được thực hiện sao cho có tác dụng giữ dính hàm ơi trạng thái tĩnh, ổn định hàm trong tư thế chức năng không có những lực có hại tác động lên răng mang móc"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Kiểm tra móc răng, chọn đáp án SAI:",
+      "options": [
+        {
+          "text": "Tay móc: phải ôm khít răng mang móc, cách đường viền lợi 0,5-1mm"
+        },
+        {
+          "text": "Tay móc: phải ôm khít răng mang móc, cách đường viền lợi 1-2 mm"
+        },
+        {
+          "text": "Vai móc: phải sát hoặc cách phía gần hoặc xa răng mang móc 0,5 mm và tránh chạm vào răng đối diện"
+        },
+        {
+          "text": "Đuôi móc: nằm chìm giữa nền sáp."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tương quan của bộ ba Nelson:",
+      "options": [
+        {
+          "text": "Hình dáng khuôn mặt – Cổ răng nanh trên – Cung hàm"
+        },
+        {
+          "text": "Hình dáng khuôn mặt – Cổ răng cửa bên trên – Cung hàm"
+        },
+        {
+          "text": "Hình dáng khuôn mặt – Cổ răng cửa giữa trên – Cung hàm"
+        },
+        {
+          "text": "Hình dáng khuôn mặt – Cổ răng cửa giữa dưới – Cung hàm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Yêu cầu của nền tạm, CHỌN CÂU SAI",
+      "options": [
+        {
+          "text": "Đối xứng qua đường giữa"
+        },
+        {
+          "text": "Luôn phủ lồi cùng và gối hậu nha"
+        },
+        {
+          "text": "Có chiều dày đồng nhất"
+        },
+        {
+          "text": "Phủ và ôm sát sống hàm, vòm khẩu cái"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các trường hợp trong thiết lập kích thước dọc cắn khớp:",
+      "options": [
+        {
+          "text": "Các răng thật ở hàm trên và dưới tiếp xúc nhau tại KTDCK, ghi lại tương quan này"
+        },
+        {
+          "text": "Các răng thật tiếp xúc nhưng có KNSL nhiều (KTD thấp), sử dụng NT- GS đưa khoảng nghỉ sinh lý về giá trị trung bình"
+        },
+        {
+          "text": "Các răng thật không tiếp xúc, điều chỉnh NT- GS đến KTD cắn khớp"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ghi tương quan tâm trong trường hợp mất răng loại I ở 2 hàm",
+      "options": [
+        {
+          "text": "Điều chỉnh gối sáp hàm trên theo mp nhai"
+        },
+        {
+          "text": "Đặt sáp nhôm hàm dưới"
+        },
+        {
+          "text": "Cho 2 GS tiếp xúc nhau ở LMTĐ"
+        },
+        {
+          "text": "Khắc khóa chữ H"
+        },
+        {
+          "text": "Ghi dấu khóa H trên sáp nhôm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Đâu là đặc điểm của gối sáp trong phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "text": "Cao hơn các răng còn lại 1 – 1,5 mm"
+        },
+        {
+          "text": "Rộng hơn các răng còn lại 1 – 1,5 mm"
+        },
+        {
+          "text": "Vừa chạm tới răng thật ở đầu khoảng mất răng"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm của gối sáp, chọn câu sai:",
+      "options": [
+        {
+          "text": "Được đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Chiều cao: cao hơn các răng còn lại khoảng 1-1,5 mm"
+        },
+        {
+          "text": "Chiều ngang: rộng hơn các răng c̣n lai từ 1-1,5 mm"
+        },
+        {
+          "text": "Gối sáp có thể nằm trên lồi cùng và gối hậu nha"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Không còn điểm tiếp xúc trên răng thật gặp ở trường hợp nào?",
+      "options": [
+        {
+          "text": "Mất răng sau một bên"
+        },
+        {
+          "text": "Mất răng sau hai bên"
+        },
+        {
+          "text": "Mất răng trước"
+        },
+        {
+          "text": "Mất răng xen kẽ, mòn nhiều"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Làm khóa chữ H trong trường hợp nào?",
+      "options": [
+        {
+          "text": "Trường hợp mất ít răng"
+        },
+        {
+          "text": "Trường hợp mất răng loại I, II Kennedy trên một cung hàm."
+        },
+        {
+          "text": "Trường hợp mất răng loại I, II Kennedy trên cả hai cung hàm."
+        },
+        {
+          "text": "Trường hợp mòn răng, mất răng xen kẽ."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đối với phục hình tháo lắp bán hàm nền nhựa thì, CHỌN CÂU SAI.",
+      "options": [
+        {
+          "text": "Nền tạm được dùng trong suốt giai đoạn thực hiện hàm giả."
+        },
+        {
+          "text": "Nền tạm được làm bằng: nhựa tự cứng, sáp hồng..."
+        },
+        {
+          "text": "Nền tạm nền nhựa là khung sườn chính thức của hàm giả."
+        },
+        {
+          "text": "Nền tạm có chiều dày đồng nhất"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đâu không phải là yêu cầu của nền tạm?",
+      "options": [
+        {
+          "text": "Trường hợp  còn răng phía sau, nền tạm phải phủ lồi cùng và gối hậu nha"
+        },
+        {
+          "text": "Nền tạm phải phủ và ôm sát sống hàm, vòm khẩu cái"
+        },
+        {
+          "text": "Ôm sát ngang đường vòng lớn nhất của các rang cối nhỏ và lớn"
+        },
+        {
+          "text": "Hình dạng đối xứng qua đường giữa xương hàm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nền tạm có chiều dày khoảng:",
+      "options": [
+        {
+          "text": "0,5 mm"
+        },
+        {
+          "text": "1 mm"
+        },
+        {
+          "text": "2 mm"
+        },
+        {
+          "text": "3 mm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trường hợp nào sau đây cần xác định lại kích thước dọc bằng tương quan lùi hàm ra sau",
+      "options": [
+        {
+          "text": "Bệnh nhân mất răng với sơ đồ răng:\n8XXXX321 1234XXX8\nX7654XXX XXXX567X"
+        },
+        {
+          "text": "Bệnh nhân mất răng Kennedy I hàm trên,Kennedy II hàm dưới"
+        },
+        {
+          "text": "Bệnh nhân mất rắng Kennedy IV cả hai cung hàm"
+        },
+        {
+          "text": "Bệnh nhân mất răng Kennedy III trên ở phân hàm 2 , và mất răng Kennedy III dưới phân hàm 4"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khắc khoá cho gối sáp được dùng trong trường hợp:",
+      "options": [
+        {
+          "text": "Mất răng loại 3 Kennedy"
+        },
+        {
+          "text": "Mất răng loại 1 Kennedy"
+        },
+        {
+          "text": "Mất răng loại 2 Kennedy"
+        },
+        {
+          "text": "B và C đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Viền của nền tạm cách đáy hành lang một khoảng bao nhiêu:",
+      "options": [
+        {
+          "text": "0,5 mm"
+        },
+        {
+          "text": "1 mm"
+        },
+        {
+          "text": "2 mm"
+        },
+        {
+          "text": "3 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đâu là đặc điểm của gối sáp trong phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "text": "Cao hơn các răng còn lại 1 – 1,5 mm"
+        },
+        {
+          "text": "Rộng hơn các răng còn lại 1 – 1,5 mm"
+        },
+        {
+          "text": "Vừa chạm tới răng thật ở đầu khoảng mất răng"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi ghi khớp cắn trung tâm",
+      "options": [
+        {
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại"
+        },
+        {
+          "text": "cần so màu răng"
+        },
+        {
+          "text": "không cần thử nền tạm gối sáp"
+        },
+        {
+          "text": "Luôn luôn cần làm khóa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Việc ghi tương quan hai hàm cần phải đạt các yêu cầu nào:",
+      "options": [
+        {
+          "text": "Có một KTD đúng"
+        },
+        {
+          "text": "Có một tương quan theo chiều ngang đúng"
+        },
+        {
+          "text": "Có khoảng sinh lý chấp nhận được"
+        },
+        {
+          "text": "A và B đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm của gối sáp, chọn câu sai:",
+      "options": [
+        {
+          "text": "Được đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Chiều cao: cao hơn các răng c̣òn lại khoảng 1-1,5 mm"
+        },
+        {
+          "text": "Chiều ngang: rộng hơn các răng c̣òn lai từ 1-1,5 mm"
+        },
+        {
+          "text": "Gối sáp có thể nằm trên lồi cùng và gối hậu nha"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Biên giới nền hàm nhóm răng cửa và răng nanh phải:",
+      "options": [
+        {
+          "text": "Vừa tới chùm kín gót răng hoặc phủ cigulum"
+        },
+        {
+          "text": "Phủ cao lên tới gần bờ cắn"
+        },
+        {
+          "text": "Tới đường vòng lớn nhất"
+        },
+        {
+          "text": "Cao qua bờ cắn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nếu mất răng hàm 2 bên vùng răng trên, biên giới nền hàm thường có dạng:",
+      "options": [
+        {
+          "text": "Hình móng ngựa"
+        },
+        {
+          "text": "Hình quai guốc"
+        },
+        {
+          "text": "Hình quả thận"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi vào càng cắn,chọn câu sai:",
+      "options": [
+        {
+          "text": "Khe 2 răng cửa giữa trùng với điểm giữa càng cắn"
+        },
+        {
+          "text": "Mặt phẳng nhai cao 10 độ so với mặt bằng nằm ngang"
+        },
+        {
+          "text": "Hai khối răng hàm hoặc gối sáp hai bên trùng đối xứng qua trục càng cắn"
+        },
+        {
+          "text": "Mẫu thạch cao ở vị trí trung tâm càng cắn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Có bao nhiêu phương pháp để thiết lập tương quan 2 hàm theo chiều ngang: - 5",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phát biểu đúng khi ghi KCTT/TQT:",
+      "options": [
+        {
+          "text": "Nên ghi KCTT trong trường hợp mất răng toàn hàm."
+        },
+        {
+          "text": "Chỉ cần còn vài răng trên và dưới ta sẽ ghi được KCTT."
+        },
+        {
+          "text": "Cần ít nhất 3 cặp răng đối nhau để ghi được KCTT."
+        },
+        {
+          "text": "TQT được ghi trên bệnh nhân mất răng loại I hoặc II Kennedy trên 1 hàm."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm của gối sáp, ngoại trừ:",
+      "options": [
+        {
+          "text": "Được đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Chiều cao cao hơn các răng còn lại 1-1,5 mm"
+        },
+        {
+          "text": "Chiều dài vừa chạm với răng thật ở đầu khoảng mất răng"
+        },
+        {
+          "text": "Gối sáp nằm trên lồi cùng và gối hậu nha"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trường hợp nào sau đây cần xác định lại kích thước dọc:",
+      "options": [
+        {
+          "text": "Cung hàm trên mất răng 16-18, 26-28; cung hàm dưới mất răng 35-38,46-47"
+        },
+        {
+          "text": "Cung hàm trên thuộc loại I Kennedy, cung hàm dưới không bị mất răng"
+        },
+        {
+          "text": "Cung hàm trên chỉ còn răng 13-23, cung hàm dưới mất răng 13-23"
+        },
+        {
+          "text": "Cung hàm trên và cung hàm dưới còn đủ 2 điểm chạm khi cắn khớp"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Yêu cầu của gối sáp, chọn đáp án đúng:\n1. Cao hơn răng thật 1-1,5 mm\n2. Rộng hơn các răng còn lại 1-1,5mm (8mm với vùng răng trước, 6mm với vùng răng sau)\n3. Nếu mất hết răng sau, gối sáp cần phủ kín lồi cùng hoặc gối hậu nha.\n4. Đặt trên đỉnh sóng hàm\n5. Vừa chạm tới răng thật",
+      "options": [
+        {
+          "text": "b, c"
+        },
+        {
+          "text": "c, d"
+        },
+        {
+          "text": "d, e"
+        },
+        {
+          "text": "e, d"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cách hướng dẫn bệnh nhân cắn đúng vị trí khớp cắn trung tâm:",
+      "options": [
+        {
+          "text": "Tập cho bệnh nhân nuốt"
+        },
+        {
+          "text": "Tập cho bệnh nhân cười"
+        },
+        {
+          "text": "Đưa hàm ra trước"
+        },
+        {
+          "text": "Đưa hàm sang bên"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điều nào sau đây không đúng khi ghi tương quan hàm theo chiều dọc:",
+      "options": [
+        {
+          "text": "Khoảng nghỉ sinh lý 2-4mm"
+        },
+        {
+          "text": "KTD cắn khớp = KTD nghỉ - 1mm"
+        },
+        {
+          "text": "Khi hàm còn nhiều cặp răng khớp nhau, không cần xác định lại KTD cắn khớp"
+        },
+        {
+          "text": "Khi xác định KTD, bệnh nhân cần ngậm miệng, cho môi tiếp xúc nhẹ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Việc ghi tương quan hai hàm cần đạt được yêu cầu nào?",
+      "options": [
+        {
+          "text": "Có KTD đúng"
+        },
+        {
+          "text": "Có thao tác ghi tương quan đúng"
+        },
+        {
+          "text": "Chỉ cần đúng KTD là được"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Những trường hợp nào cần xác định lại KTD?",
+      "options": [
+        {
+          "text": "Bn mất răng vùng răng sau 1 bên"
+        },
+        {
+          "text": "Bn mất răng vùng răng sau 2 bên"
+        },
+        {
+          "text": "Bn mòn răng rất nhiều, làm thấp KTD"
+        },
+        {
+          "text": "Bn mất răng từng khoảng nhưng vẫn còn điểm chạm giưa, các răng còn lại"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi ghi khớp cắn trung tâm:",
+      "options": [
+        {
+          "text": "Không cần thử khung sườn trước."
+        },
+        {
+          "text": "Ghi nhận vị trí và điểm chạm của các răng còn lại trên cung hàm."
+        },
+        {
+          "text": "Cần so màu răng."
+        },
+        {
+          "text": "Làm khóa chữ H khi mất nhiều răng phía trước."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "kích thước dọc cắn khớp được xác định dựa vào",
+      "options": [
+        {
+          "text": "Kích thước dọc nghỉ"
+        },
+        {
+          "text": "Kích thước hàm ở vị trí lồng núi tối đa"
+        },
+        {
+          "text": "Kích thước hàm ở vị trí tương quan trung tâm"
+        },
+        {
+          "text": "Kích thước hàm ở vị trí tiếp xúc lui sau"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thiết lập kích thước dọc khi nào:",
+      "options": [
+        {
+          "text": "Ít răng mất, các răng còn lại trên 2 hàm tiếp xúc nhau"
+        },
+        {
+          "text": "Mất răng xen kẽ mà không còn điểm chạm giữa các răng còn lại"
+        },
+        {
+          "text": "Răng mòn"
+        },
+        {
+          "text": "Mất răng loại II Kennedy trên 1 cung hàm, cung hàm đối diện còn răng phía sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn câu sai. Yếu tố giữ dính hàm PHỤC HÌNH THÁO LẮPBH:",
+      "options": [
+        {
+          "text": "Móc"
+        },
+        {
+          "text": "Nước bọt"
+        },
+        {
+          "text": "Kín hơi"
+        },
+        {
+          "text": "Nền nhựa"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng nhai phục hình là :",
+      "options": [
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm phía dưới cánh mũi"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng song song với mặt phẳng camper,nó đi qa bờ cắn răng cửa và mặt nhai của các răng cối"
+        },
+        {
+          "text": "Tất cả câu trên đều đúng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "yêu cầu của 1 nền tạm là :",
+      "options": [
+        {
+          "text": "Trường hợp mất hết răng sau, nền tạm không phủ lồi cùng và gối hậu nha"
+        },
+        {
+          "text": "Nền tạm ôm sát cổ răng cối nhỏ và cối lớn"
+        },
+        {
+          "text": "Các bờ và góc của nền tạm phải vuông góc"
+        },
+        {
+          "text": "Hình dạng của nền tạm tương đối đối xứng qua đường giữa hàm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "chọn câu sai. Đặc điểm của gối sáp:",
+      "options": [
+        {
+          "text": "Được đặt ngay trên đỉnh sống hàm"
+        },
+        {
+          "text": "Cao hơn các răng còn lại khoảng 1-1.5mm"
+        },
+        {
+          "text": "Rộng hơn các răng còn lại từ 2-2,5mm"
+        },
+        {
+          "text": "Chiều dài : vừa chạm với răng thật ở đầu khoảng mất răng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "trường hợp cần xác định lại kích thước dọc cắn khớp :",
+      "options": [
+        {
+          "text": "Mất răng toàn hàm"
+        },
+        {
+          "text": "Mất răng xen kẽ còn điểm chạm giữa các răng còn lại"
+        },
+        {
+          "text": "Các răng thật ở hàm trên và dưới tiếp xúc nhau tại kích thước dọc có khoảng nghĩ sinh lý chấp nhận được ( khoảng 2-4mm)"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các cách hướng dẫn bệnh nhân cắn đúng ở vị trí khớp cắn trung tâm:",
+      "options": [
+        {
+          "text": "Uốn lưỡi lên trên và ra sau cho đến khi đầu lưỡi chạm lưỡi gà phía sau và ngậm lại"
+        },
+        {
+          "text": "Uốn lưỡi lên trên và ra sau cho đến khi đầu lưỡi chạm mô khẩu cái phía sau và ngậm lại"
+        },
+        {
+          "text": "Uốn lưỡi lên trên và ra sau cho đến khi đầu lưỡi chạm mặt trong răng cửa và ngậm lại"
+        },
+        {
+          "text": "Uốn lưỡi lên trên và ra sau cho đến khi đầu lưỡi chạm gai cửa và ngậm lại"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nền tạm có chiều dày đồng nhất khoảng bao nhiêu:",
+      "options": [
+        {
+          "text": "1mm"
+        },
+        {
+          "text": "1-1.5mm"
+        },
+        {
+          "text": "2mm"
+        },
+        {
+          "text": "2.5mm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Có bao nhiêu ý đúng khi nói về gối sáp trong các ý sau đây\n1  Gối sáp được đặt trên đỉnh sống hàm\n2  Ở hàm trên gối sáp được đặt trên lồi cùng\n3  Ở hàm dưới gối sáp được đặt trên gối hậu nhai\n4 Cao hơn các răng từ 1-1.5mm\n5 Rộng hơn các răng từ 1-1.5 mm\n6 Chiều dài: cách các răng thật 1-1.5 mm ở đầu khoảng mất răng\n7 Trong trường hợp mất các răng sau, gối sáp chỉ làm đến vùng răng 6 và được vát một góc 45o tại vùng răng 6 để tránh vướng khi cắn",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ta phải xác định lại kích thước dọc trong trường hợp nào?",
+      "options": [
+        {
+          "text": "Hàm trên và dưới mất răng loại I Kennedy"
+        },
+        {
+          "text": "Hàm trên mất răng loại I, hàm dưới mất răng loại II theo Kennedy"
+        },
+        {
+          "text": "Hàm trên mất răng loại IV, hàm dưới mất răng loại VI theo Applegate"
+        },
+        {
+          "text": "Hàm trên mất răng loại VI, hàm dưới mất răng loại II theo Kennedy"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khoảng hở sinh lý khoảng bao nhiêu là bình thường?",
+      "options": [
+        {
+          "text": "1-2mm"
+        },
+        {
+          "text": "3-5mm"
+        },
+        {
+          "text": "3-4mm"
+        },
+        {
+          "text": "2-4mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các yêu cầu của nền tạm:",
+      "options": [
+        {
+          "text": "Ôm sát cổ răng cửa và răng nanh"
+        },
+        {
+          "text": "Phủ và ôm sát sống hàm"
+        },
+        {
+          "text": "Hình dạng tương đối đối xứng qua đường giữa hàm"
+        },
+        {
+          "text": "Tất cả các câu trên"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

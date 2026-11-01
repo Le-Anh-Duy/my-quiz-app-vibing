@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Trước khi thử lắp hàm giả tháo lắp vào miệng bệnh nhân, bác sĩ cần kiểm tra yếu tố nào ở ngoài miệng trước tiên?",
+      "options": [
+        {
+          "text": "Ngâm hàm giả trong nước sôi 10 phút"
+        },
+        {
+          "text": "Đo trọng lượng chính xác của hàm giả bằng cân tiểu ly"
+        },
+        {
+          "text": "Dùng mắt nhìn và ngón tay sờ kỹ toàn bộ nền hàm để phát hiện các gai nhọn, bavia nhựa thừa, bọt khí li ti hoặc đầu móc sắc nhọn"
+        },
+        {
+          "text": "Kiểm tra xem hàm có đổi màu khi nhúng vào cồn không"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vị trí nào ở hàm giả tháo lắp thường bị vướng cản trở nhiều nhất khi đưa hàm vào miệng lần đầu?",
+      "options": [
+        {
+          "text": "Đỉnh múi của răng nanh"
+        },
+        {
+          "text": "Bờ cắn của răng cửa giữa"
+        },
+        {
+          "text": "Phần nền hàm đi qua các vùng lẹm xương ổ răng hoặc thành kẽ răng trụ bị bóp chật"
+        },
+        {
+          "text": "Mặt nhai của các răng cối"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vật liệu hoặc công cụ lâm sàng hữu hiệu nhất được dùng để phát hiện chính xác các điểm tỳ đè chèn ép mô mềm ở mặt trong nền hàm là:",
+      "options": [
+        {
+          "text": "Chất chỉ thị tiếp xúc (Pressure Indicating Paste - PIP paste) hoặc sáp chỉ thị"
+        },
+        {
+          "text": "Bột đánh bóng Tripoli"
+        },
+        {
+          "text": "Dung dịch xanh methylen pha loãng"
+        },
+        {
+          "text": "Bột thạch cao tuyết hòa nước"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi điều chỉnh các điểm tỳ đè quá mức trên mặt trong nền hàm được chỉ thị bởi PIP paste, nguyên tắc mài là:",
+      "options": [
+        {
+          "text": "Mài phẳng lì toàn bộ mặt trong của nền hàm"
+        },
+        {
+          "text": "Dùng mũi mài thích hợp mài nhẹ nhàng từng lớp mỏng chỉ tại những điểm tróc sạch lớp kem chỉ thị (nơi tiếp xúc tỳ đè mạnh)"
+        },
+        {
+          "text": "Mài thủng nền hàm tại vị trí đó"
+        },
+        {
+          "text": "Đắp thêm một lớp nhựa tự cứng dày 2 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí chuẩn của đầu tận cùng tay móc lưu giữ trên răng trụ sau khi lắp hàm hoàn thiện là:",
+      "options": [
+        {
+          "text": "Nằm ở 1/3 cắn trên đường vòng lớn nhất"
+        },
+        {
+          "text": "Nằm đè trực tiếp lên đỉnh nướu viền tự do"
+        },
+        {
+          "text": "Nằm ở 1/3 nướu của thân răng, phía dưới đường vòng lớn nhất trong vùng lẹm giải phẫu"
+        },
+        {
+          "text": "Nằm trên rãnh giữa của mặt nhai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tay móc đối kháng của móc dây tròn cần được đặt ở vị trí nào trên thân răng trụ?",
+      "options": [
+        {
+          "text": "Nằm vắt ngang qua kẽ răng sang răng bên cạnh"
+        },
+        {
+          "text": "Nằm ở 1/3 nướu phía dưới đường vòng lớn nhất"
+        },
+        {
+          "text": "Nằm ở trên hoặc ngang đường vòng lớn nhất (1/3 giữa hoặc 1/3 cắn) đối diện với tay móc lưu giữ"
+        },
+        {
+          "text": "Nằm cắm sâu vào túi nướu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo quy tắc mài chỉnh khớp cắn BULL (Buccal of Upper, Lingual of Lower), khi điều chỉnh cản trở khớp cắn bên làm việc ở các vận động lệch tâm, bác sĩ sẽ mài:",
+      "options": [
+        {
+          "text": "Chỉ mài răng nanh hàm dưới"
+        },
+        {
+          "text": "Mài phẳng toàn bộ rìa cắn răng cửa"
+        },
+        {
+          "text": "Múi ngoài hàm trên và múi trong hàm dưới (nhằm bảo tồn các múi chịu là múi trong trên và múi ngoài dưới)"
+        },
+        {
+          "text": "Múi trong hàm trên và múi ngoài hàm dưới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tại khớp cắn trung tâm, nếu một múi chịu chạm sớm ở cả tư thế trung tâm VÀ các tư thế lệch tâm thì nguyên tắc mài là:",
+      "options": [
+        {
+          "text": "Mài rãnh trũng của răng đối diện"
+        },
+        {
+          "text": "Nhổ bỏ luôn chiếc răng có múi chạm sớm"
+        },
+        {
+          "text": "Đắp thêm sáp nâng cao các răng còn lại"
+        },
+        {
+          "text": "Mài trực tiếp đỉnh múi chịu chạm sớm đó"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tại khớp cắn trung tâm, nếu múi chịu CHỈ chạm sớm ở tư thế trung tâm mà KHÔNG chạm sớm ở các vận động lệch tâm thì cách xử trí đúng là:",
+      "options": [
+        {
+          "text": "Cắt bỏ tay móc lưu giữ"
+        },
+        {
+          "text": "Mài sâu thêm rãnh trũng của răng đối diện tiếp xúc với múi chịu đó"
+        },
+        {
+          "text": "Mài ngắn đỉnh múi chịu"
+        },
+        {
+          "text": "Mài phẳng bờ cắn của tất cả các răng trước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đối với phục hình tháo lắp bán hàm Kennedy loại I và II (mất răng tận cùng phía sau), kiểu tiếp xúc khớp cắn ở bên làm việc nên được điều chỉnh theo:",
+      "options": [
+        {
+          "text": "Cắn hở hoàn toàn ở bên làm việc"
+        },
+        {
+          "text": "Tiếp xúc nhóm (Group function) để phân bố đều lực sang nhiều răng"
+        },
+        {
+          "text": "Tiếp xúc một điểm duy nhất ở răng khôn"
+        },
+        {
+          "text": "Khớp cắn bảo vệ răng cửa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hiện tượng tăng tiết nước bọt nhiều ở bệnh nhân trong vài ngày đầu sau khi lắp hàm giả là do:",
+      "options": [
+        {
+          "text": "Dị ứng cấp tính với nhựa acrylic"
+        },
+        {
+          "text": "Bệnh nhân bị nhiễm trùng tuyến mang tai"
+        },
+        {
+          "text": "Hàm giả chèn ép làm đứt ống tuyến nước bọt"
+        },
+        {
+          "text": "Phản xạ tự nhiên của cơ thể đối với vật lạ mới xuất hiện trong khoang miệng kích thích các tuyến nước bọt, sẽ tự ổn định sau 1 – 2 tuần"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phương pháp hiệu quả nhất để giúp bệnh nhân nhanh chóng vượt qua cảm giác nói ngọng, phát âm khó khi mới mang hàm giả là:",
+      "options": [
+        {
+          "text": "Yêu cầu bệnh nhân không được nói chuyện trong 1 tháng"
+        },
+        {
+          "text": "Uống thuốc giảm đau giãn cơ"
+        },
+        {
+          "text": "Khuyên bệnh nhân tập đọc to sách báo hoặc nói chuyện một mình trước gương để cơ lưỡi và môi nhanh chóng thích nghi"
+        },
+        {
+          "text": "Tháo hàm giả ra cất vào tủ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lời khuyên đúng đắn về chế độ ăn nhai cho bệnh nhân trong những ngày đầu mới sử dụng phục hình tháo lắp là:",
+      "options": [
+        {
+          "text": "Ăn thức ăn mềm, cắt thành từng miếng nhỏ, nhai chậm rãi và phân bố đều sang hai bên hàm để tránh làm lật hàm giả"
+        },
+        {
+          "text": "Dùng răng cửa cắn xé thức ăn thật mạnh"
+        },
+        {
+          "text": "Chỉ nhai tập trung hoàn toàn về một bên có răng thật"
+        },
+        {
+          "text": "Ăn ngay các loại thức ăn dai và cứng như gân bò, mía để tập lực"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thao tác tháo hàm giả ra khỏi miệng ĐÚNG CÁCH được hướng dẫn cho bệnh nhân là:",
+      "options": [
+        {
+          "text": "Dùng thìa kim loại bẩy mạnh vào bờ nền hàm"
+        },
+        {
+          "text": "Dùng lưỡi đẩy thật mạnh từ dưới lên cho hàm bật văng ra ngoài"
+        },
+        {
+          "text": "Nhờ người khác cầm kìm giật ra"
+        },
+        {
+          "text": "Dùng móng tay hoặc đầu ngón tay kéo nhẹ vào các tay móc hoặc gờ nền hàm theo đúng hướng tháo"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tại sao hướng dẫn bệnh nhân TUYỆT ĐỐI KHÔNG ĐƯỢC dùng hai hàm răng cắn hàm giả vào đúng vị trí lắp?",
+      "options": [
+        {
+          "text": "Vì lực cắn sai hướng rất dễ làm biến dạng tay móc, gãy móc, nứt vỡ nền hàm nhựa hoặc làm sang chấn tổn thương răng trụ"
+        },
+        {
+          "text": "Vì cắn như vậy sẽ làm răng thật bị lung lay"
+        },
+        {
+          "text": "Vì làm mòn men răng nhanh chóng"
+        },
+        {
+          "text": "Vì làm nước bọt không tiết ra được"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi chải rửa vệ sinh hàm giả hằng ngày bằng bàn chải, thao tác dự phòng rơi vỡ quan trọng nhất được khuyến cáo là:",
+      "options": [
+        {
+          "text": "Ngồi trên giường nệm để chải"
+        },
+        {
+          "text": "Hứng một chậu nước đầy bên dưới hoặc lót khăn ướt dày trong bồn rửa để nếu trơn tuột tay rơi hàm cũng không bị nứt vỡ"
+        },
+        {
+          "text": "Vừa tắm vừa chải hàm giả"
+        },
+        {
+          "text": "Chải hàm giả trên nền gạch hoa cứng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dung dịch hoặc chất tẩy rửa an toàn thích hợp nhất để bệnh nhân chải rửa vệ sinh hàm giả hằng ngày là:",
+      "options": [
+        {
+          "text": "Xà phòng nhẹ, nước rửa chuyên dụng cho hàm giả hoặc kem đánh răng mịn không có chất mài mòn"
+        },
+        {
+          "text": "Bột giặt quần áo có chất tẩy trắng"
+        },
+        {
+          "text": "Nước rửa chén đậm đặc hoặc cồn 90 độ"
+        },
+        {
+          "text": "Axit chanh nguyên chất"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lý do BẮT BUỘC bệnh nhân phải tháo hàm giả ra khi đi ngủ ban đêm là gì?",
+      "options": [
+        {
+          "text": "Để tránh làm rơi hàm vào chăn màn"
+        },
+        {
+          "text": "Để các mô niêm mạc nâng đỡ được nghỉ ngơi, phục hồi tưới máu, thông thoáng và phòng ngừa viêm loét do nhiễm nấm Candida"
+        },
+        {
+          "text": "Để hàm giả không bị mòn mặt nhai"
+        },
+        {
+          "text": "Để tránh làm mất màu răng giả"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi tháo hàm giả ra vào ban đêm, hàm giả nên được bảo quản như thế nào?",
+      "options": [
+        {
+          "text": "Phơi khô dưới quạt gió"
+        },
+        {
+          "text": "Bọc kín trong túi nilon khô để ngoài nắng"
+        },
+        {
+          "text": "Ngâm trong dầu ăn hoặc mỡ động vật"
+        },
+        {
+          "text": "Ngâm trong một ly nước sạch để ở nơi an toàn, tránh để hàm giả bị khô nứt"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tại sao TUYỆT ĐỐI KHÔNG ĐƯỢC ngâm hoặc rửa hàm giả tháo lắp nền nhựa trong nước sôi?",
+      "options": [
+        {
+          "text": "Vì nước sôi làm gãy vụn các răng sứ"
+        },
+        {
+          "text": "Vì nhiệt độ cao của nước sôi sẽ làm nhựa acrylic bị co rút, mềm dẻo và biến dạng cong vênh vĩnh viễn, không còn khít sát"
+        },
+        {
+          "text": "Vì nước sôi làm móc kim loại tan chảy"
+        },
+        {
+          "text": "Vì nước sôi làm mất hoàn toàn tính kháng khuẩn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tại sao không nên ngâm hàm giả có móc kim loại vào dung dịch tẩy trắng chứa Clo (Javel) nồng độ cao kéo dài?",
+      "options": [
+        {
+          "text": "Vì làm nhựa acrylic bị cháy đen"
+        },
+        {
+          "text": "Vì clo gây ăn mòn, xỉn màu và làm giòn gãy các chi tiết hợp kim kim loại của móc"
+        },
+        {
+          "text": "Vì làm các răng giả dính chặt vào nhau"
+        },
+        {
+          "text": "Vì làm hàm giả phát quang trong bóng tối"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thời gian tiêu chuẩn để hẹn bệnh nhân đến tái khám lần đầu tiên sau khi lắp hàm giả là:",
+      "options": [
+        {
+          "text": "Sau 6 tháng đến 1 năm"
+        },
+        {
+          "text": "Sau 24 – 48 giờ (1 đến 2 ngày)"
+        },
+        {
+          "text": "Chỉ khi nào hàm gãy mới cần tái khám"
+        },
+        {
+          "text": "Sau 1 tháng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yêu cầu BẮT BUỘC đối với bệnh nhân trước khi đến buổi hẹn tái khám chữa đau là gì?",
+      "options": [
+        {
+          "text": "Phải tháo hàm cất ở nhà trước 3 ngày"
+        },
+        {
+          "text": "Tự dùng dũa móng tay mài bớt các chỗ đau"
+        },
+        {
+          "text": "Phải mang hàm giả liên tục ít nhất từ 2 đến 4 giờ trước buổi hẹn để các điểm tỳ đè xuất hiện rõ dấu vết trên niêm mạc giúp bác sĩ xử lý chính xác"
+        },
+        {
+          "text": "Phải nhịn ăn hoàn toàn trước khi đến khám"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nếu bệnh nhân bị đau nhức tại một điểm xác định trên sóng hàm dưới nền hàm giả, nguyên nhân thường gặp nhất là:",
+      "options": [
+        {
+          "text": "Do nền hàm quá mỏng"
+        },
+        {
+          "text": "Do bệnh nhân uống quá nhiều nước"
+        },
+        {
+          "text": "Do màu sắc răng giả quá sáng"
+        },
+        {
+          "text": "Do có gai xương bén nhọn hoặc cấn cộm một điểm nhô nhựa ở mặt trong nền hàm hoặc điểm chạm sớm khớp cắn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi khám tái khám, nếu phát hiện vết loét đỏ ở đáy hành lang tương ứng với bờ nền hàm giả, biện pháp xử lý là:",
+      "options": [
+        {
+          "text": "Đắp thêm nhựa làm bờ nền hàm dài thêm 2 mm"
+        },
+        {
+          "text": "Nhổ răng trụ kế cận"
+        },
+        {
+          "text": "Mài hạ thấp bờ nền hàm tại vị trí tương ứng để giải phóng sự cọ xát cơ học"
+        },
+        {
+          "text": "Bảo bệnh nhân tiếp tục chịu đau thêm 1 tháng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hiện tượng bệnh nhân hay bị 'cắn trúng má' khi ăn nhai sau khi lắp hàm giả thường do nguyên nhân nào?",
+      "options": [
+        {
+          "text": "Do nền hàm trên quá mỏng"
+        },
+        {
+          "text": "Do bệnh nhân há miệng quá nhỏ"
+        },
+        {
+          "text": "Do răng trước quá dài"
+        },
+        {
+          "text": "Do thiếu độ cắn chìa (overjet) ở các răng cối sau hoặc múi ngoài của răng dưới nằm lệch ra ngoài quá mức"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cách xử trí lâm sàng khi bệnh nhân bị cắn trúng má do thiếu độ cắn chìa ở vùng răng sau là:",
+      "options": [
+        {
+          "text": "Mài vát tròn mặt ngoài và múi ngoài của các răng cối hàm dưới để tái lập khoảng cắn chìa bảo vệ niêm mạc má"
+        },
+        {
+          "text": "Cắt ngắn toàn bộ chiều dài bờ nền hàm trên"
+        },
+        {
+          "text": "Mài phẳng rìa cắn của các răng cửa"
+        },
+        {
+          "text": "Bẻ móc kim loại chúc xuống dưới"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Triệu chứng bệnh nhân cảm thấy buồn nôn, tức họng hoặc dễ mắc ói khi mang hàm giả hàm trên thường do nguyên nhân nào?",
+      "options": [
+        {
+          "text": "Móc răng nanh quá lỏng"
+        },
+        {
+          "text": "Độ dày của gối hậu nha bị thiếu"
+        },
+        {
+          "text": "Răng cửa giữa trên quá ngắn"
+        },
+        {
+          "text": "Bờ sau nền hàm trên quá dài vượt qua đường rung chữ 'a' hoặc bờ sau quá dày kích thích khẩu cái mềm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cách xử trí khi bệnh nhân than phiền hàm giả bị lỏng, dễ sút khi nói chuyện hoặc há miệng to là:",
+      "options": [
+        {
+          "text": "Quét keo dán sắt vào mặt trong nền hàm"
+        },
+        {
+          "text": "Kiểm tra lại bờ nền hàm có bị quá dài chạm dây chằng cơ gây bật hàm không, và dùng kìm chỉnh nha kích hoạt siết nhẹ tay móc ôm khít hơn"
+        },
+        {
+          "text": "Mài cụt thân răng trụ"
+        },
+        {
+          "text": "Bảo bệnh nhân nhai kẹo cao su để giữ hàm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi bệnh nhân than phiền nghe thấy tiếng kêu 'lách cách' của hai hàm răng va vào nhau khi phát âm, nguyên nhân cốt lõi là:",
+      "options": [
+        {
+          "text": "Kích thước dọc cắn khớp bị hạ quá thấp"
+        },
+        {
+          "text": "Nước bọt tiết quá ít"
+        },
+        {
+          "text": "Kích thước dọc cắn khớp bị xác định quá cao làm mất khoảng hở phát âm và khoảng nghỉ sinh lý"
+        },
+        {
+          "text": "Hàm giả quá lỏng tự rơi"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

@@ -1,25 +1,37 @@
 ---
 name: quiz-from-doc
-description: Convert a DOCX or PDF file of multiple-choice questions into a quiz-bank CSV for this app and register it in public/bank/manifest.json. Use when the user gives a Word/PDF document (câu hỏi trắc nghiệm) and wants it added as a new quiz set. No external API, no new dependencies — Claude reads the file itself and a cheap subagent does the extraction.
+description: Convert a DOCX or PDF file of multiple-choice questions into a quiz-bank folder (quiz.json + images) for this app and register it in public/bank/manifest.json. Use when the user gives a Word/PDF document (câu hỏi trắc nghiệm) and wants it added as a new quiz set. No external API, no new dependencies — Claude reads the file itself and a cheap subagent does the extraction.
 ---
 
 # Quiz from DOCX/PDF
 
-Turns a Word/PDF file of trắc nghiệm questions into `public/bank/<id>.csv` (matching
-the app's existing schema) and adds an entry to `public/bank/manifest.json`. Nothing
-is added to the app itself — this is a Claude Code–only workflow. No API keys, no
-new npm packages.
+Turns a Word/PDF file of trắc nghiệm questions into a folder `public/bank/<id>/`
+holding `quiz.json` and (if any) `images/`, and adds an entry to
+`public/bank/manifest.json`. Nothing is added to the app itself — this is a Claude
+Code–only workflow. No API keys, no new npm packages.
 
-## Target CSV schema (must match exactly)
+## Target format (must match exactly)
 
-Header row, comma-separated, UTF-8, quote fields that contain commas/quotes:
+`public/bank/<id>/quiz.json`, UTF-8:
 
+```json
+{
+  "questions": [
+    {
+      "text": "Câu hỏi...",
+      "image": "images/hinh-1.png",
+      "options": [{ "text": "Đáp án a" }, { "text": "", "image": "images/hinh-2.png" }],
+      "answer": "b"
+    }
+  ]
+}
 ```
-câu hỏi,đáp án a,đáp án b,đáp án c,đáp án d,đáp án đúng
-```
 
-`đáp án đúng` is the lowercase letter (`a`/`b`/`c`/`d`) of the correct option, keyed
-to the option's position in that row (do not reorder options).
+- `image` is optional on a question and on an option; the path is relative to the set's folder.
+- `answer` is the lowercase letter of the correct option by its position in `options`
+  (do not reorder options), or `null` if the source does not mark one. The app hides
+  `null` questions until they are filled in.
+- Images embedded in a DOCX are in `word/media/`: copy the ones used into `images/`.
 
 ## Steps
 
@@ -50,42 +62,39 @@ to the option's position in that row (do not reorder options).
 3. **Delegate extraction to a cheap subagent.** Spawn `Agent` (`subagent_type:
    general-purpose`, `model: haiku`) with the raw extracted text and these
    instructions:
-   - Output **only** CSV text, nothing else — no explanation, no code fences.
-   - First line must be exactly: `câu hỏi,đáp án a,đáp án b,đáp án c,đáp án d,đáp án đúng`
-   - One row per question, quoting any field containing a comma or quote (double
-     the internal quotes per CSV rules).
+   - Output **only** a JSON array of questions in the target format, nothing else —
+     no explanation, no code fences.
    - Keep original wording verbatim — no rephrasing, no translation, keep all
      Vietnamese diacritics.
    - Keep options in their original a/b/c/d order as they appear in the source.
-   - `đáp án đúng` must be the correct option's letter as it explicitly appears in
+   - `answer` must be the correct option's letter as it explicitly appears in
      the source (answer key, "Đáp án: X", bolded/marked choice, etc). If the
-     correct answer isn't discoverable in the text, leave that cell **empty** —
-     never guess.
+     correct answer isn't discoverable in the text, use `null` — never guess.
    - If the source text is truncated/garbled in places, skip that question rather
      than inventing content.
 
    If the document is very large (100+ questions), split the raw text into
    sequential chunks and run one subagent call per chunk, then concatenate the
-   CSV bodies under a single header.
+   arrays.
 
-4. **Write the CSV** to `public/bank/<id>.csv` with the `Write` tool (UTF-8, no
-   BOM, matching the encoding of existing files in that folder).
+4. **Write the file** to `public/bank/<id>/quiz.json` with the `Write` tool (UTF-8,
+   no BOM), and copy any images into `public/bank/<id>/images/`.
 
-5. **Validate** the written file: count rows, check for empty `câu hỏi` cells and
-   for rows with an empty `đáp án đúng`. Report any such rows to the user by
-   question number so they can double check the source.
+5. **Validate** the written file: count questions, check for empty `text`, for
+   `null` answers, for answers with no matching option, and that every `image` path
+   exists. Report any such questions to the user by number so they can double check
+   the source.
 
 6. **Update `public/bank/manifest.json`**: append a new entry preserving the file's
-   existing formatting style:
+   existing formatting style (the folder is derived from `id`):
    ```json
    {
      "id": "<id>",
      "name": "<display name>",
-     "file": "/bank/<id>.csv",
      "updatedAt": "<today's date, YYYY-MM-DD>"
    }
    ```
 
 7. **Report a summary** to the user: question count, quiz id/name, path to the new
-   CSV, and any rows missing an answer that need manual review. Do not commit or
-   push — leave that to the user (or wait until they explicitly ask you to commit).
+   folder, and any questions missing an answer that need manual review. Do not commit
+   or push — leave that to the user (or wait until they explicitly ask you to commit).

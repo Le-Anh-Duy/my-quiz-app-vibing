@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "text": "Giai đoạn đầu của viêm phổi thùy phổi là:",
+      "options": [
+        {
+          "text": "Giai đoạn gan hóa đỏ"
+        },
+        {
+          "text": "Giai đoạn gan hóa xám"
+        },
+        {
+          "text": "Giai đoạn xơ hóa"
+        },
+        {
+          "text": "Giai đoạn sung huyết"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong giai đoạn gan hóa đỏ, phổi có đặc điểm gì?",
+      "options": [
+        {
+          "text": "Có màu xám, vách phế nang dày"
+        },
+        {
+          "text": "Nhiều dịch xuất nhầy, không có hồng cầu"
+        },
+        {
+          "text": "Đặc cứng, màu đỏ, chứa nhiều bạch cầu trung tính"
+        },
+        {
+          "text": "Phổi phồng to, chứa không khí"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm mô học của viêm phổi do virus là:",
+      "options": [
+        {
+          "text": "Tế bào Langhans"
+        },
+        {
+          "text": "Viêm mô kẽ, có tế bào khổng lồ và thể vùi trong bào tương"
+        },
+        {
+          "text": "Hoại tử bã đậu"
+        },
+        {
+          "text": "U hạt dạng kê"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm phổi thùy phổi thường xảy ra ở:",
+      "options": [
+        {
+          "text": "Trẻ sơ sinh"
+        },
+        {
+          "text": "Người cao tuổi"
+        },
+        {
+          "text": "Một thùy phổi, thường là thùy trên"
+        },
+        {
+          "text": "Cả hai bên phổi cùng lúc"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tổn thương trong viêm phổi virus thường khu trú ở:",
+      "options": [
+        {
+          "text": "Phế quản lớn"
+        },
+        {
+          "text": "Mô kẽ phổi"
+        },
+        {
+          "text": "Phế nang chứa mủ"
+        },
+        {
+          "text": "Mạch máu phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương đặc trưng trong lao phổi nguyên phát là:",
+      "options": [
+        {
+          "text": "Phức hợp Ghon"
+        },
+        {
+          "text": "Hang lao"
+        },
+        {
+          "text": "Xơ phổi"
+        },
+        {
+          "text": "U hạt dạng kê"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tổn thương đặc trưng ở vi thể trong lao phổi thứ phát:",
+      "options": [
+        {
+          "text": "Tế bào khổng lồ đa nhân trung tính"
+        },
+        {
+          "text": "Tế bào Langhans, hoại tử bã đậu"
+        },
+        {
+          "text": "Viêm phế nang"
+        },
+        {
+          "text": "Phù phổi cấp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hang lao hình thành do:",
+      "options": [
+        {
+          "text": "Viêm phế nang"
+        },
+        {
+          "text": "Nang bã đậu vỡ vào phế nang"
+        },
+        {
+          "text": "Nang lao gặm vào phế quản, chất hoại tử được dẫn lưu ra ngoài"
+        },
+        {
+          "text": "Sự tích tụ dịch trong phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lao kê có đặc điểm đại thể:",
+      "options": [
+        {
+          "text": "Một khối lớn ở đỉnh phổi"
+        },
+        {
+          "text": "Tổn thương dạng nốt to trên 1 cm"
+        },
+        {
+          "text": "Nhiều hạt kê vàng nhạt rải rác trong nhu mô phổi"
+        },
+        {
+          "text": "Dịch mủ ở màng phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tế bào Langhans đặc trưng bởi:",
+      "options": [
+        {
+          "text": "Hình đa giác với nhân trung tâm"
+        },
+        {
+          "text": "Nhân xếp vòng quanh rìa tế bào"
+        },
+        {
+          "text": "Nhân lớn bất thường"
+        },
+        {
+          "text": "Có màu đỏ nhạt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất của xẹp phổi tắc nghẽn là:",
+      "options": [
+        {
+          "text": "U mạch máu"
+        },
+        {
+          "text": "Dị dạng phổi bẩm sinh"
+        },
+        {
+          "text": "Ung thư phế quản"
+        },
+        {
+          "text": "Tràn khí màng phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong xẹp phổi tắc nghẽn, phổi bị:",
+      "options": [
+        {
+          "text": "Phồng to"
+        },
+        {
+          "text": "Bị ép từ ngoài vào"
+        },
+        {
+          "text": "Mất khí do tắc nghẽn lòng phế quản"
+        },
+        {
+          "text": "Thoát dịch ra ngoài"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xẹp phổi chèn ép thường do:",
+      "options": [
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Tràn dịch hoặc tràn khí màng phổi"
+        },
+        {
+          "text": "Dị vật phế quản"
+        },
+        {
+          "text": "Phù phổi cấp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biểu hiện mô học của xẹp phổi lâu ngày:",
+      "options": [
+        {
+          "text": "Phế nang giãn"
+        },
+        {
+          "text": "Dày vách phế nang và xơ hóa"
+        },
+        {
+          "text": "Hoại tử"
+        },
+        {
+          "text": "Tăng sinh biểu mô tuyến"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xẹp phổi chèn ép được hồi phục nếu:",
+      "options": [
+        {
+          "text": "Tình trạng kéo dài nhiều tháng"
+        },
+        {
+          "text": "Loại bỏ nguyên nhân gây chèn ép sớm"
+        },
+        {
+          "text": "Bổ sung thuốc giãn phế quản"
+        },
+        {
+          "text": "Tiêm corticosteroid"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm mô học của bệnh bụi phổi silic là:",
+      "options": [
+        {
+          "text": "U hạt không hoại tử"
+        },
+        {
+          "text": "Vòng xơ hóa đồng tâm quanh hạt bụi"
+        },
+        {
+          "text": "Viêm cấp tính"
+        },
+        {
+          "text": "Xơ hóa dạng lưới không điển hình"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong bệnh phổi kẽ, vùng tổn thương chủ yếu là:",
+      "options": [
+        {
+          "text": "Phế quản chính"
+        },
+        {
+          "text": "Khoang kẽ giữa các phế nang"
+        },
+        {
+          "text": "Lòng phế nang"
+        },
+        {
+          "text": "Động mạch phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh phổi mô kẽ quá mẫn thường do:",
+      "options": [
+        {
+          "text": "Viêm virus"
+        },
+        {
+          "text": "Phản ứng miễn dịch do hít phải kháng nguyên hữu cơ"
+        },
+        {
+          "text": "Vi khuẩn Gram âm"
+        },
+        {
+          "text": "Ung thư phế quản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hình ảnh vi thể đặc trưng trong bệnh bụi phổi amiăng:",
+      "options": [
+        {
+          "text": "Tế bào bọt"
+        },
+        {
+          "text": "Thể vùi amiăng trong đại thực bào"
+        },
+        {
+          "text": "Tế bào u biểu mô"
+        },
+        {
+          "text": "Hang lao"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm mô học trong xơ phổi vô căn:",
+      "options": [
+        {
+          "text": "Viêm cấp tính"
+        },
+        {
+          "text": "Hình ảnh tổ ong với các vùng xơ hóa thay đổi theo thời gian"
+        },
+        {
+          "text": "Tăng sinh tế bào lympho"
+        },
+        {
+          "text": "U hạt hoại tử"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khí phế thủng là hậu quả của:",
+      "options": [
+        {
+          "text": "Tăng tiết nhầy"
+        },
+        {
+          "text": "Giãn bất thường và không hồi phục các phế nang"
+        },
+        {
+          "text": "Tắc phế quản"
+        },
+        {
+          "text": "Tăng áp động mạch phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại khí phế thủng liên quan đến hút thuốc lá:",
+      "options": [
+        {
+          "text": "Trung tâm tiểu thùy"
+        },
+        {
+          "text": "Toàn tiểu thùy"
+        },
+        {
+          "text": "Ngoại vi"
+        },
+        {
+          "text": "Cục bộ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong hen phế quản, mô học thấy:",
+      "options": [
+        {
+          "text": "Mạch máu giãn rộng"
+        },
+        {
+          "text": "Tăng sinh tuyến nhầy, cơ trơn, và thâm nhiễm bạch cầu ái toan"
+        },
+        {
+          "text": "Hoại tử tế bào biểu mô"
+        },
+        {
+          "text": "Hang lao"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hen phế quản đặc trưng bởi:",
+      "options": [
+        {
+          "text": "Phản ứng viêm cấp"
+        },
+        {
+          "text": "Quá mẫn type I (dị ứng)"
+        },
+        {
+          "text": "Nhiễm khuẩn thứ phát"
+        },
+        {
+          "text": "Viêm mô kẽ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm phế quản mạn được chẩn đoán khi ho có đờm kéo dài:",
+      "options": [
+        {
+          "text": "1 tuần"
+        },
+        {
+          "text": "1 tháng"
+        },
+        {
+          "text": "3 tháng mỗi năm trong ít nhất 2 năm liên tiếp"
+        },
+        {
+          "text": "Suốt mùa đông"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm chính của giãn phế quản:",
+      "options": [
+        {
+          "text": "Phổi teo nhỏ"
+        },
+        {
+          "text": "Phế quản giãn không hồi phục do phá hủy thành phế quản"
+        },
+        {
+          "text": "Xơ phổi khu trú"
+        },
+        {
+          "text": "Hang lao"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Giãn phế quản thường gặp ở:",
+      "options": [
+        {
+          "text": "Thuỳ trên phổi"
+        },
+        {
+          "text": "Thuỳ giữa phổi"
+        },
+        {
+          "text": "Thuỳ dưới phổi"
+        },
+        {
+          "text": "Màng phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong COPD, hiện tượng thường gặp là:",
+      "options": [
+        {
+          "text": "Viêm mô kẽ"
+        },
+        {
+          "text": "Tắc nghẽn luồng khí hô hấp không hồi phục"
+        },
+        {
+          "text": "Tăng áp lực tĩnh mạch"
+        },
+        {
+          "text": "Tràn dịch màng phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương mô học đặc trưng trong viêm phế quản mạn:",
+      "options": [
+        {
+          "text": "Viêm mô kẽ lan tỏa"
+        },
+        {
+          "text": "Tăng sản tuyến nhầy, thâm nhiễm viêm mãn tính"
+        },
+        {
+          "text": "Viêm tấy hoại tử"
+        },
+        {
+          "text": "Phù mô kẽ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong hen phế quản, các thể vùi Charcot-Leyden là:",
+      "options": [
+        {
+          "text": "Tinh thể từ vỡ tế bào bạch cầu ái toan"
+        },
+        {
+          "text": "Thể virus"
+        },
+        {
+          "text": "Tế bào dị dạng"
+        },
+        {
+          "text": "Xác vi khuẩn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Carcinôm tế bào nhỏ phế quản thường:",
+      "options": [
+        {
+          "text": "Phát triển chậm"
+        },
+        {
+          "text": "Phân bào ít"
+        },
+        {
+          "text": "Có nguồn gốc từ tế bào thần kinh nội tiết"
+        },
+        {
+          "text": "Không di căn sớm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Carcinôm tuyến phổi thường gặp ở:",
+      "options": [
+        {
+          "text": "Phế quản chính"
+        },
+        {
+          "text": "Ngoại vi phổi"
+        },
+        {
+          "text": "Trung tâm tiểu thùy"
+        },
+        {
+          "text": "Dưới màng phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm tế bào vảy đặc trưng bởi:",
+      "options": [
+        {
+          "text": "Mô tuyến tăng sinh"
+        },
+        {
+          "text": "Cầu nối gian bào, sừng hóa"
+        },
+        {
+          "text": "Biểu mô hình trụ"
+        },
+        {
+          "text": "Tế bào nhỏ, tăng sắc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm tế bào nhỏ phổi có tiên lượng:",
+      "options": [
+        {
+          "text": "Rất tốt"
+        },
+        {
+          "text": "Trung bình"
+        },
+        {
+          "text": "Rất xấu, thường chết trong vòng 1 năm nếu không điều trị"
+        },
+        {
+          "text": "Không thay đổi theo giai đoạn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư phổi nguyên phát thường gặp ở:",
+      "options": [
+        {
+          "text": "Trẻ em"
+        },
+        {
+          "text": "Người già, hút thuốc lá nhiều năm"
+        },
+        {
+          "text": "Phụ nữ trẻ"
+        },
+        {
+          "text": "Người mắc lao phổi cấp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tràn dịch màng phổi có thể do:",
+      "options": [
+        {
+          "text": "Lao phổi"
+        },
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Ung thư"
+        },
+        {
+          "text": "Tất cả các nguyên nhân trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tràn khí màng phổi xảy ra khi:",
+      "options": [
+        {
+          "text": "Dịch thấm vào khoang màng phổi"
+        },
+        {
+          "text": "Không khí xâm nhập khoang màng phổi"
+        },
+        {
+          "text": "Máu tràn vào màng phổi"
+        },
+        {
+          "text": "Lympho thấm qua"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm màng phổi do vi khuẩn có đặc điểm:",
+      "options": [
+        {
+          "text": "Dịch tiết trong suốt"
+        },
+        {
+          "text": "Dịch tiết giàu protein và tế bào viêm"
+        },
+        {
+          "text": "Dịch thanh dịch"
+        },
+        {
+          "text": "Dịch mỡ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U trung biểu mô màng phổi liên quan tới:",
+      "options": [
+        {
+          "text": "Bụi silic"
+        },
+        {
+          "text": "Khí CO2"
+        },
+        {
+          "text": "Amiăng (asbestos)"
+        },
+        {
+          "text": "Suy tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong u trung biểu mô ác tính, mô học thấy:",
+      "options": [
+        {
+          "text": "Mô liên kết giàu collagen"
+        },
+        {
+          "text": "Tế bào hình vuông tạo tuyến và dạng sarcom"
+        },
+        {
+          "text": "U hạt không hoại tử"
+        },
+        {
+          "text": "Biểu mô phì đại"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp mũi thường là:",
+      "options": [
+        {
+          "text": "U ác tính"
+        },
+        {
+          "text": "U mạch máu"
+        },
+        {
+          "text": "U lành, do viêm mạn tính"
+        },
+        {
+          "text": "Ung thư biểu mô"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mô học của polyp mũi:",
+      "options": [
+        {
+          "text": "Hoại tử bã đậu"
+        },
+        {
+          "text": "Mô liên kết phù nề, thấm nhập tế bào viêm"
+        },
+        {
+          "text": "Sừng hóa"
+        },
+        {
+          "text": "Áp xe"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm vòm hầu liên quan đến:",
+      "options": [
+        {
+          "text": "HPV"
+        },
+        {
+          "text": "Virus Epstein-Barr (EBV)"
+        },
+        {
+          "text": "Vi khuẩn"
+        },
+        {
+          "text": "Nấm mốc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm vòm hầu thường gặp ở:",
+      "options": [
+        {
+          "text": "Châu Âu"
+        },
+        {
+          "text": "Bắc Mỹ"
+        },
+        {
+          "text": "Đông Nam Á và Trung Quốc"
+        },
+        {
+          "text": "Ấn Độ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biểu mô trong carcinôm vòm hầu không sừng hóa:",
+      "options": [
+        {
+          "text": "Có biệt hóa rõ"
+        },
+        {
+          "text": "Sừng hóa mạnh"
+        },
+        {
+          "text": "Không biệt hóa, nhiều tế bào lympho"
+        },
+        {
+          "text": "Tạo tuyến"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Polyp thanh quản thường do:",
+      "options": [
+        {
+          "text": "Viêm mạn do nói nhiều hoặc hút thuốc"
+        },
+        {
+          "text": "Ung thư"
+        },
+        {
+          "text": "Nhiễm nấm"
+        },
+        {
+          "text": "Dị ứng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U nhú thanh quản do:",
+      "options": [
+        {
+          "text": "Virus HPV type 6 và 11"
+        },
+        {
+          "text": "Virus EBV"
+        },
+        {
+          "text": "Nhiễm trùng vi khuẩn"
+        },
+        {
+          "text": "Di truyền"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong u nhú thanh quản, mô học thấy:",
+      "options": [
+        {
+          "text": "Mô xơ hóa"
+        },
+        {
+          "text": "Biểu mô lát tầng sừng hóa, tạo nhú"
+        },
+        {
+          "text": "U tuyến"
+        },
+        {
+          "text": "Hoại tử"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U nhú thanh quản có thể:",
+      "options": [
+        {
+          "text": "Không tái phát"
+        },
+        {
+          "text": "Chuyển dạng ác tính hiếm gặp"
+        },
+        {
+          "text": "Không gây biến chứng"
+        },
+        {
+          "text": "Không cần điều trị"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm thanh quản tế bào vảy thường xuất hiện ở:",
+      "options": [
+        {
+          "text": "Người trẻ không hút thuốc"
+        },
+        {
+          "text": "Người lớn tuổi có tiền sử hút thuốc, uống rượu"
+        },
+        {
+          "text": "Trẻ em"
+        },
+        {
+          "text": "Phụ nữ tuổi sinh sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm tế bào nhỏ phế quản có đặc điểm mô học:",
+      "options": [
+        {
+          "text": "Tế bào lớn, giàu bào tương"
+        },
+        {
+          "text": "Nhân nhỏ, tăng sắc, phân bào cao"
+        },
+        {
+          "text": "Hình nhú rõ"
+        },
+        {
+          "text": "Tế bào dị dạng khổng lồ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong ung thư phổi, loại thường gặp nhất ở người không hút thuốc là:",
+      "options": [
+        {
+          "text": "Carcinôm tế bào nhỏ"
+        },
+        {
+          "text": "Carcinôm tuyến"
+        },
+        {
+          "text": "Carcinôm tế bào vảy"
+        },
+        {
+          "text": "Ung thư mô đệm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xét về dịch tễ học, loại ung thư phổ biến nhất ở phổi là:",
+      "options": [
+        {
+          "text": "Carcinôm tuyến"
+        },
+        {
+          "text": "Carcinôm tế bào vảy"
+        },
+        {
+          "text": "Carcinôm tế bào nhỏ"
+        },
+        {
+          "text": "Sarcom"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong lao kê, sự lan truyền vi khuẩn theo đường:",
+      "options": [
+        {
+          "text": "Bạch huyết"
+        },
+        {
+          "text": "Phế quản"
+        },
+        {
+          "text": "Máu"
+        },
+        {
+          "text": "Màng phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mô học của bệnh phổi mô kẽ quá mẫn cấp tính cho thấy:",
+      "options": [
+        {
+          "text": "U hạt không hoại tử, thâm nhiễm lympho quanh tiểu phế quản"
+        },
+        {
+          "text": "Hoại tử bã đậu"
+        },
+        {
+          "text": "Tăng sinh tuyến nhầy"
+        },
+        {
+          "text": "Tế bào ái toan"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U nhú thanh quản liên quan đến virus nào?",
+      "options": [
+        {
+          "text": "HPV type 16 và 18"
+        },
+        {
+          "text": "HPV type 6 và 11"
+        },
+        {
+          "text": "EBV"
+        },
+        {
+          "text": "CMV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại ung thư phổi nào thường gây hội chứng cận u (paraneoplastic syndrome)?",
+      "options": [
+        {
+          "text": "Carcinôm tế bào nhỏ"
+        },
+        {
+          "text": "Carcinôm tuyến"
+        },
+        {
+          "text": "Carcinôm tế bào vảy"
+        },
+        {
+          "text": "Sarcom"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong khí phế thủng, hiện tượng mô học nổi bật là:",
+      "options": [
+        {
+          "text": "Dày màng đáy"
+        },
+        {
+          "text": "Giãn rộng phế nang, mất vách phế nang"
+        },
+        {
+          "text": "Xơ hóa quanh tiểu phế quản"
+        },
+        {
+          "text": "Lắng đọng collagen"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tràn dịch màng phổi do ung thư đặc trưng bởi:",
+      "options": [
+        {
+          "text": "Dịch thanh dịch ít tế bào"
+        },
+        {
+          "text": "Dịch tiết chứa tế bào ác tính"
+        },
+        {
+          "text": "Dịch mủ đục"
+        },
+        {
+          "text": "Dịch trong suốt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinôm hầu mũi (nasopharyngeal carcinoma) thường biểu hiện triệu chứng đầu tiên là:",
+      "options": [
+        {
+          "text": "Sốt cao"
+        },
+        {
+          "text": "Đau họng"
+        },
+        {
+          "text": "Hạch cổ sưng không đau"
+        },
+        {
+          "text": "Khó thở đột ngột"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "text": "Sự phát triển của răng bắt đầu từ tuần thứ mấy của phôi thai?",
+      "options": [
+        {
+          "text": "Tuần thứ 4"
+        },
+        {
+          "text": "Tuần thứ 5"
+        },
+        {
+          "text": "Tuần thứ 6"
+        },
+        {
+          "text": "Tuần thứ 7"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Quá trình hình thành răng chịu sự chi phối của các quy luật sinh học nào?",
+      "options": [
+        {
+          "text": "Hoàn toàn do di truyền lập trình sẵn"
+        },
+        {
+          "text": "Di truyền và một số trường hợp ngoại di truyền (biểu sinh)"
+        },
+        {
+          "text": "Hoàn toàn do yếu tố môi trường tác động"
+        },
+        {
+          "text": "Chỉ do sự biệt hóa ngẫu nhiên của ngoại bì"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thành phần nào đóng vai trò cảm ứng đối với biểu mô miệng để hướng dẫn quá trình thành lập răng?",
+      "options": [
+        {
+          "text": "Nội bì hạ khẩu"
+        },
+        {
+          "text": "Ngoại trung mô (nguồn gốc mào thần kinh)"
+        },
+        {
+          "text": "Trung bì chính danh"
+        },
+        {
+          "text": "Lá ngách miệng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ báo hình thái đầu tiên của sự phát triển răng là gì?",
+      "options": [
+        {
+          "text": "Sự xuất hiện của nhú răng"
+        },
+        {
+          "text": "Sự dày lên có giới hạn của biểu mô hốc miệng (tế bào chuyển sang hình cột)"
+        },
+        {
+          "text": "Sự hình thành bao răng"
+        },
+        {
+          "text": "Sự xuất hiện của sụn Meckel"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vào ngày thứ 40-44 sau thụ tinh, đặc điểm nào sau đây mô tả đúng tình trạng mầm răng?",
+      "options": [
+        {
+          "text": "Đã có sự phân biệt rõ giữa môi và gờ xương ổ"
+        },
+        {
+          "text": "Vòm miệng nguyên thủy đã phát triển nhưng chưa có mầm răng nào trên lá răng"
+        },
+        {
+          "text": "Mầm răng đã bước vào giai đoạn chỏm"
+        },
+        {
+          "text": "Các răng cửa sữa đã bắt đầu hình thành nụ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lá răng hình thành cung liên tục đi qua đường giữa phía trước vào thời điểm nào?",
+      "options": [
+        {
+          "text": "Ngày thứ 40-44"
+        },
+        {
+          "text": "Ngày thứ 44-48"
+        },
+        {
+          "text": "Ngày thứ 48-51"
+        },
+        {
+          "text": "Ngày thứ 51-53"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên mầm của các răng sữa bắt đầu xuất hiện sớm nhất ở vùng nào?",
+      "options": [
+        {
+          "text": "Răng cửa hàm trên và răng cối sữa I hàm dưới"
+        },
+        {
+          "text": "Răng nanh hàm trên và răng cửa hàm dưới"
+        },
+        {
+          "text": "Răng cối sữa II hàm trên"
+        },
+        {
+          "text": "Răng cửa bên hàm dưới"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ngách miệng được hình thành do sự chẻ ra của thành phần nào vào khoảng ngày 48-51?",
+      "options": [
+        {
+          "text": "Lá răng"
+        },
+        {
+          "text": "Lá ngách miệng (lá tiền đình)"
+        },
+        {
+          "text": "Mầm răng giai đoạn nụ"
+        },
+        {
+          "text": "Lá răng thứ phát"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên mầm của răng cối sữa II bắt đầu xuất hiện vào thời gian nào?",
+      "options": [
+        {
+          "text": "Ngày thứ 44-48"
+        },
+        {
+          "text": "Ngày thứ 48-51"
+        },
+        {
+          "text": "Ngày thứ 51-53"
+        },
+        {
+          "text": "Tuần thứ 12"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sự xuất hiện của răng dư (thừa) trên lâm sàng thường do nguyên nhân phôi học nào?",
+      "options": [
+        {
+          "text": "Sự tăng sinh quá mức của xương ổ răng"
+        },
+        {
+          "text": "Sự hình thành nguyên mầm kép ở dải biểu mô chính"
+        },
+        {
+          "text": "Sự thoái hóa sớm của lá răng"
+        },
+        {
+          "text": "Sự sót lại của bao biểu mô Hertwig"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Giai đoạn nụ của mầm răng còn được gọi là giai đoạn gì theo đặc điểm hoạt động tế bào?",
+      "options": [
+        {
+          "text": "Giai đoạn biệt hóa"
+        },
+        {
+          "text": "Giai đoạn tăng sinh"
+        },
+        {
+          "text": "Giai đoạn chế tiết"
+        },
+        {
+          "text": "Giai đoạn trưởng thành"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mầm răng ở giai đoạn chỏm (cap stage) bao gồm các thành phần nào sau đây?",
+      "options": [
+        {
+          "text": "Cơ quan men, nhú răng, bao răng"
+        },
+        {
+          "text": "Cơ quan men, ngà răng, tủy răng"
+        },
+        {
+          "text": "Men răng, ngà răng, xương ổ răng"
+        },
+        {
+          "text": "Lá răng, nhú răng, tủy răng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bao răng (túi răng) có nguồn gốc từ loại tế bào nào?",
+      "options": [
+        {
+          "text": "Biểu mô men lớp ngoài"
+        },
+        {
+          "text": "Tầng lưới"
+        },
+        {
+          "text": "Ngoại trung mô tụ đặc quanh cơ quan men và nhú răng"
+        },
+        {
+          "text": "Tế bào biểu mô miệng nguyên thủy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm quan trọng nhất để phân biệt giai đoạn chuông với giai đoạn chỏm là gì?",
+      "options": [
+        {
+          "text": "Sự xuất hiện của lá răng"
+        },
+        {
+          "text": "Sự xác định hình thể tương lai của thân răng và biệt hóa tế bào"
+        },
+        {
+          "text": "Sự bắt đầu khoáng hóa men răng"
+        },
+        {
+          "text": "Sự hình thành ngách tiền đình"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dựa trên thí nghiệm tái hợp mô, thành phần nào quyết định hình thể đặc trưng (răng cửa hay răng cối) của răng?",
+      "options": [
+        {
+          "text": "Cơ quan men"
+        },
+        {
+          "text": "Nhú răng"
+        },
+        {
+          "text": "Bao răng"
+        },
+        {
+          "text": "Lá răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong giai đoạn chuông, cơ quan men bao gồm bao nhiêu tầng tế bào biệt hóa?",
+      "options": [
+        {
+          "text": "2 tầng"
+        },
+        {
+          "text": "3 tầng"
+        },
+        {
+          "text": "4 tầng"
+        },
+        {
+          "text": "5 tầng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tầng lưới (stellate reticulum) trong cơ quan men có chức năng chính là gì?",
+      "options": [
+        {
+          "text": "Biệt hóa thành nguyên bào men"
+        },
+        {
+          "text": "Chế tiết ngà răng"
+        },
+        {
+          "text": "Tạo khoảng trống và chứa chất cơ bản ái thủy (mucopolysaccharide)"
+        },
+        {
+          "text": "Chế tiết xê măng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tế bào của tầng trung gian (stratum intermedium) đặc biệt giàu loại men (enzyme) nào?",
+      "options": [
+        {
+          "text": "Amylase"
+        },
+        {
+          "text": "Phosphatase kiềm và acid"
+        },
+        {
+          "text": "Protease"
+        },
+        {
+          "text": "Lipase"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biểu mô men lớp trong (inner enamel epithelium) sẽ biệt hóa thành loại tế bào nào?",
+      "options": [
+        {
+          "text": "Nguyên bào ngà"
+        },
+        {
+          "text": "Nguyên bào sợi"
+        },
+        {
+          "text": "Nguyên bào men"
+        },
+        {
+          "text": "Nguyên bào xê măng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vành cổ (cervical loop) là vị trí tiếp nối của hai lớp tế bào nào?",
+      "options": [
+        {
+          "text": "Biểu mô men lớp ngoài và tầng lưới"
+        },
+        {
+          "text": "Tầng lưới và tầng trung gian"
+        },
+        {
+          "text": "Biểu mô men lớp ngoài và biểu mô men lớp trong"
+        },
+        {
+          "text": "Biểu mô men lớp trong và nhú răng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sự tăng trưởng của cơ quan men để đạt kích thước thân răng tương lai chủ yếu diễn ra ở đâu?",
+      "options": [
+        {
+          "text": "Tầng lưới trung tâm"
+        },
+        {
+          "text": "Tầng trung gian"
+        },
+        {
+          "text": "Vành cổ (nơi có hoạt động phân bào tích cực)"
+        },
+        {
+          "text": "Lá răng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nhú răng (dental papilla) là nguồn gốc của các thành phần nào sau này?",
+      "options": [
+        {
+          "text": "Men răng và ngà răng"
+        },
+        {
+          "text": "Ngà răng và tủy răng"
+        },
+        {
+          "text": "Xê măng và dây chằng nha chu"
+        },
+        {
+          "text": "Xương ổ răng và nướu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Túi răng (bao răng) chính danh sẽ phát triển thành các thành phần nào của hệ thống nha chu?",
+      "options": [
+        {
+          "text": "Ngà răng, tủy răng, xê măng"
+        },
+        {
+          "text": "Men răng, ngà răng, xương ổ"
+        },
+        {
+          "text": "Xê măng, dây chằng nha chu, xương ổ răng chính danh"
+        },
+        {
+          "text": "Nướu và niêm mạc miệng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Số phận của lá răng trong giai đoạn chuông diễn ra như thế nào?",
+      "options": [
+        {
+          "text": "Phát triển thành xương ổ răng"
+        },
+        {
+          "text": "Thoái hóa phân rã thành những đám tế bào biểu mô rời rạc"
+        },
+        {
+          "text": "Biến đổi thành biểu mô bám dính"
+        },
+        {
+          "text": "Biệt hóa thành nguyên bào men"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sự tồn tại của các nang nhỏ (nang mọc răng) trên lâm sàng thường liên quan đến thành phần nào?",
+      "options": [
+        {
+          "text": "Sự sót lại của bao Hertwig"
+        },
+        {
+          "text": "Sự sót lại của lá răng (ngọc Epstein)"
+        },
+        {
+          "text": "Sự tăng sinh của nhú răng"
+        },
+        {
+          "text": "Sự vôi hóa của túi răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trình tự hình thành các mô cứng của răng diễn ra theo quy luật nào?",
+      "options": [
+        {
+          "text": "Men răng tạo trước, ngà răng tạo sau"
+        },
+        {
+          "text": "Ngà răng tạo trước, men răng tạo sau"
+        },
+        {
+          "text": "Men và ngà tạo cùng lúc tại đường nối men ngà"
+        },
+        {
+          "text": "Xê măng tạo trước nhất để làm giá đỡ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điều kiện tiên quyết bắt buộc để tế bào ngoại vi nhú răng biệt hóa thành nguyên bào ngà là gì?",
+      "options": [
+        {
+          "text": "Sự hiện diện của biểu mô men lớp ngoài"
+        },
+        {
+          "text": "Sự hiện diện của biểu mô men lớp trong và màng đáy"
+        },
+        {
+          "text": "Sự khoáng hóa hoàn toàn của bao răng"
+        },
+        {
+          "text": "Sự sụt giảm của tầng trung gian"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sự hình thành men và ngà bắt đầu đầu tiên tại vị trí nào?",
+      "options": [
+        {
+          "text": "Vùng cổ răng"
+        },
+        {
+          "text": "Bờ cắn hoặc đỉnh múi"
+        },
+        {
+          "text": "Vùng chẽ chân răng"
+        },
+        {
+          "text": "Chóp chân răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi quá trình tạo mô cứng bắt đầu, tại sao tầng lưới của cơ quan men lại sụt giảm kích thước?",
+      "options": [
+        {
+          "text": "Để nhường chỗ cho tủy răng phát triển"
+        },
+        {
+          "text": "Để nguyên bào men tiếp cận mạch máu nuôi dưỡng từ bao răng"
+        },
+        {
+          "text": "Do tế bào tầng lưới bị vôi hóa"
+        },
+        {
+          "text": "Để chuẩn bị cho sự mọc răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vòng đời của nguyên bào men trải qua 5 giai đoạn theo trình tự nào sau đây?",
+      "options": [
+        {
+          "text": "Phát sinh hình thái, Chế tiết, Biệt hóa, Trưởng thành, Bảo vệ"
+        },
+        {
+          "text": "Biệt hóa, Phát sinh hình thái, Chế tiết, Bảo vệ, Trưởng thành"
+        },
+        {
+          "text": "Phát sinh hình thái, Biệt hóa, Chế tiết, Trưởng thành, Bảo vệ"
+        },
+        {
+          "text": "Phát sinh hình thái, Biệt hóa, Bảo vệ, Chế tiết, Trưởng thành"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nhú Tomes, cấu trúc quyết định sự hình thành trụ men, xuất hiện ở giai đoạn nào?",
+      "options": [
+        {
+          "text": "Giai đoạn biệt hóa"
+        },
+        {
+          "text": "Giai đoạn phát sinh hình thái"
+        },
+        {
+          "text": "Giai đoạn chế tiết"
+        },
+        {
+          "text": "Giai đoạn bảo vệ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chức năng của nguyên bào men trong giai đoạn bảo vệ là gì?",
+      "options": [
+        {
+          "text": "Tiếp tục chế tiết men răng"
+        },
+        {
+          "text": "Ngăn sự tiếp xúc giữa men và túi răng để tránh hình thành xê măng trên men"
+        },
+        {
+          "text": "Biệt hóa thành nguyên bào ngà thứ cấp"
+        },
+        {
+          "text": "Hỗ trợ quá trình tiêu chân răng sữa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thành phần vô cơ (hydroxyapatite) chiếm bao nhiêu phần trăm trong men răng trưởng thành?",
+      "options": [
+        {
+          "text": "70%"
+        },
+        {
+          "text": "85%"
+        },
+        {
+          "text": "96%"
+        },
+        {
+          "text": "99%"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đường tăng trưởng Retzius trên tiêu bản cắt ngang răng có hình thái như thế nào?",
+      "options": [
+        {
+          "text": "Chạy song song với đường nối men ngà"
+        },
+        {
+          "text": "Giống các vòng tuổi ở thân cây"
+        },
+        {
+          "text": "Là các rãnh nằm ngang trên bề mặt men"
+        },
+        {
+          "text": "Là các suốt men đâm sâu vào ngà"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dãy Hunter-Schreger quan sát được trong men răng phản ánh điều gì?",
+      "options": [
+        {
+          "text": "Sự khoáng hóa kém của men răng"
+        },
+        {
+          "text": "Đường đi hình lượn sóng của các trụ men theo 3 chiều không gian"
+        },
+        {
+          "text": "Sự hiện diện của vi khuẩn trong ống men"
+        },
+        {
+          "text": "Sự hình thành ngà vỏ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ngà vỏ (mantle dentin) có đặc điểm gì khác biệt so với ngà quanh tủy?",
+      "options": [
+        {
+          "text": "Khoáng hóa cao hơn"
+        },
+        {
+          "text": "Chứa các sợi collagen dày (sợi alpha) và được tạo ra đầu tiên"
+        },
+        {
+          "text": "Không chứa sợi collagen"
+        },
+        {
+          "text": "Chỉ xuất hiện ở chân răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại ngà nào có mức độ khoáng hóa cao nhất và lót quanh thành trong của ống ngà?",
+      "options": [
+        {
+          "text": "Ngà vỏ"
+        },
+        {
+          "text": "Ngà gian ống"
+        },
+        {
+          "text": "Ngà quanh ống (peritubular dentin)"
+        },
+        {
+          "text": "Ngà thứ cấp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thành phần chính của khuôn hữu cơ trong ngà răng là gì?",
+      "options": [
+        {
+          "text": "Collagen (chủ yếu type I)"
+        },
+        {
+          "text": "Amelogenin"
+        },
+        {
+          "text": "Enamelin"
+        },
+        {
+          "text": "Mucopolysaccharide"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Vùng Weil trong cấu trúc tủy răng là vùng có đặc điểm gì?",
+      "options": [
+        {
+          "text": "Vùng giàu tế bào nguyên bào sợi"
+        },
+        {
+          "text": "Vùng ít tế bào (vùng vô bào) nằm dưới lớp nguyên bào ngà"
+        },
+        {
+          "text": "Vùng chứa nhiều mạch máu lớn nhất"
+        },
+        {
+          "text": "Vùng đang diễn ra khoáng hóa mạnh"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đường tân tạo (neonatal line) là mốc đánh dấu sự sinh ra, được tìm thấy ở đâu?",
+      "options": [
+        {
+          "text": "Tất cả răng vĩnh viễn"
+        },
+        {
+          "text": "Chỉ ở răng khôn hàm dưới"
+        },
+        {
+          "text": "Tất cả răng sữa và múi gần răng cối lớn thứ nhất vĩnh viễn"
+        },
+        {
+          "text": "Chỉ ở răng nanh sữa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bao biểu mô chân răng Hertwig (Hertwig's epithelial root sheath) hình thành từ đâu?",
+      "options": [
+        {
+          "text": "Tầng lưới và tầng trung gian"
+        },
+        {
+          "text": "Biểu mô men lớp ngoài và biểu mô men lớp trong (vùng vành cổ)"
+        },
+        {
+          "text": "Biểu mô miệng và nhú răng"
+        },
+        {
+          "text": "Bao răng và nhú răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vai trò của hoành biểu mô (epithelial diaphragm) trong quá trình phát triển răng là gì?",
+      "options": [
+        {
+          "text": "Xác lập hình thể thân răng"
+        },
+        {
+          "text": "Thành lập biên giới phía chóp răng của nhú răng và lỗ chóp sau này"
+        },
+        {
+          "text": "Chế tiết men răng vùng chân răng"
+        },
+        {
+          "text": "Biệt hóa thành dây chằng nha chu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tế bào sót Malassez, có thể gây nang quanh chóp răng, có nguồn gốc từ đâu?",
+      "options": [
+        {
+          "text": "Lá răng"
+        },
+        {
+          "text": "Bao biểu mô chân răng Hertwig sau khi phân rã"
+        },
+        {
+          "text": "Nhú răng"
+        },
+        {
+          "text": "Tầng lưới của cơ quan men"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong điều trị nội nha, sự hiện diện của ống tủy phụ thường do khiếm khuyết nào?",
+      "options": [
+        {
+          "text": "Sự tăng sinh quá mức của bao Hertwig"
+        },
+        {
+          "text": "Bao biểu mô chân răng mất tính liên tục trước khi ngà chân răng hình thành"
+        },
+        {
+          "text": "Sự hiện diện của hạt trai men"
+        },
+        {
+          "text": "Sự thoái hóa sớm của tủy răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hạt trai men (enamel pearl) thường được tìm thấy ở vùng chẽ răng do nguyên nhân nào?",
+      "options": [
+        {
+          "text": "Tế bào túi răng biệt hóa thành nguyên bào men"
+        },
+        {
+          "text": "Tế bào lớp trong của bao Hertwig sót lại biệt hóa thành nguyên bào men"
+        },
+        {
+          "text": "Sự vôi hóa của dây chằng nha chu"
+        },
+        {
+          "text": "Sự lắng đọng calci từ nước bọt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thứ tự hình thành ngà ở răng nhiều chân diễn ra như thế nào?",
+      "options": [
+        {
+          "text": "Ngà chân răng tạo trước ngà sàn tủy"
+        },
+        {
+          "text": "Ngà vùng chẽ và sàn buồng tủy được tạo ra trước khi các chân răng hình thành"
+        },
+        {
+          "text": "Ngà sàn tủy chỉ tạo sau khi răng đã mọc"
+        },
+        {
+          "text": "Ngà sàn tủy tạo cùng lúc với xê măng chóp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sự biệt hóa nguyên bào xê măng (cementoblast) xảy ra khi nào?",
+      "options": [
+        {
+          "text": "Khi bao biểu mô Hertwig còn nguyên vẹn"
+        },
+        {
+          "text": "Khi bao biểu mô Hertwig phân rã, tế bào túi răng tiếp xúc với ngà chân răng"
+        },
+        {
+          "text": "Ngay từ giai đoạn nụ"
+        },
+        {
+          "text": "Sau khi răng đã mọc hoàn toàn vào vị trí chức năng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thành phần nào quyết định số lượng chân răng (một chân hay nhiều chân)?",
+      "options": [
+        {
+          "text": "Kích thước của nhú răng"
+        },
+        {
+          "text": "Sự phát triển và kết dính của các lá biểu mô từ màng ngăn của bao Hertwig"
+        },
+        {
+          "text": "Áp lực của xương hàm"
+        },
+        {
+          "text": "Số lượng nguyên bào men ở vành cổ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân gây ê buốt cổ răng ở người tụt nướu liên quan đến bao Hertwig là gì?",
+      "options": [
+        {
+          "text": "Bao Hertwig không phân rã khiến xê măng không thể hình thành trên ngà cổ răng"
+        },
+        {
+          "text": "Bao Hertwig thoái hóa quá sớm"
+        },
+        {
+          "text": "Có quá nhiều tế bào sót Malassez vùng cổ"
+        },
+        {
+          "text": "Do sự biến mất của ống ngà"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Số lượng giai đoạn mọc răng được chia theo tiến trình vận động là mấy?",
+      "options": [
+        {
+          "text": "2 giai đoạn"
+        },
+        {
+          "text": "3 giai đoạn (Trước mọc, Tiền chức năng, Chức năng)"
+        },
+        {
+          "text": "4 giai đoạn"
+        },
+        {
+          "text": "5 giai đoạn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Giai đoạn mọc tiền chức năng (prefunctional eruptive phase) kết thúc khi nào?",
+      "options": [
+        {
+          "text": "Khi chân răng bắt đầu hình thành"
+        },
+        {
+          "text": "Khi răng đạt đến sự tiếp xúc mặt nhai (mặt phẳng nhai)"
+        },
+        {
+          "text": "Khi răng bắt đầu lung lay"
+        },
+        {
+          "text": "Khi chân răng hoàn thành 100%"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thừng dẫn răng (gubernaculum dentis) có vai trò và cấu tạo như thế nào?",
+      "options": [
+        {
+          "text": "Chứa tế bào tạo xương để lấp đầy huyệt ổ răng"
+        },
+        {
+          "text": "Dây kéo răng tạo bởi các sợi bao răng hướng về phía niêm mạc miệng"
+        },
+        {
+          "text": "Chứa mạch máu chính nuôi dưỡng mầm răng"
+        },
+        {
+          "text": "Là phần còn lại của sụn Meckel"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi đỉnh múi răng bắt đầu xuất hiện trong miệng, chân răng đã phát triển được bao nhiêu?",
+      "options": [
+        {
+          "text": "Chưa hình thành chân răng"
+        },
+        {
+          "text": "Đã hoàn thành 1/2 đến 3/4 chiều dài chân răng"
+        },
+        {
+          "text": "Đã hoàn thành 100% chiều dài chân răng"
+        },
+        {
+          "text": "Chỉ mới hình thành vùng cổ răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vận động mọc răng tích cực nhất diễn ra vào thời điểm nào trong ngày?",
+      "options": [
+        {
+          "text": "Ban ngày khi đang ăn nhai"
+        },
+        {
+          "text": "Buổi trưa khi nghỉ ngơi"
+        },
+        {
+          "text": "Ban đêm"
+        },
+        {
+          "text": "Mọi thời điểm đều như nhau"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nguyên nhân chính dẫn đến sự rụng răng sữa bình thường ở trẻ em là gì?",
+      "options": [
+        {
+          "text": "Sâu răng quá nặng"
+        },
+        {
+          "text": "Sự tiêu chân răng sữa do áp lực mọc răng vĩnh viễn và lực nhai tăng lên"
+        },
+        {
+          "text": "Do xương ổ răng bị viêm"
+        },
+        {
+          "text": "Do răng vĩnh viễn mọc lệch lạc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trình tự mọc răng sữa thông thường ở trẻ em theo tài liệu là gì?",
+      "options": [
+        {
+          "text": "Răng cối 1 - Răng cửa - Răng nanh"
+        },
+        {
+          "text": "Răng cửa giữa - Răng cửa bên - Răng cối sữa 1 - Răng nanh - Răng cối sữa 2"
+        },
+        {
+          "text": "Răng nanh - Răng cửa - Răng cối"
+        },
+        {
+          "text": "Răng cối 2 - Răng nanh - Răng cối 1 - Răng cửa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thói quen mút ngón tay kéo dài dẫn đến sai lệch khớp cắn nào điển hình nhất?",
+      "options": [
+        {
+          "text": "Răng chen chúc trầm trọng"
+        },
+        {
+          "text": "Cắn chìa tăng và cắn hở vùng răng trước"
+        },
+        {
+          "text": "Cắn sâu"
+        },
+        {
+          "text": "Móm (cắn ngược)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nào sau đây thường làm răng vĩnh viễn mọc chậm theo quy luật sinh học?",
+      "options": [
+        {
+          "text": "Trẻ có chiều cao và cân nặng vượt mức"
+        },
+        {
+          "text": "Kích thước xương hàm hẹp gây chen chúc"
+        },
+        {
+          "text": "Giới tính nữ"
+        },
+        {
+          "text": "Viêm nhiễm xương hàm tại chỗ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tại sao sự rụng răng sữa thường diễn ra mà không có hiện tượng loét niêm mạc?",
+      "options": [
+        {
+          "text": "Do tủy răng sữa còn sống"
+        },
+        {
+          "text": "Do biểu mô bám dính phát triển lách vào dưới thân răng sữa trước khi rụng"
+        },
+        {
+          "text": "Do xê măng bao phủ toàn bộ thân răng"
+        },
+        {
+          "text": "Do tác động của nước bọt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thành phần nào của răng sữa mỏng và ít cứng hơn răng vĩnh viễn dẫn đến hiện tượng mau mòn răng?",
+      "options": [
+        {
+          "text": "Tủy răng"
+        },
+        {
+          "text": "Dây chằng nha chu"
+        },
+        {
+          "text": "Cấu trúc men răng"
+        },
+        {
+          "text": "Xê măng"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

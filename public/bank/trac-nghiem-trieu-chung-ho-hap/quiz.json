@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Triệu chứng nào sau đây không thuộc triệu chứng cơ năng hô hấp",
+      "options": [
+        {
+          "text": "Ho"
+        },
+        {
+          "text": "Ho ra máu"
+        },
+        {
+          "text": "Đau ngực"
+        },
+        {
+          "text": "Hô hấp nghịch thường"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các đặc điểm sau đây, đặc điểm nào là không đúng với biểu hiện của ho ra máu",
+      "options": [
+        {
+          "text": "Ngứa ở vùng họng, thanh quản sau khi ho ra máu"
+        },
+        {
+          "text": "Có tiền triệu mùi tanh, vị kim loại"
+        },
+        {
+          "text": "Máu có màu đỏ tươi, thường lẫn đàm bọt"
+        },
+        {
+          "text": "Khi ho máu giảm, bệnh nhân khạc ra đuôi của ho ra máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tính chất nào sau đây phản ánh đúng tính chất máu trong ho ra máu",
+      "options": [
+        {
+          "text": "Máu đỏ sẫm"
+        },
+        {
+          "text": "pH máu toan"
+        },
+        {
+          "text": "Có đại thực bào phế nang chứa hemosiderin"
+        },
+        {
+          "text": "Máu lẫn thức ăn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ho ra máu mức độ nhẹ khi lượng máu ho ra nhỏ hơn",
+      "options": [
+        {
+          "text": "50mL"
+        },
+        {
+          "text": "100mL"
+        },
+        {
+          "text": "150mL"
+        },
+        {
+          "text": "200ml"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ho ra máu mức độ nhẹ khi",
+      "options": [
+        {
+          "text": "Không làm thay đổi dấu hiệu sinh tồn, không suy hô hấp"
+        },
+        {
+          "text": "Mạch có thể nhanh nhưng huyết áp bình thường, không suy hô hấp"
+        },
+        {
+          "text": "Mạch có thể nhanh, huyết áp tụt nhẹ, không suy hô hấp"
+        },
+        {
+          "text": "Có thể suy hô hấp nhẹ nhưng mạch và huyết áp bình thường"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ho ra máu mức độ trung bình khi lượng máu ho ra",
+      "options": [
+        {
+          "text": "<50ml"
+        },
+        {
+          "text": "50-200mL"
+        },
+        {
+          "text": "200-300mL"
+        },
+        {
+          "text": "300-600mL"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ho ra máu mức độ trung bình khi",
+      "options": [
+        {
+          "text": "Không làm thay đổi dấu hiệu sinh tồn, không suy hô hấp"
+        },
+        {
+          "text": "Mạch có thể nhanh nhưng huyết áp bình thường, không suy hô hấp"
+        },
+        {
+          "text": "Mạch có thể nhanh, huyết áp tụt nhẹ, không suy hô hấp"
+        },
+        {
+          "text": "Có biểu hiện của suy hô hấp và rối loạn về tim mạch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ho ra máu mức độ nặng khi lượng máu ho ra",
+      "options": [
+        {
+          "text": ">50mL/lần"
+        },
+        {
+          "text": ">100mL/lần"
+        },
+        {
+          "text": ">150mL/lần"
+        },
+        {
+          "text": ">200mL/lần"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ho ra máu mức độ nặng khi lượng máu ho ra",
+      "options": [
+        {
+          "text": ">150mL/48 giờ"
+        },
+        {
+          "text": ">200mL/48 giờ"
+        },
+        {
+          "text": ">400mL/48 giờ"
+        },
+        {
+          "text": ">600mL/48 giờ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ho ra máu mức độ nặng khi",
+      "options": [
+        {
+          "text": "Mạch nhanh, huyết áp tụt nhưng không suy hô hấp"
+        },
+        {
+          "text": "Có biểu hiện suy hô hấp, mạch nhanh nhưng huyết áp bình thường"
+        },
+        {
+          "text": "Có biểu hiện huyết áp tụt, mạch chậm, nhưng thường không suy hô hấp"
+        },
+        {
+          "text": "Có biểu hiện suy hô hấp và rối trụy tim mạch"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phát biểu nào sau đây là đúng về khó thở",
+      "options": [
+        {
+          "text": "Là cảm giác được mô tả bằng trạng thái khó chịu, hụt hơi khi thở"
+        },
+        {
+          "text": "Là cảm giác được mô tả bằng trạng thái hụt hơi, không thể hít sâu"
+        },
+        {
+          "text": "Là cảm giác được mô tả bằng trạng thái lo lắng, không thể hít sâu"
+        },
+        {
+          "text": "Là cảm giác được mô tả bằng trạng thái lo lắng, hụt hơi khi thở"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những nguyên nhân nào sau đây gây khó thở mạn tính",
+      "options": [
+        {
+          "text": "Rối loạn chức năng dây thanh"
+        },
+        {
+          "text": "Tràn dịch màng phổi"
+        },
+        {
+          "text": "Tràn khí màng phổi"
+        },
+        {
+          "text": "Xuất huyết phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các mô tả sau đây, mô tả nào phù hợp với giai đoạn 0 của mức độ khó thở theo mMRC",
+      "options": [
+        {
+          "text": "Khó thở khi đi cùng bước với người cùng tuổi trên mặt bằng hoặc phải ngừng bước để thở khi đi bình thường trên mặt bằng"
+        },
+        {
+          "text": "Khó thở khi đi nhanh trên mặt bằng hay mặt dốc nhẹ"
+        },
+        {
+          "text": "Khó thở ngay trong các động tác sinh hoạt nhẹ như ăn, nói, tắm rửa, thay quần áo"
+        },
+        {
+          "text": "Khó thở khi gắng sức nặng như đi lên dốc hay lên lầu 1"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các mô tả sau đây, mô tả nào phù hợp với giai đoạn 1 của mức độ khó thở theo mMRC",
+      "options": [
+        {
+          "text": "Khó thở ngay khi đi bộ chậm trên mặt bằng, trong khoảng 100m"
+        },
+        {
+          "text": "Khó thở khi gắng sức nặng như đi lên dốc hay lên lầu 1"
+        },
+        {
+          "text": "Khó thở khi đi nhanh trên mặt bằng hay mặt dốc nhẹ"
+        },
+        {
+          "text": "Khó thở khi đi cùng bước với người cùng tuổi trên mặt bằng hoặc phải ngừng bước để thở khi đi bình thường trên mặt bằng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các mô tả sau đây, mô tả nào phù hợp với giai đoạn 2 của mức độ khó thở theo mMRC",
+      "options": [
+        {
+          "text": "Khó thở khi đi nhanh trên mặt bằng hay mặt dốc nhẹ"
+        },
+        {
+          "text": "Khó thở khi đi cùng bước với người cùng tuổi trên mặt bằng hoặc phải ngừng bước để thở khi đi bình thường trên mặt bằng"
+        },
+        {
+          "text": "Khó thở ngay khi đi bộ chậm trên mặt bằng, trong khoảng 100m"
+        },
+        {
+          "text": "Khó thở ngay trong các động tác sinh hoạt nhẹ như ăn, nói, tắm rửa, thay quần áo"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các mô tả sau đây, mô tả nào phù hợp với giai đoạn 3 của mức độ khó thở theo mMRC",
+      "options": [
+        {
+          "text": "Khó thở khi gắng sức nặng như đi lên dốc hay lên lầu 1"
+        },
+        {
+          "text": "Khó thở khi đi nhanh trên mặt bằng hay mặt dốc nhẹ"
+        },
+        {
+          "text": "Khó thở ngay khi đi bộ chậm trên mặt bằng, trong khoảng 100m"
+        },
+        {
+          "text": "Khó thở khi đi cùng bước với người cùng tuổi trên mặt bằng hoặc phải ngừng bước để thở khi đi bình thường trên mặt bằng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các mô tả sau đây, mô tả nào phù hợp với giai đoạn 4 của mức độ khó thở theo mMRC",
+      "options": [
+        {
+          "text": "Khó thở ngay khi đi bộ chậm trên mặt bằng, trong khoảng 100m"
+        },
+        {
+          "text": "Khó thở ngay trong các động tác sinh hoạt nhẹ như ăn, nói, tắm rửa, thay quần áo"
+        },
+        {
+          "text": "Khó thở khi gắng sức nặng như đi lên dốc hay lên lầu 1"
+        },
+        {
+          "text": "Khó thở khi đi nhanh trên mặt bằng hay mặt dốc nhẹ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì hít vào",
+      "options": [
+        {
+          "text": "Cơn hen cấp nặng"
+        },
+        {
+          "text": "Nhồi máu phổi"
+        },
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Viêm thanh quản"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì hít vào",
+      "options": [
+        {
+          "text": "Phù phổi"
+        },
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Ung thư thanh quản"
+        },
+        {
+          "text": "Khí phế thũng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì thở ra",
+      "options": [
+        {
+          "text": "Viêm thanh quản"
+        },
+        {
+          "text": "Khí phế thũng"
+        },
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Nhồi máu phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì thở ra",
+      "options": [
+        {
+          "text": "Ung thư thanh quản"
+        },
+        {
+          "text": "Phù Quincke"
+        },
+        {
+          "text": "Nhồi máu phổi"
+        },
+        {
+          "text": "Cơn hen cấp nặng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở cả hai thì",
+      "options": [
+        {
+          "text": "Viêm thanh quản"
+        },
+        {
+          "text": "Nhồi máu phổi"
+        },
+        {
+          "text": "Khí phế thũng"
+        },
+        {
+          "text": "Cơn hen cấp nặng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở cả hai thì",
+      "options": [
+        {
+          "text": "Phù Quincke"
+        },
+        {
+          "text": "Phù phổi"
+        },
+        {
+          "text": "Khí phế thũng"
+        },
+        {
+          "text": "Cơn hen cấp nặng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Triệu chứng tím xuất hiện khi nồng độ hemoglobin không được oxy hóa trong máu đạt mốc nào trong các giá trị sau đây",
+      "options": [
+        {
+          "text": ">0,5g/dL"
+        },
+        {
+          "text": ">5g/dL"
+        },
+        {
+          "text": "7,5g/dL"
+        },
+        {
+          "text": "10g/dL"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nhận định sau đây, nhận định nào là đúng về triệu chứng tím",
+      "options": [
+        {
+          "text": "Tím trung ương phản ánh tình trạng thiếu oxy của hệ thống máu động mạch"
+        },
+        {
+          "text": "Tím ngoại biên phản ánh sự tăng lưu lượng máu tuần hoàn ngoại biên"
+        },
+        {
+          "text": "Tím là sự chuyển màu thành xanh hoặc xanh tím của da nhưng không ảnh hưởng đến màu sắc niêm mạc"
+        },
+        {
+          "text": "Tím do tập trung nồng độ các hemoglobin không được oxy hóa trong máu <5g/dL"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các nhận định sau đây, nhận định nào là đúng về triệu chứng tím",
+      "options": [
+        {
+          "text": "Tím trung ương phản ánh tình trạng thiếu oxy của hệ thống máu tĩnh mạch"
+        },
+        {
+          "text": "Tím ngoại biên phản ánh sự giảm lưu lượng máu tuần hoàn ngoại biên"
+        },
+        {
+          "text": "Tím là sự chuyển màu thành xanh hoặc xanh tím của da nhưng không ảnh hưởng đến màu sắc niêm mạc"
+        },
+        {
+          "text": "Tím do tập trung nồng độ các hemoglobin không được oxy hóa trong máu <5g/dL"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nhận định sau đây, nhận định nào là không đúng về triệu chứng tím",
+      "options": [
+        {
+          "text": "Tím trung ương phản ánh tình trạng thiếu oxy của hệ thống máu động mạch"
+        },
+        {
+          "text": "Tím ngoại biên phản ánh sự giảm lưu lượng máu tuần hoàn ngoại biên"
+        },
+        {
+          "text": "Tím là sự chuyển màu thành xanh hoặc xanh tím của da nhưng không ảnh hưởng đến màu sắc niêm mạc"
+        },
+        {
+          "text": "Tím do tập trung nồng độ các hemoglobin không được oxy hóa trong máu >5g/dL"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tím trung ương được phân biệt với tím ngoại biên nhờ sự xuất hiện tím ở",
+      "options": [
+        {
+          "text": "Đầu chi"
+        },
+        {
+          "text": "Vành tai"
+        },
+        {
+          "text": "Môi"
+        },
+        {
+          "text": "Lưỡi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các đặc điểm sau đây, đặc điểm nào là không đúng về dấu hiệu Hoover",
+      "options": [
+        {
+          "text": "Đáy ngực co vào trong thì hít vào"
+        },
+        {
+          "text": "Gặp trong khí phế thũng"
+        },
+        {
+          "text": "Gặp trong suy hô hấp mạn"
+        },
+        {
+          "text": "Gặp trong liệt cơ hoành"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các phát biểu sau đây về ngón tay dùi trống, phát biểu nào là không đúng",
+      "options": [
+        {
+          "text": "Đây là tình trạng đoạn xa của ngón to ra do tăng tổ chức mô mềm"
+        },
+        {
+          "text": "Thường không đau"
+        },
+        {
+          "text": "Luôn luôn đối xứng, ở tay và chân"
+        },
+        {
+          "text": "Nguyên nhân do bệnh lý tại lồng ngực hoặc ngoài lồng ngực"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các phát biểu sau đây, phát biểu nào là không đúng về ngón tay dùi trống",
+      "options": [
+        {
+          "text": "Đây là tình trạng đoạn xa của ngón to ra do tăng tổ chức mô mềm"
+        },
+        {
+          "text": "Thường gây đau"
+        },
+        {
+          "text": "Thường đối xứng 2 bên"
+        },
+        {
+          "text": "Nguyên nhân do bệnh lý tại lồng ngực hoặc ngoài lồng ngực"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các kiểu biến dạng liên quan đến lồng ngực sau đây, kiểu biến dạng nào ít ảnh hưởng đến hoạt động hô hấp",
+      "options": [
+        {
+          "text": "Lồng ngực hình thùng"
+        },
+        {
+          "text": "Lồng ngực ức gà"
+        },
+        {
+          "text": "Tình trạng gù, ưỡn cột sống"
+        },
+        {
+          "text": "Tình trạng vẹo cột sống"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Gọi là lồng ngực hình thùng khi tỷ lệ đường kính trước sau so với đường kính ngang",
+      "options": [
+        {
+          "text": ">0.75"
+        },
+        {
+          "text": "=0.75"
+        },
+        {
+          "text": ">1"
+        },
+        {
+          "text": "=1"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân nào sau đây gây ra tràn dịch màng phổi dịch thấm",
+      "options": [
+        {
+          "text": "Tắc tĩnh mạch chủ trên"
+        },
+        {
+          "text": "Hội chứng Dressler"
+        },
+        {
+          "text": "Lupus ban đỏ hệ thống"
+        },
+        {
+          "text": "Viêm khớp dạng thấp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các phát biểu sau đây về hội chứng trung thất, phát biểu nào là không đúng",
+      "options": [
+        {
+          "text": "Hội chứng trung thất xảy ra khi có sự chèn ép các thành phần của trung thất"
+        },
+        {
+          "text": "Triệu chứng đau vai lan xuống tay có thể gặp trong hội chứng Pancoast-Tobias"
+        },
+        {
+          "text": "Khối u trung thất có thể gây ra hội chứng chèn ép tĩnh mạch chủ trên"
+        },
+        {
+          "text": "Khi thần kinh quặt ngược trái bị tổn thương sẽ gây triệu chứng nấc, khó thở"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng đau vai lan xuống tay có thể gặp trong hội chứng nào sau đây",
+      "options": [
+        {
+          "text": "Hội chứng Claude Bernard-Horner"
+        },
+        {
+          "text": "Hội chứng Pancoast-Tobias"
+        },
+        {
+          "text": "Hội chứng trung thất trước"
+        },
+        {
+          "text": "Hội chứng trung thất sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hội chứng Pancoast-Tobias có sự tổn thương của thành phần nào sau đây",
+      "options": [
+        {
+          "text": "Thần kinh phế vị"
+        },
+        {
+          "text": "Thần kinh giao cảm cổ"
+        },
+        {
+          "text": "Thần kinh hoành"
+        },
+        {
+          "text": "Đám rối thần kinh cánh tay"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hội chứng Claude Bernard-Horner có sự tổn thương của thành phần nào sau đây",
+      "options": [
+        {
+          "text": "Thần kinh phế vị"
+        },
+        {
+          "text": "Thần kinh giao cảm cổ"
+        },
+        {
+          "text": "Thần kinh hoành"
+        },
+        {
+          "text": "Đám rối thần kinh cánh tay"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hội chứng chèn ép tĩnh mạch chủ trên không gồm dấu hiệu nào trong các dấu hiệu sau đây",
+      "options": [
+        {
+          "text": "Phù áo khoác"
+        },
+        {
+          "text": "Tím ở cổ và mặt"
+        },
+        {
+          "text": "Tuần hoàn bàng hệ ở bụng"
+        },
+        {
+          "text": "Tĩnh mạch cổ nổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây hội chứng trung thất giữa",
+      "options": [
+        {
+          "text": "U tuyến ức"
+        },
+        {
+          "text": "U tuyến giáp"
+        },
+        {
+          "text": "U thần kinh"
+        },
+        {
+          "text": "U hạch Hodgkin"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây hội chứng trung thất trước",
+      "options": [
+        {
+          "text": "U tuyến giáp"
+        },
+        {
+          "text": "U thần kinh"
+        },
+        {
+          "text": "U hạch Hodgkin"
+        },
+        {
+          "text": "Sarcoidose"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây hội chứng trung thất sau",
+      "options": [
+        {
+          "text": "U tuyến giáp"
+        },
+        {
+          "text": "U thần kinh"
+        },
+        {
+          "text": "U hạch Hodgkin"
+        },
+        {
+          "text": "Sarcoidose"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây hội chứng trung thất giữa",
+      "options": [
+        {
+          "text": "U tuyến giáp"
+        },
+        {
+          "text": "U thần kinh"
+        },
+        {
+          "text": "Sarcoidose"
+        },
+        {
+          "text": "U tuyến hung"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây hội chứng trung thất giữa",
+      "options": [
+        {
+          "text": "U tuyến giáp"
+        },
+        {
+          "text": "U thần kinh"
+        },
+        {
+          "text": "Bụi phổi"
+        },
+        {
+          "text": "U tuyến hung"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây hội chứng trung thất trước",
+      "options": [
+        {
+          "text": "U tuyến hung"
+        },
+        {
+          "text": "U thần kinh"
+        },
+        {
+          "text": "U hạch Hodgkin"
+        },
+        {
+          "text": "Sarcoidose"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệt dây thần kinh quặt ngược thanh quản là triệu chứng gợi ý hội chứng nào sau đây",
+      "options": [
+        {
+          "text": "Hội chứng trung thất trên"
+        },
+        {
+          "text": "Hội chứng trung thất giữa"
+        },
+        {
+          "text": "Hội chứng trung thất trước"
+        },
+        {
+          "text": "Hội chứng trung thất sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Liệt dây thần kinh hoành là triệu chứng gợi ý hội chứng nào sau đây",
+      "options": [
+        {
+          "text": "Hội chứng trung thất trên"
+        },
+        {
+          "text": "Hội chứng trung thất giữa"
+        },
+        {
+          "text": "Hội chứng trung thất trước"
+        },
+        {
+          "text": "Hội chứng trung thất sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đau dây thần kinh liên sườn là triệu chứng gợi ý hội chứng nào sau đây",
+      "options": [
+        {
+          "text": "Hội chứng trung thất trên"
+        },
+        {
+          "text": "Hội chứng trung thất giữa"
+        },
+        {
+          "text": "Hội chứng trung thất trước"
+        },
+        {
+          "text": "Hội chứng trung thất sau"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hội chứng chèn ép tĩnh mạch chủ trên gợi ý bất thường nằm ở vị trí nào sau đây",
+      "options": [
+        {
+          "text": "Trung thất trên"
+        },
+        {
+          "text": "Trung thất giữa"
+        },
+        {
+          "text": "Trung thất trước"
+        },
+        {
+          "text": "Trung thất sau"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Triệu chứng khó nuốt gợi ý bất thường nằm ở vị trí nào sau đây",
+      "options": [
+        {
+          "text": "Trung thất trên"
+        },
+        {
+          "text": "Trung thất giữa"
+        },
+        {
+          "text": "Trung thất trước"
+        },
+        {
+          "text": "Trung thất sau"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

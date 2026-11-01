@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "text": "Tổn thương nào sau đây không phải là tổn thương dạng mờ trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Nốt"
+        },
+        {
+          "text": "Khối"
+        },
+        {
+          "text": "Kén phế quản"
+        },
+        {
+          "text": "Tổ ong"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tổn thương nào sau đây không phải là tổn thương dạng mờ trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Đông đặc"
+        },
+        {
+          "text": "Xẹp phổi"
+        },
+        {
+          "text": "Nốt"
+        },
+        {
+          "text": "Bọt khí"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hình ảnh tràn khí màng phổi trên X-quang ngực có màu gì?",
+      "options": [
+        {
+          "text": "Trắng"
+        },
+        {
+          "text": "Nâu"
+        },
+        {
+          "text": "Đen"
+        },
+        {
+          "text": "Xám"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trên X-quang ngực thẳng, đường Kerley A thường tập trung ở khu vực nào của phổi?",
+      "options": [
+        {
+          "text": "1/3 trên và giữa phổi"
+        },
+        {
+          "text": "Góc đáy phổi phải và tiếp xúc với màng phổi"
+        },
+        {
+          "text": "Phần giữa của phổi"
+        },
+        {
+          "text": "Phần dưới của phổi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trên X-quang ngực thẳng, đường Kerley B thường tập trung ở khu vực nào của phổi?",
+      "options": [
+        {
+          "text": "1/3 trên và giữa phổi"
+        },
+        {
+          "text": "Góc đáy phổi phải và tiếp xúc với màng phổi"
+        },
+        {
+          "text": "Phần giữa của phổi"
+        },
+        {
+          "text": "Phần dưới của phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong phân tích kết quả thăm dò chức năng thông khí phổi, hai thông số chính cần được xem xét là gì?",
+      "options": [
+        {
+          "text": "FEV1 và PEF"
+        },
+        {
+          "text": "FVC và FEF25-75"
+        },
+        {
+          "text": "FEV1 và FVC"
+        },
+        {
+          "text": "PEF và FEF25-75"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tỉ lệ FEV1/FVC < 0,7 là tiêu chuẩn vàng để chẩn đoán rối loạn thông khí dạng nào trong hô hấp ký?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Tắc nghẽn"
+        },
+        {
+          "text": "Hạn chế"
+        },
+        {
+          "text": "Hỗn hợp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thăm dò chức năng hô hấp không bao gồm đánh giá nào sau đây?",
+      "options": [
+        {
+          "text": "Hoạt động thông khí của phổi"
+        },
+        {
+          "text": "Tính cơ học của thông khí"
+        },
+        {
+          "text": "Khí máu động mạch"
+        },
+        {
+          "text": "Thăm dò trao đổi khí"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương nào sau đây không phải là tổn thương dạng mờ trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Khối"
+        },
+        {
+          "text": "Nút nhầy"
+        },
+        {
+          "text": "Khí phế thũng"
+        },
+        {
+          "text": "Lưới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Để chẩn đoán và đánh giá độ nặng bệnh phổi hạn chế, kỹ thuật thăm dò chức năng hô hấp nào là tối ưu nhất?",
+      "options": [
+        {
+          "text": "Thăm dò chức năng thông khí phổi"
+        },
+        {
+          "text": "Thăm dò dung tích toàn phổi"
+        },
+        {
+          "text": "Thăm dò khả năng khuếch tán khí"
+        },
+        {
+          "text": "Thăm dò tính cơ học của thông khí"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Để đánh giá tình trạng ứ khí trong phổi, cần dùng kỹ thuật thăm dò chức năng hô hấp nào?",
+      "options": [
+        {
+          "text": "Thăm dò chức năng thông khí phổi"
+        },
+        {
+          "text": "Thăm dò dung tích toàn phổi"
+        },
+        {
+          "text": "Thăm dò khả năng khuếch tán khí"
+        },
+        {
+          "text": "Thăm dò tính cơ học của thông khí"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Để đánh giá và theo dõi tiến triển bệnh phổi mô kẽ, kỹ thuật thăm dò chức năng hô hấp nào được ưu tiên?",
+      "options": [
+        {
+          "text": "Thăm dò khí máu động mạch"
+        },
+        {
+          "text": "Thăm dò dung tích toàn phổi"
+        },
+        {
+          "text": "Thăm dò khả năng khuếch tán khí"
+        },
+        {
+          "text": "Thăm dò tính cơ học của thông khí"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Để phát hiện bệnh mạch máu phổi, kỹ thuật thăm dò chức năng hô hấp nào nên được sử dụng?",
+      "options": [
+        {
+          "text": "Thăm dò chức năng thông khí phổi"
+        },
+        {
+          "text": "Thăm dò dung tích toàn phổi"
+        },
+        {
+          "text": "Thăm dò khả năng khuếch tán khí"
+        },
+        {
+          "text": "Thăm dò tính cơ học của thông khí"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Kỹ thuật thăm dò chức năng thông khí phổi được chỉ định để đánh giá nguy cơ hô hấp trước phẫu thuật ở vùng nào?",
+      "options": [
+        {
+          "text": "Phẫu thuật đầu-cổ"
+        },
+        {
+          "text": "Phẫu thuật chi trên"
+        },
+        {
+          "text": "Phẫu thuật lồng ngực, bụng"
+        },
+        {
+          "text": "Phẫu thuật chi dưới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tình trạng nào sau đây không phải là chống chỉ định của thăm dò chức năng thông khí phổi?",
+      "options": [
+        {
+          "text": "Phẫu thuật lồng ngực, ổ bụng, mắt gần đây"
+        },
+        {
+          "text": "Ho ra máu"
+        },
+        {
+          "text": "Tràn khí màng phổi"
+        },
+        {
+          "text": "Nghi ngờ bệnh phổi tắc nghẽn mạn tính"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thăm dò chức năng thông khí phổi bao gồm các đánh giá sau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Hoạt động thông khí của phổi"
+        },
+        {
+          "text": "Các thể tích phổi"
+        },
+        {
+          "text": "Tỷ số thông khí/tưới máu"
+        },
+        {
+          "text": "Lưu lượng khí"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thăm dò chức năng thông khí phổi bao gồm các đánh giá sau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Hoạt động thông khí của phổi"
+        },
+        {
+          "text": "Khả năng khuếch tán của khí qua màng phế nang – mao mạch"
+        },
+        {
+          "text": "Các thể tích phổi"
+        },
+        {
+          "text": "Lưu lượng khí"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trên X-quang ngực thẳng, đường Kerley B có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "text": "Là những đường mờ mảnh, thẳng, dài 2-6cm"
+        },
+        {
+          "text": "Là những đường mờ mảnh, thẳng, dài <2cm"
+        },
+        {
+          "text": "Là những đường mờ cong, dài <2cm"
+        },
+        {
+          "text": "Là những đường mờ cong, dài 2-6cm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trên X-quang ngực thẳng, đường Kerley A có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "text": "Là những đường mờ mảnh, thẳng, dài 2-6cm"
+        },
+        {
+          "text": "Là những đường mờ mảnh, thẳng, dài <2cm"
+        },
+        {
+          "text": "Là những đường mờ cong, dài <2cm"
+        },
+        {
+          "text": "Là những đường mờ cong, dài 2-6cm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tiêu chuẩn về chỉ số FVC trong rối loạn thông khí kiểu hạn chế trên hô hấp ký là gì?",
+      "options": [
+        {
+          "text": "FVC <70% giá trị dự đoán"
+        },
+        {
+          "text": "FVC <80% giá trị dự đoán"
+        },
+        {
+          "text": "FVC <90% giá trị dự đoán"
+        },
+        {
+          "text": "FVC >80% giá trị dự đoán"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương nào sau đây không phải là tổn thương dạng sáng trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Bọt khí"
+        },
+        {
+          "text": "Bóng khí"
+        },
+        {
+          "text": "Liềm hơi"
+        },
+        {
+          "text": "Xẹp phổi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tổn thương nào sau đây không phải là tổn thương dạng sáng trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Kén phế quản"
+        },
+        {
+          "text": "Bóng khí"
+        },
+        {
+          "text": "Nốt"
+        },
+        {
+          "text": "Liềm hơi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm nào là đúng về hình ảnh tràn khí màng phổi trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Vùng mờ tăng sinh mạch"
+        },
+        {
+          "text": "Thấy được lá thành màng phổi"
+        },
+        {
+          "text": "Nhu mô xẹp lại"
+        },
+        {
+          "text": "Có thể kéo lệch trung thất về phía tổn thương"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm nào không đúng về hình ảnh tràn khí màng phổi trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Vùng sáng vô mạch"
+        },
+        {
+          "text": "Thấy được lá tạng màng phổi"
+        },
+        {
+          "text": "Nhu mô xẹp lại"
+        },
+        {
+          "text": "Có thể kéo lệch trung thất về phía tổn thương"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm nào không đúng về “Hội chứng phế nang” trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Là hình ảnh bóng mờ phế nang có bờ không rõ"
+        },
+        {
+          "text": "Có xu hướng hợp lưu"
+        },
+        {
+          "text": "Có hình ảnh khí phế quản đồ"
+        },
+        {
+          "text": "Bờ rõ, đều"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm nào là đúng về “Hội chứng phế nang” trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Là hình ảnh bóng mờ mô kẽ có bờ không rõ"
+        },
+        {
+          "text": "Không có xu hướng hợp lưu"
+        },
+        {
+          "text": "Có hình ảnh khí phế quản đồ"
+        },
+        {
+          "text": "Tiến triển chậm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm nào không đúng về “Hội chứng mô kẽ” trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Là hình ảnh bóng mờ mô kẽ có bờ không rõ"
+        },
+        {
+          "text": "Không có xu hướng hợp lưu"
+        },
+        {
+          "text": "Không có hình ảnh khí phế quản đồ"
+        },
+        {
+          "text": "Bờ rõ, đều"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hình ảnh nào sau đây là một biểu hiện của “Hội chứng mô kẽ” trên X-quang ngực?",
+      "options": [
+        {
+          "text": "Hình ảnh bóng mờ tam giác đỉnh ở rốn phổi"
+        },
+        {
+          "text": "Hình ảnh khí phế quản đồ"
+        },
+        {
+          "text": "Hình ảnh lưới"
+        },
+        {
+          "text": "Hình ảnh bóng mờ có xu hướng hợp lưu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hình ảnh dày thành phế quản trên X-quang ngực có thể hình thành trong các trường hợp sau đây, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Phù"
+        },
+        {
+          "text": "Viêm"
+        },
+        {
+          "text": "Thâm nhiễm"
+        },
+        {
+          "text": "Đông đặc"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các dấu hiệu hình ảnh sau đây đều biểu hiện hình ảnh dày thành phế quản, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Hình “đường ray”"
+        },
+        {
+          "text": "Hình “nhẫn”"
+        },
+        {
+          "text": "Hình “ngón tay đeo găng”"
+        },
+        {
+          "text": "Hình “nòng súng”"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong phân tích kết quả thăm dò chức năng thông khí phổi, nếu đường cong lưu lượng-thể tích có đoạn thở ra lõm, giảm độ dốc và lưu lượng thấp thì gợi ý nguyên nhân gì?",
+      "options": [
+        {
+          "text": "Hạn chế, có thể kèm tắc nghẽn"
+        },
+        {
+          "text": "Tắc nghẽn, có thể kèm hạn chế"
+        },
+        {
+          "text": "Cả hạn chế và tắc nghẽn"
+        },
+        {
+          "text": "Bình thường"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kết quả hô hấp ký FEV1/FVC ≥ 0,7 và FVC < 80% giá trị dự đoán là tiêu chuẩn của rối loạn thông khí dạng nào?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Tắc nghẽn"
+        },
+        {
+          "text": "Hạn chế"
+        },
+        {
+          "text": "Hỗn hợp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Kết quả hô hấp ký FEV1/FVC < 0,7 và FVC < 80% giá trị dự đoán là tiêu chuẩn của rối loạn thông khí dạng nào?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Tắc nghẽn"
+        },
+        {
+          "text": "Hạn chế"
+        },
+        {
+          "text": "Hỗn hợp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Một bệnh nhân có kết quả hô hấp ký: FEV1/FVC = 0,6 và FVC = 90% giá trị dự đoán. Kết luận tình trạng thông khí của bệnh nhân là gì?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Rối loạn thông khí tắc nghẽn"
+        },
+        {
+          "text": "Rối loạn thông khí hạn chế"
+        },
+        {
+          "text": "Rối loạn thông khí hỗn hợp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân có kết quả hô hấp ký: FEV1/FVC = 0,8 và FVC = 70% giá trị dự đoán. Kết luận tình trạng thông khí của bệnh nhân là gì?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Rối loạn thông khí tắc nghẽn"
+        },
+        {
+          "text": "Rối loạn thông khí hạn chế"
+        },
+        {
+          "text": "Rối loạn thông khí hỗn hợp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một bệnh nhân có kết quả hô hấp ký: FEV1/FVC = 0,6 và FVC = 70% giá trị dự đoán. Kết luận tình trạng thông khí của bệnh nhân là gì?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Rối loạn thông khí tắc nghẽn"
+        },
+        {
+          "text": "Rối loạn thông khí hạn chế"
+        },
+        {
+          "text": "Rối loạn thông khí hỗn hợp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Một bệnh nhân có kết quả hô hấp ký: FEV1/FVC = 0,8 và FVC = 90% giá trị dự đoán. Kết luận tình trạng thông khí của bệnh nhân là gì?",
+      "options": [
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Rối loạn thông khí tắc nghẽn"
+        },
+        {
+          "text": "Rối loạn thông khí hạn chế"
+        },
+        {
+          "text": "Rối loạn thông khí hỗn hợp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chỉ số FEV1 < 80% giá trị dự đoán trong hô hấp ký gợi ý rối loạn thông khí dạng nào?",
+      "options": [
+        {
+          "text": "Rối loạn thông khí hỗn hợp"
+        },
+        {
+          "text": "Rối loạn thông khí hạn chế"
+        },
+        {
+          "text": "Rối loạn thông khí tắc nghẽn"
+        },
+        {
+          "text": "Không đặc hiệu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hình ảnh nào sau đây không phải là biểu hiện của “Hội chứng mô kẽ”?",
+      "options": [
+        {
+          "text": "Hình ảnh lưới"
+        },
+        {
+          "text": "Hình ảnh nốt"
+        },
+        {
+          "text": "Hình ảnh lưới nốt"
+        },
+        {
+          "text": "Hình ảnh khí phế quản đồ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm của “Hội chứng mô kẽ”?",
+      "options": [
+        {
+          "text": "Bờ không rõ"
+        },
+        {
+          "text": "Không có xu hướng hợp lưu"
+        },
+        {
+          "text": "Tiến triển chậm"
+        },
+        {
+          "text": "Có hình ảnh khí phế quản đồ"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

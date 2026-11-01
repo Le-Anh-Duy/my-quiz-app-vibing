@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "text": "Trong hệ thống trụ truyền lực của khối sọ mặt, lực nhai từ chân trong các răng cối lớn hàm trên được dẫn truyền chủ yếu đến đâu?",
+      "options": [
+        {
+          "text": "Thành ngoài sọ mặt và cung gò má"
+        },
+        {
+          "text": "Vòm miệng cứng và thành trong sọ mặt"
+        },
+        {
+          "text": "Mỏm gò má và xương chính mũi"
+        },
+        {
+          "text": "Xương hàm dưới thông qua lồi cầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hiện tượng 'tiêu xương hướng tâm' (centripetal resorption) sau khi mất răng toàn bộ thường dẫn đến kết quả lâm sàng nào?",
+      "options": [
+        {
+          "text": "Cung hàm trên trở nên nhỏ hơn so với cung hàm dưới"
+        },
+        {
+          "text": "Cung hàm dưới trở nên nhỏ hơn so với cung hàm trên"
+        },
+        {
+          "text": "Cung hàm trên và hàm dưới tiêu xương tương xứng"
+        },
+        {
+          "text": "Xương hàm trên bị đẩy ra phía trước do lực cơ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tại sao vị trí của lỗ ống răng dưới được coi là một đặc điểm bảo vệ sinh học trong vận động hàm?",
+      "options": [
+        {
+          "text": "Nó nằm ở vùng có mật độ xương đặc nhất để tránh gãy xương"
+        },
+        {
+          "text": "Nó nằm ở vùng ít di động nhất trong quá trình há ngậm để tránh xoắn vặn mạch máu"
+        },
+        {
+          "text": "Nó là điểm bám của dây chằng bướm hàm giúp ổn định lồi cầu"
+        },
+        {
+          "text": "Nó cho phép thần kinh đi vào theo hướng vuông góc với lực nhai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm cấu trúc nào của xương hàm dưới tạo điều kiện cho các răng cối lớn dưới ăn khớp thuận lợi với hàm trên?",
+      "options": [
+        {
+          "text": "Cung xương ổ lớn hơn cung thân hàm"
+        },
+        {
+          "text": "Cung xương ổ hẹp hơn so với cung thân hàm"
+        },
+        {
+          "text": "Trục răng cối lớn nghiêng từ trong ra ngoài"
+        },
+        {
+          "text": "Sự hiện diện của mỏm quạ ở phía trước lồi cầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trụ truyền lực từ các răng trước và chân ngoài các răng cối lớn hàm trên đi qua cấu trúc nào để lên vòm sọ?",
+      "options": [
+        {
+          "text": "Vòm miệng cứng"
+        },
+        {
+          "text": "Thành trong của sọ mặt"
+        },
+        {
+          "text": "Thành ngoài của sọ mặt"
+        },
+        {
+          "text": "Xương vảy thái dương"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sự tiêu xương ổ răng sau khi mất răng ở hàm dưới được mô tả là gì?",
+      "options": [
+        {
+          "text": "Tiêu xương hướng tâm"
+        },
+        {
+          "text": "Tiêu xương ly tâm"
+        },
+        {
+          "text": "Tiêu xương theo chiều ngang đơn thuần"
+        },
+        {
+          "text": "Tiêu xương không xác định hướng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dây chằng nào bám từ mỏm trâm đến góc hàm dưới?",
+      "options": [
+        {
+          "text": "Dây chằng bướm hàm"
+        },
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Dây chằng trâm hàm"
+        },
+        {
+          "text": "Dây chằng thái dương hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khoang răng cối lớn (molar không gian) ở mặt trong xương hàm dưới là nơi chứa cấu trúc nào?",
+      "options": [
+        {
+          "text": "Cơ chân bướm ngoài và bao khớp"
+        },
+        {
+          "text": "Tuyến mang tai và dây thần kinh mặt"
+        },
+        {
+          "text": "Nền lưỡi, cơ trên móng và tuyến nước bọt"
+        },
+        {
+          "text": "Xoang hàm trên và các răng cối"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lực nhai từ cung răng trên có khuynh hướng di chuyển theo các dầm nâng đỡ cho đến khi nào?",
+      "options": [
+        {
+          "text": "Đến khi gặp lực đối kháng của cơ cắn"
+        },
+        {
+          "text": "Đến khi chúng yếu dần và tan biến vào các cấu trúc vòm sọ"
+        },
+        {
+          "text": "Đến khi tác động trực tiếp vào khe nhĩ trai"
+        },
+        {
+          "text": "Đến khi bị triệt tiêu bởi dịch khớp thái dương hàm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc nào nối gai bướm và đường khớp trai đá đến gai Spix?",
+      "options": [
+        {
+          "text": "Dây chằng trâm hàm"
+        },
+        {
+          "text": "Dây chằng bướm hàm"
+        },
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Bao khớp thái dương hàm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các vận động không đối xứng của hàm dưới, vai trò của hệ thống cơ được thể hiện như thế nào?",
+      "options": [
+        {
+          "text": "Chỉ các cơ nâng hàm bên làm việc mới hoạt động"
+        },
+        {
+          "text": "Có sự tham gia phối hợp của các cơ đối vận"
+        },
+        {
+          "text": "Các cơ luôn sắp xếp vuông góc với hướng vận động"
+        },
+        {
+          "text": "Cơ hai bên luôn co cùng cường độ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm nào của cơ cắn giúp nó tạo ra tiềm năng lực co rất lớn nhưng hạn chế về khả năng kéo dài?",
+      "options": [
+        {
+          "text": "Cấu tạo hình quạt với nhiều nhóm sợi"
+        },
+        {
+          "text": "Thiết đồ ngang rộng và có nhiều lớp cơ (nông và sâu)"
+        },
+        {
+          "text": "Nguyên ủy từ hố thái dương"
+        },
+        {
+          "text": "Bám tận vào mỏm quạ xương hàm dưới"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nhóm sợi nào của cơ thái dương đóng vai trò chủ đạo trong việc đưa hàm dưới lui sau khi co một bên?",
+      "options": [
+        {
+          "text": "Nhóm sợi trước (thẳng đứng)"
+        },
+        {
+          "text": "Nhóm sợi giữa (chếch)"
+        },
+        {
+          "text": "Nhóm sợi sau (gần như nằm ngang)"
+        },
+        {
+          "text": "Lớp cơ nông bám vào mạc thái dương"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ nào được xem là nhạy cảm nhất đối với các cản trở cắn khớp trên lâm sàng?",
+      "options": [
+        {
+          "text": "Cơ cắn"
+        },
+        {
+          "text": "Cơ thái dương"
+        },
+        {
+          "text": "Cơ chân bướm trong"
+        },
+        {
+          "text": "Cơ nhị thân"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chức năng chính của cơ chân bướm trong là gì?",
+      "options": [
+        {
+          "text": "Hạ hàm và đưa hàm ra trước"
+        },
+        {
+          "text": "Nâng và định vị hàm dưới trong vị trí sang bên"
+        },
+        {
+          "text": "Đưa hàm dưới lui sau tối đa"
+        },
+        {
+          "text": "Cố định đĩa khớp khi há miệng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi cả hai cơ chân bướm ngoài cùng co đồng thời, hàm dưới sẽ thực hiện vận động nào?",
+      "options": [
+        {
+          "text": "Đưa hàm lui sau"
+        },
+        {
+          "text": "Nâng hàm và đóng miệng"
+        },
+        {
+          "text": "Đưa hàm ra trước"
+        },
+        {
+          "text": "Hạ hàm tại chỗ không trượt lồi cầu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bó trên của cơ chân bướm ngoài có đặc điểm bám tận đặc biệt nào liên quan đến khớp thái dương hàm?",
+      "options": [
+        {
+          "text": "Bám hoàn toàn vào hố cơ chân bướm ở cổ lồi cầu"
+        },
+        {
+          "text": "Bám vào phần trước của bao khớp và đĩa khớp"
+        },
+        {
+          "text": "Bám vào lá sau đĩa trên"
+        },
+        {
+          "text": "Bám vào khe nhĩ trai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong vận động sang bên, lồi cầu bên không làm việc di chuyển theo hướng nào nhờ sự hỗ trợ của cơ chân bướm ngoài đối bên?",
+      "options": [
+        {
+          "text": "Lên trên, ra sau và ra ngoài"
+        },
+        {
+          "text": "Xuống dưới, ra trước và vào trong"
+        },
+        {
+          "text": "Xoay tại chỗ quanh trục đứng"
+        },
+        {
+          "text": "Đứng yên để làm tâm xoay"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nếu bó trên cơ chân bướm ngoài co bất thường (co thắt) trong quá trình đóng hàm, điều gì sẽ xảy ra với đĩa khớp?",
+      "options": [
+        {
+          "text": "Đĩa khớp bị kéo ra sau quá mức bởi các sợi đàn hồi"
+        },
+        {
+          "text": "Đĩa khớp bị giữ hoặc kéo ra phía trước so với đầu lồi cầu"
+        },
+        {
+          "text": "Đĩa khớp tự động xoay vào hõm khớp"
+        },
+        {
+          "text": "Đĩa khớp bị ép dẹt vùng trung gian"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cơ nào tạo nên vách ngang ở nền miệng và bám từ đường chéo trong xương hàm dưới đến xương móng?",
+      "options": [
+        {
+          "text": "Cơ cằm móng"
+        },
+        {
+          "text": "Cơ hàm móng"
+        },
+        {
+          "text": "Cơ nhị thân bụng trước"
+        },
+        {
+          "text": "Cơ móng lưỡi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tác động hiệp đồng của các cơ nào giúp thực hiện vận động hạ hàm (há miệng)?",
+      "options": [
+        {
+          "text": "Cơ cắn và cơ thái dương"
+        },
+        {
+          "text": "Cơ chân bướm ngoài và các cơ trên móng"
+        },
+        {
+          "text": "Cơ chân bướm trong và cơ cắn"
+        },
+        {
+          "text": "Cơ nâng môi trên và cơ mút"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vận động ra trước của hàm dưới chủ yếu do cơ nào chi phối trực tiếp?",
+      "options": [
+        {
+          "text": "Cơ thái dương nhóm sợi sau"
+        },
+        {
+          "text": "Cơ chân bướm ngoài (cả hai bên)"
+        },
+        {
+          "text": "Cơ chân bướm trong lớp nông"
+        },
+        {
+          "text": "Cơ nhị thân bụng sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Gân trung gian của cơ nhị thân được đính vào xương móng bởi cấu trúc nào?",
+      "options": [
+        {
+          "text": "Cơ hàm móng"
+        },
+        {
+          "text": "Các sợi của cơ hoặc chui qua gân cơ trâm móng"
+        },
+        {
+          "text": "Dây chằng trâm hàm"
+        },
+        {
+          "text": "Mạc thái dương sâu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cơ thái dương bám tận vào vị trí nào của xương hàm dưới?",
+      "options": [
+        {
+          "text": "Mặt ngoài góc hàm"
+        },
+        {
+          "text": "Mỏm quạ và bờ trước cành lên"
+        },
+        {
+          "text": "Hố cơ chân bướm"
+        },
+        {
+          "text": "Gai cằm (mỏm cằm)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm bám tận của cơ chân bướm trong là gì?",
+      "options": [
+        {
+          "text": "Mặt ngoài cành lên xương hàm dưới"
+        },
+        {
+          "text": "Mặt trong góc hàm dưới"
+        },
+        {
+          "text": "Hố cơ chân bướm ở cổ lồi cầu"
+        },
+        {
+          "text": "Đường chéo ngoài xương hàm dưới"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước trung bình theo chiều ngang (ngoài - trong) của lồi cầu xương hàm dưới là bao nhiêu?",
+      "options": [
+        {
+          "text": "8 - 10 mm"
+        },
+        {
+          "text": "15 - 20 mm"
+        },
+        {
+          "text": "5 - 7 mm"
+        },
+        {
+          "text": "25 - 30 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khác với các khớp động khác trong cơ thể, diện khớp của khớp thái dương hàm được bao phủ bởi loại mô nào?",
+      "options": [
+        {
+          "text": "Sụn trong (hyaline cartilage)"
+        },
+        {
+          "text": "Mô sợi không mạch máu (fibrocartilage)"
+        },
+        {
+          "text": "Mô sụn đàn hồi giàu mạch máu"
+        },
+        {
+          "text": "Xương đặc không có bao phủ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phần nào của đĩa khớp là vùng mỏng nhất và thường nằm giữa các diện chịu lực của lồi cầu và lồi khớp?",
+      "options": [
+        {
+          "text": "Dải trước"
+        },
+        {
+          "text": "Dải sau"
+        },
+        {
+          "text": "Vùng trung gian"
+        },
+        {
+          "text": "Vạt trong"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm chức năng của lồi khớp xương thái dương là gì?",
+      "options": [
+        {
+          "text": "Sườn trước là diện làm việc chính"
+        },
+        {
+          "text": "Trần hõm khớp là nơi chịu lực nhai lớn nhất"
+        },
+        {
+          "text": "Sườn sau là diện hoạt động (diện làm việc)"
+        },
+        {
+          "text": "Là phần mỏng nhất của khớp (2mm)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ chế bôi trơn nào của khớp thái dương hàm xảy ra khi khớp ở trạng thái vận động chịu tải (loading)?",
+      "options": [
+        {
+          "text": "Bôi trơn màng (boundary lubrication) bởi glycoprotein"
+        },
+        {
+          "text": "Bôi trơn rỉ (weeping lubrication) do dịch hoạt dịch bị vắt ra"
+        },
+        {
+          "text": "Bôi trơn bằng huyết thanh khuếch tán thụ động"
+        },
+        {
+          "text": "Bôi trơn nhờ sự co bóp của mô sau đĩa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thành phần nào của khớp thái dương hàm giàu mạch máu, thần kinh và sợi đàn hồi, có vai trò lấp đầy khoảng trống khi lồi cầu di chuyển?",
+      "options": [
+        {
+          "text": "Đĩa khớp vùng trung gian"
+        },
+        {
+          "text": "Lá sau đĩa dưới"
+        },
+        {
+          "text": "Mô sau đĩa (vùng lá kép)"
+        },
+        {
+          "text": "Dây chằng thái dương hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chức năng của lá sau đĩa trên là gì?",
+      "options": [
+        {
+          "text": "Kéo lồi cầu ra trước trong thì há"
+        },
+        {
+          "text": "Kháng lại lực kéo đĩa khớp ra trước của cơ chân bướm ngoài bó trên"
+        },
+        {
+          "text": "Bôi trơn buồng khớp dưới bằng glycoprotein"
+        },
+        {
+          "text": "Giữ ổn định đĩa khớp trên đầu lồi cầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dịch khớp thái dương hàm có nguồn gốc từ đâu?",
+      "options": [
+        {
+          "text": "Tuyến mang tai khuếch tán qua bao khớp"
+        },
+        {
+          "text": "Huyết thanh từ các mao mạch của mô hoạt dịch"
+        },
+        {
+          "text": "Sự phân hủy của các tế bào sụn trong"
+        },
+        {
+          "text": "Dịch não tủy theo khe nhĩ trai chảy vào"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi há miệng tối đa, đĩa khớp di chuyển như thế nào so với quãng đường di chuyển của lồi cầu?",
+      "options": [
+        {
+          "text": "Di chuyển cùng một quãng đường (13-15 mm)"
+        },
+        {
+          "text": "Di chuyển ít hơn lồi cầu (khoảng 5-9 mm)"
+        },
+        {
+          "text": "Đứng yên tại chỗ trong hõm khớp"
+        },
+        {
+          "text": "Di chuyển ra sau trong khi lồi cầu ra trước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong vận động đóng hàm, bó trên cơ chân bướm ngoài co (+) có tác dụng gì?",
+      "options": [
+        {
+          "text": "Thả lỏng để đĩa khớp tự xoay ra sau"
+        },
+        {
+          "text": "Kiểm soát vị trí đĩa khớp, xoay đĩa ra trước so với lồi cầu để giữ sự khít sát"
+        },
+        {
+          "text": "Kéo lồi cầu về vị trí tương quan trung tâm"
+        },
+        {
+          "text": "Ép đĩa khớp vào trần hõm khớp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm bôi trơn màng (boundary lubrication) trong khớp thái dương hàm thường xảy ra ở điều kiện nào?",
+      "options": [
+        {
+          "text": "Vận động dưới áp lực thủy tĩnh cao"
+        },
+        {
+          "text": "Vận động không chịu tải hoặc chịu tải rất ít"
+        },
+        {
+          "text": "Khi có chấn thương gây tràn dịch khớp"
+        },
+        {
+          "text": "Chỉ xảy ra ở vị trí lồng múi tối đa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc nào ngăn không cho đĩa khớp xoay ra phía trước quá mức khi lồi cầu trở về vị trí tương quan trung tâm?",
+      "options": [
+        {
+          "text": "Lá sau đĩa dưới"
+        },
+        {
+          "text": "Lá sau đĩa trên và các sợi mô sau đĩa"
+        },
+        {
+          "text": "Dây chằng sau đĩa (khi đã căng)"
+        },
+        {
+          "text": "Bao khớp phía trước"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Độ dày của phần mỏng nhất ở trần hõm khớp liên hệ với nền sọ giữa là bao nhiêu?",
+      "options": [
+        {
+          "text": "0.5 mm"
+        },
+        {
+          "text": "2 mm"
+        },
+        {
+          "text": "5 mm"
+        },
+        {
+          "text": "10 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khe nhĩ trai là cấu trúc phân cách hõm khớp với thành phần nào sau đây?",
+      "options": [
+        {
+          "text": "Lồi khớp"
+        },
+        {
+          "text": "Xương đá"
+        },
+        {
+          "text": "Mỏm gò má"
+        },
+        {
+          "text": "Ống tai ngoài"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khớp thái dương hàm được phân loại là loại khớp nào?",
+      "options": [
+        {
+          "text": "Khớp bất động"
+        },
+        {
+          "text": "Khớp bản lề đơn thuần"
+        },
+        {
+          "text": "Khớp bản lề trượt"
+        },
+        {
+          "text": "Khớp cầu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong quan niệm khớp cắn lý tưởng, vị trí lồng múi tối đa (ICP) phải trùng với vị trí nào?",
+      "options": [
+        {
+          "text": "Vị trí nghỉ cơ năng"
+        },
+        {
+          "text": "Khớp cắn trung tâm (CO - tương quan trung tâm)"
+        },
+        {
+          "text": "Vị trí há miệng 20mm"
+        },
+        {
+          "text": "Vị trí đưa hàm ra trước hết mức"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Định nghĩa 'khớp cắn bảo vệ lẫn nhau' (mutually protected occlusion) trong trạng thái lý tưởng là gì?",
+      "options": [
+        {
+          "text": "Răng sau bảo vệ răng trước ở CO; răng trước bảo vệ răng sau ở vận động lệch tâm"
+        },
+        {
+          "text": "Lợi bảo vệ răng và ngược lại"
+        },
+        {
+          "text": "Xương hàm bảo vệ khớp thái dương hàm"
+        },
+        {
+          "text": "Cơ cắn bảo vệ khớp thái dương hàm bằng cách nâng hàm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ở khớp cắn lý tưởng, trong vận động tiếp xúc ra trước, thành phần nào đóng vai trò hướng dẫn nhả khớp răng sau?",
+      "options": [
+        {
+          "text": "Các răng cối lớn hàm dưới"
+        },
+        {
+          "text": "Các răng cửa (hướng dẫn răng cửa)"
+        },
+        {
+          "text": "Răng nanh hai bên"
+        },
+        {
+          "text": "Lồi cầu trượt trên sườn trước lồi khớp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nào KHÔNG thuộc 'Bộ năm Hanau' (Hanau's Quint) trong thiết lập khớp cắn thăng bằng?",
+      "options": [
+        {
+          "text": "Độ dốc lồi cầu"
+        },
+        {
+          "text": "Đường cong Spee"
+        },
+        {
+          "text": "Độ rộng cung hàm"
+        },
+        {
+          "text": "Chiều cao múi răng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khớp cắn sinh lý chức năng được xác định dựa trên tiêu chí nào là quan trọng nhất?",
+      "options": [
+        {
+          "text": "Sự sắp xếp răng phải thẳng hàng tuyệt đối"
+        },
+        {
+          "text": "Hệ thống nhai hài hòa, hoạt động thoải mái, không đau và không có dấu hiệu phá hủy"
+        },
+        {
+          "text": "Phải có hướng dẫn răng nanh ở cả hai bên"
+        },
+        {
+          "text": "Răng không được có bất kỳ vết mòn nào"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi một bệnh nhân có lệch lạc hình thái răng nhưng hệ thống nhai vẫn thích ứng tốt, không đau, không loạn năng thì gọi là gì?",
+      "options": [
+        {
+          "text": "Khớp cắn lý tưởng"
+        },
+        {
+          "text": "Khớp cắn sinh lý"
+        },
+        {
+          "text": "Khớp cắn không sinh lý"
+        },
+        {
+          "text": "Khớp cắn thăng bằng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Quan niệm 'Khớp cắn thăng bằng' (Balanced Occlusion) hiện nay chủ yếu được ứng dụng cho đối tượng nào?",
+      "options": [
+        {
+          "text": "Bệnh nhân chỉnh nha răng tự nhiên"
+        },
+        {
+          "text": "Phục hình hàm giả toàn bộ"
+        },
+        {
+          "text": "Người trẻ có bộ răng đầy đủ"
+        },
+        {
+          "text": "Điều trị loạn năng thái dương hàm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tam giác đều Bonwill dùng để phân tích hàm dưới có cạnh dài bao nhiêu?",
+      "options": [
+        {
+          "text": "5 cm"
+        },
+        {
+          "text": "10 cm"
+        },
+        {
+          "text": "15 cm"
+        },
+        {
+          "text": "20 cm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đường cong Spee được định nghĩa là gì?",
+      "options": [
+        {
+          "text": "Đường cong nối các đỉnh múi ngoài và trong của các răng sau"
+        },
+        {
+          "text": "Mặt cong đi qua các răng sau theo chiều trước sau"
+        },
+        {
+          "text": "Đường thẳng nối hai lồi cầu"
+        },
+        {
+          "text": "Khoảng cách giữa răng cửa trên và dưới"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu nào sau đây gợi ý một khớp cắn KHÔNG sinh lý?",
+      "options": [
+        {
+          "text": "Răng có vết mòn chức năng nhẹ"
+        },
+        {
+          "text": "Răng lung lay, di lệch, hoặc mòn mặt nhai bất thường vượt quá khả năng thích ứng"
+        },
+        {
+          "text": "Hàm dưới vận động trơn tru không tiếng kêu"
+        },
+        {
+          "text": "Bệnh nhân hài lòng với thẩm mỹ bộ răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo nghiên cứu của Hoàng Tử Hùng và cs (2002), độ há miệng tối đa trung bình của người trẻ Việt Nam là bao nhiêu?",
+      "options": [
+        {
+          "text": "35.5 ± 2.1 mm"
+        },
+        {
+          "text": "49.43 ± 5.39 mm"
+        },
+        {
+          "text": "55.2 ± 4.8 mm"
+        },
+        {
+          "text": "40.0 ± 3.0 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong khám lâm sàng, test 'hard end feel' (cảm giác kết thúc cứng) khi cố gắng mở rộng độ há miệng gợi ý nguyên nhân gì?",
+      "options": [
+        {
+          "text": "Do cơ bị co thắt hoặc đau"
+        },
+        {
+          "text": "Do các mô mềm quanh khớp bị căng"
+        },
+        {
+          "text": "Do nguyên nhân tại khớp (sai vị trí đĩa khớp, bất thường xương)"
+        },
+        {
+          "text": "Do răng bị đau khi tiếp xúc"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biên độ vận động đưa hàm dưới sang bên trung bình được đo từ vị trí lồng múi tối đa là bao nhiêu?",
+      "options": [
+        {
+          "text": "2 - 4 mm"
+        },
+        {
+          "text": "8 - 12 mm"
+        },
+        {
+          "text": "15 - 20 mm"
+        },
+        {
+          "text": "1 - 2 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vận động biên của hàm dưới được mô tả trực quan thông qua sơ đồ nào?",
+      "options": [
+        {
+          "text": "Sơ đồ Gysi"
+        },
+        {
+          "text": "Sơ đồ Posselt"
+        },
+        {
+          "text": "Biểu đồ Thielemann"
+        },
+        {
+          "text": "Đường cong Wilson"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vận động Bennett là thuật ngữ mô tả hiện tượng nào?",
+      "options": [
+        {
+          "text": "Sự di chuyển ra trước của cả hai lồi cầu"
+        },
+        {
+          "text": "Sự trượt nhẹ sang bên của lồi cầu bên làm việc trong vận động sang bên"
+        },
+        {
+          "text": "Sự há miệng tối đa của hàm dưới"
+        },
+        {
+          "text": "Sự xoay tại chỗ của lồi cầu trong hõm khớp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí nào sau đây được coi là vị trí tham chiếu theo chiều ngang trên đường vận động bản lề?",
+      "options": [
+        {
+          "text": "Vị trí lồng múi tối đa"
+        },
+        {
+          "text": "Vị trí nghỉ cơ năng"
+        },
+        {
+          "text": "Các vị trí trên đường vận động bản lề (tương quan trung tâm)"
+        },
+        {
+          "text": "Vị trí há miệng tối đa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mức độ há miệng tối đa của một bệnh nhân được coi là hạn chế (cần can thiệp) khi biên độ nhỏ hơn bao nhiêu?",
+      "options": [
+        {
+          "text": "50 mm"
+        },
+        {
+          "text": "40 mm"
+        },
+        {
+          "text": "30 mm"
+        },
+        {
+          "text": "45 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong sơ đồ Posselt, hình bao vận động trên mặt phẳng đứng dọc thể hiện giới hạn vận động của điểm nào?",
+      "options": [
+        {
+          "text": "Đỉnh múi răng cối lớn nhất"
+        },
+        {
+          "text": "Điểm giữa bờ cắn các răng cửa dưới"
+        },
+        {
+          "text": "Cực ngoài của lồi cầu"
+        },
+        {
+          "text": "Góc hàm dưới"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sự khác biệt cơ bản giữa vận động tự do và vận động biên là gì?",
+      "options": [
+        {
+          "text": "Vận động tự do luôn có sự chạm răng"
+        },
+        {
+          "text": "Vận động biên đạt tới các vị trí tối đa, vận động tự do nằm trong hình bao vận động"
+        },
+        {
+          "text": "Vận động tự do chỉ xảy ra khi ngủ"
+        },
+        {
+          "text": "Vận động biên không do cơ điều khiển"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi khám vận động đưa hàm ra trước, nếu hàm dưới bị lệch về một bên, điều này thường chỉ ra vấn đề gì?",
+      "options": [
+        {
+          "text": "Cơ thái dương bên đó bị co thắt"
+        },
+        {
+          "text": "Sự dịch chuyển của lồi cầu bên đó bị hạn chế"
+        },
+        {
+          "text": "Răng nanh bên đối diện bị cản trở"
+        },
+        {
+          "text": "Khớp cắn bên đó là khớp cắn lý tưởng"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

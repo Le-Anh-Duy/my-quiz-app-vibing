@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Lịch sử ghi nhận sự thay đổi lớn nhất về tư thế làm việc trong nha khoa vào đầu những năm 1960 là gì?",
+      "options": [
+        {
+          "text": "Nha sĩ chuyển hoàn toàn sang tư thế đứng để tăng lực mài cắt."
+        },
+        {
+          "text": "Chuyển từ tư thế đứng sang tư thế ngồi với bệnh nhân nằm nghiêng."
+        },
+        {
+          "text": "Loại bỏ vai trò của trợ thủ để nha sĩ tự vận hành máy móc."
+        },
+        {
+          "text": "Sử dụng hệ thống ròng rọc thay cho động cơ điện."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Quan niệm Four-handed dentistry được định nghĩa chính xác là gì?",
+      "options": [
+        {
+          "text": "Nha sĩ sử dụng cả hai tay và hai chân để điều khiển máy."
+        },
+        {
+          "text": "Sự phối hợp của hai nha sĩ cùng thực hiện một ca phẫu thuật khó."
+        },
+        {
+          "text": "Nhóm làm việc gồm các cá nhân có kỹ năng, làm việc trong môi trường hợp lý để tăng chất lượng điều trị và bảo vệ sức khỏe đội ngũ."
+        },
+        {
+          "text": "Kỹ thuật sử dụng robot hỗ trợ thay thế hoàn toàn trợ thủ nha khoa."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong tư thế ngồi thăng bằng, góc độ cúi đầu tối đa của nha sĩ để không gây tổn thương cột sống cổ là bao nhiêu?",
+      "options": [
+        {
+          "text": "0 - 15°"
+        },
+        {
+          "text": "15 - 30°"
+        },
+        {
+          "text": "30 - 45°"
+        },
+        {
+          "text": "45 - 60°"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khoảng cách lý tưởng từ mắt người điều trị đến vùng làm việc trong miệng bệnh nhân là:",
+      "options": [
+        {
+          "text": "20 - 30 cm"
+        },
+        {
+          "text": "35 - 40 cm"
+        },
+        {
+          "text": "45 - 55 cm"
+        },
+        {
+          "text": "60 - 70 cm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo quy tắc mặt đồng hồ, Vùng trao đổi dụng cụ (Transfer zone) nằm ở vị trí nào?",
+      "options": [
+        {
+          "text": "12g - 2g"
+        },
+        {
+          "text": "2g - 4g"
+        },
+        {
+          "text": "4g - 7g"
+        },
+        {
+          "text": "7g - 12g"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi thực hiện điều trị ở tư thế ngồi, góc gập giữa hông và đùi của nha sĩ nên đạt mức:",
+      "options": [
+        {
+          "text": "60°"
+        },
+        {
+          "text": "90°"
+        },
+        {
+          "text": "120°"
+        },
+        {
+          "text": "150°"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tư thế 11g - 12g của nha sĩ thường được ưu tiên vì lý do chính nào?",
+      "options": [
+        {
+          "text": "Cho phép nha sĩ đứng dậy nhanh khi có sự cố."
+        },
+        {
+          "text": "Tiếp cận gần nhất với dụng cụ và không đưa dụng cụ ngang mặt bệnh nhân."
+        },
+        {
+          "text": "Là vị trí duy nhất có thể quan sát được mặt ngoài răng hàm dưới."
+        },
+        {
+          "text": "Giúp nha sĩ có thể tựa tay vào ngực bệnh nhân."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí 8g - 10g của nha sĩ thường được chỉ định khi điều trị các vùng răng nào?",
+      "options": [
+        {
+          "text": "Răng cửa hàm trên (mặt khẩu cái)."
+        },
+        {
+          "text": "Răng hàm dưới, mặt má răng trên bên phải, mặt khẩu cái răng trên bên trái."
+        },
+        {
+          "text": "Răng khôn hàm trên bên trái."
+        },
+        {
+          "text": "Chỉ dùng khi lấy dấu hai hàm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cách cầm dụng cụ theo tiêu chuẩn lâm sàng được khuyến cáo là:",
+      "options": [
+        {
+          "text": "Cầm bằng lòng bàn tay để tạo lực mạnh."
+        },
+        {
+          "text": "Cầm bằng 2 ngón tay để tăng độ linh hoạt."
+        },
+        {
+          "text": "Cầm bằng 3 ngón tay như cầm viết, 2 ngón còn lại tựa điểm tựa trong hoặc ngoài miệng."
+        },
+        {
+          "text": "Cầm bằng 5 ngón tay ôm vòng quanh thân dụng cụ."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Góc gập tối đa của cánh tay dưới (cẳng tay) so với sàn nhà không nên vượt quá bao nhiêu theo tài liệu hướng dẫn?",
+      "options": [
+        {
+          "text": "10°"
+        },
+        {
+          "text": "30°"
+        },
+        {
+          "text": "60°"
+        },
+        {
+          "text": "90°"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi điều trị vùng răng hàm trên, tư thế bệnh nhân phù hợp nhất là:",
+      "options": [
+        {
+          "text": "Ngồi thẳng 90° so với sàn nhà."
+        },
+        {
+          "text": "Nằm nghiêng 45° so với sàn nhà."
+        },
+        {
+          "text": "Đầu và lưng nằm thẳng song song với sàn nhà."
+        },
+        {
+          "text": "Tư thế Trendelenburg (đầu thấp hơn chân)."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một nha sĩ đang mài cùi răng 46 (mặt xa). Để đảm bảo quan sát rõ vùng làm việc mà vẫn duy trì cột sống thẳng (không cúi quá 15°) và khuỷu tay không rời thân quá 20°, vị trí ngồi và điều chỉnh đầu bệnh nhân nào là hợp lý nhất?",
+      "options": [
+        {
+          "text": "Ngồi vị trí 12g, đầu bệnh nhân ngửa tối đa."
+        },
+        {
+          "text": "Ngồi vị trí 9g, đầu bệnh nhân xoay mạnh sang phải."
+        },
+        {
+          "text": "Ngồi vị trí 11g, đầu bệnh nhân xoay nhẹ sang trái và hơi cúi cằm."
+        },
+        {
+          "text": "Ngồi vị trí 7g, đầu bệnh nhân xoay sang trái."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Máy điện nha khoa tốc độ thường sử dụng mô tơ có vận tốc trong khoảng nào?",
+      "options": [
+        {
+          "text": "5.000 - 8.000 vòng/phút."
+        },
+        {
+          "text": "10.000 - 15.000 vòng/phút."
+        },
+        {
+          "text": "20.000 - 30.000 vòng/phút."
+        },
+        {
+          "text": "Trên 100.000 vòng/phút."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bộ phận xịt hơi và nước (3-way syringe) trên ghế máy có chức năng chính là gì?",
+      "options": [
+        {
+          "text": "Chỉ dùng để rửa vết thương phẫu thuật."
+        },
+        {
+          "text": "Làm sạch, thổi khô vùng làm việc hoặc tạo phun sương khi kết hợp."
+        },
+        {
+          "text": "Cung cấp nước cho tay khoan siêu tốc."
+        },
+        {
+          "text": "Hút nước bọt và máu trong miệng."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên lý hoạt động của máy cạo vôi điện từ (Magnetostrictive) là:",
+      "options": [
+        {
+          "text": "Sử dụng thanh thạch anh rung dưới dòng điện xoay chiều."
+        },
+        {
+          "text": "Chuỗi hợp kim sắt co giãn theo sự điều khiển của từ trường với tần số khoảng 25.000 chu kỳ/s."
+        },
+        {
+          "text": "Sử dụng áp suất khí nén làm quay tuabin nhỏ ở đầu tác dụng."
+        },
+        {
+          "text": "Sử dụng tia laser phá vỡ liên kết của vôi răng."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hiện tượng Lỗ hổng (Cavitation) trong máy siêu âm cạo vôi mang lại lợi ích gì?",
+      "options": [
+        {
+          "text": "Làm nóng nước để bệnh nhân không bị buốt."
+        },
+        {
+          "text": "Tạo lực cơ học trực tiếp làm bong vôi răng."
+        },
+        {
+          "text": "Hàng triệu bong bóng nhỏ vỡ ra phát năng lượng rửa sạch mảnh vụn cao răng."
+        },
+        {
+          "text": "Giúp diệt khuẩn tuyệt đối trong môi trường nước bọt."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ưu điểm và nhược điểm chính của máy siêu âm thạch anh (Piezoelectric) là gì?",
+      "options": [
+        {
+          "text": "Máy yếu nhưng bền bỉ, không cần nước làm mát."
+        },
+        {
+          "text": "Máy mạnh, nhiệt lượng phát ra ít nhưng thanh tinh thể thạch anh rất dễ vỡ."
+        },
+        {
+          "text": "Giá thành rẻ, có thể dùng chung đầu tác dụng với máy điện từ."
+        },
+        {
+          "text": "Tần số rung thấp (dưới 10 KHz) giúp bệnh nhân dễ chịu."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hệ thống Micromotor nha khoa (như K-Control) được thiết kế chủ yếu cho mục đích nào?",
+      "options": [
+        {
+          "text": "Mài chỉnh và đánh bóng các phục hình trong Labo."
+        },
+        {
+          "text": "Sửa soạn xoang trám loại I ở tay khoan siêu tốc."
+        },
+        {
+          "text": "Nhổ răng khôn bằng kỹ thuật chia cắt chân răng."
+        },
+        {
+          "text": "Phẫu thuật đặt Implant vào xương hàm."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi vận hành máy Micromotor, tốc độ quay tối đa được nhà sản xuất khuyến cáo để đảm bảo an toàn là:",
+      "options": [
+        {
+          "text": "15.000 R.P.M"
+        },
+        {
+          "text": "25.000 R.P.M"
+        },
+        {
+          "text": "40.000 R.P.M"
+        },
+        {
+          "text": "50.000 R.P.M"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Để bảo quản búp sen (chuck) của tay khoan Micromotor sau khi sử dụng, nha sĩ cần thực hiện thao tác nào?",
+      "options": [
+        {
+          "text": "Tháo mũi mài và để trống đầu tay khoan."
+        },
+        {
+          "text": "Tháo mũi mài và lắp chốt thẳng vào để bảo vệ hệ thống kẹp."
+        },
+        {
+          "text": "Ngâm toàn bộ tay khoan vào dung dịch sát khuẩn mạnh."
+        },
+        {
+          "text": "Xịt hơi trực tiếp vào bên trong tay khoan để làm sạch bụi."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lưỡi dao số 15 thường được sử dụng cho các đường rạch nào và lắp vào cán dao số mấy?",
+      "options": [
+        {
+          "text": "Đường rạch dài, lắp vào cán số 4."
+        },
+        {
+          "text": "Đường rạch rất nhỏ, lắp vào cán số 3 (hoặc số 7 khi cắt sâu)."
+        },
+        {
+          "text": "Chích áp-xe lớn, lắp vào cán số 3."
+        },
+        {
+          "text": "Phẫu thuật cắt nướu đại thể, lắp vào cán số 4."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kéo Metzenbaum trong phẫu thuật nha khoa có đặc điểm và công dụng gì?",
+      "options": [
+        {
+          "text": "Nặng và chắc, dùng cắt chỉ thép."
+        },
+        {
+          "text": "Mảnh và nhẹ, dùng cắt các cấu trúc mô mỏng như thanh mạc, niêm mạc."
+        },
+        {
+          "text": "Có đầu nhọn, dùng để gặm xương ổ răng."
+        },
+        {
+          "text": "Dùng để kẹp mạch máu đang chảy."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi cần cầm máu chảy trong vùng xương xốp trong phẫu thuật, biện pháp nào thường được áp dụng?",
+      "options": [
+        {
+          "text": "Dùng máy đốt điện cường độ cao."
+        },
+        {
+          "text": "Dùng dụng cụ nhẵn miết phần xương xốp hoặc dùng sáp xương."
+        },
+        {
+          "text": "Khâu thắt bằng chỉ Catgut 000."
+        },
+        {
+          "text": "Đắp gạc tẩm nước lạnh."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mũi khoan phẫu thuật dùng để nhổ răng ngầm thường có đặc điểm gì?",
+      "options": [
+        {
+          "text": "Hình tròn hoặc trụ, đường kính 2mm, lắp vào tay khoan thẳng tốc độ thấp."
+        },
+        {
+          "text": "Hình quả trám, lắp vào tay khoan siêu tốc."
+        },
+        {
+          "text": "Làm bằng thép không gỉ, đường kính 5mm."
+        },
+        {
+          "text": "Chỉ dùng được ở tay khoan khuỷu."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong bảo trì định kỳ hệ thống Micromotor, người sử dụng KHÔNG được thực hiện thao tác nào?",
+      "options": [
+        {
+          "text": "Vệ sinh máy bằng khăn khô hàng tuần."
+        },
+        {
+          "text": "Dùng các dung dịch làm sạch xịt trực tiếp vào máy."
+        },
+        {
+          "text": "Kiểm tra điện thế trước khi sử dụng."
+        },
+        {
+          "text": "Gọi kỹ thuật viên khi gặp sự cố."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bản chất của sự phát sinh tia X trong bóng đèn máy X-quang là gì?",
+      "options": [
+        {
+          "text": "Sự đốt nóng dây tóc âm cực làm phát sáng."
+        },
+        {
+          "text": "Quá trình chuyển đổi năng lượng khi điện tử bất ngờ giảm tốc độ tại tiêu điểm dương cực."
+        },
+        {
+          "text": "Sự phản xạ của ánh sáng nhìn thấy qua gương cầu lõm."
+        },
+        {
+          "text": "Quá trình phân rã hạt nhân của vật liệu Tungsten."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tại sao Tungsten (Volfram) được chọn làm vật liệu cho cả dây tóc và bia ngắm?",
+      "options": [
+        {
+          "text": "Vì nó có giá thành thấp nhất."
+        },
+        {
+          "text": "Vì số nguyên tử cao (74) và điểm nóng chảy rất cao (3370°C)."
+        },
+        {
+          "text": "Vì nó là kim loại mềm nhất, dễ gia công thành hình dạng phức tạp."
+        },
+        {
+          "text": "Vì nó không hấp thụ bức xạ thứ cấp."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ly tập trung (Focusing cup) trong âm cực làm bằng vật liệu gì và có chức năng gì?",
+      "options": [
+        {
+          "text": "Bằng Tungsten, dùng để đốt nóng điện tử."
+        },
+        {
+          "text": "Bằng Molybdenum, dùng cố định dây tóc và tập trung đám mây điện tử về phía dương cực."
+        },
+        {
+          "text": "Bằng Đồng, dùng để giải nhiệt cho bia ngắm."
+        },
+        {
+          "text": "Bằng Thủy tinh chân không, dùng để bảo vệ bóng đèn."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên lý tiêu điểm hiệu quả (Line Focus Principle) được thực hiện bằng cách nào?",
+      "options": [
+        {
+          "text": "Tăng kích thước bia ngắm lên gấp đôi."
+        },
+        {
+          "text": "Đặt bia ngắm nghiêng một góc 15-20° so với âm cực."
+        },
+        {
+          "text": "Rút hết không khí trong bóng thủy tinh."
+        },
+        {
+          "text": "Sử dụng lõi đồng bao quanh bia ngắm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kỹ thuật chụp phim phân giác (BAT) dựa trên định lý hình học nào?",
+      "options": [
+        {
+          "text": "Định lý Pitago về tam giác vuông."
+        },
+        {
+          "text": "Hai tam giác bằng nhau khi có một cạnh chung và hai góc bằng nhau."
+        },
+        {
+          "text": "Tỉ lệ thuận giữa khoảng cách và cường độ tia."
+        },
+        {
+          "text": "Định lý Talet về các đường thẳng song song."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong kỹ thuật phân giác, nếu tia chính thẳng góc với trục răng (thiếu góc độ đứng) thì hình ảnh sẽ bị:",
+      "options": [
+        {
+          "text": "Thu ngắn."
+        },
+        {
+          "text": "Kéo dài."
+        },
+        {
+          "text": "Chồng lấp các mặt bên."
+        },
+        {
+          "text": "Mờ nét hoàn toàn."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi chụp phim răng cối lớn hàm trên bằng kỹ thuật phân giác, góc độ đứng trung bình là:",
+      "options": [
+        {
+          "text": "+40°"
+        },
+        {
+          "text": "+20°"
+        },
+        {
+          "text": "-5°"
+        },
+        {
+          "text": "+30°"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mặt phẳng Camper dùng để xác định tư thế bệnh nhân hàm trên được nối từ:",
+      "options": [
+        {
+          "text": "Khóe mép đến gờ bình tai."
+        },
+        {
+          "text": "Gờ bình tai đến cánh mũi."
+        },
+        {
+          "text": "Đỉnh cằm đến thùy châu tai."
+        },
+        {
+          "text": "Hai khóe mắt với nhau."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ưu điểm nổi bật nhất của kỹ thuật chụp song song so với kỹ thuật phân giác là:",
+      "options": [
+        {
+          "text": "Không cần dùng dụng cụ giữ phim."
+        },
+        {
+          "text": "Hình ảnh chẩn đoán trung thực hơn, ít bị méo lệch và dễ chuẩn hóa."
+        },
+        {
+          "text": "Khoảng cách từ vật đến phim là ngắn nhất."
+        },
+        {
+          "text": "Thời gian phát tia ngắn hơn đáng kể."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phóng xạ phụ (Secondary radiation) phát sinh từ đâu?",
+      "options": [
+        {
+          "text": "Từ tâm quang tuyến của ống tia X."
+        },
+        {
+          "text": "Do tia X chiếu tới vật thể (như da thịt bệnh nhân) và phản lại mọi phương hướng."
+        },
+        {
+          "text": "Từ nguồn điện lưới cung cấp cho máy."
+        },
+        {
+          "text": "Từ các lá chì bảo vệ tường."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khoảng cách an toàn tối thiểu cho nha sĩ khi đứng chụp phim mà không có bình phong chì là:",
+      "options": [
+        {
+          "text": "2 bộ (khoảng 0.6m)"
+        },
+        {
+          "text": "3 bộ (khoảng 1m)"
+        },
+        {
+          "text": "6 bộ (khoảng 2m)"
+        },
+        {
+          "text": "10 bộ (khoảng 3m)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biện pháp hiệu quả nhất để giảm liều phóng xạ cho bệnh nhân là:",
+      "options": [
+        {
+          "text": "Sử dụng phim tốc độ chậm để hình ảnh rõ hơn."
+        },
+        {
+          "text": "Dùng phim siêu tốc và áo chì thường xuyên."
+        },
+        {
+          "text": "Giảm khoảng cách từ đầu đèn đến mặt bệnh nhân."
+        },
+        {
+          "text": "Rửa phim bằng hóa chất nồng độ thấp."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Để kiểm tra mức độ nhiễm xạ cá nhân hàng tháng, nhân viên y tế nên:",
+      "options": [
+        {
+          "text": "Tự đi xét nghiệm máu mỗi tuần."
+        },
+        {
+          "text": "Đeo phim đo lường phóng xạ trên áo và gửi đi kiểm tra định kỳ."
+        },
+        {
+          "text": "Đếm số lần chụp phim trong sổ nhật ký."
+        },
+        {
+          "text": "Quan sát màu sắc da tay dưới ánh sáng mặt trời."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ai là người chế tạo ra máy nha khoa đạp bằng chân đầu tiên?",
+      "options": [
+        {
+          "text": "Singer và Howe."
+        },
+        {
+          "text": "Morrison."
+        },
+        {
+          "text": "Cyeszynski."
+        },
+        {
+          "text": "Tungsten."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi mài khô 0.5mm ngà răng bằng tay khoan siêu tốc, nhiệt độ tạo ra có thể đạt mức:",
+      "options": [
+        {
+          "text": "42°C"
+        },
+        {
+          "text": "100°C"
+        },
+        {
+          "text": "118°C"
+        },
+        {
+          "text": "245°C"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo nghiên cứu, nếu nhiệt độ tủy răng tăng thêm bao nhiêu độ thì 60% trường hợp tủy sẽ bị hoại tử?",
+      "options": [
+        {
+          "text": "5°C"
+        },
+        {
+          "text": "10°C"
+        },
+        {
+          "text": "20°C"
+        },
+        {
+          "text": "30°C"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lượng nước phun sương tối ưu để làm mát và rửa sạch mảnh vụn khi mài răng là:",
+      "options": [
+        {
+          "text": "1 - 5 ml/phút"
+        },
+        {
+          "text": "7 - 21 ml/phút"
+        },
+        {
+          "text": "30 - 50 ml/phút"
+        },
+        {
+          "text": "100 ml/phút"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu tạo mũi khoan nha khoa gồm 3 phần chính là:",
+      "options": [
+        {
+          "text": "Đầu, Vai, Thân."
+        },
+        {
+          "text": "Đầu, Cổ, Thân."
+        },
+        {
+          "text": "Mũi, Trục, Đuôi."
+        },
+        {
+          "text": "Lưỡi cắt, Khớp, Cán."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mũi khoan dùng cho tay khoan siêu tốc có đặc điểm phần thân như thế nào?",
+      "options": [
+        {
+          "text": "Dài 35mm, đường kính 2mm, đuôi trơn."
+        },
+        {
+          "text": "Đường kính nhỏ (khoảng 1.2mm), đuôi trơn láng."
+        },
+        {
+          "text": "Có mặt vát và rãnh ở đuôi để ăn khớp lưỡi gà."
+        },
+        {
+          "text": "Có ren xoáy để vặn chặt vào tay khoan."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mũi khoan Tungsten Carbide khác mũi khoan thép ở điểm nào?",
+      "options": [
+        {
+          "text": "Có phủ hạt kim cương trên bề mặt."
+        },
+        {
+          "text": "Dùng để mài sứ là chính."
+        },
+        {
+          "text": "Có các lưỡi cắt nhỏ dùng để cắt mô răng, bền hơn mũi thép."
+        },
+        {
+          "text": "Chỉ dùng được ở tốc độ dưới 10.000 vòng/phút."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ chế tác động của mũi khoan kim cương là:",
+      "options": [
+        {
+          "text": "Dùng các lưỡi sắc để gọt mô răng thành từng mảng lớn."
+        },
+        {
+          "text": "Dùng các hạt kim cương hình dạng không đều để mài mòn bề mặt mô răng."
+        },
+        {
+          "text": "Sử dụng sóng siêu âm để làm vỡ men răng."
+        },
+        {
+          "text": "Đốt cháy mô răng bằng nhiệt ma sát terk."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mũi khoan hình nón cụt thường được sử dụng cho mục đích gì?",
+      "options": [
+        {
+          "text": "Mở tủy răng."
+        },
+        {
+          "text": "Mài mặt trong răng cửa."
+        },
+        {
+          "text": "Làm phẳng đáy xoang và tạo các đường góc, tạo lưu cho xoang trám."
+        },
+        {
+          "text": "Đánh bóng phục hình nhựa."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại mũi khoan nào được khuyên dùng để mài đường hoàn tất của cùi răng phục hình?",
+      "options": [
+        {
+          "text": "Mũi tròn nhỏ."
+        },
+        {
+          "text": "Mũi trụ búp."
+        },
+        {
+          "text": "Mũi bánh xe."
+        },
+        {
+          "text": "Mũi quả trám."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tại sao nha sĩ không nên nhìn gián tiếp qua gương khi mài răng có phun sương mà không có sự hỗ trợ của trợ thủ?",
+      "options": [
+        {
+          "text": "Vì tia nước sẽ làm mờ mặt gương ngay lập tức."
+        },
+        {
+          "text": "Vì gương sẽ phản xạ tia X vào mắt nha sĩ."
+        },
+        {
+          "text": "Vì gương làm đảo ngược hình ảnh gây sai lệch 100%."
+        },
+        {
+          "text": "Vì nước phun sương có thể làm vỡ gương do nhiệt."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mũi khoan tạo lỗ (Twist drills) có chức năng đặc thù là:",
+      "options": [
+        {
+          "text": "Mài mịn bề mặt composite."
+        },
+        {
+          "text": "Tạo những lỗ có đường kính nhỏ trong mô răng (thường dùng đặt pin lưu)."
+        },
+        {
+          "text": "Chia cắt chân răng trong nhổ răng khó."
+        },
+        {
+          "text": "Lấy đi toàn bộ ngà mủn trong lỗ sâu."
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

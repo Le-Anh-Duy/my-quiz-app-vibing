@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho khan:",
+      "options": [
+        {
+          "text": "Giãn phế quản"
+        },
+        {
+          "text": "Ho gà"
+        },
+        {
+          "text": "Hen phế quản"
+        },
+        {
+          "text": "Viêm thanh quản"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho khan:",
+      "options": [
+        {
+          "text": "Viêm thanh quản"
+        },
+        {
+          "text": "Viêm họng"
+        },
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Áp-xe phổi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:",
+      "options": [
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Giãn phế quản"
+        },
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Hen phế quản"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:",
+      "options": [
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Ho gà"
+        },
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Áp-xe phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào không gây ho kèm khạc đàm:",
+      "options": [
+        {
+          "text": "Viêm thanh quản"
+        },
+        {
+          "text": "Lao phổi"
+        },
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Áp-xe phổi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ho khan nhiều về đêm, gần sáng thường gặp trong bệnh lí nào sau đây:",
+      "options": [
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Hen phế quản"
+        },
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Giãn phế quản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ho khan nhiều về đêm, gần sáng thường gặp trong bệnh lí nào sau đây:",
+      "options": [
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Ung thư phổi"
+        },
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Giãn phế quản"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ho khạc đàm 3 lớp là triệu chứng gặp trong bệnh lý nào sau đây:",
+      "options": [
+        {
+          "text": "Viêm phế quản mạn"
+        },
+        {
+          "text": "Giãn phế quản"
+        },
+        {
+          "text": "Bệnh phổi tắc nghẽn mạn tính"
+        },
+        {
+          "text": "Viêm phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong bệnh lý giãn phế quản, đàm 3 lớp theo tứ tự nào sau đây là đúng:",
+      "options": [
+        {
+          "text": "Dịch nhầy, mủ, bọt"
+        },
+        {
+          "text": "Mủ, bọt, dịch nhầy"
+        },
+        {
+          "text": "Bọt, dịch nhầy, mủ"
+        },
+        {
+          "text": "Dịch nhầy, bọt, mủ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nhận định nào sau đây là đúng về triệu chứng ho gợi ý viêm phế quản mạn tính:",
+      "options": [
+        {
+          "text": "Ho về đêm kéo dài trên 3 tháng/năm trong 2 năm liên tiếp"
+        },
+        {
+          "text": "Ho khan kéo dài trên 3 tháng/năm trong 2 năm liên tiếp"
+        },
+        {
+          "text": "Ho khạc đàm kéo dài trên 3 tháng/năm trong 2 năm liên tiếp"
+        },
+        {
+          "text": "Ho ra máu kéo dài trên 3 tháng/năm trong 2 năm liên tiếp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, đâu là nguyên nhân gây ho ra máu từ khí phế quản:",
+      "options": [
+        {
+          "text": "Dị vật đường thở"
+        },
+        {
+          "text": "Thuyên tắc phổi"
+        },
+        {
+          "text": "Lao phổi"
+        },
+        {
+          "text": "Áp-xe phổi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, đâu không phải là nguyên nhân gây ho ra máu từ nhu mô phổi:",
+      "options": [
+        {
+          "text": "Lao phổi"
+        },
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Thuyên tắc phổi"
+        },
+        {
+          "text": "Bệnh bụi phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, đâu không phải là nguyên nhân gây ho ra máu từ khí phế quản:",
+      "options": [
+        {
+          "text": "Dãn phế quản"
+        },
+        {
+          "text": "U phế quản"
+        },
+        {
+          "text": "Dị vật đường thở"
+        },
+        {
+          "text": "Lao phổi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Gọi là thở chậm khi tần số thở đạt mốc nào trong các giá trị sau đây:",
+      "options": [
+        {
+          "text": "≤10 lần/phút"
+        },
+        {
+          "text": "≤12 lần/phút"
+        },
+        {
+          "text": "≤14 lần/phút"
+        },
+        {
+          "text": "≤16 lần/phút"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây khó thở chủ yếu ở thì hít vào:",
+      "options": [
+        {
+          "text": "Cơn hen cấp nặng"
+        },
+        {
+          "text": "Nhồi máu phổi"
+        },
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Viêm thanh quản"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

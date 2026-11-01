@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Tuyến giáp nằm ngang mức đốt sống nào?",
+      "options": [
+        {
+          "text": "C2–C4"
+        },
+        {
+          "text": "C5–T1"
+        },
+        {
+          "text": "T1–T3"
+        },
+        {
+          "text": "T3–T5"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hormon tuyến giáp được tiết ra chủ yếu từ loại tế bào nào?",
+      "options": [
+        {
+          "text": "Tế bào C"
+        },
+        {
+          "text": "Tế bào thần kinh đệm"
+        },
+        {
+          "text": "Tế bào nang"
+        },
+        {
+          "text": "Tế bào lympho"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tế bào C của tuyến giáp tiết ra:",
+      "options": [
+        {
+          "text": "TSH"
+        },
+        {
+          "text": "T3"
+        },
+        {
+          "text": "Calcitonin"
+        },
+        {
+          "text": "Thyroglobulin"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chất keo trong lòng nang tuyến giáp bắt màu gì trong nhuộm HE?",
+      "options": [
+        {
+          "text": "Bắt màu base"
+        },
+        {
+          "text": "Bắt màu acid"
+        },
+        {
+          "text": "Không bắt màu"
+        },
+        {
+          "text": "Bắt màu eosin mạnh"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hormon TSH được tiết ra từ tuyến nào?",
+      "options": [
+        {
+          "text": "Tuyến giáp"
+        },
+        {
+          "text": "Tuyến tùng"
+        },
+        {
+          "text": "Tuyến yên"
+        },
+        {
+          "text": "Tuyến cận giáp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh lý nào do không phát triển mầm tuyến giáp?",
+      "options": [
+        {
+          "text": "Phình giáp"
+        },
+        {
+          "text": "Cường giáp"
+        },
+        {
+          "text": "Vô tạo tuyến giáp"
+        },
+        {
+          "text": "Viêm giáp Hashimoto"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mô giáp lạc chỗ thường gặp nhất ở vị trí nào?",
+      "options": [
+        {
+          "text": "Vùng cổ sau"
+        },
+        {
+          "text": "Vùng nền sọ"
+        },
+        {
+          "text": "Đáy lưỡi"
+        },
+        {
+          "text": "Giữa hai thuỳ giáp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tỷ lệ trẻ sơ sinh mắc vô tạo tuyến giáp:",
+      "options": [
+        {
+          "text": "1/1000"
+        },
+        {
+          "text": "1/2000"
+        },
+        {
+          "text": "1/4000"
+        },
+        {
+          "text": "1/10000"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bọc ống giáp - lưỡi có thể phát hiện ở tuổi nào?",
+      "options": [
+        {
+          "text": "Chỉ ở sơ sinh"
+        },
+        {
+          "text": "Chỉ ở người lớn"
+        },
+        {
+          "text": "Mọi lứa tuổi"
+        },
+        {
+          "text": "Thường ở tuổi dậy thì"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điều trị dứt điểm bọc ống giáp - lưỡi là:",
+      "options": [
+        {
+          "text": "Uống iod"
+        },
+        {
+          "text": "Dùng kháng sinh"
+        },
+        {
+          "text": "Điều trị nội khoa"
+        },
+        {
+          "text": "Phẫu thuật cắt bỏ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phình giáp đơn thuần còn được gọi là:",
+      "options": [
+        {
+          "text": "Viêm giáp tự miễn"
+        },
+        {
+          "text": "Bướu cổ không độc"
+        },
+        {
+          "text": "Cường giáp nhẹ"
+        },
+        {
+          "text": "Nang tuyến giáp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thiếu iod là nguyên nhân chủ yếu gây:",
+      "options": [
+        {
+          "text": "Cường giáp"
+        },
+        {
+          "text": "Ung thư giáp"
+        },
+        {
+          "text": "Viêm tuyến giáp"
+        },
+        {
+          "text": "Bướu giáp địa phương"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Biểu hiện chính của phình giáp đơn thuần:",
+      "options": [
+        {
+          "text": "Sốt cao, đau vùng cổ"
+        },
+        {
+          "text": "Tuyến giáp to, không đau, không rối loạn chức năng"
+        },
+        {
+          "text": "Tuyến giáp teo nhỏ"
+        },
+        {
+          "text": "Tăng hormon T3-T4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học phình giáp đơn thuần giai đoạn sớm thường thấy:",
+      "options": [
+        {
+          "text": "Thâm nhiễm lympho"
+        },
+        {
+          "text": "Nang giáp giãn to, lớp tế bào dẹt"
+        },
+        {
+          "text": "Mô đệm xơ hóa nhiều"
+        },
+        {
+          "text": "Biệt hóa gai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điều trị phình giáp đơn thuần chủ yếu là:",
+      "options": [
+        {
+          "text": "Phẫu thuật"
+        },
+        {
+          "text": "Iod phóng xạ"
+        },
+        {
+          "text": "Bổ sung iod"
+        },
+        {
+          "text": "Corticoid"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm mô học nào dưới đây KHÔNG phù hợp với phình giáp đơn thuần:",
+      "options": [
+        {
+          "text": "Nang giáp đồng đều, không dị sản"
+        },
+        {
+          "text": "Lòng nang chứa nhiều keo"
+        },
+        {
+          "text": "Tăng sinh hỗn hợp nang và mô đệm"
+        },
+        {
+          "text": "Hình ảnh vùi nhân điển hình"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tuyến giáp trong phình giáp đơn thuần nặng sẽ:",
+      "options": [
+        {
+          "text": "Hoàn toàn xơ hóa"
+        },
+        {
+          "text": "Không thay đổi mô học"
+        },
+        {
+          "text": "Có thể xuất huyết, thoái hóa nang"
+        },
+        {
+          "text": "Luôn luôn hóa ác"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Màu sắc tuyến giáp trong đại thể phình giáp đơn thuần là:",
+      "options": [
+        {
+          "text": "Xám bạc"
+        },
+        {
+          "text": "Vàng nhạt"
+        },
+        {
+          "text": "Nâu đồng đều hoặc loang lổ"
+        },
+        {
+          "text": "Trắng xám"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dạng mô học phổ biến của phình giáp đơn thuần:",
+      "options": [
+        {
+          "text": "Tăng sản nang"
+        },
+        {
+          "text": "U nhú"
+        },
+        {
+          "text": "Dị sản gai"
+        },
+        {
+          "text": "Hoại tử mỡ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguy cơ lớn nhất trong phình giáp đơn thuần kéo dài:",
+      "options": [
+        {
+          "text": "Viêm tuyến giáp"
+        },
+        {
+          "text": "Áp xe hóa"
+        },
+        {
+          "text": "Ung thư hóa"
+        },
+        {
+          "text": "Tăng huyết áp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm giáp Hashimoto thường gặp ở:",
+      "options": [
+        {
+          "text": "Nam giới lớn tuổi"
+        },
+        {
+          "text": "Phụ nữ tuổi sinh sản"
+        },
+        {
+          "text": "Trẻ sơ sinh"
+        },
+        {
+          "text": "Người cao tuổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm tuyến giáp Hashimoto thuộc loại:",
+      "options": [
+        {
+          "text": "Viêm do vi khuẩn"
+        },
+        {
+          "text": "Viêm không đặc hiệu"
+        },
+        {
+          "text": "Viêm tự miễn"
+        },
+        {
+          "text": "Viêm cấp mủ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dấu hiệu mô học đặc trưng nhất của viêm giáp Hashimoto:",
+      "options": [
+        {
+          "text": "Áp xe hóa"
+        },
+        {
+          "text": "Nang vỡ"
+        },
+        {
+          "text": "Thâm nhiễm lympho và tế bào Hurthle"
+        },
+        {
+          "text": "Biệt hóa gai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm tuyến giáp De Quervain là:",
+      "options": [
+        {
+          "text": "Viêm hạt bán cấp"
+        },
+        {
+          "text": "Viêm do nấm"
+        },
+        {
+          "text": "Viêm xơ hóa"
+        },
+        {
+          "text": "Viêm mạn tính ác tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Viêm giáp Riedel có đặc điểm:",
+      "options": [
+        {
+          "text": "Tiết nhiều hormon tuyến giáp"
+        },
+        {
+          "text": "Lan rộng ra các mô lân cận"
+        },
+        {
+          "text": "Có nang lớn chứa dịch"
+        },
+        {
+          "text": "Đáp ứng tốt với iod"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm tuyến giáp cấp thường do:",
+      "options": [
+        {
+          "text": "Lao"
+        },
+        {
+          "text": "Vi khuẩn"
+        },
+        {
+          "text": "Nấm"
+        },
+        {
+          "text": "Virus"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm giáp Hashimoto dễ nhầm với:",
+      "options": [
+        {
+          "text": "U tuyến giáp"
+        },
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "Nang keo"
+        },
+        {
+          "text": "Dị sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tế bào Hurthle bắt màu:",
+      "options": [
+        {
+          "text": "Acid mạnh"
+        },
+        {
+          "text": "Base mạnh"
+        },
+        {
+          "text": "Không bắt màu"
+        },
+        {
+          "text": "Màu vàng đặc"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Viêm tuyến giáp bán cấp điển hình có đặc điểm mô học:",
+      "options": [
+        {
+          "text": "U hạt khổng lồ"
+        },
+        {
+          "text": "Thâm nhiễm eosin"
+        },
+        {
+          "text": "Xơ hóa toàn phần"
+        },
+        {
+          "text": "Vùi nhân ác tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dạng viêm tuyến giáp có thể dẫn đến suy giáp vĩnh viễn:",
+      "options": [
+        {
+          "text": "Viêm giáp cấp"
+        },
+        {
+          "text": "Viêm giáp bán cấp"
+        },
+        {
+          "text": "Viêm giáp Hashimoto"
+        },
+        {
+          "text": "Viêm giáp Riedel"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U tuyến giáp lành tính phổ biến nhất là:",
+      "options": [
+        {
+          "text": "U nang"
+        },
+        {
+          "text": "U tuyến nang (follicular adenoma)"
+        },
+        {
+          "text": "U nhú"
+        },
+        {
+          "text": "U mỡ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học u tuyến giáp lành thường có:",
+      "options": [
+        {
+          "text": "Tế bào nhân không điển hình"
+        },
+        {
+          "text": "Tế bào nang đồng nhất, không xâm lấn vỏ"
+        },
+        {
+          "text": "Dị sản gai rõ"
+        },
+        {
+          "text": "Hoại tử lan rộng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm phân biệt u tuyến lành với ung thư là:",
+      "options": [
+        {
+          "text": "Kích thước u"
+        },
+        {
+          "text": "Màu sắc mô"
+        },
+        {
+          "text": "Xâm lấn vỏ và mạch máu"
+        },
+        {
+          "text": "Tăng sinh tế bào"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U tuyến giáp lành có thể phát sinh từ:",
+      "options": [
+        {
+          "text": "Tế bào C"
+        },
+        {
+          "text": "Tế bào Hurthle"
+        },
+        {
+          "text": "Tế bào nang"
+        },
+        {
+          "text": "Tế bào lympho"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U tuyến giáp lành điển hình là:",
+      "options": [
+        {
+          "text": "Đơn ổ, có bao rõ"
+        },
+        {
+          "text": "Nhiều ổ, xâm lấn xung quanh"
+        },
+        {
+          "text": "Không có bao u"
+        },
+        {
+          "text": "Luôn kèm hoại tử"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dạng đặc biệt của u tuyến giáp lành:",
+      "options": [
+        {
+          "text": "U Hurthle"
+        },
+        {
+          "text": "U gai"
+        },
+        {
+          "text": "U mô đệm"
+        },
+        {
+          "text": "U thần kinh"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bao u trong u tuyến giáp lành là:",
+      "options": [
+        {
+          "text": "Mỏng manh, dễ vỡ"
+        },
+        {
+          "text": "Không tồn tại"
+        },
+        {
+          "text": "Xơ hóa rõ, phân biệt u và mô lành"
+        },
+        {
+          "text": "Hoại tử hóa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phát biểu nào đúng về u tuyến nang giáp:",
+      "options": [
+        {
+          "text": "Luôn là ác tính"
+        },
+        {
+          "text": "Thường xâm lấn mạch máu"
+        },
+        {
+          "text": "Không xâm lấn vỏ bao"
+        },
+        {
+          "text": "Gây di căn xa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dạng tế bào nào có thể gặp trong u tuyến lành:",
+      "options": [
+        {
+          "text": "Tế bào gai"
+        },
+        {
+          "text": "Tế bào Hurthle"
+        },
+        {
+          "text": "Tế bào dị sản ác"
+        },
+        {
+          "text": "Tế bào lympho tăng sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân biệt u tuyến nang và carcinoma nang dựa vào:",
+      "options": [
+        {
+          "text": "Độ biệt hóa"
+        },
+        {
+          "text": "Số lượng tế bào"
+        },
+        {
+          "text": "Xâm lấn vỏ và mạch máu"
+        },
+        {
+          "text": "Tăng sinh tuyến"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư tuyến giáp phổ biến nhất là:",
+      "options": [
+        {
+          "text": "Ung thư tủy"
+        },
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "Ung thư nang"
+        },
+        {
+          "text": "Ung thư không biệt hóa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư tuyến giáp có tiên lượng tốt nhất:",
+      "options": [
+        {
+          "text": "Ung thư tủy"
+        },
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "Ung thư không biệt hóa"
+        },
+        {
+          "text": "Ung thư nang xâm lấn mạnh"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thể u nào có nhân giống \"mắt hạt cà\"?",
+      "options": [
+        {
+          "text": "Ung thư tủy"
+        },
+        {
+          "text": "Ung thư nang"
+        },
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "U tuyến giáp lành"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U tuyến giáp biệt hóa kém nhất:",
+      "options": [
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "Ung thư nang"
+        },
+        {
+          "text": "Ung thư tủy"
+        },
+        {
+          "text": "Ung thư không biệt hóa"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ung thư tủy tuyến giáp phát sinh từ:",
+      "options": [
+        {
+          "text": "Tế bào nang"
+        },
+        {
+          "text": "Tế bào Hurthle"
+        },
+        {
+          "text": "Tế bào C"
+        },
+        {
+          "text": "Tế bào mô đệm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Marker miễn dịch dương tính trong ung thư tủy:",
+      "options": [
+        {
+          "text": "Thyroglobulin"
+        },
+        {
+          "text": "TTF-1"
+        },
+        {
+          "text": "Calcitonin"
+        },
+        {
+          "text": "CK7"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Di căn hạch cổ thường gặp trong:",
+      "options": [
+        {
+          "text": "Ung thư nang"
+        },
+        {
+          "text": "Ung thư tủy"
+        },
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "Ung thư không biệt hóa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư giáp liên quan hội chứng MEN 2:",
+      "options": [
+        {
+          "text": "Ung thư nhú"
+        },
+        {
+          "text": "Ung thư nang"
+        },
+        {
+          "text": "Ung thư tủy"
+        },
+        {
+          "text": "Ung thư không biệt hóa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tiên lượng xấu nhất trong các loại ung thư tuyến giáp:",
+      "options": [
+        {
+          "text": "Nhú"
+        },
+        {
+          "text": "Nang"
+        },
+        {
+          "text": "Tủy"
+        },
+        {
+          "text": "Không biệt hóa"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm mô học nổi bật của ung thư không biệt hóa:",
+      "options": [
+        {
+          "text": "Cấu trúc nhú điển hình"
+        },
+        {
+          "text": "Tế bào dị dạng, hoại tử nhiều"
+        },
+        {
+          "text": "Tế bào tiết calcitonin"
+        },
+        {
+          "text": "Biệt hóa giống tuyến"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

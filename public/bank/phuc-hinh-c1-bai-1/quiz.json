@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Trong phục hình tháo lắp bán hàm nền nhựa, lực nhai được truyền chủ yếu theo con đường nào?",
+      "options": [
+        {
+          "text": "Truyền đồng đều qua khớp thái dương hàm"
+        },
+        {
+          "text": "Từ nền hàm qua niêm mạc truyền trực tiếp xuống xương hàm"
+        },
+        {
+          "text": "Truyền qua các tựa mặt nhai vào dây chằng nha chu"
+        },
+        {
+          "text": "Từ răng giả qua móc vào răng trụ xuống xương ổ răng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nền hàm của phục hình tháo lắp bán hàm nền nhựa thường được chế tạo bằng vật liệu gì?",
+      "options": [
+        {
+          "text": "Hợp chất sứ thiêu kết nhiệt độ cao"
+        },
+        {
+          "text": "Nhựa acrylic trùng hợp nhiệt"
+        },
+        {
+          "text": "Kim loại hợp kim Cr-Co"
+        },
+        {
+          "text": "Nhựa tự cứng lạnh polymethyl methacrylate (PMMA)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Móc hợp kim dây tròn sử dụng trong phục hình tháo lắp bán hàm nền nhựa thường có đường kính bao nhiêu?",
+      "options": [
+        {
+          "text": "0,7 – 1,0 mm"
+        },
+        {
+          "text": "1,5 – 2,0 mm"
+        },
+        {
+          "text": "1,2 – 1,5 mm"
+        },
+        {
+          "text": "0,3 – 0,5 mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các răng giả gắn trên nền nhựa của phục hình tháo lắp bán hàm có thể được làm bằng vật liệu gì?",
+      "options": [
+        {
+          "text": "Chỉ duy nhất sứ nha khoa"
+        },
+        {
+          "text": "Nhựa acrylic, sứ hoặc composite"
+        },
+        {
+          "text": "Chỉ duy nhất nhựa composite"
+        },
+        {
+          "text": "Chỉ kim loại quý bọc nhựa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo phân loại Kennedy, dạng mất răng nào sau đây là chỉ định điển hình của phục hình tháo lắp do không còn răng giới hạn phía xa?",
+      "options": [
+        {
+          "text": "Loại I và Loại II"
+        },
+        {
+          "text": "Chỉ loại IV mất răng cửa"
+        },
+        {
+          "text": "Loại III có biến thể 1"
+        },
+        {
+          "text": "Loại III và Loại IV"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trường hợp nào sau đây phục hình tháo lắp bán hàm nền nhựa được chỉ định làm 'hàm giả tức thì'?",
+      "options": [
+        {
+          "text": "Lắp hàm sau khi sóng hàm đã lành thương hoàn toàn 6 tháng"
+        },
+        {
+          "text": "Lắp hàm sau khi đã cấy ghép implant tích hợp xương"
+        },
+        {
+          "text": "Lắp hàm tạm trước khi chỉnh nha cố định"
+        },
+        {
+          "text": "Lắp hàm ngay sau khi phẫu thuật nhổ răng để duy trì chức năng và thẩm mỹ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mục đích chính của việc chỉ định phục hình tháo lắp bán hàm làm 'hàm giữ chỗ' là:",
+      "options": [
+        {
+          "text": "Nâng cao kích thước dọc cắn khớp tối đa"
+        },
+        {
+          "text": "Ngăn chặn sự xô lệch, trồi hay nghiêng của các răng còn lại vào khoảng mất răng"
+        },
+        {
+          "text": "Tăng cường thẩm mỹ tối đa cho người cao tuổi"
+        },
+        {
+          "text": "Kích thích xương ổ răng phát triển chiều cao"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phục hình tháo lắp bán hàm đóng vai trò là 'hàm chuyển tiếp' khi nào?",
+      "options": [
+        {
+          "text": "Khi bệnh nhân có tiên lượng sẽ mất thêm các răng còn lại để chuyển dần sang hàm toàn phần"
+        },
+        {
+          "text": "Khi bệnh nhân cần phục hồi chức năng trong vòng 24 giờ rồi tháo bỏ vĩnh viễn"
+        },
+        {
+          "text": "Khi bệnh nhân mất một răng đơn lẻ vùng răng cối"
+        },
+        {
+          "text": "Khi chuẩn bị làm cầu răng cố định nhiều đơn vị"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố tâm lý nào sau đây khiến bệnh nhân lựa chọn phục hình tháo lắp bán hàm thay vì phục hình cố định?",
+      "options": [
+        {
+          "text": "Bệnh nhân muốn gắn chặt vĩnh viễn trong miệng"
+        },
+        {
+          "text": "Bệnh nhân muốn có lực nhai khỏe như răng tự nhiên"
+        },
+        {
+          "text": "Bệnh nhân sợ đau khi mài răng hoặc lấy tủy và không muốn mài răng thật"
+        },
+        {
+          "text": "Bệnh nhân muốn thời gian mang hàm liên tục 24/24 giờ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Về mặt chi phí điều trị, ưu điểm nổi bật của phục hình tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "text": "Chi phí tương đương với cấy ghép implant"
+        },
+        {
+          "text": "Tốn kém nhiều chi phí bảo dưỡng định kỳ tại labo"
+        },
+        {
+          "text": "Chi phí rẻ hơn phục hình cố định và rẻ hơn phục hình khung bộ"
+        },
+        {
+          "text": "Đắt tiền hơn phục hình tháo lắp khung kim loại nhưng bền hơn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi bệnh nhân bị mất thêm một răng thật trong quá trình đang mang phục hình tháo lắp bán hàm nền nhựa, xử trí thuận lợi nhất là:",
+      "options": [
+        {
+          "text": "Không thể thêm răng vì nhựa acrylic không dính với nhựa mới"
+        },
+        {
+          "text": "Có thể dễ dàng thêm răng giả và móc mới vào nền hàm cũ với chi phí thấp"
+        },
+        {
+          "text": "Phải chuyển sang làm phục hình cố định ngay lập tức"
+        },
+        {
+          "text": "Bắt buộc phải bỏ hàm cũ và làm lại hàm mới từ đầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tình trạng nào dưới đây là chống chỉ định tạm thời của phục hình tháo lắp bán hàm nền nhựa?",
+      "options": [
+        {
+          "text": "Bệnh nhân không có răng giới hạn phía xa"
+        },
+        {
+          "text": "Khoảng mất răng xen kẽ quá dài"
+        },
+        {
+          "text": "Bệnh nhân đang bị viêm nhiễm cấp tính trong khoang miệng"
+        },
+        {
+          "text": "Mất răng loại I Kennedy ở người cao tuổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tại sao bệnh nha chu chưa ổn định ở các răng còn lại là chống chỉ định làm phục hình tháo lắp bán hàm?",
+      "options": [
+        {
+          "text": "Vì nhựa acrylic tương kỵ tuyệt đối với mô nướu viêm"
+        },
+        {
+          "text": "Vì lực tác động từ móc và nền hàm sẽ làm tổn thương thêm tổ chức nâng đỡ và nhanh chóng rụng răng trụ"
+        },
+        {
+          "text": "Vì hàm giả sẽ cản trở việc chải răng hằng ngày"
+        },
+        {
+          "text": "Vì nước bọt không thể tiết ra khi có hàm giả"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vì sao bệnh nhân có rối loạn tâm thần nặng hoặc không hợp tác lại chống chỉ định làm phục hình tháo lắp?",
+      "options": [
+        {
+          "text": "Vì niêm mạc người bệnh tâm thần không thể chịu lực"
+        },
+        {
+          "text": "Vì không thể chọn được màu răng phù hợp"
+        },
+        {
+          "text": "Vì nguy cơ nuốt hàm giả, làm gãy vỡ hàm hoặc không tuân thủ cách bảo quản và tháo lắp"
+        },
+        {
+          "text": "Vì chi phí điều trị quá thấp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "So với phục hình cố định (cầu răng), ưu điểm sinh học quan trọng nhất của phục hình tháo lắp bán hàm là:",
+      "options": [
+        {
+          "text": "Tăng lực nhai lên gấp nhiều lần"
+        },
+        {
+          "text": "Tiết kiệm tối đa mô răng thật vì không bắt buộc phải mài nhiều men ngà răng trụ"
+        },
+        {
+          "text": "Giúp niêm mạc miệng dày và chắc hơn theo thời gian"
+        },
+        {
+          "text": "Không bao giờ gây giắt thức ăn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong trường hợp mất răng phía trước kèm tiêu xương ổ răng nhiều, phục hình tháo lắp bán hàm nền nhựa có ưu điểm gì so với cầu răng cố định?",
+      "options": [
+        {
+          "text": "Ngăn chặn hoàn toàn quá trình lão hóa khuôn mặt"
+        },
+        {
+          "text": "Giúp các răng bên cạnh không bị sâu"
+        },
+        {
+          "text": "Làm giảm chiều dài của môi trên vĩnh viễn"
+        },
+        {
+          "text": "Nền nhựa giả nướu giúp bù đắp phần xương ổ đã mất, nâng đỡ môi và phục hồi thẩm mỹ khuôn mặt tốt hơn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hậu quả lâu dài của việc nền hàm tựa trực tiếp lên mô xương và niêm mạc là:",
+      "options": [
+        {
+          "text": "Hàm bị lún dần dưới tác động của lực nhai, sức nhai giảm và gây tiêu xương ổ liên tục"
+        },
+        {
+          "text": "Răng thật bên cạnh bị trồi cao nhanh chóng"
+        },
+        {
+          "text": "Làm cứng khớp thái dương hàm"
+        },
+        {
+          "text": "Kích thích xương ổ răng tăng sinh dày lên"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dọc theo vùng nướu giả của hàm tháo lắp tiếp xúc với các răng thật còn lại thường dễ gây ra nguy cơ gì?",
+      "options": [
+        {
+          "text": "Đọng mảng bám, gây sâu răng và viêm nướu viền"
+        },
+        {
+          "text": "Răng thật bị đổi màu sang vàng cam"
+        },
+        {
+          "text": "Mòn ngót cổ răng sinh lý"
+        },
+        {
+          "text": "Vôi hóa tủy răng nhanh chóng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trường hợp nào sau đây gây khó khăn lớn khi thiết kế nhóm răng cửa trên cho phục hình tháo lắp bán hàm nền nhựa?",
+      "options": [
+        {
+          "text": "Bệnh nhân có cung răng hàm trên hình chữ U rộng"
+        },
+        {
+          "text": "Bệnh nhân có khớp cắn đối đầu"
+        },
+        {
+          "text": "Bệnh nhân có khớp cắn sâu với độ cắn phủ lớn làm thiếu khoảng trống cho nền nhựa"
+        },
+        {
+          "text": "Bệnh nhân có khớp cắn hở phía trước"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vấn đề thẩm mỹ thường gặp nhất khi làm phục hình tháo lắp bán hàm nền nhựa ở vùng răng trước là:",
+      "options": [
+        {
+          "text": "Màu sắc răng nhựa quá trắng"
+        },
+        {
+          "text": "Tay móc kim loại ôm quanh răng trước (như răng nanh, răng cửa) dễ bị lộ khi cười nói"
+        },
+        {
+          "text": "Nền hàm nhựa che phủ hoàn toàn khẩu cái mềm"
+        },
+        {
+          "text": "Răng giả luôn dài hơn răng thật"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân chính khiến bệnh nhân cảm thấy cồng kềnh, khó chịu và bất ổn trong thời gian đầu mang hàm tháo lắp bán hàm nền nhựa là:",
+      "options": [
+        {
+          "text": "Hàm giả là vật lạ trong khoang miệng và có độ xê dịch nhất định khi phát âm, ăn nhai"
+        },
+        {
+          "text": "Móc kim loại đâm xuyên qua nướu răng"
+        },
+        {
+          "text": "Kích thước dọc cắn khớp bị hạ thấp tối đa"
+        },
+        {
+          "text": "Hàm giả được gắn chặt cố định vào xương hàm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Một trong những nguyên nhân hàng đầu khiến bệnh nhân từ chối mang phục hình tháo lắp sau khi đã hoàn thành là:",
+      "options": [
+        {
+          "text": "Hàm giả quá nhẹ không có trọng lượng"
+        },
+        {
+          "text": "Labo làm răng giả có màu quá giống răng tự nhiên"
+        },
+        {
+          "text": "Bệnh nhân ăn nhai quá dễ dàng ngay ngày đầu tiên"
+        },
+        {
+          "text": "Bác sĩ chưa chuẩn bị tâm lý tốt cho bệnh nhân về cảm giác vướng víu và sự khác biệt so với răng thật"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Yếu tố điều trị tiền phục hình không tốt có thể dẫn đến thất bại của phục hình tháo lắp bán hàm bao gồm:",
+      "options": [
+        {
+          "text": "Lấy dấu bằng vật liệu thạch cao"
+        },
+        {
+          "text": "Đổ mẫu hàm nghiên cứu bằng thạch cao cứng"
+        },
+        {
+          "text": "Hướng dẫn bệnh nhân súc miệng nước ấm trước khi lấy dấu"
+        },
+        {
+          "text": "Không nhổ các chân răng nhiễm trùng, còn sót gai xương bén nhọn hoặc chưa điều trị viêm nướu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong quy trình lâm sàng chuẩn 5 lần hẹn thực hiện phục hình tháo lắp bán hàm nền nhựa, nội dung của lần hẹn thứ 1 là:",
+      "options": [
+        {
+          "text": "Lắp hàm giả và hướng dẫn sử dụng"
+        },
+        {
+          "text": "Ép nhựa và mài đánh bóng hàm giả"
+        },
+        {
+          "text": "Thử răng trên sáp và chỉnh khớp cắn"
+        },
+        {
+          "text": "Khám, chẩn đoán, lập kế hoạch điều trị và lấy dấu hai hàm sơ khởi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nội dung công việc lâm sàng chính ở lần hẹn thứ 2 của quy trình làm phục hình tháo lắp bán hàm là:",
+      "options": [
+        {
+          "text": "Chữa đau và chỉnh cộm sau khi dùng hàm 1 tuần"
+        },
+        {
+          "text": "Khám và lập bệnh án"
+        },
+        {
+          "text": "Có thể lấy dấu sau cùng và ghi nhận tương quan hai hàm"
+        },
+        {
+          "text": "Mài chỉnh các múi chịu của răng thật"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Giữa lần hẹn thứ 2 và lần hẹn thứ 3, kỹ thuật viên tại labo sẽ thực hiện công việc gì?",
+      "options": [
+        {
+          "text": "Luộc sáp, ép nhựa và đánh bóng hoàn thiện hàm"
+        },
+        {
+          "text": "Thử hàm trực tiếp trên miệng bệnh nhân"
+        },
+        {
+          "text": "Vô giá khớp và sắp các răng giả trên nền sáp"
+        },
+        {
+          "text": "Đổ mẫu hàm sơ khởi bằng thạch cao mềm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mục đích chính của lần hẹn thứ 3 trên lâm sàng là:",
+      "options": [
+        {
+          "text": "Cắt lọc các gai xương bén nhọn"
+        },
+        {
+          "text": "Lắp hàm giả nhựa hoàn tất cho bệnh nhân"
+        },
+        {
+          "text": "Thử răng giả trên nền sáp để kiểm tra thẩm mỹ, khớp cắn và phát âm"
+        },
+        {
+          "text": "Lấy dấu khớp cắn bằng cao su"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Công việc được tiến hành tại buổi hẹn lâm sàng thứ 4 là:",
+      "options": [
+        {
+          "text": "Thử và lên răng giả trên giá khớp"
+        },
+        {
+          "text": "Nhổ bỏ các răng lung lay độ 3"
+        },
+        {
+          "text": "Lấy dấu lần hai bằng khay cá nhân"
+        },
+        {
+          "text": "Giao lắp hàm giả hoàn thiện và hướng dẫn bệnh nhân cách sử dụng, bảo quản"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mục đích cơ bản của lần hẹn thứ 5 (sau khi giao hàm từ 24 - 48 giờ) là:",
+      "options": [
+        {
+          "text": "Trám lại toàn bộ các răng sâu còn lại"
+        },
+        {
+          "text": "Tái khám, kiểm tra các điểm đau, loét do đè nén và chỉnh sửa hàm giả"
+        },
+        {
+          "text": "Lấy dấu lại toàn bộ để làm hàm mới"
+        },
+        {
+          "text": "Bắt đầu sắp răng giả vùng răng sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các trường hợp cần cải thiện thẩm mỹ vùng răng trước, móc dây kim loại của hàm tháo lắp bán hàm nền nhựa có thể được thay thế bằng:",
+      "options": [
+        {
+          "text": "Móc nhựa trong suốt hoặc móc nhựa mềm (nhựa dẻo)"
+        },
+        {
+          "text": "Móc thép đúc bản rộng 3mm"
+        },
+        {
+          "text": "Chỉ vàng 24K cuốn chặt vào cổ răng"
+        },
+        {
+          "text": "Móc kẹp vít ren cố định vào xương ổ"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

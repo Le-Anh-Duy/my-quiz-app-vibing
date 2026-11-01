@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Vàng da sinh lý ở trẻ sơ sinh, xét nghiệm máu sẽ thấy:",
+      "options": [
+        {
+          "text": "Tăng Bilirubin trực tiếp"
+        },
+        {
+          "text": "Tăng Bilirubin gián tiếp và trực tiếp bằng nhau"
+        },
+        {
+          "text": "Tăng Bilirubin toàn phần"
+        },
+        {
+          "text": "Tăng Bilirubin gián tiếp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Vàng da tại gan, phân có đặc điểm:",
+      "options": [
+        {
+          "text": "Bạc màu hoàn toàn"
+        },
+        {
+          "text": "Phân vàng"
+        },
+        {
+          "text": "Phân sậm màu"
+        },
+        {
+          "text": "Vàng nhạt hay bạc màu không hoàn toàn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân vàng da có lách to, ta nghĩ đến bệnh lý nào:",
+      "options": [
+        {
+          "text": "Sỏi ống mật chủ"
+        },
+        {
+          "text": "Thalasemia"
+        },
+        {
+          "text": "Viêm gan cấp do rượu"
+        },
+        {
+          "text": "Ung thư đầu tụy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân vàng da sau gan, phân có màu gì do tắc mật hoàn toàn:",
+      "options": [
+        {
+          "text": "Phân vàng"
+        },
+        {
+          "text": "Phân xanh rêu"
+        },
+        {
+          "text": "Phân bạc màu"
+        },
+        {
+          "text": "Phân đen"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Táo bón khi số lần đi tiêu ít hơn bao nhiêu lần trong một tuần:",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nguyên nhân nào chiếm tỷ lệ cao nhất của xuất huyết tiêu hóa:",
+      "options": [
+        {
+          "text": "Loét dạ dày"
+        },
+        {
+          "text": "Viêm dạ dày"
+        },
+        {
+          "text": "Polyp dạ dày"
+        },
+        {
+          "text": "Mallory Weiss"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cơ quan nào nằm tại vùng thượng vị:",
+      "options": [
+        {
+          "text": "Thùy phải của gan"
+        },
+        {
+          "text": "Một phần mặt sau dạ dày"
+        },
+        {
+          "text": "Đám rối thái dương"
+        },
+        {
+          "text": "Đoạn sau động mạch, tĩnh mạch chủ bụng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ quan nào nằm tại vùng hạ sườn phải:",
+      "options": [
+        {
+          "text": "Thùy gan phải"
+        },
+        {
+          "text": "Môn vị"
+        },
+        {
+          "text": "Hang vị"
+        },
+        {
+          "text": "Cực dưới thận phải"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cơ quan nào nằm tại vùng hông phải:",
+      "options": [
+        {
+          "text": "Đại tràng xuống"
+        },
+        {
+          "text": "Tuyến thượng thận phải"
+        },
+        {
+          "text": "Thận phải"
+        },
+        {
+          "text": "Hai niệu quản"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nôn ra máu có số lượng bao nhiêu thì có khả năng gây sốc:",
+      "options": [
+        {
+          "text": "40ml"
+        },
+        {
+          "text": "50ml"
+        },
+        {
+          "text": "60ml"
+        },
+        {
+          "text": "70ml"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thời gian máu lưu trong lòng ruột tối thiểu bao lâu mới có thể làm phân có màu đen:",
+      "options": [
+        {
+          "text": "6 giờ"
+        },
+        {
+          "text": "7 giờ"
+        },
+        {
+          "text": "8 giờ"
+        },
+        {
+          "text": "9 giờ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ chế bệnh sinh của đau bụng có mấy cơ chế:",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xuất huyết tiêu hóa trên là do tổn thương tại các cơ quan sau. NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Thực quản"
+        },
+        {
+          "text": "Dạ dày"
+        },
+        {
+          "text": "Tá tràng"
+        },
+        {
+          "text": "Hổng tràng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Xuất huyết tiêu hóa trên, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Chỉ biểu hiện bằng nôn ra máu"
+        },
+        {
+          "text": "Biểu hiện bằng nôn ra máu hoặc tiêu phân đen"
+        },
+        {
+          "text": "Tổn thương trên góc Treizt"
+        },
+        {
+          "text": "Xuất huyết nhiều có thể gây tiêu máu đỏ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các loại thuốc có thể gây phân màu đen. NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Sắt"
+        },
+        {
+          "text": "Bismuth"
+        },
+        {
+          "text": "Than hoạt"
+        },
+        {
+          "text": "Rifampicin"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong xuất huyết tiêu hóa, chỉ số nào sau đây tăng:",
+      "options": [
+        {
+          "text": "Số lượng hồng cầu"
+        },
+        {
+          "text": "Hematocrit"
+        },
+        {
+          "text": "Hemoglobin"
+        },
+        {
+          "text": "Ure máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Những nguyên nhân gây đau bụng cấp. NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Thủng dạ dày"
+        },
+        {
+          "text": "Viêm tụy xuất huyết"
+        },
+        {
+          "text": "Viêm túi mật"
+        },
+        {
+          "text": "Lao ruột"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bilirubin liên hợp được tạo ra ở đâu:",
+      "options": [
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Tụy"
+        },
+        {
+          "text": "Tá tràng"
+        },
+        {
+          "text": "Dạ dày"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Để khám dấu rung gan, ta dùng tay nào đấm vào vùng gan:",
+      "options": [
+        {
+          "text": "Tay trái"
+        },
+        {
+          "text": "Tay phải"
+        },
+        {
+          "text": "Dùng cả hai tay"
+        },
+        {
+          "text": "Tay nào cũng được"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi khám bụng, trình tự đúng là:",
+      "options": [
+        {
+          "text": "Nhìn, sờ, gõ, nghe"
+        },
+        {
+          "text": "Nhìn, gõ, sờ, nghe"
+        },
+        {
+          "text": "Nhìn, nghe, gõ, sờ"
+        },
+        {
+          "text": "Nhìn, nghe, sờ, gõ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh nhân vàng da trước gan, khi làm xét nghiệm nước tiểu sẽ phát hiện:",
+      "options": [
+        {
+          "text": "Tăng urobilin"
+        },
+        {
+          "text": "Xuất hiện sắc tố mật"
+        },
+        {
+          "text": "Có muối mật"
+        },
+        {
+          "text": "Có stercobilin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khám dấu óc ách dạ dày, tốt nhất vào lúc nào:",
+      "options": [
+        {
+          "text": "Sáng sớm sau ngủ dậy 1 giờ."
+        },
+        {
+          "text": "Tối trước khi đi ngủ."
+        },
+        {
+          "text": "Sáng sớm sau ngủ dậy uống 100ml nước."
+        },
+        {
+          "text": "Sáng sớm sau ngủ dậy chưa ăn uống gì"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghiệm pháp Murphy dương tính khi có các biểu hiện sau:",
+      "options": [
+        {
+          "text": "Thành bụng co cứng."
+        },
+        {
+          "text": "Hít vào và thở ra đều đau."
+        },
+        {
+          "text": "Ấn tay vào vùng túi mật lúc bệnh nhân hít vào thì thấy đau, nên phải ngưng thở."
+        },
+        {
+          "text": "Ấn tay vào vùng túi mật, bệnh nhân đau ít, buông tay ra thấy đau nhiều hơn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hội chứng lỵ thường có các triệu chứng sau đây, ngoại trừ:",
+      "options": [
+        {
+          "text": "Đau bụng quặn dọc khung đại tràng."
+        },
+        {
+          "text": "Phản xạ mót rặn."
+        },
+        {
+          "text": "Số lần đi tiêu rất ít."
+        },
+        {
+          "text": "Phân thường có nhầy hoặc máu."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vàng da do tăng Bilirubin trực tiếp thường gặp ở các bệnh lý sau, ngoại trừ:",
+      "options": [
+        {
+          "text": "Viêm gan siêu vi"
+        },
+        {
+          "text": "Thalassemia"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Sỏi ống mật chủ."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các phương pháp thăm dò hình thái học hệ tiêu hóa-gan mật, ngoại trừ:",
+      "options": [
+        {
+          "text": "Chụp XQ bụng không chuẩn bị"
+        },
+        {
+          "text": "Siêu âm bụng"
+        },
+        {
+          "text": "Xét nghiệm men gan"
+        },
+        {
+          "text": "Chụp CT scan"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Siêu âm bụng có thể phát hiện được các bệnh lý sau, ngoại trừ:",
+      "options": [
+        {
+          "text": "Gan nhiễm mỡ"
+        },
+        {
+          "text": "Áp xe gan"
+        },
+        {
+          "text": "Sỏi túi mật"
+        },
+        {
+          "text": "Loét dạ dày"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chụp CT scan ổ bụng có ưu điểm hơn siêu âm, ngoại trừ:",
+      "options": [
+        {
+          "text": "Có độ phân giải cao hơn"
+        },
+        {
+          "text": "Cho biết bản chất khối u là lành tính hay ác tính"
+        },
+        {
+          "text": "Có thể phát hiện các tổn thương nhỏ mà siêu âm bỏ sót"
+        },
+        {
+          "text": "Không bị hạn chế bởi hơi trong đường ruột"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp thăm dò hình thái nào thường được ứng dụng nhất trong các bệnh lý đường tiêu hóa:",
+      "options": [
+        {
+          "text": "Chụp XQ bụng không chuẩn bị"
+        },
+        {
+          "text": "Siêu âm qua ngã nội soi"
+        },
+        {
+          "text": "Siêu âm bụng"
+        },
+        {
+          "text": "Chụp CT scan"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nội soi đường tiêu hóa trên có thể giúp chẩn đoán bệnh lý sau, ngoại trừ:",
+      "options": [
+        {
+          "text": "Viêm loét thực quản"
+        },
+        {
+          "text": "Giãn tĩnh mạch thực quản"
+        },
+        {
+          "text": "Sỏi túi mật"
+        },
+        {
+          "text": "Ung thư dạ dày"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chống chỉ định của nội soi tiêu hóa trên là:",
+      "options": [
+        {
+          "text": "Thủng tạng rỗng"
+        },
+        {
+          "text": "Nghi ngờ tắc ruột"
+        },
+        {
+          "text": "Xuất huyết tiêu hóa trên"
+        },
+        {
+          "text": "Đau thượng vị"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hình ảnh các quai ruột giãn to và có nhiều mức nước-hơi xếp thành hình bậc thang trong chụp XQ bụng đứng không chuẩn bị gặp trong bệnh:",
+      "options": [
+        {
+          "text": "Thủng tạng rỗng"
+        },
+        {
+          "text": "Tắc ruột"
+        },
+        {
+          "text": "Sỏi mật"
+        },
+        {
+          "text": "Sỏi tụy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp chụp đường mật nào thông dụng:",
+      "options": [
+        {
+          "text": "Chụp đường mật ngược dòng qua nội soi (ERCP)"
+        },
+        {
+          "text": "Chụp đường mật xuyên gan qua da (PTC)"
+        },
+        {
+          "text": "Chụp đường mật cản quang"
+        },
+        {
+          "text": "Chụp đường mật không chuẩn bị"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "ALT (Alanine aminotransaminase) còn có tên gọi khác là:",
+      "options": [
+        {
+          "text": "SGOT"
+        },
+        {
+          "text": "GGT"
+        },
+        {
+          "text": "SGPT"
+        },
+        {
+          "text": "ALP"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Men AST có nhiều nhất ở cơ quan nào:",
+      "options": [
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Tim"
+        },
+        {
+          "text": "Cơ vân"
+        },
+        {
+          "text": "Não"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Men GGT thường tăng nhất trong bệnh lý:",
+      "options": [
+        {
+          "text": "Viêm gan do siêu vi"
+        },
+        {
+          "text": "Viêm gan do rượu"
+        },
+        {
+          "text": "Viêm gan do thuốc"
+        },
+        {
+          "text": "Viêm gan do nhiễm độc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CEA (Carcinoma Embryonic Antigen):",
+      "options": [
+        {
+          "text": "Là kháng nguyên của tế bào ruột ở thai nhi"
+        },
+        {
+          "text": "Là kháng nguyên của tế bào dạ dày ở thai nhi"
+        },
+        {
+          "text": "Là kháng nguyên của tế bào thận ở thai nhi"
+        },
+        {
+          "text": "Là kháng nguyên của tế bào thần kinh ở thai nhi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "CA 19-9 (Carcinoma Antigen 19-9):",
+      "options": [
+        {
+          "text": "Là kháng nguyên có ở tế bào tuyến của các tạng dạ dày, ruột, vú, phổi, tụy, đặc biệt là tụy"
+        },
+        {
+          "text": "Là kháng nguyên của tế bào dạ dày ở thai nhi"
+        },
+        {
+          "text": "Là kháng nguyên của tế bào gan ở thai nhi"
+        },
+        {
+          "text": "Là kháng nguyên của tế bào buồng trứng ở thai nhi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "AFP (Alpha Fetoprotein) tăng rất cao trong bệnh:",
+      "options": [
+        {
+          "text": "Ung thư gan nguyên phát"
+        },
+        {
+          "text": "Ung thư gan thứ phát"
+        },
+        {
+          "text": "Ung thư đường mật"
+        },
+        {
+          "text": "Ung thư tụy"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dịch báng dạng dịch thấm thường gặp trong bệnh lý nào sau đây:",
+      "options": [
+        {
+          "text": "Lao màng bụng."
+        },
+        {
+          "text": "Ung thư dạ dày di căn."
+        },
+        {
+          "text": "Vỡ bạch mạch"
+        },
+        {
+          "text": "Suy tim nặng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các đặc điểm nào sau đây là của dịch báng dạng dịch tiết:",
+      "options": [
+        {
+          "text": "Protein dịch báng> 30g/l"
+        },
+        {
+          "text": "Phản ứng Rivalta(-)."
+        },
+        {
+          "text": "Tế bào< 250/mm3"
+        },
+        {
+          "text": "Protein báng/Protein máu <1/2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn phát biểu SAI về CEA (Carcinoma Embryonic Antigen):",
+      "options": [
+        {
+          "text": "Là kháng nguyên của tế bào ruột ở thai nhi."
+        },
+        {
+          "text": "Giá trị bình thường <5ng/mL."
+        },
+        {
+          "text": "Chỉ số này tăng trong ung thư đường tiêu hóa (dạ dày, đại tràng), phổi, vú, tụy."
+        },
+        {
+          "text": "CEA có độ đặc hiệu cao trong chẩn đoán ung thư đường tiêu hóa."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phản ứng Rivalta dương tính khi:",
+      "options": [
+        {
+          "text": "Nhỏ giọt dịch báng vào ống nghiệm chứa nước cất, thấy giọt dịch tan ngay."
+        },
+        {
+          "text": "Nhỏ giọt dịch báng vào ống nghiệm chứa dung dịch acid acetic, thấy giọt dịch tan ngay."
+        },
+        {
+          "text": "Nhỏ giọt dịch báng vào ống nghiệm chứa nước cất, thấy giọt dịch không tan."
+        },
+        {
+          "text": "Nhỏ giọt dịch báng vào ống nghiệm chứa dung dịch acid acetic, giọt dịch không tan mà lơ lửng như khói thuốc."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Dịch báng có màu trắng đục như sữa gợi ý:",
+      "options": [
+        {
+          "text": "Nhiễm trùng."
+        },
+        {
+          "text": "Tràn máu."
+        },
+        {
+          "text": "Vỡ bạch mạch."
+        },
+        {
+          "text": "Lao màng bụng."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Amylase dịch báng tăng cao gợi ý:",
+      "options": [
+        {
+          "text": "Lao màng bụng"
+        },
+        {
+          "text": "Thủng đường mật."
+        },
+        {
+          "text": "Bệnh lý tụy."
+        },
+        {
+          "text": "Viêm phúc mạc nhiễm khuẩn nguyên phát."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nồng độ bilirubin dịch báng cao gợi ý:",
+      "options": [
+        {
+          "text": "Lao màng bụng"
+        },
+        {
+          "text": "Thủng đường mật."
+        },
+        {
+          "text": "Bệnh lý tụy hoặc thủng ống tiêu hóa."
+        },
+        {
+          "text": "Viêm phúc mạc nhiễm khuẩn nguyên phát."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ số SAAG dịch báng <1,1g/dL gợi ý các bệnh lý sau, ngoại trừ:",
+      "options": [
+        {
+          "text": "Hội chứng thận hư"
+        },
+        {
+          "text": "Bệnh lý ruột mất albumin"
+        },
+        {
+          "text": "Suy dinh dưỡng"
+        },
+        {
+          "text": "Hội chứng Budd-Chiari"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chỉ số SAAG dịch báng ≥1,1g/dL gợi ý các bệnh lý sau, ngoại trừ:",
+      "options": [
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Suy tim (P)"
+        },
+        {
+          "text": "Suy dinh dưỡng"
+        },
+        {
+          "text": "Hội chứng Budd-Chiari"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Công thức tính SAAG:",
+      "options": [
+        {
+          "text": "Nồng độ albumin huyết thanh – albumin dịch màng bụng"
+        },
+        {
+          "text": "Nồng độ albumin dịch màng bụng – albumin dịch huyết thanh"
+        },
+        {
+          "text": "Nồng độ albumin dịch màng bụng + albumin dịch huyết thanh"
+        },
+        {
+          "text": "Nồng độ protein dịch màng bụng – protein dịch huyết thanh"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi cấy dịch cổ trướng thấy có 1 loại vi khuẩn mọc, gặp trong:",
+      "options": [
+        {
+          "text": "Viêm phúc mạc thứ phát"
+        },
+        {
+          "text": "Viêm phúc mạc nguyên phát"
+        },
+        {
+          "text": "Ung thư màng bụng"
+        },
+        {
+          "text": "Viêm phúc mạc nguyên phát hoặc ung thư màng bụng."
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

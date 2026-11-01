@@ -1,0 +1,1822 @@
+{
+  "questions": [
+    {
+      "text": "Polyp có trong cố tử cung thường xuất hiện ở:",
+      "options": [
+        {
+          "text": "Trẻ em"
+        },
+        {
+          "text": "Phụ nữ sau mãn kinh"
+        },
+        {
+          "text": "Nam giới"
+        },
+        {
+          "text": "Phụ nữ tuổi sinh sản"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Polyp có trong cố tử cung là:",
+      "options": [
+        {
+          "text": "Ung thư tuyến"
+        },
+        {
+          "text": "Tổn thương giả ư"
+        },
+        {
+          "text": "U ác tính"
+        },
+        {
+          "text": "Tổn thương hoại từ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biểu mô phủ bề mặt polyp có trong là:",
+      "options": [
+        {
+          "text": "Biểu mô lát tầng không sừng hóa"
+        },
+        {
+          "text": "Biểu mô trụ đơn tiết nhầy"
+        },
+        {
+          "text": "Biểu mô chuyên sản gai"
+        },
+        {
+          "text": "Biểu mô dị sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước điển hình của polyp có trong thường:",
+      "options": [
+        {
+          "text": ">5cm"
+        },
+        {
+          "text": "<3cm"
+        },
+        {
+          "text": "5-7cm"
+        },
+        {
+          "text": "3-5cm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị thế mô đếm polyp thường có đặc điểm:",
+      "options": [
+        {
+          "text": "Teo dét không mạch máu"
+        },
+        {
+          "text": "Giâu tương báo"
+        },
+        {
+          "text": "Phù nề sung huyết"
+        },
+        {
+          "text": "Có bạch cầu da nhân"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biểu hiện lâm sàng của polyp có tử cung thường là:",
+      "options": [
+        {
+          "text": "Không triệu chứng"
+        },
+        {
+          "text": "Sốt"
+        },
+        {
+          "text": "Xuất huyết âm đạo"
+        },
+        {
+          "text": "Đau khi giao hợp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm đại thể của polyp:",
+      "options": [
+        {
+          "text": "Khối xú xi màu nâu sâm"
+        },
+        {
+          "text": "Dạng loét nông"
+        },
+        {
+          "text": "Khối tròn màu hồng nhạt trong lắng"
+        },
+        {
+          "text": "Khối dẹt hoại từ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại biểu mô có thể thấy chuyên sản trong polyp:",
+      "options": [
+        {
+          "text": "Biểu mô lát tầng gai"
+        },
+        {
+          "text": "Biểu mô giả tầng"
+        },
+        {
+          "text": "Biểu mô tiết nhầy"
+        },
+        {
+          "text": "Biểu mô gai chuyên sản"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phản ứng viêm kèm theo polyp là nguyên nhân gây:",
+      "options": [
+        {
+          "text": "Loạn sản biểu mô"
+        },
+        {
+          "text": "Giãn rộng mạch máu"
+        },
+        {
+          "text": "Tăng sinh tuyến"
+        },
+        {
+          "text": "Dị sản nhẹ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp có trong cố tử cung thuộc loại:",
+      "options": [
+        {
+          "text": "U ác tính thường gặp"
+        },
+        {
+          "text": "Tổn thương giả ư"
+        },
+        {
+          "text": "Ung thư tuyến có trong"
+        },
+        {
+          "text": "Tổn thương tiền ung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Condyloma có tử cung do nhiễm:",
+      "options": [
+        {
+          "text": "HPV type 16 18"
+        },
+        {
+          "text": "HPV type 6 11"
+        },
+        {
+          "text": "EBV"
+        },
+        {
+          "text": "HSV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Condyloma có tử cung là:",
+      "options": [
+        {
+          "text": "Tổn thương tiền ung thư"
+        },
+        {
+          "text": "U ác tính"
+        },
+        {
+          "text": "U lành tính"
+        },
+        {
+          "text": "Tổn thương viêm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dạng đại thể của condyloma:",
+      "options": [
+        {
+          "text": "Loét nông"
+        },
+        {
+          "text": "Dạng sui hoặc phẳng"
+        },
+        {
+          "text": "U đặc"
+        },
+        {
+          "text": "Khối xơ hoá"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm mô học đặc trưng cho nhiễm HPV:",
+      "options": [
+        {
+          "text": "Tế bào koilocyte"
+        },
+        {
+          "text": "Tế bào dạng tuyến"
+        },
+        {
+          "text": "Tế bào hoại từ"
+        },
+        {
+          "text": "Tế bào dạng gai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Condyloma có thể tiến triển thành ung thư khi:",
+      "options": [
+        {
+          "text": "Nhiễm HPV type thấp nguy hiểm"
+        },
+        {
+          "text": "Động nhiễm HPV nguy cơ cao"
+        },
+        {
+          "text": "Nhiễm virus EBV"
+        },
+        {
+          "text": "Bệnh lý miễn dịch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CIN là:",
+      "options": [
+        {
+          "text": "Ung thư cổ tử cung"
+        },
+        {
+          "text": "Loạn sản tế bào tuyến"
+        },
+        {
+          "text": "Tổn thương tiền ung thư"
+        },
+        {
+          "text": "U lành tính cổ tử cung"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "CIN có liên quan chặt chẽ đến nhiễm:",
+      "options": [
+        {
+          "text": "HSV"
+        },
+        {
+          "text": "HPV nguy cơ cao"
+        },
+        {
+          "text": "EBV"
+        },
+        {
+          "text": "H. pylori"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CIN I là:",
+      "options": [
+        {
+          "text": "Loạn sản nhẹ giới hạn 1/3 dưới biểu mô"
+        },
+        {
+          "text": "Loạn sản toàn bộ biểu mô"
+        },
+        {
+          "text": "Loạn sản tuyến"
+        },
+        {
+          "text": "Ung thư biểu mô tại chổ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm mô học của CIN II:",
+      "options": [
+        {
+          "text": "Loạn sản nhẹ"
+        },
+        {
+          "text": "Loạn sản vừa tổn thương đến 2/3 chiều dày biểu mô"
+        },
+        {
+          "text": "Không có bất thường tế bào"
+        },
+        {
+          "text": "Biểu mô tuyến bị đảo lộn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CIN III còn được gọi là:",
+      "options": [
+        {
+          "text": "Carcinoma tuyến"
+        },
+        {
+          "text": "CIN độ I"
+        },
+        {
+          "text": "Carcinoma tại chổ"
+        },
+        {
+          "text": "Carcinoma xâm lấn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tế bào koilocyte có thể gặp trong:",
+      "options": [
+        {
+          "text": "Viêm cổ tử cung không đặc hiệu"
+        },
+        {
+          "text": "CIN I"
+        },
+        {
+          "text": "Carcinoma tuyến"
+        },
+        {
+          "text": "U cơ trơn tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hệ thống phân loại hiện đại cho CIN là:",
+      "options": [
+        {
+          "text": "WHO"
+        },
+        {
+          "text": "Bethesda"
+        },
+        {
+          "text": "Gleason"
+        },
+        {
+          "text": "FIGO"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dạ số CIN I:",
+      "options": [
+        {
+          "text": "Tiến triển thành ung thư"
+        },
+        {
+          "text": "Tự thoái triển"
+        },
+        {
+          "text": "Không điều trị được"
+        },
+        {
+          "text": "Cắn cắt tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CIN II và III:",
+      "options": [
+        {
+          "text": "Luôn luôn thoái triển"
+        },
+        {
+          "text": "Không có liên quan đến HPV"
+        },
+        {
+          "text": "Nguy cơ cao tiến triển thành ung thư"
+        },
+        {
+          "text": "Không cần điều trị"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nguy cơ của CIN KHÔNG BAO GỒM:",
+      "options": [
+        {
+          "text": "Hút thuốc lá"
+        },
+        {
+          "text": "HPV nguy cơ cao"
+        },
+        {
+          "text": "Suy giảm miễn dịch"
+        },
+        {
+          "text": "Sử dụng vitamin D"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phát hiện CIN chủ yếu qua:",
+      "options": [
+        {
+          "text": "MRI"
+        },
+        {
+          "text": "Pap smear"
+        },
+        {
+          "text": "CT scanner"
+        },
+        {
+          "text": "Siêu âm bung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Pap smear phát hiện:",
+      "options": [
+        {
+          "text": "Tăng sản nội mạc"
+        },
+        {
+          "text": "Loạn sản cổ tử cung"
+        },
+        {
+          "text": "Polyp nội mạc"
+        },
+        {
+          "text": "U xơ tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CIN thường không có triệu chứng ngoài trừ:",
+      "options": [
+        {
+          "text": "Đau đầu"
+        },
+        {
+          "text": "Sốt"
+        },
+        {
+          "text": "Khi hư kéo dài ra huyết bất thường"
+        },
+        {
+          "text": "Tiêu chảy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "HPV gây ung thư do:",
+      "options": [
+        {
+          "text": "Gây viêm cấp"
+        },
+        {
+          "text": "Gây hoại từ mô"
+        },
+        {
+          "text": "Ức chế gen p53 Rb"
+        },
+        {
+          "text": "Làm tăng tiết dịch nhầy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Gen virus sinh ung chủ yếu của HPV:",
+      "options": [
+        {
+          "text": "E1 E2"
+        },
+        {
+          "text": "E4 L1"
+        },
+        {
+          "text": "E6 E7"
+        },
+        {
+          "text": "L1 L2"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "HPV type nguy cơ cao phổ biến nhất là:",
+      "options": [
+        {
+          "text": "6 và 11"
+        },
+        {
+          "text": "42 và 44"
+        },
+        {
+          "text": "16 và 18"
+        },
+        {
+          "text": "1 và 2"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "HPV có thể gây ung thư nào KHÔNG thuộc đường sinh dục:",
+      "options": [
+        {
+          "text": "Ấm đạo"
+        },
+        {
+          "text": "Hầu môn"
+        },
+        {
+          "text": "Hầu họng"
+        },
+        {
+          "text": "Gan"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "HPV lây truyền chủ yếu qua:",
+      "options": [
+        {
+          "text": "Máu"
+        },
+        {
+          "text": "Dịch tiểu hoá"
+        },
+        {
+          "text": "Quan hệ tính dục"
+        },
+        {
+          "text": "Hít phải giọt bắn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "HPV có thể lây khi dùng chung:",
+      "options": [
+        {
+          "text": "Bàn chải đánh răng"
+        },
+        {
+          "text": "Khăn mặt"
+        },
+        {
+          "text": "Dỏ lót"
+        },
+        {
+          "text": "Dỏ ăn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ chế vaccine HPV dựa vào:",
+      "options": [
+        {
+          "text": "DNA virus sống"
+        },
+        {
+          "text": "Tế bào bất hoạt"
+        },
+        {
+          "text": "Virus-like particles (VLPs)"
+        },
+        {
+          "text": "Vi khuẩn chết"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vaccine HPV không chứa:",
+      "options": [
+        {
+          "text": "DNA virus"
+        },
+        {
+          "text": "Protein L1"
+        },
+        {
+          "text": "VLPs"
+        },
+        {
+          "text": "Tác nhân gây ung thư"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Vaccine HPV hiệu quả nhất khi:",
+      "options": [
+        {
+          "text": "Sau sinh con"
+        },
+        {
+          "text": "Sau 40 tuổi"
+        },
+        {
+          "text": "Trước khi quan hệ tính dục"
+        },
+        {
+          "text": "Sau khi có HPV"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vaccine Gardasil 9 bảo vệ được:",
+      "options": [
+        {
+          "text": "2 type HPV"
+        },
+        {
+          "text": "4 type HPV"
+        },
+        {
+          "text": "9 type HPV"
+        },
+        {
+          "text": "11 type HPV"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Độ tuổi tiêm vaccine lý tưởng:",
+      "options": [
+        {
+          "text": "Trẻ gái 9-14 tuổi"
+        },
+        {
+          "text": "Phụ nữ mang thai"
+        },
+        {
+          "text": "Nam giới trên 50"
+        },
+        {
+          "text": "Người sau điều trị ung thư"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Pap smear phát hiện:",
+      "options": [
+        {
+          "text": "Koilocyte"
+        },
+        {
+          "text": "Virus sống"
+        },
+        {
+          "text": "DNA virus"
+        },
+        {
+          "text": "Ung thư phôi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phối hợp xét nghiệm HPV và Pap smear gọi là:",
+      "options": [
+        {
+          "text": "Biopsy"
+        },
+        {
+          "text": "Co-testing"
+        },
+        {
+          "text": "Triple test"
+        },
+        {
+          "text": "Dual scan"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tế bào nghi ngờ trong Pap smear là:",
+      "options": [
+        {
+          "text": "Tế bào nang"
+        },
+        {
+          "text": "Tế bào gai sừng hóa"
+        },
+        {
+          "text": "Tế bào koilocyte"
+        },
+        {
+          "text": "Tế bào vây bình thường"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vaccine HPV không khuyến cáo cho:",
+      "options": [
+        {
+          "text": "Người đị ứng thành phần"
+        },
+        {
+          "text": "Phụ nữ sau mãn kinh"
+        },
+        {
+          "text": "Người có CIN I"
+        },
+        {
+          "text": "Người có tiền sử nhiễm HPV"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Vaccine phòng được:",
+      "options": [
+        {
+          "text": "Tất cả các type HPV"
+        },
+        {
+          "text": "Giảm 100% type nguy cơ cao"
+        },
+        {
+          "text": ">90% type nguy cơ cao gây UTCTC"
+        },
+        {
+          "text": "Chỉ HPV 6 và 11"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vaccine tạo ra:",
+      "options": [
+        {
+          "text": "Miễn dịch tế bào"
+        },
+        {
+          "text": "Miễn dịch dịch thể"
+        },
+        {
+          "text": "Miễn dịch thu động"
+        },
+        {
+          "text": "Miễn dịch tự nhiên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư cổ tử cung phổ biến nhất là:",
+      "options": [
+        {
+          "text": "Adenocarcinoma"
+        },
+        {
+          "text": "Carcinoma tế bào gai"
+        },
+        {
+          "text": "Carcinoid"
+        },
+        {
+          "text": "Lymphoma"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nguy cơ lớn nhất là:",
+      "options": [
+        {
+          "text": "Quan hệ tính dục sớm"
+        },
+        {
+          "text": "HPV"
+        },
+        {
+          "text": "Hút thuốc"
+        },
+        {
+          "text": "Viêm cổ tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Carcinoma tế bào gai loại biệt hóa tốt có đặc điểm:",
+      "options": [
+        {
+          "text": "Cấu sừng rõ"
+        },
+        {
+          "text": "Không có chất sừng"
+        },
+        {
+          "text": "Tế bào nhỏ dị dạng"
+        },
+        {
+          "text": "Xâm nhập mạch máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ung thư tuyến cổ trong chiểm:",
+      "options": [
+        {
+          "text": "70%"
+        },
+        {
+          "text": "10-15%"
+        },
+        {
+          "text": "50%"
+        },
+        {
+          "text": "5%"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CIN III không điều trị sẽ tiến thành:",
+      "options": [
+        {
+          "text": "Polyp cổ tử cung"
+        },
+        {
+          "text": "Ung thư cổ tử cung xâm nhập"
+        },
+        {
+          "text": "U xơ tử cung"
+        },
+        {
+          "text": "Carcinoid"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm nội mạc tử cung thường xảy ra sau các tính huống nào?",
+      "options": [
+        {
+          "text": "Mãn kinh"
+        },
+        {
+          "text": "Quan hệ tính dục lần đầu"
+        },
+        {
+          "text": "Sau sinh sảy thai hoặc thủ thuật buông từ cung"
+        },
+        {
+          "text": "Phẫu thuật vú"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vi khuẩn nào sau đây thường gặp trong viêm nội mạc tử cung?",
+      "options": [
+        {
+          "text": "Bacillus anthracis"
+        },
+        {
+          "text": "Streptococcus"
+        },
+        {
+          "text": "Helicobacter pylori"
+        },
+        {
+          "text": "Clostridium tetani"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm nội mạc tử cung mạn tính thường có tế bào viêm nào đặc trưng?",
+      "options": [
+        {
+          "text": "Bạch cầu da nhân"
+        },
+        {
+          "text": "Tế bào mast"
+        },
+        {
+          "text": "Tương bào"
+        },
+        {
+          "text": "Bạch cầu ái toàn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biểu hiện mô học của viêm cấp là?",
+      "options": [
+        {
+          "text": "Xơ hóa mô đêm"
+        },
+        {
+          "text": "Xâm nhập lympho báo"
+        },
+        {
+          "text": "Thâm nhập bạch cầu da nhân trung tính"
+        },
+        {
+          "text": "Giãn tuyến nội mạc"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lao nội mạc tử cung do tác nhân nào gây ra?",
+      "options": [
+        {
+          "text": "Mycoplasma genitalium"
+        },
+        {
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "text": "Candida albicans"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh tuyến cơ tử cung phổ biến ở độ tuổi nào?",
+      "options": [
+        {
+          "text": "20-30 tuổi"
+        },
+        {
+          "text": "15-25 tuổi"
+        },
+        {
+          "text": "35-50 tuổi"
+        },
+        {
+          "text": "Trên 60 tuổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Adenomyosis là sự hiện diện của mô nào ở vị trí bất thường?",
+      "options": [
+        {
+          "text": "Mô lympho"
+        },
+        {
+          "text": "Mô thần kinh"
+        },
+        {
+          "text": "Mô nội mạc tử cung trong cơ tử cung"
+        },
+        {
+          "text": "Mô xương trong nội mạc tử cung"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một triệu chứng đặc trưng của adenomyosis là?",
+      "options": [
+        {
+          "text": "Khó thở"
+        },
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Đau bung kinh"
+        },
+        {
+          "text": "Viêm khớp"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm về thể nào sau đây dùng với adenomyosis?",
+      "options": [
+        {
+          "text": "Tế bào gai"
+        },
+        {
+          "text": "Tuyến nội mạc và mô đêm trong cơ tử cung"
+        },
+        {
+          "text": "U mô đêm không biết hóa"
+        },
+        {
+          "text": "Tế bào hạt dạng da nhân"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biểu hiện đại thể thường thấy của tử cung trong adenomyosis là?",
+      "options": [
+        {
+          "text": "Nhỏ gọn và mềm"
+        },
+        {
+          "text": "Dạng nước rỗ rết"
+        },
+        {
+          "text": "To ra với cơ dạng bề mềm"
+        },
+        {
+          "text": "Loét và chảy máu rỗ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lạc nội mạc tử cung thường xảy ra ở vị trí nào nhiều nhất?",
+      "options": [
+        {
+          "text": "Cổ tử cung"
+        },
+        {
+          "text": "Thành bung"
+        },
+        {
+          "text": "Buồng trứng"
+        },
+        {
+          "text": "Phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tỉ lệ phụ nữ mắc lạc nội mạc tử cung trong độ tuổi sinh sản là?",
+      "options": [
+        {
+          "text": "1-2%"
+        },
+        {
+          "text": "5-15%"
+        },
+        {
+          "text": "25-35%"
+        },
+        {
+          "text": "50%"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cơ chế bệnh sinh được chấp nhận nhiều nhất là?",
+      "options": [
+        {
+          "text": "Nhiễm trùng"
+        },
+        {
+          "text": "Dị ứng"
+        },
+        {
+          "text": "Kinh nguyết ngược dòng"
+        },
+        {
+          "text": "Thiếu máu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đại thực bảo chứa hemosiderin là đặc điểm vì thế của?",
+      "options": [
+        {
+          "text": "Viêm nội mạc tử cung"
+        },
+        {
+          "text": "Tăng sản"
+        },
+        {
+          "text": "Lạc nội mạc tử cung"
+        },
+        {
+          "text": "U cơ trơn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Triệu chứng làm sáng chính của bệnh là?",
+      "options": [
+        {
+          "text": "Sốt cao"
+        },
+        {
+          "text": "Đau vùng chậu và vô sinh"
+        },
+        {
+          "text": "Tăng cân"
+        },
+        {
+          "text": "Chảy máu cam"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tăng sản nội mạc tử cung xảy ra khi nào?",
+      "options": [
+        {
+          "text": "Thiếu Estrogen"
+        },
+        {
+          "text": "Progesterone vượt trội"
+        },
+        {
+          "text": "Estrogen tăng cao kéo dài không bị đối kháng bởi Progesterone"
+        },
+        {
+          "text": "Testosterone tăng cao"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nguy cơ hàng đầu gây tăng sản nội mạc tử cung là?",
+      "options": [
+        {
+          "text": "Viêm gan B"
+        },
+        {
+          "text": "Béo phì"
+        },
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Suy tuyến thượng thận"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thuốc Tamoxifen có thể gây tăng sản vì?",
+      "options": [
+        {
+          "text": "Gây ức chế androgen"
+        },
+        {
+          "text": "Là chất chủ vận Estrogen ở nội mạc tử cung"
+        },
+        {
+          "text": "Là chất đối kháng Estrogen hoàn toàn"
+        },
+        {
+          "text": "Gây teo mô đêm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hình ảnh mô học của tăng sản không điển hình là?",
+      "options": [
+        {
+          "text": "Tuyến phân bổ thưa kích thước nhỏ"
+        },
+        {
+          "text": "Tuyến sát nhau nhân không dị dạng"
+        },
+        {
+          "text": "Tuyến lớn mất phân cực nhân nhượng sắc"
+        },
+        {
+          "text": "Hoại từ tuyến"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biểu hiện lâm sàng phổ biến nhất là?",
+      "options": [
+        {
+          "text": "Đau đầu"
+        },
+        {
+          "text": "Xuất huyết tử cung bất thường"
+        },
+        {
+          "text": "Buồn nôn"
+        },
+        {
+          "text": "Bí tiêu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp nội mạc là loại u nào?",
+      "options": [
+        {
+          "text": "U mạch"
+        },
+        {
+          "text": "U lympho"
+        },
+        {
+          "text": "U lành tính mô đêm nối mạc có tính đơn dòng"
+        },
+        {
+          "text": "U cơ trơn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Polyp thường gặp ở phụ nữ:",
+      "options": [
+        {
+          "text": "Trẻ tuổi"
+        },
+        {
+          "text": "Mãn kinh"
+        },
+        {
+          "text": "Sau sinh"
+        },
+        {
+          "text": "Mang thai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một biểu hiện tiêm ẩn của polyp nội mạc là?",
+      "options": [
+        {
+          "text": "Thoái hóa bọc"
+        },
+        {
+          "text": "Dị cắn gan"
+        },
+        {
+          "text": "Ác tính hóa"
+        },
+        {
+          "text": "Gây xương"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tổn thương mô học thường thấy là?",
+      "options": [
+        {
+          "text": "Tuyến nhỏ thưa"
+        },
+        {
+          "text": "Mô đêm xơ nhiều tuyến giãn rộng"
+        },
+        {
+          "text": "Cấu trúc sarcoma"
+        },
+        {
+          "text": "Viêm mủ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí phổ biến nhất của polyp là?",
+      "options": [
+        {
+          "text": "Eo tử cung"
+        },
+        {
+          "text": "Đáy tử cung"
+        },
+        {
+          "text": "Cổ tử cung"
+        },
+        {
+          "text": "Đáy chảng rộng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U cơ trơn là u:",
+      "options": [
+        {
+          "text": "Ác tính"
+        },
+        {
+          "text": "Trung gian"
+        },
+        {
+          "text": "Lành tính phổ biến nhất"
+        },
+        {
+          "text": "Không phân loại được"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nào kích thích u cơ trơn phát triển?",
+      "options": [
+        {
+          "text": "Progesterone"
+        },
+        {
+          "text": "Estrogen"
+        },
+        {
+          "text": "Androgen"
+        },
+        {
+          "text": "Insulin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị thế của u cơ trơn cho thấy tế bào?",
+      "options": [
+        {
+          "text": "Hình trộn nhân nhỏ"
+        },
+        {
+          "text": "Hình thoi nhân bầu dục ít phân báo"
+        },
+        {
+          "text": "Nhân dị dạng phân báo cao"
+        },
+        {
+          "text": "Bào tương ưa bazô"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương đại thể nào sau đây dùng với u cơ trơn?",
+      "options": [
+        {
+          "text": "Màu đỏ tươi chảy dịch"
+        },
+        {
+          "text": "Mặt cắt trắng xám dạng cuộn"
+        },
+        {
+          "text": "U mềm nhầy"
+        },
+        {
+          "text": "Tăng sinh tuyến"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U dưới nội mạc thường gây?",
+      "options": [
+        {
+          "text": "Bí tiêu"
+        },
+        {
+          "text": "Xuất huyết tử cung bất thường"
+        },
+        {
+          "text": "Vô sinh nam"
+        },
+        {
+          "text": "Hoại từ buồng trứng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại ung thư nội mạc tử cung thường gặp nhất là?",
+      "options": [
+        {
+          "text": "Sarcoma"
+        },
+        {
+          "text": "Carcinoma tuyến"
+        },
+        {
+          "text": "U lympho"
+        },
+        {
+          "text": "U cơ trơn ác tính"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tần suất ung thư nội mạc tử cung cao nhất ở vùng?",
+      "options": [
+        {
+          "text": "Đông Nam Á"
+        },
+        {
+          "text": "Châu Âu và Bắc Mỹ"
+        },
+        {
+          "text": "Trung Đông"
+        },
+        {
+          "text": "Châu Phi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nguy cơ không thuộc về nội tiết là?",
+      "options": [
+        {
+          "text": "Béo phì"
+        },
+        {
+          "text": "Tiểu đường"
+        },
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Hút thuốc lá"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hình thái mô học của carcinoma biệt hóa tốt (grad 1) là?",
+      "options": [
+        {
+          "text": "Tế bào không biệt hóa"
+        },
+        {
+          "text": "Tạo ống tuyến rõ đâm đặc <5%"
+        },
+        {
+          "text": "Tăng sản không điển hình"
+        },
+        {
+          "text": "Nhân không chia"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đường đi cấn phổ biến của ung thư nội mạc là?",
+      "options": [
+        {
+          "text": "Hạch nách"
+        },
+        {
+          "text": "Hạch cổ"
+        },
+        {
+          "text": "Hạch chậu hạch ben"
+        },
+        {
+          "text": "Hạch cổ tử cung"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm nội mạc tử cung cấp thường do?",
+      "options": [
+        {
+          "text": "Nhiễm nấm"
+        },
+        {
+          "text": "Nhiễm virus"
+        },
+        {
+          "text": "Nhiễm khuẩn sau sinh"
+        },
+        {
+          "text": "Do u"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lạc nội mạc tử cung có thể gây biến chứng?",
+      "options": [
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Viêm phổi quán"
+        },
+        {
+          "text": "Vô sinh"
+        },
+        {
+          "text": "Hạ canxi máu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tăng sản điển hình có thể tiến triển thành?",
+      "options": [
+        {
+          "text": "Viêm từ cung"
+        },
+        {
+          "text": "Polyp"
+        },
+        {
+          "text": "Ung thư tuyến nội mạc"
+        },
+        {
+          "text": "U nang"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tăng sản điển hình có thể tiến triển thành?",
+      "options": [
+        {
+          "text": "Viêm từ cung"
+        },
+        {
+          "text": "Polyp"
+        },
+        {
+          "text": "Ung thư tuyến nội mạc"
+        },
+        {
+          "text": "U nang"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U cơ trơn tử cung thoái hóa có thể biểu hiện?",
+      "options": [
+        {
+          "text": "Tăng phân bào mạnh"
+        },
+        {
+          "text": "Xuất huyết hoại tử hóa bọc"
+        },
+        {
+          "text": "Dị sản tuyến"
+        },
+        {
+          "text": "Không thay đổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân biệt giữa tăng sản và ung thư dựa vào?",
+      "options": [
+        {
+          "text": "Ti lệ tuyến/mô đêm"
+        },
+        {
+          "text": "Kích thước tử cung"
+        },
+        {
+          "text": "Loại vi khuẩn gây bệnh"
+        },
+        {
+          "text": "Mức độ viêm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong viêm nội mạc tử cung man tính do lao mô đêm thường có gì?",
+      "options": [
+        {
+          "text": "Vì thế bình thường"
+        },
+        {
+          "text": "Mạch máu tăng sinh"
+        },
+        {
+          "text": "Hạt viêm dạng lao"
+        },
+        {
+          "text": "Dị sản biểu mô"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong adenomyosis tuyến nội mạc tử cung thường năm ở giai đoạn nào?",
+      "options": [
+        {
+          "text": "Nghi"
+        },
+        {
+          "text": "Phát triển"
+        },
+        {
+          "text": "Teo"
+        },
+        {
+          "text": "Hoại từ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong lạc nội mạc tử cung mô đêm có thể biến đổi thành?",
+      "options": [
+        {
+          "text": "Xương"
+        },
+        {
+          "text": "Biểu mô gai"
+        },
+        {
+          "text": "Mô cơ trơn"
+        },
+        {
+          "text": "U hạt"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tăng sản nội mạc tử cung không điển hình có nguy cơ tiến triển thành ung thư?",
+      "options": [
+        {
+          "text": "Cao hơn tăng sản không điển hình"
+        },
+        {
+          "text": "Thấp hơn"
+        },
+        {
+          "text": "Không có nguy cơ"
+        },
+        {
+          "text": "Ngược lại"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm nào sau đây KHÔNG phù hợp với polyp nội mạc tử cung?",
+      "options": [
+        {
+          "text": "Mô đêm xơ hóa"
+        },
+        {
+          "text": "Nhiều mạch máu"
+        },
+        {
+          "text": "Mặt cắt mềm nhũn hoại từ"
+        },
+        {
+          "text": "Tuyến giãn rộng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U cơ trơn tử cung thường có hình dạng đại thế như thế nào?",
+      "options": [
+        {
+          "text": "Đâm rải rác trong nội mạc"
+        },
+        {
+          "text": "Dạng polyp nhỏ"
+        },
+        {
+          "text": "U trộn giới hạn rõ chắc"
+        },
+        {
+          "text": "Tổ chức mềm dạng nhầy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Carcinoma nội mạc tử cung grad 3 khác biệt với grad 1 ở điểm nào?",
+      "options": [
+        {
+          "text": "Có nhân đông nhất"
+        },
+        {
+          "text": "Tạo ống tuyến rõ"
+        },
+        {
+          "text": "Tỉ lệ đâm đặc > 50%"
+        },
+        {
+          "text": "Không dị dạng tế bào"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một trường hợp bệnh nhân chảy máu tử cung bất thường nên nghi ngờ đến những không phải u nang buồng trứng đầu tiên?",
+      "options": [
+        {
+          "text": "Viêm mạn tính"
+        },
+        {
+          "text": "Tăng sản nội mạc tử cung"
+        },
+        {
+          "text": "U nang buồng trứng"
+        },
+        {
+          "text": "Thiếu máu mạn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tác nhân chính gây viêm nội mạc tử cung sau sinh là?",
+      "options": [
+        {
+          "text": "Candida"
+        },
+        {
+          "text": "Vi khuẩn ký khi hôn hợp"
+        },
+        {
+          "text": "Vi rút Herpes"
+        },
+        {
+          "text": "Tế bào miễn dịch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong bệnh lý thần tứ cung tình trạng nào có thể gây từ cung không phải ư?",
+      "options": [
+        {
+          "text": "Polyp"
+        },
+        {
+          "text": "Viêm cấp"
+        },
+        {
+          "text": "Adenomyosis"
+        },
+        {
+          "text": "Tăng sản tuyến"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

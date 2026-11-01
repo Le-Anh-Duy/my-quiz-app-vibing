@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Nguyên nhân chính gây phù nề trong suy tim sung huyết là gì?",
+      "options": [
+        {
+          "text": "Giảm albumin máu"
+        },
+        {
+          "text": "Tăng áp lực thủy tĩnh"
+        },
+        {
+          "text": "Giảm bạch cầu"
+        },
+        {
+          "text": "Mất nước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phù toàn thân (anasarca) thường liên quan đến tình trạng nào sau đây?",
+      "options": [
+        {
+          "text": "Suy dinh dưỡng"
+        },
+        {
+          "text": "Hội chứng thận hư"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tắc nghẽn bạch huyết có thể dẫn đến phù nề do:",
+      "options": [
+        {
+          "text": "Tăng áp lực thủy tĩnh"
+        },
+        {
+          "text": "Giảm áp lực thẩm thấu huyết tương"
+        },
+        {
+          "text": "Rối loạn chức năng nội mô"
+        },
+        {
+          "text": "Giảm dẫn lưu dịch gian bào"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Giữ natri và nước trong cơ thể góp phần gây phù nề bằng cách nào?",
+      "options": [
+        {
+          "text": "Giảm thể tích máu"
+        },
+        {
+          "text": "Giảm áp lực thủy tĩnh"
+        },
+        {
+          "text": "Tăng áp lực thẩm thấu huyết tương"
+        },
+        {
+          "text": "Tăng áp lực thủy tĩnh và giảm áp lực thẩm thấu huyết tương"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phù do suy tim sung huyết thường có đặc điểm nào?",
+      "options": [
+        {
+          "text": "Phù khu trú"
+        },
+        {
+          "text": "Phù đối xứng ở chi dưới"
+        },
+        {
+          "text": "Phù không có dấu ấn lõm"
+        },
+        {
+          "text": "Phù ở vùng mặt và mí mắt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sung huyết động xảy ra khi nào?",
+      "options": [
+        {
+          "text": "Giãn nở tiểu động mạch"
+        },
+        {
+          "text": "Giảm dòng máu tĩnh mạch"
+        },
+        {
+          "text": "Thiếu oxy mô"
+        },
+        {
+          "text": "Tắc nghẽn bạch huyết"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong sung huyết động, mô thường có màu gì?",
+      "options": [
+        {
+          "text": "Đỏ tươi"
+        },
+        {
+          "text": "Xanh tím"
+        },
+        {
+          "text": "Nhợt nhạt"
+        },
+        {
+          "text": "Đen sẫm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sung huyết tĩnh có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "text": "Quá trình chủ động"
+        },
+        {
+          "text": "Do tắc nghẽn hồi lưu tĩnh mạch"
+        },
+        {
+          "text": "Gây giãn nở động mạch"
+        },
+        {
+          "text": "Mô có màu đỏ tươi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "\"Gan hạt cau\" là hậu quả của?",
+      "options": [
+        {
+          "text": "Sung huyết tĩnh phổi"
+        },
+        {
+          "text": "Sung huyết động"
+        },
+        {
+          "text": "Sung huyết tĩnh gan mạn tính"
+        },
+        {
+          "text": "Tắc nghẽn bạch huyết"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong sung huyết phổi mạn tính, đặc điểm mô học đặc trưng là?",
+      "options": [
+        {
+          "text": "Xơ hóa mô phổi"
+        },
+        {
+          "text": "\"Tế bào suy tim\" chứa hemosiderin"
+        },
+        {
+          "text": "Giãn nở tiểu động mạch"
+        },
+        {
+          "text": "Huyết khối trong phế nang"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tiểu cầu đóng vai trò quan trọng nhất trong giai đoạn nào của quá trình cầm máu?",
+      "options": [
+        {
+          "text": "Cầm máu sơ cấp"
+        },
+        {
+          "text": "Cầm máu thứ cấp"
+        },
+        {
+          "text": "Tiêu fibrin"
+        },
+        {
+          "text": "Tan cục máu đông"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố đông máu nào có vai trò quan trọng trong quá trình hình thành fibrin?",
+      "options": [
+        {
+          "text": "Yếu tố VIII"
+        },
+        {
+          "text": "Yếu tố IX"
+        },
+        {
+          "text": "Yếu tố X"
+        },
+        {
+          "text": "Yếu tố XIII"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hemophilia A là do thiếu hụt yếu tố đông máu nào?",
+      "options": [
+        {
+          "text": "Yếu tố VII"
+        },
+        {
+          "text": "Yếu tố VIII"
+        },
+        {
+          "text": "Yếu tố IX"
+        },
+        {
+          "text": "Yếu tố XIII"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh Von Willebrand liên quan đến bất thường của?",
+      "options": [
+        {
+          "text": "Tiểu cầu"
+        },
+        {
+          "text": "Fibrinogen"
+        },
+        {
+          "text": "Yếu tố Von Willebrand"
+        },
+        {
+          "text": "Yếu tố X"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "DIC là một tình trạng trong đó?",
+      "options": [
+        {
+          "text": "Hình thành huyết khối lan rộng"
+        },
+        {
+          "text": "Giảm tiêu fibrin"
+        },
+        {
+          "text": "Giảm tạo yếu tố đông máu"
+        },
+        {
+          "text": "Rối loạn chức năng gan"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thành phần chính của huyết khối là?",
+      "options": [
+        {
+          "text": "Tiểu cầu và fibrin"
+        },
+        {
+          "text": "Albumin"
+        },
+        {
+          "text": "Hemoglobin"
+        },
+        {
+          "text": "Chất béo"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Huyết khối tĩnh mạch sâu (DVT) có nguy cơ cao dẫn đến?",
+      "options": [
+        {
+          "text": "Nhồi máu cơ tim"
+        },
+        {
+          "text": "Thuyên tắc phổi"
+        },
+        {
+          "text": "Đột quỵ não"
+        },
+        {
+          "text": "Xuất huyết nội sọ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tình trạng nào sau đây có thể gây ra thuyên tắc khí?",
+      "options": [
+        {
+          "text": "Gãy xương dài"
+        },
+        {
+          "text": "Chấn thương phổi"
+        },
+        {
+          "text": "Phẫu thuật tim hở"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong bệnh lý nào sau đây, thuyên tắc mỡ thường gặp nhất?",
+      "options": [
+        {
+          "text": "Viêm tụy cấp"
+        },
+        {
+          "text": "Nhồi máu phổi"
+        },
+        {
+          "text": "Gãy xương dài"
+        },
+        {
+          "text": "Nhồi máu não"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thuyên tắc nước ối xảy ra trong?",
+      "options": [
+        {
+          "text": "Chấn thương sọ não"
+        },
+        {
+          "text": "Thai kỳ"
+        },
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Phẫu thuật ruột"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân phổ biến nhất của sốc nhiễm trùng là?",
+      "options": [
+        {
+          "text": "Vi khuẩn Gram dương"
+        },
+        {
+          "text": "Vi khuẩn Gram âm"
+        },
+        {
+          "text": "Nấm"
+        },
+        {
+          "text": "Virus"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Giai đoạn nào của sốc có thể hồi phục hoàn toàn nếu được điều trị?",
+      "options": [
+        {
+          "text": "Giai đoạn không tiến triển"
+        },
+        {
+          "text": "Giai đoạn tiến triển"
+        },
+        {
+          "text": "Giai đoạn không thể hồi phục"
+        },
+        {
+          "text": "Không giai đoạn nào"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong sốc nhiễm trùng, yếu tố nào góp phần gây giãn mạch?",
+      "options": [
+        {
+          "text": "TNF-α và IL-1"
+        },
+        {
+          "text": "Hemoglobin"
+        },
+        {
+          "text": "Yếu tố VIII"
+        },
+        {
+          "text": "Haptoglobin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cơ quan nào dễ bị tổn thương nhất trong sốc?",
+      "options": [
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Thận"
+        },
+        {
+          "text": "Não"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân phổ biến nhất gây nhồi máu cơ tim là?",
+      "options": [
+        {
+          "text": "Huyết khối động mạch vành"
+        },
+        {
+          "text": "Thuyên tắc phổi"
+        },
+        {
+          "text": "Hạ huyết áp"
+        },
+        {
+          "text": "Bệnh viêm cơ tim"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nhồi máu trắng thường gặp ở cơ quan nào sau đây?",
+      "options": [
+        {
+          "text": "Phổi"
+        },
+        {
+          "text": "Ruột"
+        },
+        {
+          "text": "Thận"
+        },
+        {
+          "text": "Cơ vân"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nhồi máu đỏ thường xảy ra khi nào?",
+      "options": [
+        {
+          "text": "Ở mô có tuần hoàn kép"
+        },
+        {
+          "text": "Ở mô thiếu oxy hoàn toàn"
+        },
+        {
+          "text": "Khi huyết áp giảm"
+        },
+        {
+          "text": "Trong tình trạng tăng đông máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xét nghiệm nào thường được sử dụng để đánh giá nguy cơ huyết khối?",
+      "options": [
+        {
+          "text": "D-dimer"
+        },
+        {
+          "text": "CRP (C-reactive protein)"
+        },
+        {
+          "text": "Hemoglobin"
+        },
+        {
+          "text": "Bilirubin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong điều trị DIC, mục tiêu quan trọng nhất là?",
+      "options": [
+        {
+          "text": "Truyền tiểu cầu ngay lập tức"
+        },
+        {
+          "text": "Điều trị nguyên nhân gây DIC"
+        },
+        {
+          "text": "Giảm sản xuất fibrinogen"
+        },
+        {
+          "text": "Kích hoạt đông máu thêm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong bệnh lý huyết khối, thuốc nào thường được sử dụng để dự phòng và điều trị?",
+      "options": [
+        {
+          "text": "Aspirin"
+        },
+        {
+          "text": "Heparin"
+        },
+        {
+          "text": "Warfarin"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

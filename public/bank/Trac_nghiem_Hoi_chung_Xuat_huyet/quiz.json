@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Quá trình cầm máu gồm bao nhiêu giai đoạn chính:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Giai đoạn co mạch máu thuộc giai đoạn nào của quá trình cầm máu:",
+      "options": [
+        {
+          "text": "Cầm máu kỳ đầu"
+        },
+        {
+          "text": "Đông máu huyết tương"
+        },
+        {
+          "text": "Tiêu sợi huyết"
+        },
+        {
+          "text": "Cầm máu kỳ đầu và đông máu huyết tương"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Giai đoạn hình thành nút chặn tiểu cầu thuộc giai đoạn nào của quá trình cầm máu:",
+      "options": [
+        {
+          "text": "Cầm máu kỳ đầu"
+        },
+        {
+          "text": "Đông máu huyết tương"
+        },
+        {
+          "text": "Tiêu sợi huyết"
+        },
+        {
+          "text": "Cầm máu kỳ đầu và đông máu huyết tương"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Giai đoạn nào sau đây KHÔNG thuộc quá trình cầm máu:",
+      "options": [
+        {
+          "text": "Giai đoạn thành mạch – tiểu cầu"
+        },
+        {
+          "text": "Giai đoạn đông máu huyết tương"
+        },
+        {
+          "text": "Giai đoạn tiêu sợi huyết"
+        },
+        {
+          "text": "Giai đoạn ly giải hồng cầu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bất thường của giai đoạn nào sau đây gây ra xuất huyết do nguyên nhân thành mạch:",
+      "options": [
+        {
+          "text": "Giai đoạn co mạch máu"
+        },
+        {
+          "text": "Giai đoạn hình thành nút chặn tiểu cầu"
+        },
+        {
+          "text": "Giai đoạn đông máu huyết tương"
+        },
+        {
+          "text": "Giai đoạn tiêu sợi huyết"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bất thường của giai đoạn nào sau đây gây ra xuất huyết do nguyên nhân tiểu cầu:",
+      "options": [
+        {
+          "text": "Giai đoạn co mạch máu"
+        },
+        {
+          "text": "Giai đoạn hình thành nút chặn tiểu cầu"
+        },
+        {
+          "text": "Giai đoạn đông máu huyết tương"
+        },
+        {
+          "text": "Giai đoạn tiêu sợi huyết"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước của chấm xuất huyết là:",
+      "options": [
+        {
+          "text": "<1 mm"
+        },
+        {
+          "text": "<2 mm"
+        },
+        {
+          "text": "<3 mm"
+        },
+        {
+          "text": "<4 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước của nốt xuất huyết là:",
+      "options": [
+        {
+          "text": "1-10 mm"
+        },
+        {
+          "text": "2 mm-1 cm"
+        },
+        {
+          "text": "3 mm-2 cm"
+        },
+        {
+          "text": "4 mm-3 cm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước của mảng xuất huyết là:",
+      "options": [
+        {
+          "text": ">1 cm"
+        },
+        {
+          "text": ">2 cm"
+        },
+        {
+          "text": ">3 cm"
+        },
+        {
+          "text": ">4 cm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xuất huyết da dạng mảng, thường gặp trong các trường hợp sau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Xuất huyết do chấn thương"
+        },
+        {
+          "text": "Xuất huyết do giảm tiểu cầu"
+        },
+        {
+          "text": "Xuất huyết do bệnh lý đông máu"
+        },
+        {
+          "text": "Xuất huyết do bệnh lý thành mạch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nghiệm pháp Lacet dùng để đánh giá:",
+      "options": [
+        {
+          "text": "Sức bền thành mạch"
+        },
+        {
+          "text": "Số lượng tiểu cầu"
+        },
+        {
+          "text": "Chức năng tiểu cầu"
+        },
+        {
+          "text": "Yếu tố đông máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây đánh giá chức năng của tiểu cầu:",
+      "options": [
+        {
+          "text": "Thời gian máu chảy (TC)"
+        },
+        {
+          "text": "Thời gian máu đông (TS)"
+        },
+        {
+          "text": "Thời gian prothrombin (PT)"
+        },
+        {
+          "text": "Thời gian cephalin-kaolin (aPTT)"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thời gian prothrombin (PT) đánh giá con đường đông máu nào:",
+      "options": [
+        {
+          "text": "Nội sinh"
+        },
+        {
+          "text": "Ngoại sinh"
+        },
+        {
+          "text": "Chung"
+        },
+        {
+          "text": "Nội sinh và chung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thời gian cephalin-kaolin (aPTT) đánh giá con đường đông máu nào:",
+      "options": [
+        {
+          "text": "Nội sinh"
+        },
+        {
+          "text": "Ngoại sinh"
+        },
+        {
+          "text": "Chung"
+        },
+        {
+          "text": "Ngoại sinh và chung"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh lý Hemophilia A là do bất thường:",
+      "options": [
+        {
+          "text": "Yếu tố II"
+        },
+        {
+          "text": "Yếu tố V"
+        },
+        {
+          "text": "Yếu tố VIII"
+        },
+        {
+          "text": "Yếu tố IX"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghiệm pháp Lacet dương tính khi số chấm xuất huyết trong vòng tròn đường kính 5 cm ở mặt trước cẳng tay là:",
+      "options": [
+        {
+          "text": ">5"
+        },
+        {
+          "text": ">10"
+        },
+        {
+          "text": ">15"
+        },
+        {
+          "text": ">20"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thời gian máu chảy (TC) bình thường theo phương pháp Duke là:",
+      "options": [
+        {
+          "text": "1 – 2 phút"
+        },
+        {
+          "text": "2 – 4 phút"
+        },
+        {
+          "text": "3 – 5 phút"
+        },
+        {
+          "text": "4 – 6 phút"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "aPTT kéo dài trong bệnh lý nào sau đây, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Hemophilia A"
+        },
+        {
+          "text": "Hemophilia B"
+        },
+        {
+          "text": "Thiếu yếu tố VII"
+        },
+        {
+          "text": "Bệnh Von Willebrand"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm nổi bật nhất của xuất huyết do nguyên nhân thành mạch:",
+      "options": [
+        {
+          "text": "Xuất huyết tự nhiên"
+        },
+        {
+          "text": "Thường xuất huyết ở đầu xa chi"
+        },
+        {
+          "text": "Xuất huyết đối xứng hai bên"
+        },
+        {
+          "text": "Xuất huyết dạng chấm hoặc nốt hoặc mảng nhỏ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tổn thương xuất huyết do nguyên nhân thành mạch thường gặp ở:",
+      "options": [
+        {
+          "text": "Chi trên"
+        },
+        {
+          "text": "Ngực"
+        },
+        {
+          "text": "Lưng"
+        },
+        {
+          "text": "Chi dưới"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm xuất huyết do nguyên nhân thành mạch, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Xuất huyết tự nhiên"
+        },
+        {
+          "text": "Thường xuất huyết ở đầu xa chi"
+        },
+        {
+          "text": "Xuất huyết đối xứng hai bên"
+        },
+        {
+          "text": "Xuất huyết ở cơ và khớp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm nào sau đây là của xuất huyết do nguyên nhân thành mạch:",
+      "options": [
+        {
+          "text": "Xuất huyết đối xứng hai bên"
+        },
+        {
+          "text": "Thường xuất huyết ở cơ và khớp"
+        },
+        {
+          "text": "Băng ép cầm máu không hiệu quả"
+        },
+        {
+          "text": "Xuất huyết trên da thường dạng mảng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "CHỌN CÂU SAI. Đặc điểm xuất huyết do giảm số lượng tiểu cầu là:",
+      "options": [
+        {
+          "text": "Xuất huyết tự nhiên hoặc sau va chạm nhẹ"
+        },
+        {
+          "text": "Chỉ xuất huyết ở đầu xa chân"
+        },
+        {
+          "text": "Xuất huyết ở niêm mạc và tạng"
+        },
+        {
+          "text": "Xuất huyết dạng chấm hoặc nốt hoặc mảng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm nào sau đây KHÔNG phù hợp với xuất huyết do giảm tiểu cầu:",
+      "options": [
+        {
+          "text": "Dấu dây thắt (+)"
+        },
+        {
+          "text": "Thời gian máu chảy kéo dài"
+        },
+        {
+          "text": "aPTT kéo dài"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Triệu chứng nào sau đây là đặc trưng của xuất huyết do giảm yếu tố đông máu:",
+      "options": [
+        {
+          "text": "Xuất huyết dưới da dạng chấm, nốt"
+        },
+        {
+          "text": "Tụ máu trong cơ và khớp"
+        },
+        {
+          "text": "Xuất huyết niêm mạc mũi, lợi"
+        },
+        {
+          "text": "Dấu dây thắt (+)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CHỌN CÂU SAI. Đặc điểm xuất huyết do bất thường yếu tố đông máu là:",
+      "options": [
+        {
+          "text": "Thường xuất huyết sau va chạm"
+        },
+        {
+          "text": "Xuất huyết ở cơ và khớp"
+        },
+        {
+          "text": "Xuất huyết trên da thường dạng nốt"
+        },
+        {
+          "text": "Băng ép cầm máu có hiệu quả"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vị trí xuất huyết thường gặp do nguyên nhân yếu tố đông máu là:",
+      "options": [
+        {
+          "text": "Da"
+        },
+        {
+          "text": "Cơ và khớp"
+        },
+        {
+          "text": "Niêm mạc"
+        },
+        {
+          "text": "Tạng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu dây thắt (+) gợi ý bất thường về:",
+      "options": [
+        {
+          "text": "Thành mạch và/hoặc tiểu cầu"
+        },
+        {
+          "text": "Tiểu cầu và/hoặc yếu tố đông máu"
+        },
+        {
+          "text": "Yếu tố đông máu và/hoặc thành mạch"
+        },
+        {
+          "text": "Thành mạch, tiểu cầu và yếu tố đông máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thời gian máu chảy kéo dài gợi ý bất thường về:",
+      "options": [
+        {
+          "text": "Thành mạch và/hoặc yếu tố đông máu"
+        },
+        {
+          "text": "Tiểu cầu và/hoặc thành mạch"
+        },
+        {
+          "text": "Yếu tố đông máu và/hoặc thành mạch"
+        },
+        {
+          "text": "Thành mạch, tiểu cầu và yếu tố đông máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "PT và aPTT kéo dài gợi ý bất thường về:",
+      "options": [
+        {
+          "text": "Thành mạch"
+        },
+        {
+          "text": "Tiểu cầu"
+        },
+        {
+          "text": "Yếu tố đông máu"
+        },
+        {
+          "text": "Thành mạch và tiểu cầu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xuất huyết trên da dạng chấm và nốt, thường gặp trong các trường hợp sau, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Hemophilia"
+        },
+        {
+          "text": "Sốt xuất huyết"
+        },
+        {
+          "text": "Xuất huyết giảm tiểu cầu"
+        },
+        {
+          "text": "Bệnh Schoenlein-Henoch"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm xuất huyết do giảm số lượng tiểu cầu là: (1). Xuất huyết tự nhiên hoặc sau va chạm nhẹ. (2). Chỉ xuất huyết ở đầu xa chân. (3). Xuất huyết ở niêm mạc và tạng. (4). Xuất huyết dạng chấm hoặc nốt.",
+      "options": [
+        {
+          "text": "Câu 1, 2, 3 đúng"
+        },
+        {
+          "text": "Câu 1, 2, 4 đúng"
+        },
+        {
+          "text": "Câu 1, 3, 4 đúng"
+        },
+        {
+          "text": "Câu 2, 3, 4 đúng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm xuất huyết do nguyên nhân tiểu cầu là: (1). Xuất hiện tự nhiên hoặc sau va chạm. (2). Xuất huyết đa dạng (chấm, nốt hoặc mảng). (3). Vị trí xuất huyết đa dạng (da, niêm mạc, tạng). (4). Băng ép cầm máu không được. (5). Thường đối xứng hai bên. Số câu ĐÚNG là:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cho các đặc điểm sau: (1). Thường xuất huyết tự nhiên. (2). Thường xuất huyết ở đầu xa chi. (3). Thường gặp xuất huyết ở cơ và khớp. (4). Xuất huyết ở chi trên thường gặp hơn chi dưới. (5). Thường xuất huyết dạng chấm và nốt. (6). Băng ép cầm máu được. Số lượng câu SAI về đặc điểm xuất huyết do nguyên nhân thành mạch là:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cho các đặc điểm sau: (1). Thường xuất huyết sau va chạm. (2). Thường xuất huyết ở da, niêm mạc và tạng. (3). Thường xuất huyết trên da dạng chấm và nốt. (4). Băng ép cầm máu thường không hiệu quả. (5). Thường đối xứng hai bên. Số đặc điểm ĐÚNG về xuất huyết do yếu tố đông máu là:",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết khớp, kèm theo mảng bầm trên da, chẩn đoán xuất huyết do bất thường về:",
+      "options": [
+        {
+          "text": "Số lượng tiểu cầu"
+        },
+        {
+          "text": "Chất lượng tiểu cầu"
+        },
+        {
+          "text": "Thành mạch"
+        },
+        {
+          "text": "Yếu tố đông máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết trên da đa dạng (chấm, nốt và mảng xuất huyết), kèm theo chảy máu răng. Cần chỉ định xét nghiệm nào sau đây để chẩn đoán nguyên nhân:",
+      "options": [
+        {
+          "text": "Công thức máu, PT, aPTT, thời gian máu chảy"
+        },
+        {
+          "text": "Công thức máu, PT, aPTT, co cục máu"
+        },
+        {
+          "text": "Công thức máu, PT, thời gian máu chảy, nghiệm pháp dây thắt"
+        },
+        {
+          "text": "Công thức máu, aPTT, thời gian máu chảy, nghiệm pháp dây thắt"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết dạng mảng và tụ máu ở cơ, khớp. Cần chỉ định xét nghiệm nào sau đây để chẩn đoán nguyên nhân:",
+      "options": [
+        {
+          "text": "Công thức máu"
+        },
+        {
+          "text": "Thời gian máu chảy"
+        },
+        {
+          "text": "PT, aPTT"
+        },
+        {
+          "text": "Dấu dây thắt"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh nhân nữ 30 tuổi, xuất huyết dưới da dạng chấm, nốt ở hai cẳng chân, đối xứng. Nguyên nhân có thể là:",
+      "options": [
+        {
+          "text": "Bất thường thành mạch"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Giảm chất lượng tiểu cầu"
+        },
+        {
+          "text": "Rối loạn yếu tố đông máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân nam 40 tuổi, xuất huyết tự nhiên trên da dạng mảng, kèm theo sưng đau khớp gối. Nguyên nhân có thể là:",
+      "options": [
+        {
+          "text": "Bất thường thành mạch"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Giảm chất lượng tiểu cầu"
+        },
+        {
+          "text": "Rối loạn yếu tố đông máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân nam 20 tuổi, sau nhổ răng chảy máu kéo dài, trên da có mảng bầm. Nguyên nhân có thể là:",
+      "options": [
+        {
+          "text": "Bất thường thành mạch"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Giảm chất lượng tiểu cầu"
+        },
+        {
+          "text": "Rối loạn yếu tố đông máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây giúp phân biệt xuất huyết do tiểu cầu và xuất huyết do yếu tố đông máu:",
+      "options": [
+        {
+          "text": "Thời gian máu chảy"
+        },
+        {
+          "text": "Số lượng hồng cầu"
+        },
+        {
+          "text": "Nồng độ hemoglobin"
+        },
+        {
+          "text": "Nghiệm pháp dây thắt"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "CHỌN CÂU SAI. Đặc điểm xuất huyết do nguyên nhân tiểu cầu là: (1). Xuất hiện tự nhiên hoặc sau va chạm. (2). Xuất huyết đa dạng (chấm, nốt hoặc mảng). (3). Vị trí xuất huyết đa dạng (da, niêm mạc, tạng). (4). Băng ép cầm máu không được.",
+      "options": [
+        {
+          "text": "Chọn câu 1 và 3"
+        },
+        {
+          "text": "Chọn câu 2 và 4"
+        },
+        {
+          "text": "Chọn câu 1, 2 và 3"
+        },
+        {
+          "text": "Chỉ chọn câu 4"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết trên da đa dạng (chấm, nốt và mảng xuất huyết), kèm theo chảy máu răng, chẩn đoán xuất huyết do bất thường về: (1). Số lượng tiểu cầu. (2). Thành mạch. (3). Chất lượng tiểu cầu. (4). Yếu tố đông máu.",
+      "options": [
+        {
+          "text": "Câu 1 và 3 đúng"
+        },
+        {
+          "text": "Câu 2 và 4 đúng"
+        },
+        {
+          "text": "Câu 1, 2 và 3 đúng"
+        },
+        {
+          "text": "Câu 4 đúng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết trên da đa dạng, kèm theo chảy máu răng. Chẩn đoán xuất huyết do bất thường về: (1). Số lượng tiểu cầu. (2). Thành mạch. (3). Chất lượng tiểu cầu. (4). Yếu tố đông máu.",
+      "options": [
+        {
+          "text": "Câu 1 và 3 đúng"
+        },
+        {
+          "text": "Câu 2 và 4 đúng"
+        },
+        {
+          "text": "Câu 1, 2 và 3 đúng"
+        },
+        {
+          "text": "Câu 4 đúng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm xuất huyết do bất thường yếu tố đông máu là: (1). Thường xuất huyết tự nhiên. (2). Thường gặp ở cơ và khớp. (3). Băng ép cầm máu rất hiệu quả. (4). Xuất huyết trên da thường dạng mảng.",
+      "options": [
+        {
+          "text": "Chọn câu 1 và 3"
+        },
+        {
+          "text": "Chọn câu 2 và 4"
+        },
+        {
+          "text": "Chọn câu 1, 2 và 3"
+        },
+        {
+          "text": "Chỉ chọn câu 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết khớp, kèm theo mảng bầm trên da. Chẩn đoán xuất huyết do bất thường về: (1). Số lượng tiểu cầu. (2). Thành mạch. (3). Chất lượng tiểu cầu. (4). Yếu tố đông máu.",
+      "options": [
+        {
+          "text": "Câu 1 và 3 đúng"
+        },
+        {
+          "text": "Câu 2 và 4 đúng"
+        },
+        {
+          "text": "Câu 1, 2 và 3 đúng"
+        },
+        {
+          "text": "Chỉ chọn câu 4"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân nữ 20 tuổi, xuất huyết đa dạng (chấm, nốt và mảng), kèm chảy máu chân răng. Xét nghiệm công thức máu ghi nhận số lượng tiểu cầu 30 G/L. Chẩn đoán xuất huyết do:",
+      "options": [
+        {
+          "text": "Bất thường thành mạch"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Giảm chất lượng tiểu cầu"
+        },
+        {
+          "text": "Rối loạn yếu tố đông máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân nữ 20 tuổi, xuất huyết đa dạng (chấm, nốt và mảng), kèm chảy máu chân răng. Xét nghiệm công thức máu ghi nhận số lượng tiểu cầu 30 G/L, PT và aPTT bình thường. Chẩn đoán xuất huyết do:",
+      "options": [
+        {
+          "text": "Bất thường thành mạch"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Rối loạn yếu tố đông máu"
+        },
+        {
+          "text": "Kết hợp bất thường thành mạch và tiểu cầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân nam 20 tuổi, sưng đau khớp gối sau va chạm nhẹ, kèm mảng bầm trên da. Xét nghiệm công thức máu bình thường, thời gian máu chảy bình thường, aPTT kéo dài. Chẩn đoán xuất huyết do:",
+      "options": [
+        {
+          "text": "Bất thường thành mạch"
+        },
+        {
+          "text": "Giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Giảm chất lượng tiểu cầu"
+        },
+        {
+          "text": "Rối loạn yếu tố đông máu"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

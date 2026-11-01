@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Biểu hiện lâm sàng nào sau đây là gợi ý bệnh nội tiết có liên quan đến sự tăng trưởng:",
+      "options": [
+        {
+          "text": "Tăng cân"
+        },
+        {
+          "text": "Mệt mỏi"
+        },
+        {
+          "text": "Rối loạn sinh dục"
+        },
+        {
+          "text": "Lùn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Béo phì tập trung ở vùng mặt cổ, thượng đòn là biểu hiện điển hình:",
+      "options": [
+        {
+          "text": "Suy vỏ thượng thận"
+        },
+        {
+          "text": "Hội chứng cushing"
+        },
+        {
+          "text": "Suy giáp"
+        },
+        {
+          "text": "Đái tháo đường"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sạm da là triệu chứng chính của bệnh lý:",
+      "options": [
+        {
+          "text": "Suy vỏ thượng thận nguyên phát"
+        },
+        {
+          "text": "Suy vỏ thượng thận thứ phát"
+        },
+        {
+          "text": "Suy tuyến yên"
+        },
+        {
+          "text": "Suy giáp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hạ huyết áp là một trong các triệu chứng chính của:",
+      "options": [
+        {
+          "text": "Suy giáp"
+        },
+        {
+          "text": "Suy vỏ thượng thận"
+        },
+        {
+          "text": "Suy tuyến yên"
+        },
+        {
+          "text": "Suy tuyến cận giáp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo phân độ của WHO, bướu giáp to độ Ib là:",
+      "options": [
+        {
+          "text": "Bướu to nhìn thấy ở tư thế bình thường"
+        },
+        {
+          "text": "Sờ thấy bướu giáp nhưng không nhìn thấy ở tư thế ngửa cổ tối đa"
+        },
+        {
+          "text": "Tuyến giáp to sờ thấy và nhìn thấy ở tư thế ngửa cổ tối đa"
+        },
+        {
+          "text": "Bướu giáp rất to nhìn thấy từ xa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Triệu chứng run tay trong bệnh lý cường giáp có đặc điểm:",
+      "options": [
+        {
+          "text": "Thường xuất hiện ở đầu ngón tay với biên độ lớn"
+        },
+        {
+          "text": "Tần số nhanh, biên độ nhỏ, run đều ở đầu ngón tay"
+        },
+        {
+          "text": "Thường xuất hiện ở đầu ngón tay và bàn tay với biên độ lớn"
+        },
+        {
+          "text": "Run tay không thường xuyên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Gầy, sụt cân là triệu chứng thường gặp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Đái tháo đường"
+        },
+        {
+          "text": "Cường giáp"
+        },
+        {
+          "text": "Suy vỏ thượng thận mãn tính nguyên phát"
+        },
+        {
+          "text": "Hội chứng Cushing"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Biểu hiện nóng, khó chịu, da nóng ấm gợi ý:",
+      "options": [
+        {
+          "text": "Suy giáp"
+        },
+        {
+          "text": "Hạ đường huyết"
+        },
+        {
+          "text": "Suy thượng thận"
+        },
+        {
+          "text": "Cường giáp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Uống nhiều, tiểu nhiều thường gặp trong bệnh lý:",
+      "options": [
+        {
+          "text": "Đái tháo đường"
+        },
+        {
+          "text": "Đái tháo nhạt"
+        },
+        {
+          "text": "Cường giáp"
+        },
+        {
+          "text": "Cả 3 câu trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tăng huyết áp thứ phát thường gặp trong bệnh nội tiết:",
+      "options": [
+        {
+          "text": "Suy giáp"
+        },
+        {
+          "text": "Addison"
+        },
+        {
+          "text": "Đái tháo đường"
+        },
+        {
+          "text": "Cường tủy thượng thận"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chẩn đoán hạ huyết áp tư thế khi:",
+      "options": [
+        {
+          "text": "Huyết áp tâm thu giảm > 10mHg và/ hoặc huyết áp tâm trương giảm > 10mmHg"
+        },
+        {
+          "text": "Huyết áp tâm thu giảm > 20mHg và/ hoặc huyết áp tâm trương giảm >10mmHg"
+        },
+        {
+          "text": "Huyết áp tâm thu giảm > 30mHg và/ hoặc huyết áp tâm trương giảm > 10mmHg"
+        },
+        {
+          "text": "Huyết áp tâm thu giảm > 30mHg và/ hoặc huyết áp tâm trương giảm > 20mmHg"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân nữ 60 tuổi có vẻ mặt buồn bã, thờ ơ với ngoại cảnh, ăn uống kém nhưng tăng cân. Những biểu hiện trên gợi ý bệnh cảnh của:",
+      "options": [
+        {
+          "text": "Hội chứng cường giáp"
+        },
+        {
+          "text": "Hội chứng cường thượng thận"
+        },
+        {
+          "text": "Hội chứng suy giáp"
+        },
+        {
+          "text": "Hội chứng suy tuyến yên"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tình trạng bệnh lý gây ra rối loạn nội tiết tại tuyến giáp, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "text": "Bệnh Basedow"
+        },
+        {
+          "text": "Phình giáp"
+        },
+        {
+          "text": "Nhân giáp độc"
+        },
+        {
+          "text": "U tuyến yên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân nữ 30 tuổi, vào viện vì hồi hộp đánh trống ngực. Khoảng 1 tháng nay bệnh nhân ăn nhiều, mau đói, sụt 3 kg, hay nóng nảy. Thăm khám ghi nhận mạch 110 lần/phút, tuyến giáp to độ II, lan tỏa, mật độ mềm, không đau. Triệu chứng lâm sàng trên gợi ý bệnh cảnh của:",
+      "options": [
+        {
+          "text": "Hội chứng suy giáp"
+        },
+        {
+          "text": "Hội chứng cường giáp"
+        },
+        {
+          "text": "Hội chứng cường vỏ thượng thận"
+        },
+        {
+          "text": "Hội chứng suy tuyến yên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Để chẩn đoán xác định bệnh lý tuyến giáp, cần kết hợp:",
+      "options": [
+        {
+          "text": "Chỉ cần dựa vào triệu chứng lâm sàng là đủ"
+        },
+        {
+          "text": "Chỉ cần xét nghiệm là đủ"
+        },
+        {
+          "text": "Dựa chủ yếu vào triệu chứng cơ năng"
+        },
+        {
+          "text": "Dựa vào triệu chứng lâm sàng và cận lâm sàng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cận lâm sàng thường dùng để xác chức năng tuyến giáp:",
+      "options": [
+        {
+          "text": "Định lượng iod trong máu"
+        },
+        {
+          "text": "Đo chuyển hoá cơ bản"
+        },
+        {
+          "text": "Định lượng FT3, FT4, TSH trong máu"
+        },
+        {
+          "text": "Nghiệm pháp Werner"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cận lâm sàng xác định hình thái tuyến giáp, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "text": "Siêu âm tuyến giáp"
+        },
+        {
+          "text": "Xạ hình tuyến giáp"
+        },
+        {
+          "text": "Sinh thiết tuyến giáp"
+        },
+        {
+          "text": "Chụp cắt lớp vi tính (CT scan)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cận lâm sàng xác định nguyên nhân bệnh tuyến giáp, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "text": "Các kháng thể kháng giáp"
+        },
+        {
+          "text": "Siêu âm Doppler tuyến giáp"
+        },
+        {
+          "text": "Chọc hút tế bào bằng kim nhỏ"
+        },
+        {
+          "text": "Sinh thiết tuyến giáp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kháng thể để chẩn đoán bệnh lý tuyến giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Kháng thể GAD"
+        },
+        {
+          "text": "Kháng thể TPO"
+        },
+        {
+          "text": "Kháng thể TSI"
+        },
+        {
+          "text": "Kháng thể TGI"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thăm dò tuyến nội tiết chủ yếu là:",
+      "options": [
+        {
+          "text": "Thăm dò chức năng"
+        },
+        {
+          "text": "Thăm dò hình thái"
+        },
+        {
+          "text": "Thăm dò cấu trúc"
+        },
+        {
+          "text": "Xét nghiệm thường qui"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thăm dò động nhằm mục đích:",
+      "options": [
+        {
+          "text": "Tình trạng bệnh lý"
+        },
+        {
+          "text": "Mức độ tổn thương"
+        },
+        {
+          "text": "Vị trí tổn thương"
+        },
+        {
+          "text": "Nguyên nhân"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hormon không phải do tuyến yên tiết ra:",
+      "options": [
+        {
+          "text": "GH"
+        },
+        {
+          "text": "ACTH"
+        },
+        {
+          "text": "TSH"
+        },
+        {
+          "text": "TRH"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Định lượng hormon tuyến giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "T3, T4 là hormon do tuyến giáp tiết ra"
+        },
+        {
+          "text": "TSH là hormon do tuyến yên tiết ra"
+        },
+        {
+          "text": "T3, T4 trong máu đa số ở dạng tự do, rất ít ở dạng kết hợp"
+        },
+        {
+          "text": "T3, T4 có hoạt tính sinh học khi ở dạng tự do"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong suy giáp nguyên phát (tại tuyến giáp), kết quả xét nghiệm hormon:",
+      "options": [
+        {
+          "text": "FT4 bình thường, TSH giảm"
+        },
+        {
+          "text": "FT4 giảm, TSH giảm"
+        },
+        {
+          "text": "FT4 giảm, TSH tăng"
+        },
+        {
+          "text": "FT4 tăng, TSH giảm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong cường giáp thứ phát (tại tuyến yên), kết quả xét nghiệm hormon:",
+      "options": [
+        {
+          "text": "FT4 bình thường, TSH giảm"
+        },
+        {
+          "text": "FT4 giảm, TSH giảm"
+        },
+        {
+          "text": "FT4 giảm, TSH tăng"
+        },
+        {
+          "text": "FT4 tăng, TSH tăng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong hội chứng cận u (tiết TSH lạc chỗ), kết quả xét nghiệm hormon:",
+      "options": [
+        {
+          "text": "FT4 bình thường, TSH giảm"
+        },
+        {
+          "text": "FT4 giảm, TSH giảm"
+        },
+        {
+          "text": "FT4 giảm, TSH tăng"
+        },
+        {
+          "text": "FT4 tăng, TSH tăng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các xét nghiệm miễn dịch trong bệnh lý tuyến giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "TRAb tăng trong bệnh Basedow"
+        },
+        {
+          "text": "Anti TPO tăng trong bệnh Hashimoto"
+        },
+        {
+          "text": "Anti TG tăng trong bệnh Hashimoto"
+        },
+        {
+          "text": "LATS tăng trong bệnh Hashimoto"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Siêu âm tuyến giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Giúp xác định vị trí, kích thước, cấu trúc của tuyến giáp"
+        },
+        {
+          "text": "Giúp đánh giá chức năng tuyến giáp"
+        },
+        {
+          "text": "Giúp phát hiện nhân giáp và đánh giá đặc điểm của nhân giáp"
+        },
+        {
+          "text": "Hướng dẫn chọc hút tế bào bằng kim nhỏ (FNA)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Siêu âm Doppler màu tuyến giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Đánh giá sự phân bố mạch máu trong tuyến giáp"
+        },
+        {
+          "text": "Tăng sinh mạch máu lan tỏa thường gặp trong bệnh Basedow"
+        },
+        {
+          "text": "Tăng sinh mạch máu trong nhân giáp gợi ý nhân độc"
+        },
+        {
+          "text": "Giảm sinh mạch máu trong nhân giáp gợi ý nhân độc"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bình thường chuyển hóa cơ bản từ:",
+      "options": [
+        {
+          "text": "5% đến +10%"
+        },
+        {
+          "text": "0% đến +10%"
+        },
+        {
+          "text": "-5% đến +10%"
+        },
+        {
+          "text": "-10% đến +10%"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chuyển hóa cơ bản, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Đo mức tiêu thụ oxy của người bệnh trong tình trạng được nghỉ ngơi hoàn toàn"
+        },
+        {
+          "text": "Bình thường chuyển hóa cơ bản từ -10% đến +10%"
+        },
+        {
+          "text": "Chuyển hoá cơ bản tăng trong suy giáp và giảm trong cường giáp"
+        },
+        {
+          "text": "Hiện nay xét nghiệm này ít sử dụng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong xét nghiệm đo độ tập trung iod 131 tại tuyến giáp, chỉ số hấp thu iod tại thời điểm 2 giờ ở người bình thường:",
+      "options": [
+        {
+          "text": "15%"
+        },
+        {
+          "text": "25%"
+        },
+        {
+          "text": "35%"
+        },
+        {
+          "text": "40%"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong xét nghiệm đo độ tập trung iod 131 tại tuyến giáp, chỉ số hấp thu iod tại thời điểm 24 giờ ở người bình thường:",
+      "options": [
+        {
+          "text": "15%"
+        },
+        {
+          "text": "25%"
+        },
+        {
+          "text": "35%"
+        },
+        {
+          "text": "40%"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Độ tập trung iod 131 tăng trong trường hợp:",
+      "options": [
+        {
+          "text": "Bướu giáp háo iod, suy giáp"
+        },
+        {
+          "text": "Suy giáp, đang điều trị thuốc kháng giáp"
+        },
+        {
+          "text": "Cường giáp, đang điều trị thuốc kháng giáp"
+        },
+        {
+          "text": "Cường giáp, bướu giáp háo iod"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Độ tập trung iod 131 giảm trong trường hợp:",
+      "options": [
+        {
+          "text": "Bướu giáp háo iod, suy giáp"
+        },
+        {
+          "text": "Suy giáp, đang điều trị thuốc kháng giáp"
+        },
+        {
+          "text": "Cường giáp, đang điều trị thuốc kháng giáp"
+        },
+        {
+          "text": "Cường giáp, bướu giáp háo iod"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xạ hình tuyến giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Dùng iod 123 hoặc Technetium-99m"
+        },
+        {
+          "text": "99m Tc có liều hấp thu thấp và chất lượng ghi hình tốt hơn I131"
+        },
+        {
+          "text": "Giúp đánh giá chức năng của nhân giáp"
+        },
+        {
+          "text": "Nhân lạnh có nguy cơ ác tính thấp hơn nhân nóng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọc hút tế bào bằng kim nhỏ (FNA), chọn câu SAI:",
+      "options": [
+        {
+          "text": "Là một xét nghiệm an toàn, ít tốn kém, có giá trị cao"
+        },
+        {
+          "text": "Được chỉ định khi có nhân giáp >1 cm"
+        },
+        {
+          "text": "Là xét nghiệm để chẩn đoán xác định ung thư tuyến giáp"
+        },
+        {
+          "text": "FNA dưới hướng dẫn của siêu âm làm tăng độ chính xác của xét nghiệm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thăm dò chức năng tuyến cận giáp, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Định lượng Calci, phospho máu"
+        },
+        {
+          "text": "Định lượng Calci, phospho niệu"
+        },
+        {
+          "text": "Định lượng TSH"
+        },
+        {
+          "text": "Định lượng PTH"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong cường cận giáp, kết quả xét nghiệm:",
+      "options": [
+        {
+          "text": "Calci máu tăng, phospho máu giảm, PTH giảm"
+        },
+        {
+          "text": "Calci máu tăng, phospho máu giảm, PTH tăng"
+        },
+        {
+          "text": "Calci máu giảm, phospho máu tăng, PTH giảm"
+        },
+        {
+          "text": "Calci máu giảm, phospho máu tăng, PTH tăng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thăm dò chức năng tuyến thượng thận, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Thăm dò chức năng vỏ thượng thận"
+        },
+        {
+          "text": "Thăm dò chức năng tủy thượng thận"
+        },
+        {
+          "text": "Thăm dò chức năng tuyến yên"
+        },
+        {
+          "text": "Các nghiệm pháp động"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghiệm pháp Synacthen, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Dùng để đánh giá dự trữ của vỏ thượng thận"
+        },
+        {
+          "text": "Dùng để chẩn đoán suy thượng thận nguyên phát"
+        },
+        {
+          "text": "Bình thường cortisol máu tăng gấp 3-5 lần sau tiêm Synacthen"
+        },
+        {
+          "text": "Cortisol máu không tăng trong suy thượng thận nguyên phát"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghiệm pháp hãm Dexamethason liều thấp qua đêm, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Dùng để chẩn đoán hội chứng Cushing"
+        },
+        {
+          "text": "Dùng 1mg Dexamethason uống lúc 23 giờ"
+        },
+        {
+          "text": "Cortisol máu lúc 8 giờ sáng hôm sau > 1,8 µg/dL thì loại trừ hội chứng Cushing"
+        },
+        {
+          "text": "Cortisol máu lúc 8 giờ sáng hôm sau > 1,8 µg/dL thì chẩn đoán hội chứng Cushing"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chẩn đoán đái tháo đường, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Đường huyết lúc đói ≥ 126 mg/dL"
+        },
+        {
+          "text": "Đường huyết 2 giờ sau nghiệm pháp dung nạp glucose ≥ 200 mg/dL"
+        },
+        {
+          "text": "HbA1c ≥ 6,5%"
+        },
+        {
+          "text": "Đường huyết bất kỳ ≥ 180 mg/dL kèm triệu chứng lâm sàng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Xét nghiệm HbA1c, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Phản ánh tình trạng đường huyết trung bình trong 2-3 tháng"
+        },
+        {
+          "text": "Không bị ảnh hưởng bởi các bệnh lý về huyết học"
+        },
+        {
+          "text": "Giúp đánh giá hiệu quả điều trị đái tháo đường"
+        },
+        {
+          "text": "Dùng để tầm soát và chẩn đoán đái tháo đường"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các xét nghiệm tự kháng thể trong chẩn đoán đái tháo đường type 1, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Anti-GAD"
+        },
+        {
+          "text": "ICA"
+        },
+        {
+          "text": "IAA"
+        },
+        {
+          "text": "Anti-TPO"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hình ảnh học thượng thận, chọn câu SAI:",
+      "options": [
+        {
+          "text": "CT-scan thượng thận giúp phân biệt u thượng thận là lành tính hay ác tính"
+        },
+        {
+          "text": "Một khối u đồng nhất kích thước <4cm với bờ nhẵn và tỷ trọng >10 đơn vị Hounsfield gợi ý gần như chắc chắn là một tổn thương lành tính"
+        },
+        {
+          "text": "Các khối u >6cm thường là ác tính"
+        },
+        {
+          "text": "Chụp cộng hưởng từ (MRI) có hiệu quả tương đương CT-scan trong việc phân biệt khối u lành tính hay ác tính"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chụp cộng hưởng từ thượng thận, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Hiệu quả hơn CT-scan trong việc phân biệt khối u lành tính hay ác tính"
+        },
+        {
+          "text": "Adenoma sẽ giảm tín hiệu và có cường độ tương tự gan"
+        },
+        {
+          "text": "Pheochromocytoma có cường độ mạnh trên hình ảnh thì T2"
+        },
+        {
+          "text": "Tổn thương có đường kính >6cm nên nhanh chóng phẫu thuật"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Định lượng aldosteron máu, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Giúp phân biệt cường thượng thận nguyên phát và thứ phát"
+        },
+        {
+          "text": "Phụ thuộc vào lượng natri và tư thế của bệnh nhân đứng hay nằm"
+        },
+        {
+          "text": "Nồng độ natri máu cao sẽ có xu hướng ức chế aldosteron huyết thanh"
+        },
+        {
+          "text": "Aldosteron huyết tương tăng trong cả cường aldosteron nguyên phát và thứ phát"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây dùng để chẩn đoán cường Aldosteron nguyên phát:",
+      "options": [
+        {
+          "text": "Aldosteron máu"
+        },
+        {
+          "text": "Renin huyết tương"
+        },
+        {
+          "text": "Tỷ lệ Aldosteron/Renin (ARR)"
+        },
+        {
+          "text": "Nghiệm pháp captopril"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong bệnh Addison, kết quả xét nghiệm điện giải đồ:",
+      "options": [
+        {
+          "text": "Natri máu tăng, kali máu giảm"
+        },
+        {
+          "text": "Natri máu tăng, kali máu tăng"
+        },
+        {
+          "text": "Natri máu giảm, kali máu tăng"
+        },
+        {
+          "text": "Natri máu giảm, kali máu giảm"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

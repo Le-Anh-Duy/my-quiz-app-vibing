@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "text": "Nhịp tim bình thường ở người trưởng thành là:",
+      "options": [
+        {
+          "text": "40-60 nhịp/phút"
+        },
+        {
+          "text": "60-100 nhịp/phút"
+        },
+        {
+          "text": "100-120 nhịp/phút"
+        },
+        {
+          "text": "120-140 nhịp/phút"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Huyết áp bình thường ở người lớn là:",
+      "options": [
+        {
+          "text": "<120/80 mmHg"
+        },
+        {
+          "text": "<140/90 mmHg"
+        },
+        {
+          "text": "<160/100 mmHg"
+        },
+        {
+          "text": "<180/110 mmHg"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Triệu chứng nào sau đây không phải là triệu chứng của suy tim:",
+      "options": [
+        {
+          "text": "Khó thở"
+        },
+        {
+          "text": "Phù chi"
+        },
+        {
+          "text": "Gan to"
+        },
+        {
+          "text": "Ho khan kéo dài"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đau thắt ngực điển hình thường xuất hiện khi:",
+      "options": [
+        {
+          "text": "Gắng sức"
+        },
+        {
+          "text": "Nghỉ ngơi"
+        },
+        {
+          "text": "Ăn no"
+        },
+        {
+          "text": "Ban đêm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "ECG trong nhồi máu cơ tim cấp có biểu hiện nào sau đây:",
+      "options": [
+        {
+          "text": "Sóng T đảo ngược"
+        },
+        {
+          "text": "ST chênh lên"
+        },
+        {
+          "text": "Xuất hiện sóng Q bệnh lý"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Yếu tố nguy cơ nào sau đây không liên quan đến bệnh mạch vành:",
+      "options": [
+        {
+          "text": "Hút thuốc lá"
+        },
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Đái tháo đường"
+        },
+        {
+          "text": "Thiếu máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Rối loạn nhịp tim thường gặp nhất là:",
+      "options": [
+        {
+          "text": "Nhịp nhanh xoang"
+        },
+        {
+          "text": "Rung nhĩ"
+        },
+        {
+          "text": "Cuồng nhĩ"
+        },
+        {
+          "text": "Ngoại tâm thu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thuốc nào sau đây được dùng để điều trị tăng huyết áp:",
+      "options": [
+        {
+          "text": "Aspirin"
+        },
+        {
+          "text": "Metformin"
+        },
+        {
+          "text": "Enalapril"
+        },
+        {
+          "text": "Paracetamol"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Triệu chứng nào sau đây gợi ý bệnh van tim:",
+      "options": [
+        {
+          "text": "Tiếng thổi tim"
+        },
+        {
+          "text": "Đau ngực"
+        },
+        {
+          "text": "Khó thở"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất của suy tim mạn là:",
+      "options": [
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Bệnh van tim"
+        },
+        {
+          "text": "Bệnh cơ tim"
+        },
+        {
+          "text": "Nhồi máu cơ tim cũ"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

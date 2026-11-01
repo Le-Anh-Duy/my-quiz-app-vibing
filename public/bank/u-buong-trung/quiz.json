@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "text": "U buồng trứng phát sinh từ loại tế bào nào?",
+      "options": [
+        {
+          "text": "Tế bào cơ"
+        },
+        {
+          "text": "Tế bào nội mô"
+        },
+        {
+          "text": "Tế bào biểu mô - tế bào mầm và mô đệm"
+        },
+        {
+          "text": "Tế bào thần kinh"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại u nào chiếm tỷ lệ cao nhất trong u buồng trứng?",
+      "options": [
+        {
+          "text": "U tế bào mầm"
+        },
+        {
+          "text": "U biểu mô"
+        },
+        {
+          "text": "U dây sinh dục – mô đệm"
+        },
+        {
+          "text": "U di căn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư buồng trứng phổ biến nhất thuộc nhóm nào?",
+      "options": [
+        {
+          "text": "Ung thư thanh dịch độ cao"
+        },
+        {
+          "text": "Ung thư nhầy"
+        },
+        {
+          "text": "Ung thư tế bào sáng"
+        },
+        {
+          "text": "Ung thư nội mạc tử cung"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ung thư buồng trứng có tỷ lệ tử vong cao nhất trong nhóm nào?",
+      "options": [
+        {
+          "text": "Ung thư cổ tử cung"
+        },
+        {
+          "text": "Ung thư nội mạc tử cung"
+        },
+        {
+          "text": "Ung thư buồng trứng"
+        },
+        {
+          "text": "Ung thư âm đạo"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại u buồng trứng nào thường gặp ở phụ nữ trẻ?",
+      "options": [
+        {
+          "text": "U tế bào mầm"
+        },
+        {
+          "text": "U biểu mô"
+        },
+        {
+          "text": "U dây sinh dục – mô đệm"
+        },
+        {
+          "text": "U di căn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tỷ lệ ung thư buồng trứng cao nhất ở nhóm tuổi nào?",
+      "options": [
+        {
+          "text": "Dưới 20 tuổi"
+        },
+        {
+          "text": "20 – 30 tuổi"
+        },
+        {
+          "text": "50 – 70 tuổi"
+        },
+        {
+          "text": "Trên 80 tuổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khu vực nào có tỷ lệ ung thư buồng trứng cao nhất?",
+      "options": [
+        {
+          "text": "Châu Phi"
+        },
+        {
+          "text": "Bắc Mỹ và Châu Âu"
+        },
+        {
+          "text": "Đông Nam Á"
+        },
+        {
+          "text": "Trung Đông"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nguy cơ lớn nhất của ung thư buồng trứng là gì?",
+      "options": [
+        {
+          "text": "Sinh con nhiều"
+        },
+        {
+          "text": "Đột biến BRCA1/2"
+        },
+        {
+          "text": "Hút thuốc lá"
+        },
+        {
+          "text": "Sử dụng thuốc tránh thai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U buồng trứng nào liên quan đến hội chứng Lynch?",
+      "options": [
+        {
+          "text": "Ung thư thanh dịch"
+        },
+        {
+          "text": "Ung thư nội mạc tử cung"
+        },
+        {
+          "text": "Ung thư tế bào sáng"
+        },
+        {
+          "text": "U quái trưởng thành"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U tế bào mầm phổ biến nhất là?",
+      "options": [
+        {
+          "text": "U loạn sản"
+        },
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U túi noãn hoàng"
+        },
+        {
+          "text": "U tế bào Sertoli-Leydig"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U buồng trứng nào có nguy cơ ác tính cao nhất?",
+      "options": [
+        {
+          "text": "U thanh dịch độ thấp"
+        },
+        {
+          "text": "U thanh dịch độ cao"
+        },
+        {
+          "text": "U nang nhầy"
+        },
+        {
+          "text": "U nội mạc tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U nào có thể chứa mô thần kinh - lông - răng?",
+      "options": [
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U loạn sản"
+        },
+        {
+          "text": "U nội mạc tử cung"
+        },
+        {
+          "text": "U tế bào sáng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm mô học của ung thư tế bào sáng là gì?",
+      "options": [
+        {
+          "text": "Chứa nhiều tế bào hình đinh ghim"
+        },
+        {
+          "text": "Nhân hình bầu dục - tăng sinh mạnh"
+        },
+        {
+          "text": "Nhân nhỏ - sắp xếp dạng tuyến"
+        },
+        {
+          "text": "Cấu trúc giống ruột"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U nào thường liên quan đến lạc nội mạc tử cung?",
+      "options": [
+        {
+          "text": "Ung thư thanh dịch"
+        },
+        {
+          "text": "Ung thư nội mạc tử cung"
+        },
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U loạn sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "U buồng trứng nào có thể gây nam hóa?",
+      "options": [
+        {
+          "text": "U tế bào hạt"
+        },
+        {
+          "text": "U tế bào Sertoli-Leydig"
+        },
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U loạn sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đột biến nào liên quan đến ung thư buồng trứng di truyền?",
+      "options": [
+        {
+          "text": "TP53"
+        },
+        {
+          "text": "BRCA1/2"
+        },
+        {
+          "text": "KRAS"
+        },
+        {
+          "text": "MYC"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đột biến TP53 thường gặp trong?",
+      "options": [
+        {
+          "text": "Ung thư thanh dịch độ cao"
+        },
+        {
+          "text": "Ung thư nội mạc tử cung"
+        },
+        {
+          "text": "U tế bào mầm"
+        },
+        {
+          "text": "U dây sinh dục – mô đệm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dấu ấn sinh học nào được sử dụng phổ biến nhất để theo dõi ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "CEA"
+        },
+        {
+          "text": "CA125"
+        },
+        {
+          "text": "AFP"
+        },
+        {
+          "text": "hCG"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp hình ảnh đầu tiên được sử dụng để phát hiện u buồng trứng?",
+      "options": [
+        {
+          "text": "X-quang"
+        },
+        {
+          "text": "Siêu âm qua ngả âm đạo"
+        },
+        {
+          "text": "CT scan"
+        },
+        {
+          "text": "MRI"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu nào giúp phân biệt u buồng trứng lành tính với ác tính trên siêu âm?",
+      "options": [
+        {
+          "text": "Kích thước khối u"
+        },
+        {
+          "text": "Bờ không đều - có vách dày - tăng sinh mạch"
+        },
+        {
+          "text": "Dịch trong nang"
+        },
+        {
+          "text": "Không có triệu chứng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hệ thống phân giai đoạn nào thường dùng cho ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "TNM"
+        },
+        {
+          "text": "FIGO"
+        },
+        {
+          "text": "Ann Arbor"
+        },
+        {
+          "text": "Dukes"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp điều trị chính cho ung thư buồng trứng giai đoạn sớm?",
+      "options": [
+        {
+          "text": "Xạ trị"
+        },
+        {
+          "text": "Hóa trị"
+        },
+        {
+          "text": "Phẫu thuật"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hóa trị nào thường dùng cho ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Methotrexate"
+        },
+        {
+          "text": "Paclitaxel + Carboplatin"
+        },
+        {
+          "text": "Vincristine"
+        },
+        {
+          "text": "Adriamycin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi nào cần chỉ định liệu pháp PARP inhibitors (Olaparib)?",
+      "options": [
+        {
+          "text": "Khi có đột biến BRCA"
+        },
+        {
+          "text": "Khi bệnh nhân không đáp ứng hóa trị"
+        },
+        {
+          "text": "Khi u có kích thước lớn"
+        },
+        {
+          "text": "Khi bệnh nhân không có triệu chứng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố tiên lượng quan trọng nhất của ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Loại mô học"
+        },
+        {
+          "text": "Giai đoạn bệnh khi chẩn đoán"
+        },
+        {
+          "text": "Kích thước khối u"
+        },
+        {
+          "text": "Đột biến KRAS"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tỷ lệ sống 5 năm của ung thư buồng trứng giai đoạn sớm là?",
+      "options": [
+        {
+          "text": "30%"
+        },
+        {
+          "text": "50%"
+        },
+        {
+          "text": "70%"
+        },
+        {
+          "text": ">90%"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Điều trị nào thường áp dụng cho ung thư buồng trứng giai đoạn muộn?",
+      "options": [
+        {
+          "text": "Phẫu thuật đơn thuần"
+        },
+        {
+          "text": "Hóa trị kết hợp phẫu thuật"
+        },
+        {
+          "text": "Xạ trị đơn thuần"
+        },
+        {
+          "text": "Điều trị nội tiết"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xạ trị có vai trò gì trong điều trị ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Điều trị chính"
+        },
+        {
+          "text": "Điều trị hỗ trợ giai đoạn sớm"
+        },
+        {
+          "text": "Điều trị giảm nhẹ triệu chứng"
+        },
+        {
+          "text": "Không có vai trò trong ung thư buồng trứng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hóa trị nào thường dùng cho u tế bào mầm ác tính?",
+      "options": [
+        {
+          "text": "BEP (Bleomycin - Etoposide - Cisplatin)"
+        },
+        {
+          "text": "CHOP"
+        },
+        {
+          "text": "FOLFIRI"
+        },
+        {
+          "text": "Tamoxifen"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tại sao liệu pháp miễn dịch chưa phổ biến trong ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Ung thư buồng trứng không biểu hiện PD-L1"
+        },
+        {
+          "text": "Cơ chế kháng nguyên thấp"
+        },
+        {
+          "text": "Thiếu thuốc điều trị"
+        },
+        {
+          "text": "Không có nghiên cứu nào về liệu pháp miễn dịch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "HE4 là dấu ấn sinh học thường được kết hợp với CA125 trong?",
+      "options": [
+        {
+          "text": "Theo dõi điều trị ung thư buồng trứng"
+        },
+        {
+          "text": "Phân biệt u lành tính và ác tính"
+        },
+        {
+          "text": "Chẩn đoán ung thư cổ tử cung"
+        },
+        {
+          "text": "Đánh giá đáp ứng với hóa trị"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ số ROMA (Risk of Ovarian Malignancy Algorithm) kết hợp hai dấu ấn sinh học nào?",
+      "options": [
+        {
+          "text": "CA125 và AFP"
+        },
+        {
+          "text": "HE4 và CEA"
+        },
+        {
+          "text": "HE4 và CA125"
+        },
+        {
+          "text": "BRCA1 và BRCA2"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xét nghiệm nào giúp xác định nguy cơ di truyền ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "PCR"
+        },
+        {
+          "text": "Giải trình tự gen BRCA1/2"
+        },
+        {
+          "text": "CA125"
+        },
+        {
+          "text": "Test nhanh HPV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp nào có độ nhạy cao nhất trong phát hiện sớm ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Siêu âm qua ngả âm đạo"
+        },
+        {
+          "text": "Chụp MRI"
+        },
+        {
+          "text": "PET-CT"
+        },
+        {
+          "text": "X-quang ngực"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ung thư buồng trứng giai đoạn muộn thường di căn đến cơ quan nào?",
+      "options": [
+        {
+          "text": "Phổi"
+        },
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Màng bụng (phúc mạc)"
+        },
+        {
+          "text": "Não"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng phổ biến của ung thư buồng trứng giai đoạn tiến triển?",
+      "options": [
+        {
+          "text": "Cổ trướng"
+        },
+        {
+          "text": "Tắc ruột"
+        },
+        {
+          "text": "Tràn dịch màng phổi"
+        },
+        {
+          "text": "Tất cả các đáp án trên"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hội chứng Meigs liên quan đến loại u nào?",
+      "options": [
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U sợi buồng trứng"
+        },
+        {
+          "text": "U thanh dịch"
+        },
+        {
+          "text": "U nhầy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân chính gây tử vong ở bệnh nhân ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Chảy máu"
+        },
+        {
+          "text": "Suy thận"
+        },
+        {
+          "text": "Suy đa tạng do di căn phúc mạc"
+        },
+        {
+          "text": "Đột quỵ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nào dưới đây KHÔNG ảnh hưởng đến tiên lượng ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Giai đoạn bệnh"
+        },
+        {
+          "text": "Đột biến BRCA1/2"
+        },
+        {
+          "text": "Mức CA125"
+        },
+        {
+          "text": "Số lần mang thai"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "U nào có tiên lượng tốt nhất trong nhóm u tế bào mầm?",
+      "options": [
+        {
+          "text": "U quái không trưởng thành"
+        },
+        {
+          "text": "U loạn sản"
+        },
+        {
+          "text": "U túi noãn hoàng"
+        },
+        {
+          "text": "U quái trưởng thành"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tỷ lệ sống 5 năm của bệnh nhân ung thư buồng trứng giai đoạn IV?",
+      "options": [
+        {
+          "text": "10%"
+        },
+        {
+          "text": "30%"
+        },
+        {
+          "text": "50%"
+        },
+        {
+          "text": "70%"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nào giúp cải thiện tiên lượng ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Điều trị sớm khi chưa có triệu chứng"
+        },
+        {
+          "text": "Chỉ định hóa trị ngay cả khi u lành tính"
+        },
+        {
+          "text": "Không thực hiện phẫu thuật"
+        },
+        {
+          "text": "Không cần theo dõi sau điều trị"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân nữ 55 tuổi, có cổ trướng, CA125 tăng cao, khối u buồng trứng lớn. Chẩn đoán phù hợp nhất?",
+      "options": [
+        {
+          "text": "U tế bào mầm"
+        },
+        {
+          "text": "Ung thư buồng trứng giai đoạn muộn"
+        },
+        {
+          "text": "U buồng trứng giáp biên"
+        },
+        {
+          "text": "Lạc nội mạc tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một phụ nữ trẻ có khối u buồng trứng và AFP tăng cao. Chẩn đoán phù hợp nhất?",
+      "options": [
+        {
+          "text": "Ung thư nội mạc tử cung"
+        },
+        {
+          "text": "U tế bào sáng"
+        },
+        {
+          "text": "U túi noãn hoàng"
+        },
+        {
+          "text": "U quái trưởng thành"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh nhân nữ 30 tuổi, u buồng trứng, triệu chứng nam hóa. Loại u nào phù hợp nhất?",
+      "options": [
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U tế bào Sertoli-Leydig"
+        },
+        {
+          "text": "Ung thư thanh dịch"
+        },
+        {
+          "text": "U nội mạc tử cung"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân được chẩn đoán ung thư buồng trứng thanh dịch độ cao. Phương pháp điều trị phù hợp?",
+      "options": [
+        {
+          "text": "Hóa trị đơn thuần"
+        },
+        {
+          "text": "Phẫu thuật cắt bỏ + Hóa trị"
+        },
+        {
+          "text": "Theo dõi định kỳ"
+        },
+        {
+          "text": "Điều trị nội tiết"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chất ức chế PARP (Olaparib) có hiệu quả nhất ở bệnh nhân nào?",
+      "options": [
+        {
+          "text": "Đột biến BRCA1/2"
+        },
+        {
+          "text": "Đột biến TP53"
+        },
+        {
+          "text": "Đột biến KRAS"
+        },
+        {
+          "text": "Ung thư buồng trứng lành tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bevacizumab là liệu pháp nhắm vào yếu tố nào?",
+      "options": [
+        {
+          "text": "VEGF"
+        },
+        {
+          "text": "EGFR"
+        },
+        {
+          "text": "HER2"
+        },
+        {
+          "text": "CD20"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệu pháp miễn dịch nào đang được thử nghiệm cho ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Pembrolizumab"
+        },
+        {
+          "text": "Rituximab"
+        },
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Vincristine"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phương pháp nào có tiềm năng phát hiện sớm ung thư buồng trứng trong tương lai?",
+      "options": [
+        {
+          "text": "Liquid biopsy"
+        },
+        {
+          "text": "Xét nghiệm glucose máu"
+        },
+        {
+          "text": "Nội soi tử cung"
+        },
+        {
+          "text": "Chụp X-quang bụng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nghiên cứu hiện nay đang tập trung vào yếu tố nào để phát hiện sớm ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Dấu ấn sinh học mới"
+        },
+        {
+          "text": "Xét nghiệm glucose máu"
+        },
+        {
+          "text": "Chế độ ăn uống"
+        },
+        {
+          "text": "Giảm cân"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Một chiến lược phòng ngừa ung thư buồng trứng ở nhóm nguy cơ cao?",
+      "options": [
+        {
+          "text": "Phẫu thuật cắt buồng trứng dự phòng"
+        },
+        {
+          "text": "Không cần theo dõi"
+        },
+        {
+          "text": "Hóa trị dự phòng"
+        },
+        {
+          "text": "Dùng thuốc tránh thai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Loại u buồng trứng nào đang có thử nghiệm liệu pháp miễn dịch?",
+      "options": [
+        {
+          "text": "Ung thư thanh dịch độ cao"
+        },
+        {
+          "text": "U tế bào mầm"
+        },
+        {
+          "text": "U quái trưởng thành"
+        },
+        {
+          "text": "U nhầy"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố nào giúp cải thiện phát hiện sớm ung thư buồng trứng?",
+      "options": [
+        {
+          "text": "Xét nghiệm máu kết hợp siêu âm"
+        },
+        {
+          "text": "Chỉ dựa vào CA125"
+        },
+        {
+          "text": "Không cần theo dõi"
+        },
+        {
+          "text": "Nội soi ổ bụng định kỳ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Một phụ nữ 45 tuổi đến khám vì đau bụng kéo dài, khám phát hiện khối u buồng trứng lớn. Xét nghiệm nào cần thực hiện đầu tiên?",
+      "options": [
+        {
+          "text": "CA125"
+        },
+        {
+          "text": "Xét nghiệm glucose"
+        },
+        {
+          "text": "Test nhanh HPV"
+        },
+        {
+          "text": "Chụp X-quang ngực"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đột biến nào có liên quan đến ung thư buồng trứng di truyền?",
+      "options": [
+        {
+          "text": "BRCA1/2"
+        },
+        {
+          "text": "TP53"
+        },
+        {
+          "text": "KRAS"
+        },
+        {
+          "text": "HER2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phương pháp nào giúp phân biệt giữa u buồng trứng lành tính và ác tính?",
+      "options": [
+        {
+          "text": "Chỉ số ROMA"
+        },
+        {
+          "text": "Xét nghiệm glucose"
+        },
+        {
+          "text": "Nội soi dạ dày"
+        },
+        {
+          "text": "Siêu âm gan"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tại sao siêu âm qua ngả âm đạo có giá trị trong chẩn đoán u buồng trứng?",
+      "options": [
+        {
+          "text": "Phát hiện sớm khối u nhỏ"
+        },
+        {
+          "text": "Chỉ sử dụng trong giai đoạn muộn"
+        },
+        {
+          "text": "Không phân biệt được lành tính hay ác tính"
+        },
+        {
+          "text": "Ít có giá trị trong đánh giá bệnh"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ở bệnh nhân có nguy cơ cao ung thư buồng trứng, phương pháp nào giúp giảm nguy cơ mắc bệnh?",
+      "options": [
+        {
+          "text": "Cắt buồng trứng dự phòng"
+        },
+        {
+          "text": "Chỉ theo dõi định kỳ"
+        },
+        {
+          "text": "Hóa trị dự phòng"
+        },
+        {
+          "text": "Chế độ ăn giàu đạm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi ung thư buồng trứng đã di căn phúc mạc, phương pháp điều trị nào thường được sử dụng?",
+      "options": [
+        {
+          "text": "Hóa trị toàn thân"
+        },
+        {
+          "text": "Xạ trị"
+        },
+        {
+          "text": "Nội soi cắt khối u"
+        },
+        {
+          "text": "Điều trị nội tiết"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

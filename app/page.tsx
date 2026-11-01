@@ -1,23 +1,26 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Papa from "papaparse";
 
 // --- CÁC KIỂU DỮ LIỆU ---
 
+// public/bank/<id>/quiz.json; "image" là đường dẫn tương đối trong folder bộ đề (vd "images/a.png")
+interface Option {
+  text: string;
+  image?: string;
+}
+
 interface Question {
-  "câu hỏi": string;
-  "đáp án a": string;
-  "đáp án b": string;
-  "đáp án c": string;
-  "đáp án d": string;
-  "đáp án đúng": string;
+  text: string;
+  image?: string;
+  options: Option[];
+  answer: string | null; // "a", "b", ... theo vị trí trong options; null = nguồn chưa có đáp án
+  source?: string; // Bài gốc của câu, dùng để rải đều khi file là đề đã gộp sẵn
 }
 
 interface Bai {
   id: string;
   name: string;
-  file: string;
   updatedAt?: string;
   questionCount?: number;
 }
@@ -111,33 +114,42 @@ const interleaveBalanced = (buckets: Question[][], shuffle: boolean) => {
   return result;
 };
 
-const fetchBaiQuestions = (bai: Bai): Promise<Question[]> =>
-  fetch(bai.file)
-    .then((res) => res.text())
-    .then(
-      (csvText) =>
-        new Promise<Question[]>((resolve) => {
-          Papa.parse(csvText, {
-            header: true,
-            skipEmptyLines: true,
-            complete: (result: any) => {
-              resolve(result.data.filter((q: any) => q["câu hỏi"]));
-            },
-          });
-        })
+const fetchBaiQuestions = (bai: Bai): Promise<Question[]> => {
+  const base = `/bank/${bai.id}`;
+  const resolveImage = <T extends { image?: string }>(item: T): T =>
+    item.image ? { ...item, image: `${base}/${item.image}` } : item;
+
+  return fetch(`${base}/quiz.json`)
+    .then((res) => {
+      if (!res.ok) throw new Error(`${base}/quiz.json: ${res.status}`);
+      return res.json();
+    })
+    .then((quiz: { questions: Question[] }) =>
+      quiz.questions
+        // Câu chưa có đáp án thì không chấm được nên chưa cho vào đề
+        .filter((q) => q.answer)
+        .map((q) => ({ ...resolveImage(q), options: q.options.map(resolveImage) }))
     );
+};
 
-// Cột ẩn đánh dấu bài gốc của từng câu, dùng để ép rải đều khi file là đề đã gộp sẵn
-const SOURCE_FIELD = "__nguon";
+const OPTION_KEYS = "abcdefgh";
 
-const splitBySource = (rows: any[]): Question[][] | null => {
-  if (!rows.some((r) => r[SOURCE_FIELD])) return null;
+const optionText = (q: Question, key?: string | null) =>
+  key ? q.options[OPTION_KEYS.indexOf(key)]?.text ?? "" : "";
+
+const QuestionImage = ({ src }: { src?: string }) =>
+  src ? (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={src} alt="Hình minh họa" loading="lazy" className="my-3 max-h-80 max-w-full rounded-lg border border-gray-200 object-contain" />
+  ) : null;
+
+const splitBySource = (rows: Question[]): Question[][] | null => {
+  if (!rows.some((r) => r.source)) return null;
   const groups = new Map<string, Question[]>();
   for (const row of rows) {
-    const key = row[SOURCE_FIELD] || "?";
-    const { [SOURCE_FIELD]: _drop, ...clean } = row;
+    const key = row.source || "?";
     if (!groups.has(key)) groups.set(key, []);
-    groups.get(key)!.push(clean as Question);
+    groups.get(key)!.push(row);
   }
   return Array.from(groups.values());
 };
@@ -188,7 +200,7 @@ export default function Home() {
       });
   }, []);
 
-  // 2. Load file CSV khi chọn bài
+  // 2. Load quiz.json khi chọn bài
   const loadBai = (baiId: string) => {
     const bai = availableBai.find(b => b.id === baiId);
     if (!bai) return;
@@ -196,7 +208,7 @@ export default function Home() {
     setGameState("loading");
     fetchBaiQuestions(bai)
       .then((rows) => {
-        // Nếu file có sẵn cột nguồn (đề gộp đã lưu), ép rải đều theo từng bài gốc
+        // Nếu câu hỏi có sẵn nguồn (đề gộp đã lưu), ép rải đều theo từng bài gốc
         const buckets = splitBySource(rows);
         setComboMode(!!buckets);
         setSourceBuckets(buckets);
@@ -264,8 +276,7 @@ export default function Home() {
     if (isChecking) return;
 
     const currentQ = currentQuestions[currentQIndex];
-    const correctKey = currentQ["đáp án đúng"]?.trim().toLowerCase();
-    const isCorrect = key === correctKey;
+    const isCorrect = key === currentQ.answer;
 
     const newHistory = [...history, { questionIndex: currentQIndex, selectedKey: key, isCorrect }];
     setHistory(newHistory);
@@ -675,7 +686,7 @@ export default function Home() {
   // UI: PLAYING
   if (gameState === "playing") {
     const q = currentQuestions[currentQIndex];
-    const correctKey = q["đáp án đúng"]?.trim().toLowerCase();
+    const correctKey = q.answer;
 
     // Tính phần trăm tiến độ
     const progress = ((currentQIndex) / currentQuestions.length) * 100;
@@ -701,18 +712,14 @@ export default function Home() {
             </div>
 
             {/* Câu hỏi */}
-            <h2 className="mb-8 text-xl font-bold leading-relaxed text-gray-800 md:text-2xl">
-              {renderQuestionText(q["câu hỏi"])}
+            <h2 className="whitespace-pre-wrap text-xl font-bold leading-relaxed text-gray-800 md:text-2xl">
+              {renderQuestionText(q.text)}
             </h2>
+            <QuestionImage src={q.image} />
 
             {/* Các đáp án */}
-            <div className="flex flex-col gap-3">
-              {[
-                { key: "a", content: q["đáp án a"] },
-                { key: "b", content: q["đáp án b"] },
-                { key: "c", content: q["đáp án c"] },
-                { key: "d", content: q["đáp án d"] },
-              ].map((option) => {
+            <div className="mt-8 flex flex-col gap-3">
+              {q.options.map((opt, i) => ({ key: OPTION_KEYS[i], content: opt.text, image: opt.image })).map((option) => {
                 let btnClass = "border-gray-200 hover:bg-blue-50 hover:border-blue-300 text-gray-700";
                 
                 if (settings.mode === "instant" && isChecking) {
@@ -749,7 +756,10 @@ export default function Home() {
                     }`}>
                       {option.key}
                     </span>
-                    <span className="text-base">{option.content}</span>
+                    <span className="whitespace-pre-wrap text-base">
+                      {option.content}
+                      <QuestionImage src={option.image} />
+                    </span>
                   </button>
                 );
               })}
@@ -765,12 +775,12 @@ export default function Home() {
                       {selectedTemp !== correctKey && (
                         <div className="flex items-start gap-2">
                           <span className="text-red-600 font-bold text-sm">❌ Bạn đã chọn:</span>
-                          <span className="text-red-700 font-medium">{selectedTemp?.toUpperCase()}. {q[`đáp án ${selectedTemp}` as keyof Question]}</span>
+                          <span className="text-red-700 font-medium">{selectedTemp?.toUpperCase()}. {optionText(q, selectedTemp)}</span>
                         </div>
                       )}
                       <div className="flex items-start gap-2">
                         <span className="text-green-700 font-bold text-sm">✅ Đáp án đúng:</span>
-                        <span className="text-green-800 font-medium">{correctKey.toUpperCase()}. {q[`đáp án ${correctKey}` as keyof Question]}</span>
+                        <span className="text-green-800 font-medium">{correctKey?.toUpperCase()}. {optionText(q, correctKey)}</span>
                       </div>
                     </div>
                   </div>
@@ -847,11 +857,8 @@ export default function Home() {
               {currentQuestions.map((q, index) => {
                 const historyItem = history.find(h => h.questionIndex === index);
                 const userChoice = historyItem?.selectedKey;
-                const correctKey = q["đáp án đúng"]?.trim().toLowerCase();
+                const correctKey = q.answer;
                 const isCorrect = userChoice === correctKey;
-
-                // @ts-ignore
-                const getOptionContent = (key) => q[`đáp án ${key}`] || "";
 
                 return (
                   <div key={index} className={`rounded-lg border p-4 transition-all ${isCorrect ? "border-gray-200 bg-white hover:border-green-200" : "border-red-200 bg-red-50/50"}`}>
@@ -860,12 +867,13 @@ export default function Home() {
                         {index + 1}
                       </div>
                       <div className="flex-1">
-                        <p className="font-semibold text-gray-800 text-lg mb-3">{renderQuestionText(q["câu hỏi"])}</p>
-                        
+                        <p className="whitespace-pre-wrap font-semibold text-gray-800 text-lg mb-3">{renderQuestionText(q.text)}</p>
+                        <QuestionImage src={q.image} />
+
                         <div className="flex flex-col gap-2">
-                          {["a", "b", "c", "d"].map((key) => {
-                            // @ts-ignore
-                            const content = q[`đáp án ${key}`];
+                          {q.options.map((opt, i) => {
+                            const key = OPTION_KEYS[i];
+                            const content = opt.text;
                             const isSelected = userChoice === key;
                             const isThisCorrect = correctKey === key;
                             
@@ -892,8 +900,9 @@ export default function Home() {
                                 }`}>
                                   {key}
                                 </span>
-                                <div>
+                                <div className="whitespace-pre-wrap">
                                   {content}
+                                  <QuestionImage src={opt.image} />
                                   {isThisCorrect && <span className="ml-2 text-xs font-bold text-green-600">✓ Đáp án đúng</span>}
                                   {isSelected && !isThisCorrect && <span className="ml-2 text-xs font-bold text-red-600">✗ Bạn chọn</span>}
                                 </div>

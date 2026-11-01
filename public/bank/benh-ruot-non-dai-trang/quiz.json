@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Viêm ruột thừa cấp điển hình do:",
+      "options": [
+        {
+          "text": "Viêm gan"
+        },
+        {
+          "text": "Tắc nghẽn lòng ruột thừa (sỏi phân, tăng sản mô lympho)"
+        },
+        {
+          "text": "Lao ruột"
+        },
+        {
+          "text": "Nhiễm nấm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm ruột thừa cấp có đặc điểm mô học:",
+      "options": [
+        {
+          "text": "Tế bào u hạt"
+        },
+        {
+          "text": "Hoại tử dạng bã đậu"
+        },
+        {
+          "text": "Thấm nhập bạch cầu đa nhân trung tính toàn bộ lớp thành ruột"
+        },
+        {
+          "text": "Dị sản biểu mô"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng thường gặp của viêm ruột thừa không điều trị:",
+      "options": [
+        {
+          "text": "Xuất huyết"
+        },
+        {
+          "text": "Hoại tử, thủng, viêm phúc mạc"
+        },
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Hội chứng ruột kích thích"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tắc ruột cơ học thường do:",
+      "options": [
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "U, dính ruột, xoắn ruột"
+        },
+        {
+          "text": "Bệnh tim"
+        },
+        {
+          "text": "Viêm gan"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tắc ruột gây thiếu máu cục bộ dẫn đến:",
+      "options": [
+        {
+          "text": "Viêm loét"
+        },
+        {
+          "text": "Viêm ruột hoại tử"
+        },
+        {
+          "text": "Viêm phế quản"
+        },
+        {
+          "text": "Tắc mật"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biểu hiện mô học trong viêm ruột hoại tử:",
+      "options": [
+        {
+          "text": "Loạn sản"
+        },
+        {
+          "text": "Hoại tử toàn bộ thành ruột, viêm cấp, xuất huyết"
+        },
+        {
+          "text": "Tăng sinh tuyến"
+        },
+        {
+          "text": "Dị sản ruột"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lồng ruột là hiện tượng:",
+      "options": [
+        {
+          "text": "Khối u phát triển trong ruột"
+        },
+        {
+          "text": "Một đoạn ruột chui vào lòng đoạn kế cận"
+        },
+        {
+          "text": "Sỏi mật di chuyển"
+        },
+        {
+          "text": "Viêm túi mật"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lồng ruột ở trẻ em thường do:",
+      "options": [
+        {
+          "text": "U tuyến"
+        },
+        {
+          "text": "Tăng sản mô lympho"
+        },
+        {
+          "text": "Sỏi phân"
+        },
+        {
+          "text": "Tắc mạch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lồng ruột không xử lý sớm có thể gây:",
+      "options": [
+        {
+          "text": "Xuất huyết tiêu hóa"
+        },
+        {
+          "text": "Viêm gan"
+        },
+        {
+          "text": "Tắc ruột, thiếu máu cục bộ và hoại tử ruột"
+        },
+        {
+          "text": "Viêm tụy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm đại tràng do thiếu máu mô học cho thấy:",
+      "options": [
+        {
+          "text": "Hoại tử biểu mô, xuất huyết niêm mạc, viêm nhẹ"
+        },
+        {
+          "text": "U hạt"
+        },
+        {
+          "text": "Tăng sản tuyến"
+        },
+        {
+          "text": "Viêm bạch cầu ái toan"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Viêm đại tràng giả mạc thường do:",
+      "options": [
+        {
+          "text": "Nhiễm Salmonella"
+        },
+        {
+          "text": "Clostridium difficile"
+        },
+        {
+          "text": "Virus EBV"
+        },
+        {
+          "text": "Viêm gan"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học của viêm đại tràng giả mạc:",
+      "options": [
+        {
+          "text": "Dị sản biểu mô"
+        },
+        {
+          "text": "Màng giả gồm fibrin, bạch cầu, mảnh vụn hoại tử"
+        },
+        {
+          "text": "Nang lao"
+        },
+        {
+          "text": "Lắng đọng amyloid"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm đại tràng vi thể có thể chia thành:",
+      "options": [
+        {
+          "text": "Viêm đại tràng tăng sản và loạn sản"
+        },
+        {
+          "text": "Viêm đại tràng collagen và lympho"
+        },
+        {
+          "text": "Viêm đại tràng viêm loét"
+        },
+        {
+          "text": "Viêm đại tràng nhiễm trùng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong viêm đại tràng collagen, đặc điểm là:",
+      "options": [
+        {
+          "text": "Thấm nhập lympho biểu mô"
+        },
+        {
+          "text": "Lắng đọng lớp collagen dưới biểu mô dày >10 micron"
+        },
+        {
+          "text": "Hoại tử bã đậu"
+        },
+        {
+          "text": "U hạt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong viêm đại tràng lympho:",
+      "options": [
+        {
+          "text": "Nhiều bạch cầu trung tính"
+        },
+        {
+          "text": "Lắng đọng collagen"
+        },
+        {
+          "text": "Lympho thấm nhập lớp biểu mô >20 tế bào/100 tế bào biểu mô"
+        },
+        {
+          "text": "Mô xơ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm loét đại tràng thường bắt đầu tại:",
+      "options": [
+        {
+          "text": "Hồi tràng"
+        },
+        {
+          "text": "Manh tràng"
+        },
+        {
+          "text": "Trực tràng"
+        },
+        {
+          "text": "Hỗng tràng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm loét đại tràng thường:",
+      "options": [
+        {
+          "text": "Tổn thương từng vùng"
+        },
+        {
+          "text": "Liên tục không ngắt quãng"
+        },
+        {
+          "text": "Tổn thương xen kẽ"
+        },
+        {
+          "text": "Ảnh hưởng chủ yếu ruột non"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Crohn có đặc điểm tổn thương:",
+      "options": [
+        {
+          "text": "Liên tục"
+        },
+        {
+          "text": "Lan tỏa"
+        },
+        {
+          "text": "Từng vùng xen kẽ (skip lesions)"
+        },
+        {
+          "text": "Khu trú trực tràng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mô học Crohn đặc trưng với:",
+      "options": [
+        {
+          "text": "U hạt không hoại tử"
+        },
+        {
+          "text": "Loét nông"
+        },
+        {
+          "text": "Viêm lớp niêm"
+        },
+        {
+          "text": "Tăng sản tuyến"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Loét trong Crohn có thể:",
+      "options": [
+        {
+          "text": "Nông dọc theo niêm mạc"
+        },
+        {
+          "text": "Ăn sâu xuyên thành ruột"
+        },
+        {
+          "text": "Giới hạn ở biểu mô"
+        },
+        {
+          "text": "Không loét"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học viêm loét đại tràng:",
+      "options": [
+        {
+          "text": "Loét sâu xuyên cơ"
+        },
+        {
+          "text": "Viêm mạn lớp niêm, loạn sản, không có u hạt"
+        },
+        {
+          "text": "U hạt hoại tử"
+        },
+        {
+          "text": "Viêm mạch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Biến chứng nguy hiểm của viêm loét đại tràng mạn:",
+      "options": [
+        {
+          "text": "Viêm tụy"
+        },
+        {
+          "text": "Ung thư biểu mô tuyến đại tràng"
+        },
+        {
+          "text": "Sỏi mật"
+        },
+        {
+          "text": "Polyp viêm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Crohn có thể gây tổn thương ở:",
+      "options": [
+        {
+          "text": "Đại tràng"
+        },
+        {
+          "text": "Ruột non"
+        },
+        {
+          "text": "Bất kỳ phần nào ống tiêu hóa"
+        },
+        {
+          "text": "Thực quản"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm loét đại tràng giới hạn ở:",
+      "options": [
+        {
+          "text": "Ruột non"
+        },
+        {
+          "text": "Hồi manh tràng"
+        },
+        {
+          "text": "Đại tràng và trực tràng"
+        },
+        {
+          "text": "Dạ dày"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng đường rò thường gặp trong:",
+      "options": [
+        {
+          "text": "Viêm loét đại tràng"
+        },
+        {
+          "text": "Crohn"
+        },
+        {
+          "text": "Polyp đại tràng"
+        },
+        {
+          "text": "Ung thư dạ dày"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp đại tràng tăng sản thường:",
+      "options": [
+        {
+          "text": "Có khả năng ác tính cao"
+        },
+        {
+          "text": "Không có loạn sản, nguy cơ rất thấp chuyển ung thư"
+        },
+        {
+          "text": "Phát triển nhanh"
+        },
+        {
+          "text": "Có hoại tử trung tâm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp tuyến là:",
+      "options": [
+        {
+          "text": "Tăng sản cơ"
+        },
+        {
+          "text": "Tổn thương tiền ung thư"
+        },
+        {
+          "text": "Polyp viêm"
+        },
+        {
+          "text": "Polyp cơ trơn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại polyp tuyến đại tràng gồm:",
+      "options": [
+        {
+          "text": "Tuyến ống, nhánh và tuyến nang"
+        },
+        {
+          "text": "Tuyến ống, nhánh và hỗn hợp"
+        },
+        {
+          "text": "U xơ, u tuyến, u mỡ"
+        },
+        {
+          "text": "Tuyến nhỏ, tuyến to, tuyến khổng lồ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp tuyến ống thường:",
+      "options": [
+        {
+          "text": "Ác tính ngay từ đầu"
+        },
+        {
+          "text": "Chiếm tỷ lệ cao nhất, nguy cơ thấp hơn tuyến nhánh"
+        },
+        {
+          "text": "Gây viêm"
+        },
+        {
+          "text": "Có mô cơ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp tuyến nhánh có đặc điểm:",
+      "options": [
+        {
+          "text": "Nhỏ, mềm"
+        },
+        {
+          "text": "Tế bào tuyến dạng nhánh, loạn sản nhiều hơn polyp ống"
+        },
+        {
+          "text": "Không loạn sản"
+        },
+        {
+          "text": "Không liên quan ung thư"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hội chứng polyp gia đình (FAP) liên quan đến đột biến:",
+      "options": [
+        {
+          "text": "p53"
+        },
+        {
+          "text": "APC"
+        },
+        {
+          "text": "KRAS"
+        },
+        {
+          "text": "DCC"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "FAP nếu không phẫu thuật sớm sẽ dẫn đến:",
+      "options": [
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Ung thư đại tràng 100%"
+        },
+        {
+          "text": "Viêm tụy mạn"
+        },
+        {
+          "text": "Thiếu máu ác tính"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp viêm thường xuất hiện:",
+      "options": [
+        {
+          "text": "Trong viêm loét đại tràng mạn"
+        },
+        {
+          "text": "Ung thư gan"
+        },
+        {
+          "text": "Crohn sớm"
+        },
+        {
+          "text": "Lao ruột"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mô học polyp viêm:",
+      "options": [
+        {
+          "text": "Tuyến loạn sản"
+        },
+        {
+          "text": "Mô viêm, niêm mạc tái tạo không đồng đều"
+        },
+        {
+          "text": "Tế bào hình nhẫn"
+        },
+        {
+          "text": "U hạt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm mô học giúp phân biệt polyp lành – ác:",
+      "options": [
+        {
+          "text": "Màu sắc đại thể"
+        },
+        {
+          "text": "Loạn sản biểu mô, rối loạn phân bào"
+        },
+        {
+          "text": "Số lượng tế bào cơ"
+        },
+        {
+          "text": "Mức độ hoại tử"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại ung thư đại tràng phổ biến nhất:",
+      "options": [
+        {
+          "text": "Carcinôm tế bào vảy"
+        },
+        {
+          "text": "Carcinôm tuyến (adenocarcinoma)"
+        },
+        {
+          "text": "Sarcoma"
+        },
+        {
+          "text": "U lympho"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nguy cơ chính của ung thư đại tràng:",
+      "options": [
+        {
+          "text": "Viêm gan B"
+        },
+        {
+          "text": "Polyp tuyến, viêm loét đại tràng, FAP"
+        },
+        {
+          "text": "Viêm ruột thừa"
+        },
+        {
+          "text": "Viêm tụy mạn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư đại tràng thường phát sinh từ:",
+      "options": [
+        {
+          "text": "Mô liên kết"
+        },
+        {
+          "text": "Tế bào lympho"
+        },
+        {
+          "text": "Polyp tuyến có loạn sản"
+        },
+        {
+          "text": "Dị sản vảy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Triệu chứng sớm của ung thư đại tràng:",
+      "options": [
+        {
+          "text": "Đau ngực"
+        },
+        {
+          "text": "Táo bón, đi ngoài ra máu, mệt mỏi"
+        },
+        {
+          "text": "Vàng da"
+        },
+        {
+          "text": "Khó nuốt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đột biến gen phổ biến trong ung thư đại tràng:",
+      "options": [
+        {
+          "text": "ALK"
+        },
+        {
+          "text": "APC, KRAS, p53"
+        },
+        {
+          "text": "BRAF"
+        },
+        {
+          "text": "RAS"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm mô học của carcinôm tuyến:",
+      "options": [
+        {
+          "text": "Không tạo tuyến"
+        },
+        {
+          "text": "Tạo tuyến bất thường, xâm nhập mô đệm"
+        },
+        {
+          "text": "Tế bào cơ trơn tăng sinh"
+        },
+        {
+          "text": "Mạch máu giãn rộng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Giai đoạn sớm của ung thư đại tràng:",
+      "options": [
+        {
+          "text": "Viêm mạn"
+        },
+        {
+          "text": "Carcinoma tại chỗ (in situ)"
+        },
+        {
+          "text": "U tuyến"
+        },
+        {
+          "text": "Nang tuyến"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư đại tràng bên phải thường gây:",
+      "options": [
+        {
+          "text": "Táo bón"
+        },
+        {
+          "text": "Thiếu máu, khối u không đau"
+        },
+        {
+          "text": "Tắc nghẽn cấp"
+        },
+        {
+          "text": "Viêm tụy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư bên trái đại tràng thường:",
+      "options": [
+        {
+          "text": "Gây tiêu chảy nặng"
+        },
+        {
+          "text": "Tắc ruột sớm, thay đổi thói quen đại tiện"
+        },
+        {
+          "text": "Không có triệu chứng"
+        },
+        {
+          "text": "Hoại tử gan"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hình ảnh \"ruột bút chì\" trên Xquang gợi ý:",
+      "options": [
+        {
+          "text": "Viêm ruột thừa"
+        },
+        {
+          "text": "Ung thư đại tràng bên trái"
+        },
+        {
+          "text": "Polyp nhỏ"
+        },
+        {
+          "text": "Tắc tá tràng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Di căn thường gặp nhất của ung thư đại tràng:",
+      "options": [
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Não"
+        },
+        {
+          "text": "Phổi"
+        },
+        {
+          "text": "Thận"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phân biệt mô học ung thư tuyến biệt hóa tốt:",
+      "options": [
+        {
+          "text": "Không tạo tuyến"
+        },
+        {
+          "text": "Tạo tuyến rõ, xâm nhập mô đệm"
+        },
+        {
+          "text": "Tạo nang"
+        },
+        {
+          "text": "Biểu mô lát"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư tuyến biệt hóa kém:",
+      "options": [
+        {
+          "text": "Tế bào sắp xếp tuyến chặt"
+        },
+        {
+          "text": "Ít tạo tuyến, tế bào dị dạng rõ"
+        },
+        {
+          "text": "Không xâm nhập"
+        },
+        {
+          "text": "Không loạn sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Xét nghiệm sàng lọc ung thư đại tràng phổ biến:",
+      "options": [
+        {
+          "text": "AFP"
+        },
+        {
+          "text": "FOBT (test máu ẩn trong phân)"
+        },
+        {
+          "text": "CA125"
+        },
+        {
+          "text": "Xét nghiệm đông máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp chẩn đoán xác định:",
+      "options": [
+        {
+          "text": "Siêu âm"
+        },
+        {
+          "text": "Xét nghiệm máu"
+        },
+        {
+          "text": "Nội soi đại tràng + sinh thiết mô học"
+        },
+        {
+          "text": "Xquang"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

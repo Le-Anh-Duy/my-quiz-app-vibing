@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "text": "Triệu chứng nào sau đây không phải là triệu chứng của viêm loét dạ dày:",
+      "options": [
+        {
+          "text": "Đau thượng vị"
+        },
+        {
+          "text": "Buồn nôn"
+        },
+        {
+          "text": "Ợ hơi"
+        },
+        {
+          "text": "Đau hạ vị"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Helicobacter pylori có liên quan đến bệnh lý nào:",
+      "options": [
+        {
+          "text": "Viêm loét dạ dày"
+        },
+        {
+          "text": "Ung thư dạ dày"
+        },
+        {
+          "text": "Viêm thực quản"
+        },
+        {
+          "text": "Cả a và b"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Xuất huyết tiêu hóa trên có biểu hiện nào sau đây:",
+      "options": [
+        {
+          "text": "Nôn ra máu"
+        },
+        {
+          "text": "Đi ngoài phân đen"
+        },
+        {
+          "text": "Đau bụng"
+        },
+        {
+          "text": "Cả a và b"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Gan to, vàng da, ngứa là triệu chứng của:",
+      "options": [
+        {
+          "text": "Viêm gan"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Sỏi mật"
+        },
+        {
+          "text": "Tất cả đều có thể"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Men gan tăng cao trong trường hợp nào:",
+      "options": [
+        {
+          "text": "Viêm gan cấp"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Ung thư gan"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào sau đây gợi ý viêm ruột thừa cấp:",
+      "options": [
+        {
+          "text": "Đau hố chậu phải"
+        },
+        {
+          "text": "Sốt"
+        },
+        {
+          "text": "Nôn"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh lý nào sau đây có thể gây vàng da tắc nghẽn:",
+      "options": [
+        {
+          "text": "Sỏi đường mật"
+        },
+        {
+          "text": "Ung thư đầu tụy"
+        },
+        {
+          "text": "Ung thư đường mật"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng điển hình của hội chứng ruột kích thích là:",
+      "options": [
+        {
+          "text": "Đau bụng giảm sau khi đi tiêu"
+        },
+        {
+          "text": "Tiêu chảy xen kẽ táo bón"
+        },
+        {
+          "text": "Không có triệu chứng toàn thân"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Xét nghiệm nào sau đây quan trọng để chẩn đoán viêm tụy cấp:",
+      "options": [
+        {
+          "text": "Amylase máu"
+        },
+        {
+          "text": "Lipase máu"
+        },
+        {
+          "text": "Cả a và b"
+        },
+        {
+          "text": "Không có đáp án đúng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng nặng nhất của xơ gan là:",
+      "options": [
+        {
+          "text": "Cổ trướng"
+        },
+        {
+          "text": "Xuất huyết tiêu hóa do giãn tĩnh mạch thực quản"
+        },
+        {
+          "text": "Hôn mê gan"
+        },
+        {
+          "text": "Nhiễm trùng màng bụng"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

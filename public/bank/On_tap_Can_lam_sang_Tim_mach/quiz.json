@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "X quang ngực trong suy tim trái có hình ảnh, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Tái phân bố tuần hoàn phổi"
+        },
+        {
+          "text": "Đường Kerley B"
+        },
+        {
+          "text": "Phù phổi hình cánh bướm"
+        },
+        {
+          "text": "Mỏm tim bị đẩy xuống dưới và sang trái"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cận lâm sàng đầu tay để chẩn đoán xác định bệnh van tim là:",
+      "options": [
+        {
+          "text": "Điện tâm đồ"
+        },
+        {
+          "text": "X quang ngực"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "Thông tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cận lâm sàng nào là tiêu chuẩn vàng để chẩn đoán suy tim:",
+      "options": [
+        {
+          "text": "Điện tâm đồ"
+        },
+        {
+          "text": "X quang ngực"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "Men tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cận lâm sàng nào giúp đánh giá phân suất tống máu thất trái:",
+      "options": [
+        {
+          "text": "Điện tâm đồ"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "X quang ngực"
+        },
+        {
+          "text": "Chụp mạch vành"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ định Holter điện tâm đồ, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Theo dõi rối loạn nhịp tim"
+        },
+        {
+          "text": "Đánh giá hiệu quả thuốc chống loạn nhịp"
+        },
+        {
+          "text": "Chẩn đoán nguyên nhân ngất"
+        },
+        {
+          "text": "Đánh giá chức năng co bóp của tim"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cận lâm sàng nào giúp khảo sát sự thay đổi điện tim khi bệnh nhân gắng sức:",
+      "options": [
+        {
+          "text": "Điện tâm đồ thường"
+        },
+        {
+          "text": "Holter điện tâm đồ"
+        },
+        {
+          "text": "Nghiệm pháp gắng sức"
+        },
+        {
+          "text": "Siêu âm tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi bệnh nhân có triệu chứng đau ngực, cận lâm sàng nào cần được thực hiện đầu tiên:",
+      "options": [
+        {
+          "text": "Điện tâm đồ"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "Men tim"
+        },
+        {
+          "text": "Chụp mạch vành"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cận lâm sàng nào giúp xác định vùng cơ tim bị thiếu máu:",
+      "options": [
+        {
+          "text": "Điện tâm đồ"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "Xạ hình tưới máu cơ tim"
+        },
+        {
+          "text": "Chụp mạch vành"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Men tim nào được sử dụng phổ biến trong chẩn đoán nhồi máu cơ tim:",
+      "options": [
+        {
+          "text": "CK"
+        },
+        {
+          "text": "CK-MB"
+        },
+        {
+          "text": "Troponin"
+        },
+        {
+          "text": "Myoglobin"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Men tim nào giúp chẩn đoán tái nhồi máu cơ tim:",
+      "options": [
+        {
+          "text": "CK"
+        },
+        {
+          "text": "CK-MB"
+        },
+        {
+          "text": "Troponin"
+        },
+        {
+          "text": "Myoglobin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Siêu âm tim Doppler giúp đánh giá, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Chức năng tâm thu thất trái"
+        },
+        {
+          "text": "Chức năng van tim"
+        },
+        {
+          "text": "Áp lực động mạch phổi"
+        },
+        {
+          "text": "Mức độ hẹp của động mạch vành"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chụp cắt lớp vi tính mạch vành (MSCT) có ưu điểm, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Thủ thuật không xâm lấn"
+        },
+        {
+          "text": "Thời gian chụp nhanh"
+        },
+        {
+          "text": "Giá trị tiên đoán âm cao"
+        },
+        {
+          "text": "Có thể can thiệp mạch vành ngay khi phát hiện hẹp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "MRI tim có ưu thế hơn MSCT trong trường hợp, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Đánh giá sẹo cơ tim"
+        },
+        {
+          "text": "Bệnh cơ tim"
+        },
+        {
+          "text": "Bệnh nhân suy thận"
+        },
+        {
+          "text": "Đánh giá vôi hóa mạch vành"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong bệnh lý tim mạch, XQ ngực thẳng có giá trị, chọn câu ĐÚNG:",
+      "options": [
+        {
+          "text": "Đánh giá chính xác chức năng co bóp của tim"
+        },
+        {
+          "text": "Đánh giá mức độ hẹp van tim"
+        },
+        {
+          "text": "Đánh giá bóng tim và tuần hoàn phổi"
+        },
+        {
+          "text": "Chẩn đoán xác định nhồi máu cơ tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Siêu âm tim qua thành ngực khảo sát được, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Kích thước các buồng tim"
+        },
+        {
+          "text": "Chức năng co bóp cơ tim"
+        },
+        {
+          "text": "Tình trạng các van tim"
+        },
+        {
+          "text": "Hình ảnh trực tiếp động mạch vành"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghiệm pháp gắng sức có chống chỉ định, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Nhồi máu cơ tim cấp trong vòng 2 ngày"
+        },
+        {
+          "text": "Hẹp động mạch chủ nặng có triệu chứng"
+        },
+        {
+          "text": "Suy tim mất bù"
+        },
+        {
+          "text": "Đau thắt ngực ổn định"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thông tim phải giúp đánh giá, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Áp lực các buồng tim phải"
+        },
+        {
+          "text": "Áp lực động mạch phổi"
+        },
+        {
+          "text": "Cung lượng tim"
+        },
+        {
+          "text": "Mức độ hẹp động mạch vành"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chụp mạch vành qua da được chỉ định trong trường hợp, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Đau ngực không ổn định"
+        },
+        {
+          "text": "Nhồi máu cơ tim cấp có ST chênh lên"
+        },
+        {
+          "text": "Sau ngưng tim tuần hoàn"
+        },
+        {
+          "text": "Tầm soát bệnh mạch vành ở người không có triệu chứng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân gây tăng BNP:",
+      "options": [
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Suy thận"
+        },
+        {
+          "text": "Quá tải tuần hoàn"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "BNP có giá trị nhất trong:",
+      "options": [
+        {
+          "text": "Chẩn đoán xác định suy tim tâm thu"
+        },
+        {
+          "text": "Chẩn đoán loại trừ suy tim"
+        },
+        {
+          "text": "Chẩn đoán nhồi máu cơ tim"
+        },
+        {
+          "text": "Chẩn đoán bệnh van tim"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Giá trị bình thường của Troponin Ths là:",
+      "options": [
+        {
+          "text": "10 ng/L"
+        },
+        {
+          "text": "12 ng/L"
+        },
+        {
+          "text": "14 ng/L"
+        },
+        {
+          "text": "16 ng/L"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh nhân nhồi máu cơ tim, Troponin bị âm tính giả trong trường hợp:",
+      "options": [
+        {
+          "text": "Đến quá muộn sau 24h"
+        },
+        {
+          "text": "Đến quá sớm"
+        },
+        {
+          "text": "Có suy thận"
+        },
+        {
+          "text": "Đã được điều trị trước đó"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cách cho xét nghiệm men tim Troponin trong chẩn đoán nhồi máu cơ tim:",
+      "options": [
+        {
+          "text": "Chỉ cần cho 1 lần"
+        },
+        {
+          "text": "Cho 2 lần cách nhau 5 phút"
+        },
+        {
+          "text": "Cho nhiều lần theo chuỗi"
+        },
+        {
+          "text": "Không cần cho men tim nếu đo điện tim bình thường"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Các nguyên nhân gây tăng Troponin, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Chỉ bệnh tim mạch"
+        },
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Suy thận"
+        },
+        {
+          "text": "Nhiễm trùng huyết"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các dấu hiệu điện tim của bệnh mạch vành:",
+      "options": [
+        {
+          "text": "ST chênh lên"
+        },
+        {
+          "text": "ST chênh xuống"
+        },
+        {
+          "text": "T âm sâu đối xứng"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Dùng nghiệm pháp gắng sức chẩn đoán bệnh mạch vành, chọn câu ĐÚNG:",
+      "options": [
+        {
+          "text": "Độ đặc hiệu cao"
+        },
+        {
+          "text": "Dương tính giả cao"
+        },
+        {
+          "text": "Độ đặc hiệu cao"
+        },
+        {
+          "text": "Rất chính xác"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dùng men CK-MB chẩn đoán nhồi máu cơ tim, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Hiện nay ít dùng"
+        },
+        {
+          "text": "Dương tính giả thấp"
+        },
+        {
+          "text": "Độ đặc hiệu thấp"
+        },
+        {
+          "text": "Không chính xác"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Muốn đánh giá sự nguyên vẹn hệ thống dẫn truyền xung động điện của tim cần cho cận lâm sàng nào:",
+      "options": [
+        {
+          "text": "Điện tim"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "XQ ngực"
+        },
+        {
+          "text": "Chụp mạch vành qua da"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Muốn đánh giá chính xác hệ mạch vành hẹp bao nhiêu phần trăm cần có cận lâm sàng nào:",
+      "options": [
+        {
+          "text": "Điện tim"
+        },
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "XQ ngực"
+        },
+        {
+          "text": "Chụp mạch vành qua da"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Giá trị của BNP:",
+      "options": [
+        {
+          "text": "Chẩn đoán loạn nhịp tim"
+        },
+        {
+          "text": "Chẩn đoán nhồi máu cơ tim"
+        },
+        {
+          "text": "Chẩn đoán suy tim"
+        },
+        {
+          "text": "Chẩn đoán bệnh van tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Giá trị của Troponin:",
+      "options": [
+        {
+          "text": "Chẩn đoán loạn nhịp tim"
+        },
+        {
+          "text": "Chẩn đoán nhồi máu cơ tim"
+        },
+        {
+          "text": "Chẩn đoán suy tim"
+        },
+        {
+          "text": "Chẩn đoán bệnh van tim"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các cận lâm sàng có thể chẩn đoán bệnh van tim, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Siêu âm tim"
+        },
+        {
+          "text": "XQ ngực"
+        },
+        {
+          "text": "Thông tim"
+        },
+        {
+          "text": "Men tim"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân đau thắt ngực nghi ngờ nhồi máu cơ tim, cận lâm sàng hỗ trợ chẩn đoán, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Điện tim"
+        },
+        {
+          "text": "Men tim"
+        },
+        {
+          "text": "XQ ngực"
+        },
+        {
+          "text": "Siêu âm tim"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chỉ định MRI tim:",
+      "options": [
+        {
+          "text": "Rối loạn nhịp tim"
+        },
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Viêm cơ tim"
+        },
+        {
+          "text": "Tất cả sai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng chụp mạch vành, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Tử vong"
+        },
+        {
+          "text": "Đột quỵ"
+        },
+        {
+          "text": "Tổn thương thận cấp"
+        },
+        {
+          "text": "Viêm cơ tim"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân có rối loạn nhịp tim, cận lâm sàng nào sau đây nên được chỉ định:",
+      "options": [
+        {
+          "text": "Chụp mạch vành"
+        },
+        {
+          "text": "Holter điện tâm đồ"
+        },
+        {
+          "text": "X quang ngực"
+        },
+        {
+          "text": "MRI tim"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hình ảnh bóng tim to trên X quang ngực gặp trong trường hợp:",
+      "options": [
+        {
+          "text": "Tràn dịch màng ngoài tim"
+        },
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Bệnh cơ tim giãn nở"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân nào sau đây gây ra dấu hiệu ST chênh lên lan tỏa trên điện tim:",
+      "options": [
+        {
+          "text": "Nhồi máu cơ tim cấp"
+        },
+        {
+          "text": "Viêm màng ngoài tim cấp"
+        },
+        {
+          "text": "Phình vách thất"
+        },
+        {
+          "text": "Tăng kali máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điện tim cấp cứu tại giường trong trường hợp nào, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Rối loạn nhịp tim"
+        },
+        {
+          "text": "Đau ngực cấp"
+        },
+        {
+          "text": "Rối loạn điện giải"
+        },
+        {
+          "text": "Tầm soát bệnh tim mạch"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các nguyên nhân gây dương tính giả Troponin, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Suy thận mạn"
+        },
+        {
+          "text": "Thuyên tắc phổi"
+        },
+        {
+          "text": "Nhiễm trùng huyết"
+        },
+        {
+          "text": "Đau thắt ngực ổn định"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "So sánh giữa NT-proBNP và BNP, chọn phát biểu ĐÚNG:",
+      "options": [
+        {
+          "text": "NT-proBNP có thời gian bán hủy ngắn hơn BNP"
+        },
+        {
+          "text": "Giá trị nồng độ của NT-proBNP thường thấp hơn BNP"
+        },
+        {
+          "text": "NT-proBNP có thời gian bán hủy dài hơn BNP"
+        },
+        {
+          "text": "Cả hai có giá trị chẩn đoán như nhau trong mọi tình huống"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "So sánh giữa Troponin Ths và Troponin I, chọn phát biểu ĐÚNG:",
+      "options": [
+        {
+          "text": "Troponin I nhạy hơn Troponin Ths"
+        },
+        {
+          "text": "Troponin Ths (độ nhạy cao) giúp phát hiện tổn thương cơ tim sớm hơn"
+        },
+        {
+          "text": "Cả hai có giá trị như nhau trong chẩn đoán sớm"
+        },
+        {
+          "text": "Troponin I đặc hiệu hơn cho tái nhồi máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ngưỡng tối ưu để loại trừ suy tim ở những bệnh nhân khởi phát cấp tính (suy tim cấp) là:",
+      "options": [
+        {
+          "text": "< 300 pg/mL với NT-proBNP"
+        },
+        {
+          "text": "< 50 pg/mL với BNP"
+        },
+        {
+          "text": "< 1000 pg/mL với NT-proBNP"
+        },
+        {
+          "text": "< 200 pg/mL với BNP"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn phát biểu KHÔNG ĐÚNG về men troponin:",
+      "options": [
+        {
+          "text": "Troponin khá đặc hiệu cho cơ tim"
+        },
+        {
+          "text": "Bắt đầu tăng khá sớm sau nhồi máu cơ tim"
+        },
+        {
+          "text": "Đạt đỉnh 3-6 giờ"
+        },
+        {
+          "text": "Nhồi máu cơ tim càng rộng, tăng troponin càng nhiều"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Các nguyên nhân có thể gây ra sóng Q bệnh lý trên điện tâm đồ:",
+      "options": [
+        {
+          "text": "Nhồi máu cơ tim cũ"
+        },
+        {
+          "text": "Bệnh cơ tim phì đại"
+        },
+        {
+          "text": "Hội chứng Wolff-Parkinson-White"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trên X quang ngực thẳng, hình ảnh cung nhĩ trái phồng gặp trong trường hợp nào:",
+      "options": [
+        {
+          "text": "Hẹp van hai lá"
+        },
+        {
+          "text": "Hở van hai lá"
+        },
+        {
+          "text": "Thông liên nhĩ"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trên X quang ngực thẳng, hình ảnh động mạch chủ phồng gặp trong bệnh lý nào:",
+      "options": [
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Hở van động mạch chủ"
+        },
+        {
+          "text": "Phình động mạch chủ"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân tăng áp tĩnh mạch phổi:",
+      "options": [
+        {
+          "text": "Bệnh phổi mạn"
+        },
+        {
+          "text": "Hở van ba lá"
+        },
+        {
+          "text": "Hẹp van động mạch phổi"
+        },
+        {
+          "text": "Hẹp van hai lá"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các mặt cắt cơ bản của siêu âm tim, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Cạnh ức trái trục dọc"
+        },
+        {
+          "text": "Cạnh ức trái trục ngang"
+        },
+        {
+          "text": "4 buồng từ mỏm tim"
+        },
+        {
+          "text": "Trên bờ sườn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Các dấu hiệu siêu âm tim trong hở van hai lá, chọn câu KHÔNG ĐÚNG:",
+      "options": [
+        {
+          "text": "Giãn nhĩ trái, thất trái"
+        },
+        {
+          "text": "Dòng hở hai lá trên Doppler màu"
+        },
+        {
+          "text": "Tăng phân suất tống máu thất trái"
+        },
+        {
+          "text": "Rối loạn vận động vùng"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

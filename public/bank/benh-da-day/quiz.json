@@ -1,0 +1,994 @@
+{
+  "questions": [
+    {
+      "text": "Viêm dạ dày cấp thường do nguyên nhân:",
+      "options": [
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Rượu, NSAIDs, stress nặng"
+        },
+        {
+          "text": "Sỏi mật"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tổn thương mô học đặc trưng trong viêm dạ dày cấp:",
+      "options": [
+        {
+          "text": "Hoại tử bã đậu"
+        },
+        {
+          "text": "Tăng sản tuyến đáy"
+        },
+        {
+          "text": "Phù nề, sung huyết, thấm nhập bạch cầu trung tính"
+        },
+        {
+          "text": "Tăng mô cơ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm dạ dày mạn type A liên quan đến:",
+      "options": [
+        {
+          "text": "Nhiễm H. pylori"
+        },
+        {
+          "text": "Tự miễn chống tế bào thành dạ dày"
+        },
+        {
+          "text": "Vi rút"
+        },
+        {
+          "text": "Tăng acid"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm dạ dày mạn type B phổ biến nhất do:",
+      "options": [
+        {
+          "text": "Stress"
+        },
+        {
+          "text": "Rượu"
+        },
+        {
+          "text": "H. pylori"
+        },
+        {
+          "text": "Tự miễn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Viêm dạ dày mạn có nguy cơ dẫn đến:",
+      "options": [
+        {
+          "text": "Viêm túi mật"
+        },
+        {
+          "text": "Tăng huyết áp"
+        },
+        {
+          "text": "Dị sản ruột, loạn sản, ung thư dạ dày"
+        },
+        {
+          "text": "Polyp đại tràng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dấu hiệu mô học của viêm mạn:",
+      "options": [
+        {
+          "text": "Bạch cầu ái toan"
+        },
+        {
+          "text": "Bạch cầu đa nhân trung tính"
+        },
+        {
+          "text": "Tế bào lympho, tương bào, mất tuyến"
+        },
+        {
+          "text": "U hạt không hoại tử"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong viêm dạ dày do H. pylori, vi khuẩn nằm ở:",
+      "options": [
+        {
+          "text": "Trong nhân tế bào"
+        },
+        {
+          "text": "Giữa lớp cơ niêm"
+        },
+        {
+          "text": "Trên bề mặt niêm mạc, xen giữa chất nhầy"
+        },
+        {
+          "text": "Trong lòng mạch"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một đặc điểm mô học gợi ý viêm dạ dày tự miễn:",
+      "options": [
+        {
+          "text": "Dị sản ruột ở vùng môn vị"
+        },
+        {
+          "text": "Mất tuyến đáy thân vị"
+        },
+        {
+          "text": "Tuyến đáy tăng sinh"
+        },
+        {
+          "text": "Nhiều bạch cầu ái kiềm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại tế bào bị phá huỷ trong viêm dạ dày type A:",
+      "options": [
+        {
+          "text": "Tế bào chính"
+        },
+        {
+          "text": "Tế bào G"
+        },
+        {
+          "text": "Tế bào thành"
+        },
+        {
+          "text": "Tế bào ưa bạc"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dị sản ruột là:",
+      "options": [
+        {
+          "text": "Chuyển sản tuyến nhầy sang biểu mô trụ tiết chất nhầy ruột"
+        },
+        {
+          "text": "Tăng sản cơ"
+        },
+        {
+          "text": "Dị sản vảy"
+        },
+        {
+          "text": "Loạn sản mô liên kết"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Viêm dạ dày có loét nông thường gặp ở:",
+      "options": [
+        {
+          "text": "Người không triệu chứng"
+        },
+        {
+          "text": "Người bị stress nặng, sốc, bỏng"
+        },
+        {
+          "text": "Trẻ nhỏ"
+        },
+        {
+          "text": "Bệnh nhân đái tháo đường"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân biệt viêm cấp và viêm mạn dựa vào:",
+      "options": [
+        {
+          "text": "Loại tế bào viêm xâm nhập"
+        },
+        {
+          "text": "Lượng dịch tiết"
+        },
+        {
+          "text": "Vị trí tổn thương"
+        },
+        {
+          "text": "Dấu hiệu lâm sàng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hậu quả dài hạn của viêm dạ dày tự miễn là:",
+      "options": [
+        {
+          "text": "U tuyến tuyến Barrett"
+        },
+        {
+          "text": "Thiếu máu ác tính do giảm hấp thu vitamin B12"
+        },
+        {
+          "text": "Tăng tiết acid"
+        },
+        {
+          "text": "Tăng hấp thu sắt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm dạ dày mạn vùng thân vị thường dẫn đến:",
+      "options": [
+        {
+          "text": "Viêm tụy"
+        },
+        {
+          "text": "Dị sản ruột"
+        },
+        {
+          "text": "Hội chứng Zollinger-Ellison"
+        },
+        {
+          "text": "Trào ngược dạ dày"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm dạ dày mạn có thể dẫn đến biến đổi nào nguy hiểm?",
+      "options": [
+        {
+          "text": "Viêm ruột thừa"
+        },
+        {
+          "text": "Thoát vị hoành"
+        },
+        {
+          "text": "Carcinôm tuyến dạ dày"
+        },
+        {
+          "text": "Giảm tiết insulin"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loét dạ dày là:",
+      "options": [
+        {
+          "text": "Viêm dạ dày lan tỏa"
+        },
+        {
+          "text": "Mất lớp niêm mạc xuyên qua lớp cơ niêm"
+        },
+        {
+          "text": "Phình giãn lòng dạ dày"
+        },
+        {
+          "text": "Viêm cấp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân chủ yếu gây loét dạ dày:",
+      "options": [
+        {
+          "text": "Tăng áp lực máu"
+        },
+        {
+          "text": "H. pylori và NSAIDs"
+        },
+        {
+          "text": "Rượu mạnh"
+        },
+        {
+          "text": "Stress cấp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương mô học điển hình trong loét:",
+      "options": [
+        {
+          "text": "Loét nông dừng ở biểu mô"
+        },
+        {
+          "text": "Mất cấu trúc niêm mạc + tổ chức hạt + mô xơ + viêm mạn"
+        },
+        {
+          "text": "Dị sản tuyến"
+        },
+        {
+          "text": "U hạt"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí loét dạ dày hay gặp nhất:",
+      "options": [
+        {
+          "text": "Vùng đáy vị"
+        },
+        {
+          "text": "Mặt trước bờ cong nhỏ vùng thân vị gần môn vị"
+        },
+        {
+          "text": "Bờ cong lớn"
+        },
+        {
+          "text": "Vùng tâm vị"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lớp nào bị tổn thương sâu nhất trong loét điển hình:",
+      "options": [
+        {
+          "text": "Lớp niêm mạc"
+        },
+        {
+          "text": "Lớp dưới niêm"
+        },
+        {
+          "text": "Lớp cơ"
+        },
+        {
+          "text": "Qua cả lớp cơ, tới thanh mạc"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Di chứng nguy hiểm nhất của loét dạ dày:",
+      "options": [
+        {
+          "text": "Giảm tiết acid"
+        },
+        {
+          "text": "Thủng dạ dày gây viêm phúc mạc"
+        },
+        {
+          "text": "Nôn nhiều"
+        },
+        {
+          "text": "Hội chứng kém hấp thu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loét lành có đặc điểm:",
+      "options": [
+        {
+          "text": "Viêm cấp nặng"
+        },
+        {
+          "text": "Biểu mô tăng sinh mạnh"
+        },
+        {
+          "text": "Tái tạo mô và mô sợi tổ chức hóa"
+        },
+        {
+          "text": "Tạo nang"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng không thuộc loét dạ dày:",
+      "options": [
+        {
+          "text": "Chảy máu"
+        },
+        {
+          "text": "Thủng"
+        },
+        {
+          "text": "Viêm tụy"
+        },
+        {
+          "text": "Hẹp môn vị"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố góp phần bảo vệ dạ dày:",
+      "options": [
+        {
+          "text": "H. pylori"
+        },
+        {
+          "text": "Mucin"
+        },
+        {
+          "text": "Pepsin"
+        },
+        {
+          "text": "Acid HCl"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học của loét dạ dày mạn:",
+      "options": [
+        {
+          "text": "Chứa mủ"
+        },
+        {
+          "text": "Bạch cầu trung tính"
+        },
+        {
+          "text": "Biểu mô lát tầng hóa sừng"
+        },
+        {
+          "text": "Mô hạt, xơ hóa, thâm nhiễm tế bào viêm mạn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Polyp dạ dày là:",
+      "options": [
+        {
+          "text": "Khối mô ác tính"
+        },
+        {
+          "text": "Sự xâm lấn mô liên kết"
+        },
+        {
+          "text": "Tổn thương dạng u lành phát triển từ niêm mạc dạ dày"
+        },
+        {
+          "text": "Tăng sản tuyến đáy"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại polyp dạ dày phổ biến nhất:",
+      "options": [
+        {
+          "text": "Polyp tăng sản"
+        },
+        {
+          "text": "Polyp tuyến"
+        },
+        {
+          "text": "Polyp viêm"
+        },
+        {
+          "text": "Polyp cơ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Polyp tuyến có nguy cơ:",
+      "options": [
+        {
+          "text": "Tự thoái triển"
+        },
+        {
+          "text": "Tăng tiết acid"
+        },
+        {
+          "text": "Chuyển dạng ác tính thành carcinôm tuyến"
+        },
+        {
+          "text": "Hoại tử"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nguy cơ gây polyp tuyến dạ dày:",
+      "options": [
+        {
+          "text": "Viêm tụy"
+        },
+        {
+          "text": "Loạn sản biểu mô niêm mạc"
+        },
+        {
+          "text": "Rối loạn điện giải"
+        },
+        {
+          "text": "Polyp đại tràng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp tăng sản thường liên quan đến:",
+      "options": [
+        {
+          "text": "Viêm dạ dày mạn tính"
+        },
+        {
+          "text": "Thiếu máu ác tính"
+        },
+        {
+          "text": "Stress cấp"
+        },
+        {
+          "text": "Tăng tiết gastrin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Về mô học, polyp tăng sản có đặc điểm:",
+      "options": [
+        {
+          "text": "Tuyến đồng đều, xếp đều"
+        },
+        {
+          "text": "Tuyến giãn, lượn sóng, không loạn sản"
+        },
+        {
+          "text": "Tế bào dị dạng"
+        },
+        {
+          "text": "Lớp cơ tăng sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp tuyến thường được chia thành:",
+      "options": [
+        {
+          "text": "2 loại"
+        },
+        {
+          "text": "3 loại"
+        },
+        {
+          "text": "4 loại"
+        },
+        {
+          "text": "Không phân loại"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp tuyến dạ dày có thể đi kèm:",
+      "options": [
+        {
+          "text": "Nhiễm nấm"
+        },
+        {
+          "text": "Hội chứng polyp toàn bộ đường tiêu hóa (FAP)"
+        },
+        {
+          "text": "Thiếu máu"
+        },
+        {
+          "text": "Viêm mủ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hội chứng FAP thường gây:",
+      "options": [
+        {
+          "text": "Polyp cơ"
+        },
+        {
+          "text": "Polyp lành tính không biến chứng"
+        },
+        {
+          "text": "Polyp tuyến dạ dày và nguy cơ ung thư cao"
+        },
+        {
+          "text": "Viêm loét đại tràng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Biến chứng thường gặp của polyp dạ dày:",
+      "options": [
+        {
+          "text": "Viêm tụy"
+        },
+        {
+          "text": "Tắc ruột"
+        },
+        {
+          "text": "Chảy máu, loét, chuyển dạng ác tính"
+        },
+        {
+          "text": "Tăng hấp thu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Polyp viêm thường liên quan đến:",
+      "options": [
+        {
+          "text": "Viêm gan"
+        },
+        {
+          "text": "Viêm niêm mạc dạ dày kéo dài"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Lao phổi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mô học polyp viêm cho thấy:",
+      "options": [
+        {
+          "text": "Tuyến dạng tuyến"
+        },
+        {
+          "text": "Thấm nhập bạch cầu đa nhân, mô sợi, mao mạch tăng sinh"
+        },
+        {
+          "text": "Dị sản vảy"
+        },
+        {
+          "text": "Hoại tử đông"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp dạ dày có kích thước nhỏ thường:",
+      "options": [
+        {
+          "text": "Di căn xa"
+        },
+        {
+          "text": "Tự thoái lui hoặc ổn định"
+        },
+        {
+          "text": "Tạo ổ áp xe"
+        },
+        {
+          "text": "Gây thủng dạ dày"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm giúp phân biệt polyp lành – ác:",
+      "options": [
+        {
+          "text": "Màu sắc"
+        },
+        {
+          "text": "Loại tuyến"
+        },
+        {
+          "text": "Loạn sản tế bào và phân bào bất thường"
+        },
+        {
+          "text": "Vị trí"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xử trí polyp dạ dày nghi ngờ ác tính:",
+      "options": [
+        {
+          "text": "Theo dõi mỗi 5 năm"
+        },
+        {
+          "text": "Uống kháng sinh"
+        },
+        {
+          "text": "Cắt bỏ nội soi để làm giải phẫu bệnh"
+        },
+        {
+          "text": "Điều trị nội khoa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại ung thư dạ dày phổ biến nhất:",
+      "options": [
+        {
+          "text": "Sarcoma"
+        },
+        {
+          "text": "Ung thư biểu mô tuyến (adenocarcinoma)"
+        },
+        {
+          "text": "Ung thư tế bào gai"
+        },
+        {
+          "text": "U lympho"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí ung thư dạ dày thường gặp:",
+      "options": [
+        {
+          "text": "Bờ cong lớn vùng tâm vị"
+        },
+        {
+          "text": "Bờ cong nhỏ vùng thân vị hoặc hang vị"
+        },
+        {
+          "text": "Dưới môn vị"
+        },
+        {
+          "text": "Thực quản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nguy cơ chính gây ung thư dạ dày:",
+      "options": [
+        {
+          "text": "Hút thuốc lá"
+        },
+        {
+          "text": "Nhiễm H. pylori mạn tính"
+        },
+        {
+          "text": "Uống sữa nhiều"
+        },
+        {
+          "text": "Thiếu vitamin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại ung thư dạ dày có liên quan đến viêm teo và dị sản ruột:",
+      "options": [
+        {
+          "text": "Carcinôm tuyến dạng ruột"
+        },
+        {
+          "text": "Carcinôm tế bào vảy"
+        },
+        {
+          "text": "Lymphoma"
+        },
+        {
+          "text": "Sarcoma"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dạng mô học của carcinôm tuyến dạng lan tỏa:",
+      "options": [
+        {
+          "text": "Tế bào kết dính mạnh"
+        },
+        {
+          "text": "Tế bào hình nhẫn (signet ring cells)"
+        },
+        {
+          "text": "Tế bào gai"
+        },
+        {
+          "text": "Tế bào nốt vôi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tế bào hình nhẫn có đặc điểm:",
+      "options": [
+        {
+          "text": "Nhân ở giữa, bào tương ít"
+        },
+        {
+          "text": "Nhân lệch về một phía, bào tương chứa nhầy"
+        },
+        {
+          "text": "Nhân đa thùy"
+        },
+        {
+          "text": "Nhân tăng sắc và lớn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư dạ dày lan tỏa thường xảy ra:",
+      "options": [
+        {
+          "text": "Người già, nam giới"
+        },
+        {
+          "text": "Người trẻ tuổi, không có viêm mạn rõ ràng"
+        },
+        {
+          "text": "Trẻ em"
+        },
+        {
+          "text": "Người có bệnh tự miễn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư dạ dày dạng ruột tiến triển theo:",
+      "options": [
+        {
+          "text": "Giai đoạn tuyến tính rõ rệt (in situ → xâm nhập)"
+        },
+        {
+          "text": "Tăng sinh cơ học"
+        },
+        {
+          "text": "Ung thư mạch máu"
+        },
+        {
+          "text": "Không phân biệt được"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm mô học của carcinôm tuyến dạ dày:",
+      "options": [
+        {
+          "text": "Cấu trúc dạng tuyến, dị sản, loạn sản, xâm nhập mô đệm"
+        },
+        {
+          "text": "Tăng sinh cơ trơn"
+        },
+        {
+          "text": "Dị sản vảy"
+        },
+        {
+          "text": "Hoại tử lan tỏa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Ung thư dạ dày giai đoạn muộn thường xâm nhập:",
+      "options": [
+        {
+          "text": "Lớp thanh mạc và lan theo mạch máu- bạch huyết"
+        },
+        {
+          "text": "Chỉ lớp niêm mạc"
+        },
+        {
+          "text": "Lớp dưới niêm"
+        },
+        {
+          "text": "Lớp cơ niêm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Biến chứng thường gặp của ung thư dạ dày:",
+      "options": [
+        {
+          "text": "Tăng tiết gastrin"
+        },
+        {
+          "text": "Hẹp môn vị, thủng, xuất huyết"
+        },
+        {
+          "text": "Trào ngược dạ dày thực quản"
+        },
+        {
+          "text": "Loét"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chẩn đoán xác định ung thư dạ dày dựa trên:",
+      "options": [
+        {
+          "text": "Hình ảnh X-quang"
+        },
+        {
+          "text": "Siêu âm"
+        },
+        {
+          "text": "Nội soi và sinh thiết giải phẫu bệnh"
+        },
+        {
+          "text": "Xét nghiệm máu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư dạ dày lan rộng có thể di căn đến:",
+      "options": [
+        {
+          "text": "Gan, hạch quanh dạ dày, buồng trứng"
+        },
+        {
+          "text": "Ruột non"
+        },
+        {
+          "text": "Lách"
+        },
+        {
+          "text": "Thận"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hội chứng Virchow liên quan đến:",
+      "options": [
+        {
+          "text": "Hạch thượng đòn trái di căn từ ung thư dạ dày"
+        },
+        {
+          "text": "Hạch bẹn"
+        },
+        {
+          "text": "Lách to"
+        },
+        {
+          "text": "Vàng da"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Loại ung thư dạ dày có tiên lượng xấu nhất:",
+      "options": [
+        {
+          "text": "Carcinôm tuyến dạng ruột"
+        },
+        {
+          "text": "Carcinôm tuyến dạng lan tỏa"
+        },
+        {
+          "text": "Lymphoma"
+        },
+        {
+          "text": "Polyp ác tính"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

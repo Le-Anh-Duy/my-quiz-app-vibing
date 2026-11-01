@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "text": "Thuật ngữ \"tân sinh\" (neoplasia) dùng để chỉ:",
+      "options": [
+        {
+          "text": "Sự chết tế bào theo chương trình"
+        },
+        {
+          "text": "Sự tăng sinh bất thường của mô"
+        },
+        {
+          "text": "Hiện tượng viêm cấp tính"
+        },
+        {
+          "text": "Sự sửa chữa mô tổn thương"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thành phần cơ bản của khối u bao gồm:",
+      "options": [
+        {
+          "text": "Chủ mô u và mô đệm"
+        },
+        {
+          "text": "Bạch cầu và hồng cầu"
+        },
+        {
+          "text": "Tiểu cầu và collagen"
+        },
+        {
+          "text": "Mạch máu và lympho bào"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điểm khác biệt chính giữa u lành tính và u ác tính là gì?",
+      "options": [
+        {
+          "text": "U ác tính có khả năng xâm lấn và di căn"
+        },
+        {
+          "text": "U lành tính luôn phát triển chậm hơn u ác tính"
+        },
+        {
+          "text": "U lành tính không cần phẫu thuật"
+        },
+        {
+          "text": "U ác tính có vỏ bao rõ ràng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Danh pháp của các khối u lành tính thường có hậu tố nào?",
+      "options": [
+        {
+          "text": "-sarcoma"
+        },
+        {
+          "text": "-carcinoma"
+        },
+        {
+          "text": "-oma"
+        },
+        {
+          "text": "-blastoma"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ví dụ nào dưới đây là u ác tính mặc dù có hậu tố \"-oma\"?",
+      "options": [
+        {
+          "text": "U xơ (fibroma)"
+        },
+        {
+          "text": "U mỡ (lipoma)"
+        },
+        {
+          "text": "U lympho (lymphoma)"
+        },
+        {
+          "text": "U tuyến (adenoma)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm của u lành tính là:",
+      "options": [
+        {
+          "text": "Giới hạn rõ ràng không xâm lấn"
+        },
+        {
+          "text": "Có khả năng di căn"
+        },
+        {
+          "text": "Phát triển rất nhanh"
+        },
+        {
+          "text": "Xâm nhập mạch máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U tuyến dạng nang (cystadenoma) thường gặp ở cơ quan nào?",
+      "options": [
+        {
+          "text": "Phổi"
+        },
+        {
+          "text": "Buồng trứng"
+        },
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Tim"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Polyp là gì?",
+      "options": [
+        {
+          "text": "U dạng nang"
+        },
+        {
+          "text": "U biểu mô có cấu trúc nhánh"
+        },
+        {
+          "text": "Khối u nhô lên trên bề mặt niêm mạc"
+        },
+        {
+          "text": "U xương lành tính"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U nào sau đây là một loại u lành tính của mô cơ trơn?",
+      "options": [
+        {
+          "text": "Osteoma"
+        },
+        {
+          "text": "Leiomyoma"
+        },
+        {
+          "text": "Lipoma"
+        },
+        {
+          "text": "Fibroma"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một u lành tính thường có đặc điểm nào sau đây trên vi thể?",
+      "options": [
+        {
+          "text": "Tế bào u có nhân lớn dị dạng"
+        },
+        {
+          "text": "Hoạt động phân bào bất thường"
+        },
+        {
+          "text": "Tế bào có biệt hóa tốt"
+        },
+        {
+          "text": "Xâm nhập mạch máu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm chính của u ác tính là:",
+      "options": [
+        {
+          "text": "Không có khả năng xâm lấn"
+        },
+        {
+          "text": "Phát triển chậm"
+        },
+        {
+          "text": "Xâm nhập mô xung quanh và có thể di căn"
+        },
+        {
+          "text": "Luôn có vỏ bao"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sarcoma là thuật ngữ dùng để chỉ:",
+      "options": [
+        {
+          "text": "U có nguồn gốc từ tế bào biểu mô"
+        },
+        {
+          "text": "U có nguồn gốc từ mô liên kết"
+        },
+        {
+          "text": "U không biệt hóa"
+        },
+        {
+          "text": "U lành tính của tuyến"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư biểu mô tuyến (adenocarcinoma) có nguồn gốc từ:",
+      "options": [
+        {
+          "text": "Tế bào trung mô"
+        },
+        {
+          "text": "Tế bào biểu mô tuyến"
+        },
+        {
+          "text": "Tế bào máu"
+        },
+        {
+          "text": "Tế bào thần kinh"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm nào sau đây KHÔNG phải của u ác tính?",
+      "options": [
+        {
+          "text": "Di căn"
+        },
+        {
+          "text": "Mất tính biệt hóa (thoái sản)"
+        },
+        {
+          "text": "Phát triển chậm và có vỏ bao"
+        },
+        {
+          "text": "Xâm nhập mô xung quanh"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "U ác tính có xu hướng phát triển nhanh do:",
+      "options": [
+        {
+          "text": "Hoạt động phân bào cao"
+        },
+        {
+          "text": "Giảm tín hiệu ức chế tăng trưởng"
+        },
+        {
+          "text": "Xâm nhập mạch máu"
+        },
+        {
+          "text": "Tất cả các yếu tố trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "U nào dưới đây có khả năng di căn cao nhất?",
+      "options": [
+        {
+          "text": "U xơ (fibroma)"
+        },
+        {
+          "text": "U mỡ (lipoma)"
+        },
+        {
+          "text": "Ung thư biểu mô tuyến (adenocarcinoma)"
+        },
+        {
+          "text": "U xương lành tính (osteoma)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Con đường lan truyền phổ biến nhất của carcinoma là:",
+      "options": [
+        {
+          "text": "Qua hệ bạch huyết"
+        },
+        {
+          "text": "Qua máu"
+        },
+        {
+          "text": "Qua khoang cơ thể"
+        },
+        {
+          "text": "Qua dây thần kinh"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sarcoma thường lan truyền theo con đường nào?",
+      "options": [
+        {
+          "text": "Hệ bạch huyết"
+        },
+        {
+          "text": "Đường máu"
+        },
+        {
+          "text": "Khoang cơ thể"
+        },
+        {
+          "text": "Không di căn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân có ung thư buồng trứng nhiều khả năng khối u sẽ lan qua con đường nào?",
+      "options": [
+        {
+          "text": "Hệ bạch huyết"
+        },
+        {
+          "text": "Xâm nhập mạch máu"
+        },
+        {
+          "text": "Lan rộng qua khoang phúc mạc"
+        },
+        {
+          "text": "Trực tiếp xâm lấn qua cơ quan kế cận"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "\"Pseudomyxoma peritonei\" là thuật ngữ mô tả tình trạng nào?",
+      "options": [
+        {
+          "text": "Ung thư buồng trứng lan qua hệ bạch huyết"
+        },
+        {
+          "text": "Sự lan rộng của chất nhầy từ khối u vào khoang phúc mạc"
+        },
+        {
+          "text": "Ung thư phổi di căn đến gan"
+        },
+        {
+          "text": "Sarcoma di căn qua đường máu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nào quyết định mức độ ác tính của một khối u?",
+      "options": [
+        {
+          "text": "Độ biệt hóa tế bào"
+        },
+        {
+          "text": "Tốc độ phát triển"
+        },
+        {
+          "text": "Khả năng xâm lấn và di căn"
+        },
+        {
+          "text": "Tất cả các yếu tố trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hệ thống TNM dùng để phân loại gì?",
+      "options": [
+        {
+          "text": "Độ biệt hóa khối u"
+        },
+        {
+          "text": "Giai đoạn bệnh ung thư"
+        },
+        {
+          "text": "Mức độ viêm của khối u"
+        },
+        {
+          "text": "Mức độ đáp ứng với hóa trị"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một khối u có di căn xa sẽ được xếp loại TNM ở mức độ nào?",
+      "options": [
+        {
+          "text": "T1"
+        },
+        {
+          "text": "N0"
+        },
+        {
+          "text": "M1"
+        },
+        {
+          "text": "G1"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dấu ấn ung thư nào được sử dụng để theo dõi ung thư tuyến tiền liệt?",
+      "options": [
+        {
+          "text": "CEA"
+        },
+        {
+          "text": "CA-125"
+        },
+        {
+          "text": "PSA"
+        },
+        {
+          "text": "AFP"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư vú có thể biểu hiện quá mức gen nào sau đây?",
+      "options": [
+        {
+          "text": "RB"
+        },
+        {
+          "text": "HER2/neu"
+        },
+        {
+          "text": "BRCA1"
+        },
+        {
+          "text": "APC"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp nào được coi là tiêu chuẩn vàng trong chẩn đoán ung thư?",
+      "options": [
+        {
+          "text": "Xét nghiệm máu"
+        },
+        {
+          "text": "Sinh thiết mô"
+        },
+        {
+          "text": "Chụp CT"
+        },
+        {
+          "text": "Xét nghiệm dấu ấn khối u"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp nào sau đây giúp xác định kiểu gen của tế bào ung thư?",
+      "options": [
+        {
+          "text": "Giải trình tự thế hệ mới (NGS)"
+        },
+        {
+          "text": "Chụp cộng hưởng từ (MRI)"
+        },
+        {
+          "text": "Sinh thiết lỏng"
+        },
+        {
+          "text": "A và C đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hệ thống TNM phân loại ung thư dựa trên yếu tố nào?",
+      "options": [
+        {
+          "text": "Độ biệt hóa tế bào"
+        },
+        {
+          "text": "Kích thước khối u di căn hạch di căn xa"
+        },
+        {
+          "text": "Tuổi bệnh nhân"
+        },
+        {
+          "text": "Phản ứng viêm của mô xung quanh"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu ấn khối u CA-125 được sử dụng để theo dõi ung thư nào?",
+      "options": [
+        {
+          "text": "Ung thư đại tràng"
+        },
+        {
+          "text": "Ung thư tuyến tiền liệt"
+        },
+        {
+          "text": "Ung thư buồng trứng"
+        },
+        {
+          "text": "Ung thư gan"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sinh thiết lỏng giúp phát hiện ung thư bằng cách:",
+      "options": [
+        {
+          "text": "Đo lượng kháng thể trong máu"
+        },
+        {
+          "text": "Phát hiện DNA của tế bào ung thư lưu hành trong máu"
+        },
+        {
+          "text": "Chụp ảnh mô bệnh"
+        },
+        {
+          "text": "Phân tích protein huyết thanh"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phương pháp nào sau đây KHÔNG phải là một phương pháp điều trị ung thư chính?",
+      "options": [
+        {
+          "text": "Phẫu thuật"
+        },
+        {
+          "text": "Hóa trị"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        },
+        {
+          "text": "Kháng sinh liều cao"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mục tiêu chính của phẫu thuật trong điều trị ung thư là gì?",
+      "options": [
+        {
+          "text": "Làm giảm triệu chứng đau"
+        },
+        {
+          "text": "Loại bỏ toàn bộ khối u"
+        },
+        {
+          "text": "Tăng cường hiệu quả hóa trị"
+        },
+        {
+          "text": "Ngăn ngừa hình thành di căn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hóa trị hoạt động theo cơ chế nào?",
+      "options": [
+        {
+          "text": "Giết chết các tế bào ung thư đang phân chia nhanh"
+        },
+        {
+          "text": "Tăng cường hệ miễn dịch chống ung thư"
+        },
+        {
+          "text": "Ngăn chặn sự hình thành mạch máu của khối u"
+        },
+        {
+          "text": "Ức chế hoạt động của tế bào gốc ung thư"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tác dụng phụ phổ biến nhất của hóa trị là gì?",
+      "options": [
+        {
+          "text": "Suy giảm miễn dịch"
+        },
+        {
+          "text": "Gây tổn thương thận"
+        },
+        {
+          "text": "Giảm huyết áp"
+        },
+        {
+          "text": "Gây loãng xương"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xạ trị tiêu diệt tế bào ung thư bằng cách nào?",
+      "options": [
+        {
+          "text": "Phá hủy DNA của tế bào ung thư"
+        },
+        {
+          "text": "Tăng tốc độ chết tế bào theo chương trình"
+        },
+        {
+          "text": "Kích thích hệ miễn dịch tiêu diệt tế bào ung thư"
+        },
+        {
+          "text": "Ức chế nguồn cung cấp năng lượng của tế bào"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệu pháp miễn dịch trong điều trị ung thư hoạt động bằng cách nào?",
+      "options": [
+        {
+          "text": "Kích hoạt hệ thống miễn dịch để tiêu diệt tế bào ung thư"
+        },
+        {
+          "text": "Tiêu diệt trực tiếp tế bào ung thư bằng thuốc"
+        },
+        {
+          "text": "Ức chế sự tăng sinh của tế bào ung thư"
+        },
+        {
+          "text": "Cản trở sự phát triển của khối u thông qua thiếu máu nuôi dưỡng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thuốc ức chế điểm kiểm soát miễn dịch (immune checkpoint inhibitors) hoạt động bằng cách nào?",
+      "options": [
+        {
+          "text": "Ngăn chặn sự ức chế của tế bào T"
+        },
+        {
+          "text": "Kích thích tế bào ung thư tự chết"
+        },
+        {
+          "text": "Phá hủy mạch máu nuôi khối u"
+        },
+        {
+          "text": "Giảm sự tăng sinh tế bào ung thư"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệu pháp nhắm đích (targeted therapy) khác với hóa trị truyền thống như thế nào?",
+      "options": [
+        {
+          "text": "Chỉ tác động vào tế bào ung thư có đột biến đặc hiệu"
+        },
+        {
+          "text": "Gây ít tác dụng phụ hơn hóa trị"
+        },
+        {
+          "text": "Không ảnh hưởng đến tế bào lành"
+        },
+        {
+          "text": "Cả A và B đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thuốc Imatinib (Gleevec) là liệu pháp nhắm đích được sử dụng để điều trị bệnh nào?",
+      "options": [
+        {
+          "text": "Ung thư phổi"
+        },
+        {
+          "text": "Bạch cầu dòng tủy mãn tính (CML)"
+        },
+        {
+          "text": "Ung thư gan"
+        },
+        {
+          "text": "Ung thư vú"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Liệu pháp kháng sinh có thể được sử dụng để điều trị ung thư nào?",
+      "options": [
+        {
+          "text": "Ung thư phổi"
+        },
+        {
+          "text": "Ung thư dạ dày do Helicobacter pylori"
+        },
+        {
+          "text": "Ung thư đại trực tràng"
+        },
+        {
+          "text": "Ung thư tuyến giáp"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}

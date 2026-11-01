@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Cơ chế chính của phì đại tế bào là gì?",
+      "options": [
+        {
+          "text": "Giảm tổng hợp protein"
+        },
+        {
+          "text": "Tăng phân hủy protein"
+        },
+        {
+          "text": "Gia tăng sản xuất protein và bào quan"
+        },
+        {
+          "text": "Thay thế tế bào chết bằng tế bào mới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tăng sản sinh lý của tuyến vú xảy ra trong tình huống nào?",
+      "options": [
+        {
+          "text": "Dậy thì"
+        },
+        {
+          "text": "Mãn kinh"
+        },
+        {
+          "text": "Hút thuốc lá kéo dài"
+        },
+        {
+          "text": "Thiếu oxy mô"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chuyển sản biểu mô trụ thành biểu mô vảy thường gặp trong tình trạng nào?",
+      "options": [
+        {
+          "text": "Hút thuốc lá mạn tính"
+        },
+        {
+          "text": "Tiểu đường"
+        },
+        {
+          "text": "Viêm gan siêu vi"
+        },
+        {
+          "text": "Bệnh gút"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Teo cơ do bất động lâu dài là do?",
+      "options": [
+        {
+          "text": "Giảm kích thước tế bào"
+        },
+        {
+          "text": "Tăng số lượng tế bào"
+        },
+        {
+          "text": "Hoại tử tế bào"
+        },
+        {
+          "text": "Đột biến gen"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong số các thay đổi thích nghi của tế bào, thay đổi nào có thể dẫn đến ung thư nếu kéo dài?",
+      "options": [
+        {
+          "text": "Phì đại"
+        },
+        {
+          "text": "Tăng sản"
+        },
+        {
+          "text": "Teo"
+        },
+        {
+          "text": "Chuyển sản"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tổn thương tế bào có thể hồi phục xảy ra khi?",
+      "options": [
+        {
+          "text": "Tế bào tiếp tục phân chia không kiểm soát"
+        },
+        {
+          "text": "Tế bào có thể phục hồi sau khi yếu tố gây stress được loại bỏ"
+        },
+        {
+          "text": "Tế bào chết ngay lập tức"
+        },
+        {
+          "text": "Hoại tử tế bào"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu sớm nhất của tổn thương tế bào có thể hồi phục là?",
+      "options": [
+        {
+          "text": "Mất nhân tế bào"
+        },
+        {
+          "text": "Tích tụ lipid"
+        },
+        {
+          "text": "Phù tế bào do rối loạn bơm Na+/K+"
+        },
+        {
+          "text": "Hoại tử đông"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tích tụ lipid trong tế bào thường gặp nhất ở cơ quan nào?",
+      "options": [
+        {
+          "text": "Phổi"
+        },
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Thận"
+        },
+        {
+          "text": "Tim"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân chính của phù tế bào trong tổn thương có thể hồi phục là?",
+      "options": [
+        {
+          "text": "Rối loạn bơm Na+/K+ ATPase"
+        },
+        {
+          "text": "Hoạt hóa quá mức lysosome"
+        },
+        {
+          "text": "Đột biến ADN"
+        },
+        {
+          "text": "Hoạt hóa quá mức enzym protease"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thiếu ATP trong tế bào sẽ ảnh hưởng đến?",
+      "options": [
+        {
+          "text": "Chuyển hóa lipid"
+        },
+        {
+          "text": "Cân bằng ion và nước"
+        },
+        {
+          "text": "Tổng hợp ADN"
+        },
+        {
+          "text": "Sự biệt hóa tế bào"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tổn thương không hồi phục dẫn đến?",
+      "options": [
+        {
+          "text": "Teo cơ"
+        },
+        {
+          "text": "Hoại tử hoặc apoptosis"
+        },
+        {
+          "text": "Phì đại"
+        },
+        {
+          "text": "Tăng sản"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hoại tử khác apoptosis ở điểm nào?",
+      "options": [
+        {
+          "text": "Hoại tử là quá trình có kiểm soát"
+        },
+        {
+          "text": "Apoptosis luôn gây viêm"
+        },
+        {
+          "text": "Hoại tử gây viêm còn apoptosis thì không"
+        },
+        {
+          "text": "Apoptosis không liên quan đến ty thể"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại hoại tử phổ biến trong nhồi máu cơ tim là?",
+      "options": [
+        {
+          "text": "Hoại tử đông"
+        },
+        {
+          "text": "Hoại tử lỏng"
+        },
+        {
+          "text": "Hoại tử mỡ"
+        },
+        {
+          "text": "Hoại tử hoại thư"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Apoptosis đóng vai trò quan trọng trong?",
+      "options": [
+        {
+          "text": "Quá trình viêm cấp tính"
+        },
+        {
+          "text": "Phát triển phôi thai"
+        },
+        {
+          "text": "Hình thành hoại tử đông"
+        },
+        {
+          "text": "Sự lan rộng của tế bào ung thư"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm của apoptosis là?",
+      "options": [
+        {
+          "text": "Gây phản ứng viêm mạnh"
+        },
+        {
+          "text": "Tế bào co lại và hình thành thể apoptotic"
+        },
+        {
+          "text": "Màng tế bào bị phá vỡ ngay lập tức"
+        },
+        {
+          "text": "Xảy ra do tổn thương cấp tính nghiêm trọng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thiếu máu cục bộ gây tổn thương tế bào chủ yếu do?",
+      "options": [
+        {
+          "text": "Giảm sản xuất ATP"
+        },
+        {
+          "text": "Rối loạn tổng hợp ADN"
+        },
+        {
+          "text": "Tăng tổng hợp protein"
+        },
+        {
+          "text": "Giảm hấp thu glucose"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tổn thương do tái tưới máu gây ra bởi?",
+      "options": [
+        {
+          "text": "Thiếu oxy kéo dài"
+        },
+        {
+          "text": "Sản xuất quá mức gốc tự do ROS"
+        },
+        {
+          "text": "Giảm phân hủy protein"
+        },
+        {
+          "text": "Hoạt hóa quá mức ty thể"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ứng dụng quan trọng của apoptosis trong điều trị ung thư là gì?",
+      "options": [
+        {
+          "text": "Ức chế quá trình apoptosis"
+        },
+        {
+          "text": "Kích thích apoptosis để tiêu diệt tế bào ung thư"
+        },
+        {
+          "text": "Gây hoại tử tế bào ung thư"
+        },
+        {
+          "text": "Ức chế miễn dịch để giảm viêm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Quá liều acetaminophen gây tổn thương tế bào theo cơ chế nào?",
+      "options": [
+        {
+          "text": "Gây tổn thương ADN trực tiếp"
+        },
+        {
+          "text": "Tạo ra chất trung gian độc hại làm cạn kiệt glutathione"
+        },
+        {
+          "text": "Hoạt hóa quá mức apoptosis"
+        },
+        {
+          "text": "Làm mất protein màng tế bào"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong bệnh Alzheimer, apoptosis bất thường có thể dẫn đến?",
+      "options": [
+        {
+          "text": "Tăng sinh tế bào thần kinh"
+        },
+        {
+          "text": "Mất tế bào thần kinh"
+        },
+        {
+          "text": "Giảm sản xuất amyloid-beta"
+        },
+        {
+          "text": "Tăng myelin hóa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "What is the primary cause of telomere shortening?",
+      "options": [
+        {
+          "text": "Increased ATP production"
+        },
+        {
+          "text": "Repeated cell division"
+        },
+        {
+          "text": "Activation of lysosomes"
+        },
+        {
+          "text": "Overexpression of growth factors"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Which enzyme maintains telomere length in stem cells?",
+      "options": [
+        {
+          "text": "DNA polymerase"
+        },
+        {
+          "text": "RNA polymerase"
+        },
+        {
+          "text": "Telomerase"
+        },
+        {
+          "text": "Caspase-3"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cellular autophagy is primarily triggered by:",
+      "options": [
+        {
+          "text": "DNA mutations"
+        },
+        {
+          "text": "Nutrient depletion"
+        },
+        {
+          "text": "Uncontrolled cell division"
+        },
+        {
+          "text": "Excessive ATP levels"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "What is a key function of autophagy in neurodegenerative diseases?",
+      "options": [
+        {
+          "text": "Promoting apoptosis"
+        },
+        {
+          "text": "Accumulating misfolded proteins"
+        },
+        {
+          "text": "Removing damaged organelles"
+        },
+        {
+          "text": "Increasing glucose uptake"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Reactive oxygen species (ROS) primarily cause cellular damage by:",
+      "options": [
+        {
+          "text": "Increasing DNA replication"
+        },
+        {
+          "text": "Oxidizing lipids, proteins, and DNA"
+        },
+        {
+          "text": "Enhancing protein synthesis"
+        },
+        {
+          "text": "Decreasing calcium levels"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Which antioxidant enzyme neutralizes hydrogen peroxide?",
+      "options": [
+        {
+          "text": "Superoxide dismutase"
+        },
+        {
+          "text": "Catalase"
+        },
+        {
+          "text": "Phospholipase"
+        },
+        {
+          "text": "Kinase"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "In ischemia-reperfusion injury, which mechanism contributes most to cell damage?",
+      "options": [
+        {
+          "text": "Increased blood flow"
+        },
+        {
+          "text": "Depletion of glucose"
+        },
+        {
+          "text": "Overproduction of ROS"
+        },
+        {
+          "text": "Decreased ATP synthesis"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "A smoker develops squamous metaplasia in the respiratory epithelium. This adaptation is an example of:",
+      "options": [
+        {
+          "text": "Atrophy"
+        },
+        {
+          "text": "Hyperplasia"
+        },
+        {
+          "text": "Metaplasia"
+        },
+        {
+          "text": "Dysplasia"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "A patient with myocardial infarction presents with coagulative necrosis. What is the main reason for this type of necrosis?",
+      "options": [
+        {
+          "text": "Lysosomal enzyme release"
+        },
+        {
+          "text": "Ischemia leading to protein denaturation"
+        },
+        {
+          "text": "Bacterial infection"
+        },
+        {
+          "text": "Autoimmune response"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "In cancer therapy, drugs that induce apoptosis in cancer cells mainly target which protein?",
+      "options": [
+        {
+          "text": "p53"
+        },
+        {
+          "text": "Actin"
+        },
+        {
+          "text": "Myosin"
+        },
+        {
+          "text": "Hemoglobin"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

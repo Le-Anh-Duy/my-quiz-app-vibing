@@ -1,0 +1,847 @@
+{
+  "questions": [
+    {
+      "text": "Kiểm tra hàm giả trước khi gắn vào miệng bệnh nhân nhằm mục đích:",
+      "options": [
+        {
+          "text": "Xác định những vùng vướng khi lắp hàm"
+        },
+        {
+          "text": "Loại bỏ những chổ bén nhọn có thể gây chấn thương mô mềm."
+        },
+        {
+          "text": "Loại bỏ những hạt nhựa nhỏ ở mặt tiếp xúc niêm mạc của hàm giả"
+        },
+        {
+          "text": "Tất cả đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi kiểm tra hàm giả, nếu phát hiện có những hạt nhựa nhỏ ở mặt tiếp xúc niêm mạc hàm giả bác sĩ phải:",
+      "options": [
+        {
+          "text": "Để nguyên vì nó không gây hại cho niêm mạc"
+        },
+        {
+          "text": "Mài cẩn thận những hạt nhựa này (mài vừa đủ để không gấy chấn thương mô"
+        },
+        {
+          "text": "Chỉ mài chọn lọc những hạt nhựa to có thể gây chấn thương mô"
+        },
+        {
+          "text": "Mài lõm xuống nền hàm để tránh gây chấn thương mô"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những yếu tố nào sau đây nếu không loại bỏ có thể gây chấn thương mô khi lắp lắm hàm giả?",
+      "options": [
+        {
+          "text": "Những hạt nhựa nhỏ ở mặt trong hàm giả"
+        },
+        {
+          "text": "Bờ hàm giả bén nhọn"
+        },
+        {
+          "text": "Đầu tận cùng tay móc nhọn"
+        },
+        {
+          "text": "Tất cả các yếu tố trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi lắp hàm giả tháo lắp bán hàm nền nhựa, bác sĩ phải:",
+      "options": [
+        {
+          "text": "Có thể phải điều chỉnh nền hàm giả."
+        },
+        {
+          "text": "Đệm hàm giả"
+        },
+        {
+          "text": "Điều chỉnh khớp cắn giống như phục hình toàn hàm"
+        },
+        {
+          "text": "Làm giảm chiều dài tay móc."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi điều chỉnh khớp cắn, bác sĩ cần phải kiểm tra:",
+      "options": [
+        {
+          "text": "Sự khít sát của nền hàm"
+        },
+        {
+          "text": "Kích thước dọc cắn khớp"
+        },
+        {
+          "text": "Độ lưu giữ của móc"
+        },
+        {
+          "text": "Thẩm mỹ của hàm giả"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi điều chỉnh khớp cắn, bác sĩ cần phải kiểm tra:",
+      "options": [
+        {
+          "text": "Sự khít sát của hàm giả"
+        },
+        {
+          "text": "Độ lưu giữ của móc"
+        },
+        {
+          "text": "Kích thước dọc khớp cắn"
+        },
+        {
+          "text": "Các điểm đau"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi mới mang hàm giả bán hàm nền nhựa, bệnh nhân thường gặp các khó khăn sau:",
+      "options": [
+        {
+          "text": "Nói ngọng"
+        },
+        {
+          "text": "Tiết nước bọt nhiều"
+        },
+        {
+          "text": "Cảm giác vật lạ trong miệng"
+        },
+        {
+          "text": "Tất cả các câu trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi mới mang hàm giả tháo lắp bán hàm, bệnh nhân phải được hướng dẫn :",
+      "options": [
+        {
+          "text": "Không nên mang thường xuyên"
+        },
+        {
+          "text": "Chỉ mang hàm giả khi ăn"
+        },
+        {
+          "text": "Nên giữ hàm giả thật khô và sạch"
+        },
+        {
+          "text": "Nên nói chậm, ăn thức ăn mềm."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi mới mang hàm giả tháo lắp bán hàm:",
+      "options": [
+        {
+          "text": "Không nên mang thường xuyên, chỉ mang hàm giả khi ăn"
+        },
+        {
+          "text": "Nên giữ hàm giả thật khô và sạch"
+        },
+        {
+          "text": "Nên nói chậm, ăn thức ăn mềm"
+        },
+        {
+          "text": "Nếu nước bọt tiết nhiều, nên tháo hàm giả ra"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vào buổi tái khám, bác sĩ nên:",
+      "options": [
+        {
+          "text": "Chỉ chú ý đến vấn đề đau của bệnh nhân"
+        },
+        {
+          "text": "Điều chỉnh thẩm mỹ là quan trọng"
+        },
+        {
+          "text": "Giải quyết những than phiền chính của bệnh nhân"
+        },
+        {
+          "text": "Mới bắt đầu mài điều chỉnh khớp cắn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trường hợp hai hàm tháo lắp bán hàm đối diện nhau, khớp cắn sẽ được điều chỉnh theo nguyên tắc:",
+      "options": [
+        {
+          "text": "Điều chỉnh một hàm trước, sau đó điều chỉnh hàm còn lại theo hàm kia."
+        },
+        {
+          "text": "Điều chỉnh hai hàm cùng lúc."
+        },
+        {
+          "text": "Điều chỉnh hàm nào chạm răng thật ít trước."
+        },
+        {
+          "text": "Nếu một hàm mất răng xen kẽ, một hàm mất răng sau cùng, sẽ điều chỉnh hàm mất răng sau cùng trước."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hướng dẫn nào sau đây là SAI khi hướng dẫn về cách sử dụng và bảo quản hàm giả:",
+      "options": [
+        {
+          "text": "Sau khi hàm giả đã được lắp vào đúng vị trí, bệnh nhân mới sử dụng hàm."
+        },
+        {
+          "text": "Thời gian đầu không mang hàm giả thường xuyên vì dễ bị đau."
+        },
+        {
+          "text": "Thực hiện chức năng từ dễ tới khó như ăn thức ăn mềm, nhai chậm."
+        },
+        {
+          "text": "Không nên ăn thức ăn quá thô, cứng như khi chưa mất răng."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đau tại chỗ của vùng mô mềm đang mang hàm giả, có thể do các nguyên nhân sau:",
+      "options": [
+        {
+          "text": "Dư bờ hàm"
+        },
+        {
+          "text": "Mặt tiếp xúc niêm mạc không chính xác"
+        },
+        {
+          "text": "Có điểm chạm sớm ở khớp cắn, cả tư thế tĩnh hoặc động của hàm giả"
+        },
+        {
+          "text": "Tất cả đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân than phiền hàm giả chỉ lỏng khi nhai thức ăn, nguyên nhân có thể là:",
+      "options": [
+        {
+          "text": "Bờ hàm dư quá nhiều."
+        },
+        {
+          "text": "Hình dạng hàm giả không thích hợp với hệ thống mô chung quanh."
+        },
+        {
+          "text": "Nền hàm không khít sát, móc không nằm trong vùng lẹm."
+        },
+        {
+          "text": "Thiếu thăng bằng khớp cắn."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hướng dẫn nào sau đây là SAI khi hướng dẫn về cách sử dụng và bảo quản hàm giả:",
+      "options": [
+        {
+          "text": "Sau khi hàm giả đã được lắp vào đúng vị trí, bệnh nhân mới sử dụng hàm."
+        },
+        {
+          "text": "Thời gian đầu không mang hàm giả thường xuyên vì dễ bị đau."
+        },
+        {
+          "text": "Thực hiện chức năng từ dễ tới khó như ăn thức ăn mềm, nhai chậm."
+        },
+        {
+          "text": "Không nên ăn thức ăn quá thô, cứng như khi chưa mất răng."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi điều chỉnh khớp cắn, BS cần ưu tiên chú ý đến:",
+      "options": [
+        {
+          "text": "Thẩm mỹ"
+        },
+        {
+          "text": "Kích thước dọc"
+        },
+        {
+          "text": "Sự khít sát của hàm"
+        },
+        {
+          "text": "Độ lưu giữ của móc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Có bao nhiêu nguyên tắc mài chỉnh khớp cắn:",
+      "options": [
+        {
+          "text": "10"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "12"
+        },
+        {
+          "text": "13"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân gây đau thường gặp ở bệnh nhân PHỤC HÌNH THÁO LẮPBH:",
+      "options": [
+        {
+          "text": "Thiếu bờ hàm."
+        },
+        {
+          "text": "Có điểm chạm sớm ở khớp cắn."
+        },
+        {
+          "text": "A và B đúng."
+        },
+        {
+          "text": "A và B sai."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước dọc quá cao sẽ gây khó phát âm chữ nào trong các chữ sau?",
+      "options": [
+        {
+          "text": "Chữ “b”"
+        },
+        {
+          "text": "Chữ “p”"
+        },
+        {
+          "text": "Chữ “s”"
+        },
+        {
+          "text": "A và B đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi mang hàm giả tháo lắp bán hàm nền nhựa, bệnh nhân gặp những khó khăn nào",
+      "options": [
+        {
+          "text": "Cảm giác vật lạ trong miệng"
+        },
+        {
+          "text": "Khó phát âm"
+        },
+        {
+          "text": "Buồn nôn"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thứ tự điều chỉnh khớp cắn:",
+      "options": [
+        {
+          "text": "Tái lập khớp cắn trung tâm đúng- tái lập kích thước dọc đúng- tái lập khớp cắn tới đúng- hoàn hảo cắn khớp làm việc và thăng bằng"
+        },
+        {
+          "text": "Tái lập kích thước dọc đúng- tái lập khơp cắn trung tâm đúng- tới lập khớp cắn tới đúng- hoàn hảo cắn khớp làm việc và thăng bằng"
+        },
+        {
+          "text": "Tái lập khớp cắn tới đúng- tái lập kích thước dọc đúng- hoàn hảo cắn khớp làm việc và thăng bằng- tái lớp khớp cắn trung tâm đúng"
+        },
+        {
+          "text": "Tái lập kích thước dọc đúng- tái lập khớp cắn trung tâm đúng- hoàn hảo cắn khớp làm việc và thăng bằng- tái lập khớp cắn tới đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thứ tự điều chỉnh khớp cắn:",
+      "options": [
+        {
+          "text": "(1) Tái lập kích thước dọc đúng"
+        },
+        {
+          "text": "(2) Hoàn hảo cắn khớp làm việc và thăng bằng"
+        },
+        {
+          "text": "(3) Tái lập kích thước ngang đúng"
+        },
+        {
+          "text": "(4) Tái lập khớp cắn trung tâm đúng"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "(5) Tái lập khớp cắn tới đúng",
+      "options": [
+        {
+          "text": "(1) -> (3) -> (4) -> (2)"
+        },
+        {
+          "text": "(1) -> (4) -> (2) ->(5)"
+        },
+        {
+          "text": "(3) -> (1) -> (4) -> (2)"
+        },
+        {
+          "text": "(1) -> (3) -> (4) -> (5)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nếu không có vấn đề về hàm giả, thời gian tái khám mỗi lần là bao lâu:",
+      "options": [
+        {
+          "text": "3 tháng"
+        },
+        {
+          "text": "6 tháng"
+        },
+        {
+          "text": "9 tháng"
+        },
+        {
+          "text": "12 tháng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Kích thước dọc cắn khít chính xác có được khi một khoảng hở sinh lý được kiểm tra bằng cách phát âm cụm từ:",
+      "options": [
+        {
+          "text": "Mississipi"
+        },
+        {
+          "text": "Violoncello"
+        },
+        {
+          "text": "Refrigerator"
+        },
+        {
+          "text": "Eastermankodak"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Răng sắp như thế nào sẽ tạo vẽ mặt dữ tợn:",
+      "options": [
+        {
+          "text": "Răng sắp đúng"
+        },
+        {
+          "text": "Răng sắp lui"
+        },
+        {
+          "text": "Răng sắp quá độ cắn phủ theo chiều dọc"
+        },
+        {
+          "text": "Răng lệch đường giữa"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi bệnh nhân mới sử dụng hàm giả PHỤC HÌNH THÁO LẮPBH nền nhựa đi tái khám than phiền rằng có vết loét trong miệng thì:",
+      "options": [
+        {
+          "text": "Điều trị thuốc giảm đau, giảm viêm rồi cho bệnh nhân ra về"
+        },
+        {
+          "text": "Điều chỉnh hàm giả (hạt nhựa, gai nhọn, khớp cắn…) ở mặt tiếp xúc niêm mạc rồi cho bệnh nhân ra về"
+        },
+        {
+          "text": "Điều chỉnh hàm giả (hạt nhựa, gai nhọn, khớp cắn…) ở mặt tiếp xúc niêm mạc, điều trị thuốc giảm đau, kháng viêm rồi cho bệnh nhân ra về"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Câu nào sau đây không đúng về việc sử dụng và bảo quản hàm giả?",
+      "options": [
+        {
+          "text": "Không nên tháo hàm giả khỏi miệng quá lâu"
+        },
+        {
+          "text": "Sau mỗi bữa ăn nên tháo hảm giả ra để vệ sinh"
+        },
+        {
+          "text": "Nên tháo hàm giả khi ngủ"
+        },
+        {
+          "text": "Không nên để hàm giả ngâm nước vì dễ gây biến dạng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong trường hợp hai hàm tháo lắp bán phần đối diện nhau, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Điều chỉnh khớp cắn trước, điều chỉnh mặt tiếp xúc với niêm mạc sau"
+        },
+        {
+          "text": "Điều chỉnh một hàm trước, sau đó điều chỉnh hàm còn lại theo hàm kia"
+        },
+        {
+          "text": "Nếu một hàm mất răng xen kẽ, một hàm mất răng sau cùng, sẽ điều chỉnh hàm mất răng  sau cùng trước"
+        },
+        {
+          "text": "Điều chỉnh hàm nào chạm răng thật nhiều trước."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong trường hợp bệnh nhân than ĐAU sau khi lắp hàm giả, thì phải điều chỉnh gì đầu tiên?",
+      "options": [
+        {
+          "text": "Điều chỉnh khớp cắn."
+        },
+        {
+          "text": "Điều chỉnh mặt tiếp xúc niêm mạc của hàm giả."
+        },
+        {
+          "text": "Điều chỉnh gối sáp."
+        },
+        {
+          "text": "Tất cả đều sai."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các nguyên nhân nào cần đòi hỏi mài chỉnh vùng có liên quan cho đến khi hết triệu chứng đau?",
+      "options": [
+        {
+          "text": "Dư bờ hàm"
+        },
+        {
+          "text": "Có điểm chạm sớm ở khớp cắn"
+        },
+        {
+          "text": "Bệnh nhân tháo, lắp hàm không đúng hướng"
+        },
+        {
+          "text": "Tất cả sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cách sử dụng và bảo quản hàm giả nào là đúng?",
+      "options": [
+        {
+          "text": "Không nên tháo hàm giả ra khỏi miệng quá lâu vì răng còn lại có thể bị di chuyển làm cho không lắp lại được."
+        },
+        {
+          "text": "Thời gian đầu nên mang ít để giảm đau."
+        },
+        {
+          "text": "Dù đã quen với hàm giả thì khi ngủ cũng phải mang hàm giả để tránh răng thật di chuyển về vị trí cũ."
+        },
+        {
+          "text": "Không cần vệ sinh hàm giả vì không cần thiết."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên tắc điều chỉnh khớp cắn, chọn thứ tự điều chỉnh ĐÚNG:\n1. Tái lập kích thước dọc đúng; 2. Hoàn hảo cắn khớp làm việc và thăng bằng;\n3.Tái lập KCTT đúng; 4. Tái lập khớp cắn tới đúng.",
+      "options": [
+        {
+          "text": "1,2,3,4"
+        },
+        {
+          "text": "1,3,2,4"
+        },
+        {
+          "text": "4,1,2,3"
+        },
+        {
+          "text": "3,2,1,4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong trường hợp hai hàm tháo lắp bán phần đối diện nhau, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Điều chỉnh khớp cắn trước, điều chỉnh mặt tiếp xúc với niêm mạc sau"
+        },
+        {
+          "text": "Điều chỉnh một hàm trước, sau đó điều chỉnh hàm còn lại theo hàm kia"
+        },
+        {
+          "text": "Nếu một hàm mất răng xen kẽ, một hàm mất răng sau cùng, sẽ điều chỉnh hàm mất răng  sau cùng trước"
+        },
+        {
+          "text": "Điều chỉnh hàm nào chạm răng thật nhiều trước."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thứ tự điều chỉnh khớp cắn:\n1.Tái lập khớp cắn trung tâm đúng\n2.Tái lập kích thước dọc đúng\n3.Tái lập khớp cắn tới đúng\n4.Hoàn hảo cắn khớp làm việc và thăng bằng",
+      "options": [
+        {
+          "text": "1-2-3-4"
+        },
+        {
+          "text": "2-1-4-3"
+        },
+        {
+          "text": "2-1-3-4"
+        },
+        {
+          "text": "3-2-1-4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên tắc điều chỉnh khớp cắn trong PHỤC HÌNH THÁO LẮPBH, chọn câu sai",
+      "options": [
+        {
+          "text": "Tái lập kích thước ngang đúng"
+        },
+        {
+          "text": "Tái lập khớp cắn trung tâm đúng"
+        },
+        {
+          "text": "Tái lập khớp cắn tới đúng"
+        },
+        {
+          "text": "Hoàn hảo cắn khớp làm việc và thăng bằng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi lực tác dụng theo chiều ngang hàm được giữ yên nhờ, chọn câu Sai",
+      "options": [
+        {
+          "text": "Nước bọt"
+        },
+        {
+          "text": "Sống hàm mất răng thuận lợi"
+        },
+        {
+          "text": "Nền hàm bao phủ cổ răng những răng còn lại, vòm khẩu cái"
+        },
+        {
+          "text": "Phần ôm và phần giữ của móc"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên nhân hàm giả bị bọng rổ:",
+      "options": [
+        {
+          "text": "Lợi giả quá dày"
+        },
+        {
+          "text": "Luộc quá nhanh"
+        },
+        {
+          "text": "Luộc khi nước còn quá nóng"
+        },
+        {
+          "text": "Bôi cách ly không tốt"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "e"
+    },
+    {
+      "text": "Cố định đường gãy theo lối trực tiếp khi:",
+      "options": [
+        {
+          "text": "Nền hàm nhỏ, khó chắp khớp"
+        },
+        {
+          "text": "Bệnh nhân đã tự sữa chữa"
+        },
+        {
+          "text": "Bệnh nhân vẫn dùng hàm thêm 1 thời gian làm đường gãy bị mòn"
+        },
+        {
+          "text": "Cả 3 câu trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân đau tại chỗ vùng mô mềm đang mang hàm giả là:",
+      "options": [
+        {
+          "text": "Dư bờ hàm"
+        },
+        {
+          "text": "Nướu giả bị lẹm quá mức"
+        },
+        {
+          "text": "Bệnh nhân tháo lắp hàm không đúng hướng"
+        },
+        {
+          "text": "Cả 3 đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân gây đau tại chỗ vùng mô mềm đang mang hàm giả là. Chọn câu sai:",
+      "options": [
+        {
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "text": "Có điểm chạm sớm ở khớp cắn"
+        },
+        {
+          "text": "Tay móc bị uốn cong khi làm vệ sinh hàm giả"
+        },
+        {
+          "text": "Mặt tiếp xúc niêm mạc không chính xác"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Những khó khăn khi mới mang hàm giả:",
+      "options": [
+        {
+          "text": "Khó phát âm nói ngọng"
+        },
+        {
+          "text": "Cảm giác buồn nôn"
+        },
+        {
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "text": "Cả 3 đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân không mang được hàm giả vì",
+      "options": [
+        {
+          "text": "Nước bọt tiết nhiều"
+        },
+        {
+          "text": "Tăng nhạy cảm ở vùng khẩu cái sau"
+        },
+        {
+          "text": "Có vị kim loại trong miệng"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cách xử lý khi bệnh nhân bị đau tại chỗ vùng môi mềm do mặt tiếp xúc niêm mạc không chính xác:",
+      "options": [
+        {
+          "text": "Mài chọn lọc khớp cắn cho đến khi hết điểm chạm sớm"
+        },
+        {
+          "text": "Hướng dẫn bệnh nhân cách tháo lắp hàm đúng"
+        },
+        {
+          "text": "Mài chỉnh vùng có liên quan cho đến khi hết hoàn toàn triệu chứng đau"
+        },
+        {
+          "text": "Thay móc bị hư hoặc làm lại hàm giả"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thứ tự điều chỉnh khớp cắn đúng :\n1. Tái lập khớp cắn trung tâm đúng; 2. Tái lập khớp cắn tới đúng; 3. Tái lập kích thước dọc đúng; 4. Hoàn hảo cắn khớp làm việc và thăng bằng",
+      "options": [
+        {
+          "text": "1234"
+        },
+        {
+          "text": "1324"
+        },
+        {
+          "text": "3142"
+        },
+        {
+          "text": "4132"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khớp cắn thăng bằng được áp dụng trong trường hợp mất răng:\n1. Mất răng trước\n2. Mất một phần răng sau\n3. Mất răng cối nhỏ\n4. Mất răng toàn bộ",
+      "options": [
+        {
+          "text": "1 đúng, 2 sai, 3 sai, 4 đúng"
+        },
+        {
+          "text": "1 sai, 2 đúng, 3 đúng, 4 sai"
+        },
+        {
+          "text": "1 sai, 2 đúng, 3 sai, 4 đúng"
+        },
+        {
+          "text": "1 đúng, 2 đúng, 3 sai, 4 sai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Kiểm tra hàm giả trước khi gắn vào miệng bệnh nhân nhằm mục đích loại bỏ tất cả những yếu tố có thể gây chấn thương mô.",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

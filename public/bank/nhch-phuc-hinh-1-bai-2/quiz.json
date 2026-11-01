@@ -1,0 +1,2649 @@
+{
+  "questions": [
+    {
+      "text": "Cấu trúc giải phẫu số 1 trong hình là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Thắng môi trên"
+        },
+        {
+          "text": "Thắng má"
+        },
+        {
+          "text": "Vân khẩu cái"
+        },
+        {
+          "text": "Ngách hành lang"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 2 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Thắng môi trên"
+        },
+        {
+          "text": "Núm răng cửa"
+        },
+        {
+          "text": "Núm khẩu cái"
+        },
+        {
+          "text": "Vân khẩu cái"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 3 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Núm răng cửa"
+        },
+        {
+          "text": "Núm khẩu cái"
+        },
+        {
+          "text": "Vân khẩu cái"
+        },
+        {
+          "text": "Đường nối giữa xương hàm trên"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 4 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Thắng má"
+        },
+        {
+          "text": "Ngách hành lang"
+        },
+        {
+          "text": "Sống hàm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 5 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Ngách hành lang"
+        },
+        {
+          "text": "Thắng má"
+        },
+        {
+          "text": "Sống hàm"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 6 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Sống hàm"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Lồi cùng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 7 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Nhú khẩu cái"
+        },
+        {
+          "text": "Torus"
+        },
+        {
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "text": "Khẩu cái"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 8 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Khẩu cái mềm"
+        },
+        {
+          "text": "Lỗ khẩu cái sau"
+        },
+        {
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "text": "Đường rung chữ “a”"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 9 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Đường rung chữ “a”"
+        },
+        {
+          "text": "Khẩu cái mềm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 10 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Đường rung chữ “a”"
+        },
+        {
+          "text": "Khẩu cái mềm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 11 trong hình bên là:",
+      "image": "images/image1.jpeg",
+      "options": [
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Đường rung chữ “a”"
+        },
+        {
+          "text": "Khẩu cái mềm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 1 trong hình bên là:",
+      "image": "images/image2.jpeg",
+      "options": [
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 2 trong hình bên là:",
+      "image": "images/image2.jpeg",
+      "options": [
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 3 trong hình bên là:",
+      "image": "images/image2.jpeg",
+      "options": [
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 4 trong hình bên là:",
+      "image": "images/image2.jpeg",
+      "options": [
+        {
+          "text": "Thắng lưỡi"
+        },
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Sàn miệng"
+        },
+        {
+          "text": "Hõm hậu hàm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 5 trong hình bên là:",
+      "image": "images/image2.jpeg",
+      "options": [
+        {
+          "text": "Thắng lưỡi"
+        },
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Thắng má"
+        },
+        {
+          "text": "Ngách hành lang"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cấu trúc giải phẫu số 6 trong hình bên là:",
+      "image": "images/image2.jpeg",
+      "options": [
+        {
+          "text": "Thắng lưỡi"
+        },
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Sàn miệng"
+        },
+        {
+          "text": "Hõm hậu hàm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hàm giả cũ",
+      "options": [
+        {
+          "text": "Không cần khám vì sau này sẽ bỏ đi."
+        },
+        {
+          "text": "Không có mối liên quan đến hàm giả mới."
+        },
+        {
+          "text": "Giúp xác định hình dáng, màu sắc, vị trí các răng đã mất"
+        },
+        {
+          "text": "Không cần hỏi ý kiến bệnh nhân về hàm cũ."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phát biểu nào sau đây là sai khi nói về hàm giả cũ?",
+      "options": [
+        {
+          "text": "Không cần khám vì sau này sẽ bỏ đi."
+        },
+        {
+          "text": "Dùng để tham khảo khi làm hàm giả mới."
+        },
+        {
+          "text": "Giúp xác định hình dáng, màu sắc, vị trí các răng đã mất."
+        },
+        {
+          "text": "Nên hỏi ý kiến bệnh nhân về hàm cũ."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Những gai xương bén nhọn trên sống hàm được phát hiện bằng cách",
+      "options": [
+        {
+          "text": "Hỏi bệnh nhân"
+        },
+        {
+          "text": "Nhìn"
+        },
+        {
+          "text": "Sờ"
+        },
+        {
+          "text": "Chụp X quang"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi khám cử động hàm dưới, bình thường lúc bệnh nhân há miệng, khoảng cách giữa hai cung hàm trên dưới là:",
+      "options": [
+        {
+          "text": "30 – 40 mm"
+        },
+        {
+          "text": "40 – 50 mm"
+        },
+        {
+          "text": "50 – 60 mm"
+        },
+        {
+          "text": ">60 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "text": "Độ overbite và độ overjet là 2mm"
+        },
+        {
+          "text": "Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới."
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 1 mm"
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 4 mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "text": "Độ overbite và độ overjet là 2mm"
+        },
+        {
+          "text": "Bờ cắn răng cửa trên hở với bờ cắn răng cửa dưới."
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 1 mm"
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 4 mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "text": "Độ overbite và độ overjet là 2mm"
+        },
+        {
+          "text": "Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới."
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 3 mm"
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 4 mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "text": "Độ overbite và độ overjet là 2mm"
+        },
+        {
+          "text": "Bờ cắn răng cửa trên hở với bờ cắn răng cửa dưới."
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 3 mm"
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 4 mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi khám bệnh nhân mất răng bán phần:",
+      "options": [
+        {
+          "text": "Phần thăm hỏi bệnh nhân về tên tuổi, địa chỉ nghề nghiệp, tiền sử chung, tiền sử răng miệng chỉ là hình thức, chỉ cần đặt trọng tâm vào việc khám các răng và các vùng khác trong miệng"
+        },
+        {
+          "text": "Khi lựa chọn kiểu phục hình để thực hiện ta cần ưu tiên nghĩ đến phục hình cố định rồi phục hình khung bộ rồi đến phục hình tháo lắp nền nhựa"
+        },
+        {
+          "text": "Việc khám cận lâm sàng bằng phim tia X chỉ cần thiết khi có những sang thương viêm nhiễm vùng chân răng trụ sẽ mang móc hoặc dùng làm trụ cầu"
+        },
+        {
+          "text": "Việc lấy dấu mẫu sơ khởi để đổ mẫu nghiên cứu chỉ cần thiết khi phải làm phục hình khung bộ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đối với bệnh nhân mất răng bán phần, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "text": "Phục hình cố định."
+        },
+        {
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "text": "Phục hình tháo lắp"
+        },
+        {
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đối với bệnh nhân mất răng bán phần, khi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "text": "Phục hình cố định"
+        },
+        {
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "text": "Phục hình tháo lắp"
+        },
+        {
+          "text": "Phục hình trên implant."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cử động của hàm dưới, bình thường lúc há miệng khoảng cách hai cung hàm trên và dưới là:",
+      "options": [
+        {
+          "text": "20 – 30 mm."
+        },
+        {
+          "text": "30 – 40 mm."
+        },
+        {
+          "text": "40 – 50 mm."
+        },
+        {
+          "text": "50 – 60 mm."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khớp cắn gọi là bình thường khi:",
+      "options": [
+        {
+          "text": "Bờ cắn răng cửa trên vừa chạm bờ cắn răng cửa dưới."
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 2 mm."
+        },
+        {
+          "text": "Độ cắn sâu là 3 mm và độ cắn hở là 2 mm."
+        },
+        {
+          "text": "Độ cắn sâu và độ cắn hở khoảng 4 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi khám cung hàm dưới, sống hàm tốt là:",
+      "options": [
+        {
+          "text": "Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương."
+        },
+        {
+          "text": "Có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương."
+        },
+        {
+          "text": "Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng"
+        },
+        {
+          "text": "Sống hàm cao còn cách lỗ cằm 1 mm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi khám cung hàm dưới, sống hàm tốt là:",
+      "options": [
+        {
+          "text": "Có xương ổ răng bị tiêu nhiều, hai triền phía má và phía lưỡi rộng."
+        },
+        {
+          "text": "Có xương ổ răng bị tiêu ít, hai triền phía má và phía lưỡi rộng, không có những phần lồi xương."
+        },
+        {
+          "text": "Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng"
+        },
+        {
+          "text": "Sống hàm cao còn cách lỗ cằm 1 mm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi khám cung hàm dưới, sống hàm tốt là:",
+      "options": [
+        {
+          "text": "Có xương ổ răng bị tiêu ít"
+        },
+        {
+          "text": "Hai triền phía má và phía lưỡi rộng,"
+        },
+        {
+          "text": "Không có những phần lồi xương."
+        },
+        {
+          "text": "Tất cả đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi khám cung hàm dưới, sống hàm tốt là (Chọn câu sai):",
+      "options": [
+        {
+          "text": "Có xương ổ răng bị tiêu ít"
+        },
+        {
+          "text": "Hai triền phía má và phía lưỡi rộng,"
+        },
+        {
+          "text": "Không có những phần lồi xương."
+        },
+        {
+          "text": "Sống hàm cao vừa phải, hai triền phía má và phía lưỡi nghiêng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi khám cung hàm dưới, sống hàm tốt là (Chọn câu sai):",
+      "options": [
+        {
+          "text": "Có xương ổ răng bị tiêu ít"
+        },
+        {
+          "text": "Hai triền phía má và phía lưỡi rộng,"
+        },
+        {
+          "text": "Không có những phần lồi xương."
+        },
+        {
+          "text": "Sống hàm cao còn cách lỗ cằm 1 mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi khám cung hàm dưới, sống hàm tốt là (Chọn câu sai):",
+      "options": [
+        {
+          "text": "Có xương ổ răng bị tiêu ít"
+        },
+        {
+          "text": "Hai triền phía má và phía lưỡi rộng,"
+        },
+        {
+          "text": "Không có những phần lồi xương."
+        },
+        {
+          "text": "Có lồi xương hàm dưới"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Torus hàm dưới thường gặp ở vị trí nào sau đây:",
+      "options": [
+        {
+          "text": "Mặt trong vùng răng cửa"
+        },
+        {
+          "text": "Mặt trong vùng răng nanh"
+        },
+        {
+          "text": "Mặt trong vùng răng cối nhỏ"
+        },
+        {
+          "text": "Mặt trong vùng răng cối lớn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Torus hàm dưới thường gặp ở vị trí nào sau đây:",
+      "options": [
+        {
+          "text": "Mặt ngoài vùng răng cửa"
+        },
+        {
+          "text": "Mặt trong vùng răng nanh"
+        },
+        {
+          "text": "Mặt trong vùng răng cối nhỏ"
+        },
+        {
+          "text": "Mặt trong vùng răng cối lớn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Torus hàm dưới thường gặp ở vị trí nào sau đây:",
+      "options": [
+        {
+          "text": "Mặt trong vùng răng cửa"
+        },
+        {
+          "text": "Mặt trong vùng răng nanh"
+        },
+        {
+          "text": "Mặt trong vùng răng cối nhỏ"
+        },
+        {
+          "text": "Mặt ngoài vùng răng cối lớn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Torus hàm dưới thường gặp ở vị trí nào sau đây:",
+      "options": [
+        {
+          "text": "Mặt ngoài vùng răng cửa"
+        },
+        {
+          "text": "Mặt ngoài vùng răng nanh"
+        },
+        {
+          "text": "Mặt trong vùng răng cối nhỏ"
+        },
+        {
+          "text": "Mặt trong vùng răng cối lớn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Torus hàm dưới thường gặp ở vị trí nào sau đây:",
+      "options": [
+        {
+          "text": "Mặt ngoài vùng răng cửa"
+        },
+        {
+          "text": "Mặt ngoài vùng răng nanh"
+        },
+        {
+          "text": "Mặt trong vùng răng cối nhỏ"
+        },
+        {
+          "text": "Mặt ngoài vùng răng cối lớn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sống hàm lý tưởng là:",
+      "options": [
+        {
+          "text": "Sống hàm cao, rộng."
+        },
+        {
+          "text": "Hai triền phía má và lưỡi song song nhau."
+        },
+        {
+          "text": "Không có u xương, không có vùng lẹm"
+        },
+        {
+          "text": "Tất cả các câu trên."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Sống hàm lý tưởng là:",
+      "options": [
+        {
+          "text": "Sống hàm cao, rộng, hai triền phía má và lưỡi song song nhau. Không có u xương, không có vùng lẹm."
+        },
+        {
+          "text": "Sống hàm thấp, hai triền phía má và lưỡi hội tụ."
+        },
+        {
+          "text": "Sống hàm thấp, hai triền phía má và lưỡi hội tụ. Không có u xương."
+        },
+        {
+          "text": "Sống hàm thấp, hai triền phía má và lưỡi hội tụ. Không có vùng lẹm."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sống hàm được coi là quá thấp khi:",
+      "options": [
+        {
+          "text": "Hai triền phía má và lưỡi thấp và nghiêng vào nhau."
+        },
+        {
+          "text": "Hai triền phía má và lưỡi hội tụ nhau."
+        },
+        {
+          "text": "Mào xương bằng phẳng không có độ cao."
+        },
+        {
+          "text": "Sống hàm lõm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lồi cùng tốt khi:",
+      "options": [
+        {
+          "text": "Hai triền phía hành lang và khẩu cái song song nhau."
+        },
+        {
+          "text": "Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng."
+        },
+        {
+          "text": "Lồi cùng quá to."
+        },
+        {
+          "text": "Lồi cùng lẹm."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lồi cùng có giá trị trung bình khi:",
+      "options": [
+        {
+          "text": "Hai triền phía hành lang và khẩu cái song song nhau."
+        },
+        {
+          "text": "Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng."
+        },
+        {
+          "text": "Lồi cùng quá to."
+        },
+        {
+          "text": "Lồi cùng lẹm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Lồi cùng có giá trị kém khi:",
+      "options": [
+        {
+          "text": "Hai triền phía hành lang và khẩu cái song song nhau."
+        },
+        {
+          "text": "Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng."
+        },
+        {
+          "text": "Không có một độ cao nào."
+        },
+        {
+          "text": "Lồi cùng lẹm."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lồi cùng có giá trị kém khi:",
+      "options": [
+        {
+          "text": "Hai triền phía hành lang và khẩu cái song song nhau."
+        },
+        {
+          "text": "Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng."
+        },
+        {
+          "text": "Không có một độ cao nào."
+        },
+        {
+          "text": "Lồi cùng quá to."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lồi cùng có giá trị kém khi:",
+      "options": [
+        {
+          "text": "Hai triền phía hành lang và khẩu cái song song nhau."
+        },
+        {
+          "text": "Hai triền phía hành lang và khẩu cái hơi thấp và nghiêng."
+        },
+        {
+          "text": "Không có một độ cao nào."
+        },
+        {
+          "text": "Lồi cùng quá to, lồi cùng lẹm."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vòm khẩu cái lý tưởng là:",
+      "options": [
+        {
+          "text": "Vòm khẩu rộng, không quá phẳng, không quá nhọn."
+        },
+        {
+          "text": "Vòm khẩu rộng, có torus trên vòm khẩu."
+        },
+        {
+          "text": "Vòm khẩu rộng trung bình, không quá nhọn."
+        },
+        {
+          "text": "Vòm khẩu không quá phẳng, không quá nhọn."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi mào xương không tiêu, gối hậu nha tạo một góc bao nhiêu độ so với đường đỉnh sống hàm ?",
+      "options": [
+        {
+          "text": "25 độ"
+        },
+        {
+          "text": "30 độ"
+        },
+        {
+          "text": "40 độ"
+        },
+        {
+          "text": "45 độ."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Gối hậu nha có giá trị cho việc nâng đỡ và giữ vững hàm khi:",
+      "options": [
+        {
+          "text": "Phần trước gối hậu nha săn chắc, có nhiều mô sợi."
+        },
+        {
+          "text": "Gối hậu nha tạo một góc 45 độ so với đường đỉnh sống hàm."
+        },
+        {
+          "text": "A và B đúng."
+        },
+        {
+          "text": "A và B sai."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Gối hậu nha có giá trị cho việc nâng đỡ và giữ vững hàm khi:",
+      "options": [
+        {
+          "text": "Phần trước gối hậu nha săn chắc, có nhiều mô sợi."
+        },
+        {
+          "text": "Gối hậu nha tạo một góc dưới 40 độ so với đường đỉnh sống hàm."
+        },
+        {
+          "text": "Niêm mạc bám vào xương lỏng lẻo."
+        },
+        {
+          "text": "Tất cả sai."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trường hợp mất răng sau đây:\n8    7    x   5    4   3   x    x   x   x    3    4    5     6    7     8\nkhi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "text": "Phục hình cố định."
+        },
+        {
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "text": "Phục hình tháo lắp bán phần nền nhựa"
+        },
+        {
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trường hợp mất răng sau đây:\nx    x    x   5    4   3   2    1   1   2    3    4    x     x    x     x\nkhi lựa chọn kiểu phục hình để thực hiện, ta cần ưu tiên nghĩ đến:",
+      "options": [
+        {
+          "text": "Phục hình cố định."
+        },
+        {
+          "text": "Phục hình khung bộ"
+        },
+        {
+          "text": "Phục hình tháo lắp bán phần nền nhựa"
+        },
+        {
+          "text": "Phục hình kết hợp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điền khuyết. Đường nối giữa xương hàm trên: nếu không có đường gờ, việc mang hàm giả ………………dưới tác động của lực ép. Nếu có đường gờ cần …… ………trên nền hàm.",
+      "options": [
+        {
+          "text": "Không bị đau/ tạo sự giảm nén."
+        },
+        {
+          "text": "Không bị đau/ mài hở"
+        },
+        {
+          "text": "Có thể bị đau/ tạo sự giảm nén"
+        },
+        {
+          "text": "Có thể bị đau/ khoét chữ U"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điền khuyết: Ở hàm phục hình tháo lắp bán phần nền nhựa, lực nhai được phân bố hoàn toàn lên …………………. . Trong khi ở hàm phục hình tháo lắp bán phần khung bộ, lực chức năng được phân bố lên…………………………",
+      "options": [
+        {
+          "text": "Mô niêm mạc/ mô nha chu"
+        },
+        {
+          "text": "Mô xương/ mô nha chu"
+        },
+        {
+          "text": "Mô niêm mạc - xương/ mô nha chu"
+        },
+        {
+          "text": "Mô niêm mạc – xương/ mô nha chu và mô xương- niêm mạc."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Sống hàm như thế nào gọi là lý tưởng?",
+      "options": [
+        {
+          "text": "Cao, rộng, triền phía má và lưỡi không song song nhau"
+        },
+        {
+          "text": "Thấp, hẹp, triền phía , má và lưỡi song song nhau"
+        },
+        {
+          "text": "Cao, rộng, triền phía má và lưỡi song song nhau"
+        },
+        {
+          "text": "Thấp, hai triền hội tụ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm là độ mấy?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khớp thái dương hàm bình thường, hàm dưới đưa ra trước được bao nhiêu?",
+      "options": [
+        {
+          "text": "5-7 mm"
+        },
+        {
+          "text": "5-9 mm"
+        },
+        {
+          "text": "5-8mm"
+        },
+        {
+          "text": "3-5mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khớp thái dương hàm bình thường, hàm dưới đưa sang phải hoặc sang trái được bao nhiêu?",
+      "options": [
+        {
+          "text": "5-7 mm"
+        },
+        {
+          "text": "5-8mm"
+        },
+        {
+          "text": "6-9mm"
+        },
+        {
+          "text": "4-7mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Overbite của khớp cắn sinh lý là bao nhiêu?",
+      "options": [
+        {
+          "text": "2-4mm"
+        },
+        {
+          "text": "4-6mm"
+        },
+        {
+          "text": "3-7mm"
+        },
+        {
+          "text": "3-5mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Răng có thể dùng làm trụ khi tỷ lên chiều cao thân răng và chân răng:",
+      "options": [
+        {
+          "text": "Nhỏ hơn 1."
+        },
+        {
+          "text": "Nhỏ hơn 2."
+        },
+        {
+          "text": "Lớn hơn 1."
+        },
+        {
+          "text": "Bằng 1."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Loại sống hàm nào thuận lợi cho sự ổn định và bám dính hàm giả:",
+      "options": [
+        {
+          "text": "Cao."
+        },
+        {
+          "text": "Thấp và cứng."
+        },
+        {
+          "text": "Thấp hình tam giác."
+        },
+        {
+          "text": "Phẳng."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "*Khi khám cử động bình thường, khoảng cách giữa hai cung hàm khi bệnh nhân há miệng thường là:",
+      "options": [
+        {
+          "text": "30-40 cm"
+        },
+        {
+          "text": "40-50 cm"
+        },
+        {
+          "text": "50-60 cm"
+        },
+        {
+          "text": ">60 cm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân Nguyễn Thị A, nữ, 63 tuổi, trên lâm sàng ghi nhận bằng mắt thường răng 46 lung lay khoảng 0,7mm, có thể kết luận R46 của bệnh nhân lung lay độ mấy?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Độ overjet, khi hàm dưới nằm ngoài hàm trên gọi là:",
+      "options": [
+        {
+          "text": "Móm."
+        },
+        {
+          "text": "Khớp cắn chéo."
+        },
+        {
+          "text": "Khớp cắn ngược."
+        },
+        {
+          "text": "Tất cả đều đúng."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Điều trị tiền phục hình gồm:",
+      "options": [
+        {
+          "text": "Điều chỉnh khớp cắn, mài bỏ các điểm chạm sớm."
+        },
+        {
+          "text": "Trám răng sâu, chữa các răng có vấn đề nội nha."
+        },
+        {
+          "text": "Phẫu thuật loại bỏ các răng ngầm."
+        },
+        {
+          "text": "Tất cả các phương án trên."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm giải phẫu không phải của hàm trên:",
+      "options": [
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Đường giữa xương hàm"
+        },
+        {
+          "text": "Thắng môi, thắng má"
+        },
+        {
+          "text": "Núm răng cửa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sống hàm lí tưởng",
+      "options": [
+        {
+          "text": "Cao, rộng, triền phía má và lưỡi song song nhau"
+        },
+        {
+          "text": "2 triền phía má và lưỡi hội tụ"
+        },
+        {
+          "text": "Có u xương và vùng lẹm"
+        },
+        {
+          "text": "Mào xương bằng phẳng không có độ cao"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi khám độ lung lay răng, độ lung lay có thể có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn câu đúng nhất. Những điểm mốc giải phẫu học của hàm trên là:",
+      "options": [
+        {
+          "text": "Đường rung chữ “a”, lồi cùng"
+        },
+        {
+          "text": "Rãnh chân bướm hàm, gối hậu nha"
+        },
+        {
+          "text": "Dây chằng chân bướm hàm, gối hậu nha"
+        },
+        {
+          "text": "Thắng lưỡi, Dây chằng chân bướm hàm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lồi cùng có giá trị trung bình khi",
+      "options": [
+        {
+          "text": "Khi hai triền phía hành lang và khẩu cái song song nhau"
+        },
+        {
+          "text": "Khi hai triền hơi thấp và nghiêng"
+        },
+        {
+          "text": "Khi không có một độ cao nào"
+        },
+        {
+          "text": "Lồi cùng quá to hay có vùng lẹm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sống hàm lý tưởng là",
+      "options": [
+        {
+          "text": "Cao, rộng, triền về phía má và lưỡi song song nhau"
+        },
+        {
+          "text": "Thấp, hai triền phía má và lưỡi hội tụ"
+        },
+        {
+          "text": "Mào xương bằng phẳng không có độ cao"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sống hàm lý tưởng khi:",
+      "options": [
+        {
+          "text": "Hai triền phía má và lưỡi hội tụ"
+        },
+        {
+          "text": "Mào xương bằng phẳng"
+        },
+        {
+          "text": "Cao, rộng, hai triền phía má và lưỡi song song"
+        },
+        {
+          "text": "Cao, rộng, hai triền phía má và lưỡi hội tụ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trường hợp lý tưởng của vòm khẩu cái trong phục hình tháo lắp bán phần",
+      "options": [
+        {
+          "text": "Vòm khẩu cái rộng"
+        },
+        {
+          "text": "Không quá phẳng"
+        },
+        {
+          "text": "Không quá nhọn"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Độ lung lay răng được chia làm mấy độ",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Câu nào không thuộc những mốc giải phẫu học của hàm trên?",
+      "options": [
+        {
+          "text": "Thắng môi."
+        },
+        {
+          "text": "Vùng Schroder."
+        },
+        {
+          "text": "Núm răng cửa."
+        },
+        {
+          "text": "Dây chằng chân bướm hàm."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Có bao nhiêu độ lung lay răng:",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Độ overjet bình thường là bao nhiêu:",
+      "options": [
+        {
+          "text": "1 mm"
+        },
+        {
+          "text": "2 mm"
+        },
+        {
+          "text": "3 mm"
+        },
+        {
+          "text": "4 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đâu là điểm mốc giải phẫu chỉ có ở hàm trên",
+      "options": [
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Thắng lưỡi"
+        },
+        {
+          "text": "Nhú khẩu cái"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đâu là điểm mốc giải phẫu chỉ có ở hàm dưới",
+      "options": [
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Vân khẩu cái"
+        },
+        {
+          "text": "Torus hàm trên"
+        },
+        {
+          "text": "Gối hậu nha"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thứ tự khám bệnh nhân làm phục hình tháo lắp bán phần:",
+      "options": [
+        {
+          "text": "Khám tổng quát, khám ngoài miệng, khám khớp thái dương hàm, khám trong miệng."
+        },
+        {
+          "text": "Khám tổng quát, khám ngoài miệng, khám trong miệng, khám khớp thái dương hàm"
+        },
+        {
+          "text": "Khám ngoài miệng, khám trong miệng, khám khớp thái dương hàm"
+        },
+        {
+          "text": "Khám tổng quát, khám trong miệng, khám khớp thái dương hàm, khám ngoài miệng."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nếu độ cắn phủ (overbite) của bệnh nhân hơn 4mm thì gọi là:",
+      "options": [
+        {
+          "text": "Cắn sâu"
+        },
+        {
+          "text": "Cắn hở"
+        },
+        {
+          "text": "Cắn đối đầu"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong khám độ lung lay răng được chia thành bao nhiêu độ:",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đâu không phải là điểm mốc giải phẫu ở hàm trên?",
+      "options": [
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chọn câu ĐÚNG:",
+      "options": [
+        {
+          "text": "Cần hỏi tuổi khi thăm khám để xác định yêu cầu làm hàm tháo lắp của bệnh nhân là thẩm mỹ hay ăn nhai"
+        },
+        {
+          "text": "Nghề nghiệp không ảnh hưởng đến yêu cầu thẩm mỹ khi làm hàm tháo lắp"
+        },
+        {
+          "text": "Thói quen xấu của bệnh nhân sẽ không ảnh hưởng đến hàm tháo lắp"
+        },
+        {
+          "text": "Bệnh nhân nên đeo cả hàm giả trong lúc khám"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phân độ lung lay của răng sau đây là SAI:",
+      "options": [
+        {
+          "text": "Độ 1: Chưa cảm thấy độ lung lay bằng tay"
+        },
+        {
+          "text": "Độ 2: Lung lay dưới 1mm"
+        },
+        {
+          "text": "Độ 3: Lung lay trên 1mm"
+        },
+        {
+          "text": "Độ 4: Lung lay theo 3 chiều trong không gian"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sống hàm nào sau đây được coi là lý tưởng:",
+      "options": [
+        {
+          "text": "Thành phía ngách tiền đình nghiêng nhiều hơn"
+        },
+        {
+          "text": "Rộng, cao, thành ngoài và trong gần như song song"
+        },
+        {
+          "text": "Xương ổ tiêu nhiều"
+        },
+        {
+          "text": "Đỉnh sống hàm ngang mức ngách tiền đình"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vòm khẩu cái lý tưởng:",
+      "options": [
+        {
+          "text": "Vòm khẩu cái rộng"
+        },
+        {
+          "text": "Có vùng lẹm để lưu giữ nền tạm"
+        },
+        {
+          "text": "Phẳng để chịu được lực nén"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các câu dưới đây câu nào sai khi nói về khám độ lung lây răng",
+      "options": [
+        {
+          "text": "Độ 4: Lung lây theo chiều thẳng đứng, răng không còn chức năng"
+        },
+        {
+          "text": "Độ 3: Lung lây hơn 1mm"
+        },
+        {
+          "text": "Độ 2: Lung lây có thể cảm nhận bằng mắt, độ lung lây nhỏ hơn 0.5mm"
+        },
+        {
+          "text": "Độ 1: Lung lây có thể cảm thấy bằng tay"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khoảng hở sinh lý của khớp cắn là bao nhiêu",
+      "options": [
+        {
+          "text": "0.5 – 1 mm"
+        },
+        {
+          "text": "1 – 2 mm"
+        },
+        {
+          "text": "2 – 3 mm"
+        },
+        {
+          "text": "3 – 4 mm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mức độ lung lay răng hơn 1mm?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khám độ lung lay răng có mấy độ?",
+      "options": [
+        {
+          "text": "3 độ"
+        },
+        {
+          "text": "4 độ"
+        },
+        {
+          "text": "5 độ"
+        },
+        {
+          "text": "6 độ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Độ 2 của khám độ lung lay răng là gì?",
+      "options": [
+        {
+          "text": "Lung lay có thể cảm thấy bằng tay"
+        },
+        {
+          "text": "Lung lay hơn 0,5mm."
+        },
+        {
+          "text": "Lung lay hơn 1mm."
+        },
+        {
+          "text": "Lung lay hơn 3mm."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Chọn câu đúng?",
+      "options": [
+        {
+          "text": "Hàm giả phải khít sát nơi bám của cơ và dây chằng."
+        },
+        {
+          "text": "Hàm giả sẽ bao phủ lồi cùng tới giới hạn rãnh chân bướm hàm."
+        },
+        {
+          "text": "Đỉnh sống hàm thường được phủ bởi lớp niêm mạc sợi săn chắc và triền về phía má của sống hàm là điểm gây bất lợi cho việc mang hàm giả."
+        },
+        {
+          "text": "Nếu lồi rắn quá lớn thì tạo hàm giả có hình dạng khớp với nó."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn đáp án đúng nhất khi nói về cắn khớp:",
+      "options": [
+        {
+          "text": "Độ overbite khoảng 2mm là bình thường, hơn 4mm là cắn sâu, không chạm là cắn hở"
+        },
+        {
+          "text": "Độ overjet khoảng 2mm là bình thường, hơn 4mm là hô"
+        },
+        {
+          "text": "Cắn khớp bình thường khi ngậm các rang cửa trên phủ các rang cửa dưới"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Lung lay răng độ 1 là:",
+      "options": [
+        {
+          "text": "Lung lay có thể cảm thấy bằng tay"
+        },
+        {
+          "text": "Lung lay có thể cảm thấy bằng tay, độ lung lay hơn 0,25mm"
+        },
+        {
+          "text": "Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm"
+        },
+        {
+          "text": "Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 1 mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điều kiện nào sau đây là lý tưởng để giúp nền hàm có sự bám dính tốt:",
+      "options": [
+        {
+          "text": "Sống hàm cao,rộng, triền má song song với triền phía lưỡi , không có u xương hay vùng lẹm"
+        },
+        {
+          "text": "Bệnh nhân có một torus hàm trên kích thước 2x3cm"
+        },
+        {
+          "text": "Lồi cầu không có một độ cao nào"
+        },
+        {
+          "text": "Sống hàm có triền phía má và triền phía lưỡi hội tụ với nhau"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lung lay răng được chia làm mấy cấp độ:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại sống hàm nào ổn định cho sự ổn định và bám dính của hàm giả :",
+      "options": [
+        {
+          "text": "Hẹp"
+        },
+        {
+          "text": "Cao"
+        },
+        {
+          "text": "Thấp hình tam giác"
+        },
+        {
+          "text": "Thấp và cứng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ở vòm miệng vùng nào có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc :",
+      "options": [
+        {
+          "text": "Gai cửa"
+        },
+        {
+          "text": "Schroder"
+        },
+        {
+          "text": "Vân khẩu cái"
+        },
+        {
+          "text": "đường nối giữa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mức độ lung lay răng hơn 1mm?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đâu là điểm mốc giải phẫu chỉ có ở hàm dưới:",
+      "options": [
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Thắng má"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đâu không phải là nội dung khám trong miệng:",
+      "options": [
+        {
+          "text": "Khám vòm khẩu cái"
+        },
+        {
+          "text": "Khám lồi cùng"
+        },
+        {
+          "text": "Khám khớp thái dương hàm"
+        },
+        {
+          "text": "Khám sống hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Câu SAI khi nói về khớp cắn bình thường:",
+      "options": [
+        {
+          "text": "Khớp cắn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới theo 2 chiều."
+        },
+        {
+          "text": "Độ overbite khoảng 2mm là bình thường"
+        },
+        {
+          "text": "Độ overjet hơn 4mm là cắn sâu"
+        },
+        {
+          "text": "Độ overbite không chạm là cắn hở"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điểm giải phẫu học có ở hàm dưới là:",
+      "options": [
+        {
+          "text": "Đường cung chữ a"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Dây chằng chân bướm hàm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Lung lay răng độ 3:",
+      "options": [
+        {
+          "text": "Lung lay có thể cảm thấy bằng tay"
+        },
+        {
+          "text": "Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm"
+        },
+        {
+          "text": "Lung lay hơn 1 mm"
+        },
+        {
+          "text": "Lung lay theo chiều đứng, răng không còn chức năng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mốc giải phẫu nào chỉ có ở hàm trên?",
+      "options": [
+        {
+          "text": "Thắng môi"
+        },
+        {
+          "text": "Thắng má"
+        },
+        {
+          "text": "Đường giữa xương hàm"
+        },
+        {
+          "text": "Đỉnh sống hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Eisenring là:",
+      "options": [
+        {
+          "text": "Đường nối giữa cần giảm nén"
+        },
+        {
+          "text": "Vùng ngách lợi mở rộng sát lồi cùng"
+        },
+        {
+          "text": "Vùng có nhiều tế bào mỡ và tuyến nước bọt dưới niêm mạc"
+        },
+        {
+          "text": "Vùng có biểu mô dày không có lớp dưới niêm mạc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sống hàm lý tưởng, chọn câu ĐÚNG:",
+      "options": [
+        {
+          "text": "Thấp, hẹp, triền phía má và lưỡi song song nhau, không có u xương và không có vùng lẹm."
+        },
+        {
+          "text": "Cao, rộng, triền phía má và lưỡi song song nhau, không có u xương và không có vùng lẹm."
+        },
+        {
+          "text": "Cao, rộng, triền phía má và lưỡi song song nhau, không có u xương và có vùng lẹm."
+        },
+        {
+          "text": "Cao, hẹp, triền phía má và lưỡi song song nhau, không có u xương và không có vùng lẹm."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Câu nào sau đây là đúng khi nói về độ overjet:",
+      "options": [
+        {
+          "text": "2 mm là bất thường, 4mm là cắn sâu"
+        },
+        {
+          "text": "4 mm là cắn hô, không chạm là cắn hở"
+        },
+        {
+          "text": "2 mm là cắn sâu, 4mm là cắn hở"
+        },
+        {
+          "text": "2 mm là bình thường, 4mm là cắn hô"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Lung lay răng độ 3 có nghĩa là:",
+      "options": [
+        {
+          "text": "Lung lay theo chiều thẳng đứng, răng không còn chức năng."
+        },
+        {
+          "text": "Lung lay theo chiều ngang có thể cảm nhận bằng tay."
+        },
+        {
+          "text": "Lung lay hơn 1mm."
+        },
+        {
+          "text": "Lung lay có thể cảm thấy bằng mắt."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi khám sống hàm ta nói tốt là khi:",
+      "options": [
+        {
+          "text": "Sống hàm cao còn cách lỗ cằm 1mm."
+        },
+        {
+          "text": "2 triền phía má và phía lưỡi hẹp, không có lồi xương."
+        },
+        {
+          "text": "Sống hàm cao vừa phải, 2 triềg phía má và phía lưỡi nghiêng."
+        },
+        {
+          "text": "Có xương ổ răng tiêu ít, không có những lồi xương."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Điều nào sau đây đúng khi nói về ảnh hưởng của lồi cùng lên hàm giả?",
+      "options": [
+        {
+          "text": "Lồi cùng cao giúp tăng sự lưu giữ hàm giả"
+        },
+        {
+          "text": "Lồi cùng tốt khi triền phía hành lang và khẩu cái càng hội tụ"
+        },
+        {
+          "text": "Lồi cùng càng to càng giúp giữ vững hàm giả trên cung hàm"
+        },
+        {
+          "text": "Lồi cùng có lẹm thuận lợi cho việc lưu giữ hàm giả"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi hỏi tiền sử răng miệng, cần chú ý những yếu tố gì, ngoại trừ:",
+      "options": [
+        {
+          "text": "Thời gian mất răng"
+        },
+        {
+          "text": "Đã từng mang hàm tháo lắp"
+        },
+        {
+          "text": "Bệnh lý nền"
+        },
+        {
+          "text": "Lý do xin làm hàm mới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cận lâm sàng cần làm khi làm PHỤC HÌNH THÁO LẮP?",
+      "options": [
+        {
+          "text": "Chụp X quang"
+        },
+        {
+          "text": "Siêu âm"
+        },
+        {
+          "text": "CT scan"
+        },
+        {
+          "text": "MRI"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi khám bệnh cho bệnh nhân mắc bệnh tiểu đường, bệnh tim, ung thư... Cần phải chú ý điều gì?",
+      "options": [
+        {
+          "text": "Cách gây tê"
+        },
+        {
+          "text": "Sắc mặt bệnh nhân"
+        },
+        {
+          "text": "Khả năng nhiễm trùng của bệnh nhân"
+        },
+        {
+          "text": "Cả A,C đúng (đ)"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Sống hàm lý tưởng là sống hàm như thế nào?",
+      "options": [
+        {
+          "text": "Cao, rộng, không u xương, có lẹm"
+        },
+        {
+          "text": "Cao, hẹp, không u xương, không lẹm"
+        },
+        {
+          "text": "Cao, triền phía má và lưỡi song song nhau(đ)"
+        },
+        {
+          "text": "Cao, triền phía má và lưỡi hội tụ, không u xương"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Khi khám độ lung lay răng: Lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm. Là độ mấy?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2(đ)"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Điều quan trọng nhất khi khai thác tiền sử răng miệng của bệnh nhân là gì?",
+      "options": [
+        {
+          "text": "Mất răng được bao lâu? Tại sao mất răng?"
+        },
+        {
+          "text": "Bệnh nhân đã được điều trị trước đó chưa?"
+        },
+        {
+          "text": "Có mang hàm giả chưa? Có dễ chịu hay không?"
+        },
+        {
+          "text": "Tại sao lại xin làm hàm khác?"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khớp cắn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới có:",
+      "options": [
+        {
+          "text": "Overbite và overjet khoảng 2mm"
+        },
+        {
+          "text": "Overbite và overjet khoảng 4mm"
+        },
+        {
+          "text": "Overbite khoảng 2mm và overjet khoảng 4mm"
+        },
+        {
+          "text": "Overbite khoảng 4mm và overjet khoảng 2mm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Răng lung có thể cảm thấy bằng mắt, độ lung lay hơn 0.5mm",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Gọi là cắn sâu khi Overbite",
+      "options": [
+        {
+          "text": "> 2mm"
+        },
+        {
+          "text": "> 3mm"
+        },
+        {
+          "text": "> 4mm"
+        },
+        {
+          "text": "> 5mm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điều nào sau đây KHÔNG đúng khi lựa chọn kiểu phục hình",
+      "options": [
+        {
+          "text": "Sau khi thu thập các dữ kiện lâm sàng có thể xem xét tổng hợp để có một kế hoạch điều trị phù hợp"
+        },
+        {
+          "text": "Khi độ dài của đoạn mất răng càng lớn, số lượng các răng trụ càng quan trọng"
+        },
+        {
+          "text": "Sau khi lựa chọn kiểu phục hình, cần điều trị tiền phục hình nếu có"
+        },
+        {
+          "text": "Phương pháp phục hình cố định luôn luôn được ưu tiên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng có thể cảm thấy bằng mắt, độ lung lay hơn 0,5 mm thì bác sĩ RHM kết luận lung lay độ mấy?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng có thể cảm thấy bằng mắt, độ lung lay hơn 1 mm thì bác sĩ RHM kết luận lung lay độ mấy?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong khám bệnh nhân phục hình tháo lắp, khi khám độ lung lay răng người ta chia thành bao nhiêu độ?",
+      "options": [
+        {
+          "text": "1 độ"
+        },
+        {
+          "text": "2 độ"
+        },
+        {
+          "text": "3 độ"
+        },
+        {
+          "text": "4 độ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khớp căn bình thường khi ngậm các răng cửa trên phủ các răng cửa dưới, sự phủ này tính theo mấy chiều",
+      "options": [
+        {
+          "text": "1 chiều"
+        },
+        {
+          "text": "2 chiều"
+        },
+        {
+          "text": "3 chiều"
+        },
+        {
+          "text": "Tất cả đều sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong khám bệnh nhân phục hình tháo lắp, có bao nhiêu mức độ lung lay răng.",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Những phần tử cơ thể và sinh lí bất lợi của hàm trên, ngoại trừ.",
+      "options": [
+        {
+          "text": "Dây chằng chân bướm hàm"
+        },
+        {
+          "text": "Vùng schrober"
+        },
+        {
+          "text": "Đường nối XHT"
+        },
+        {
+          "text": "Đường chéo trong"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Lung lay răng độ 3",
+      "options": [
+        {
+          "text": "Lung lay có thể cảm thấy bẳng tay"
+        },
+        {
+          "text": "Lung lay có thể cảm thấy bằng mắt , độ lung lay hơn 0,5 mm"
+        },
+        {
+          "text": "Lung lay hơn 1mm"
+        },
+        {
+          "text": "Lung lay theo chiều thẳng đứng, răng không còn chức năng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Độ lung lay răng được chia làm mấy độ:",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Thứ tự khám lâm sàng bệnh nhân phục hình tháo lắp bán hàm:\n1, Khám ngoài miệng\n2, Khám trong miệng\n3, Khám khớp thái dương hàm\n4, Khám tổng quát",
+      "options": [
+        {
+          "text": "1,3,4,2"
+        },
+        {
+          "text": "4,3,1,2"
+        },
+        {
+          "text": "4,1,3,2"
+        },
+        {
+          "text": "1,2,3,4"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm nào sau đây không có ở hàm dưới",
+      "options": [
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Thắng lưỡi"
+        },
+        {
+          "text": "Thắng môi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Silicon thuộc nhóm chất lấy khuôn nào:",
+      "options": [
+        {
+          "text": "Chất dẽo nhiệt"
+        },
+        {
+          "text": "Elastomer tổng hợp"
+        },
+        {
+          "text": "Thạch cao"
+        },
+        {
+          "text": "Collorit"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi khám độ lung lay răng, ở bệnh nhân có răng lung lay hơn 1mm thì ta đánh giá răng bệnh nhân lung lay mức độ mấy",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Độ lung lay bằng mắt là 0.7mm là",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Độ 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong đánh giá tỷ lệ chiều cao thân răng và chân răng, một răng có thể dùng làm trụ được khi tỷ lệ này:",
+      "options": [
+        {
+          "text": "Nhỏ hơn 1"
+        },
+        {
+          "text": "Lớn hơn 1"
+        },
+        {
+          "text": "Bằng 1"
+        },
+        {
+          "text": "Tất cả điều sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khoảng cách giữa 2 cung hàm trên dưới là bao nhiêu khi bị giãn dây chằng ở khớp thái dương hàm:",
+      "options": [
+        {
+          "text": "40mm"
+        },
+        {
+          "text": "< 40mm"
+        },
+        {
+          "text": "50mm"
+        },
+        {
+          "text": "> 50mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọn câu đúng. Khi khám độ lung lay răng:",
+      "options": [
+        {
+          "text": "Độ 1: lung lay hơn 1mm"
+        },
+        {
+          "text": "Độ 2: lung lay có thể cảm thấy bằng tay"
+        },
+        {
+          "text": "Độ 3: lung lay có thể cảm thấy bằng mắt, độ lung lay hơn 0,5mm"
+        },
+        {
+          "text": "Độ 4: lung lay theo chiều thẳng đứng, răng không còn chức năng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Răng lung lay theo chiều ngang 1.2mm được xếp vào mức độ nào",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi khám bệnh nhân mất răng bán phần, phần thăm hỏi chỉ là hình thức, chỉ cần đặt trọng tâm vào việc khám các răng và các vùng khác trong miệng.",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Việc khám cận lâm sàng bằng phim tia X chỉ cần thiết khi nghi ngờ có tổn thương vùng quanh chóp chân răng trụ sẽ mang móc hoặc dùng làm trụ cầu.",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Răng được chọn làm trụ phải có tỷ lệ chiều cao thân răng và chân răng nhỏ hơn 1",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi lựa chọn kiểu phục hình ta cần ưu tiên nghĩ đến phục hình cố định rồi đến phục hình khung bộ và cuối cùng là phục hình tháo lắp bán phần nền nhựa",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Việc điều trị tiền phục hình chỉ bao gồm lấy vôi răng, trám các răng sâu và nhổ các chân răng trên cung hàm.",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ở hàm phục hình tháo lắp bán phần nền nhựa, lực nhai được phân bố hoàn toàn lên mô niêm mạc - xương . Trong khi ở hàm phục hình tháo lắp bán phần khung bộ lực chức năng được phân bố lên mô nha chu và mô xương – niêm mạc.",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": null
+    }
+  ]
+}

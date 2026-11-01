@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "text": "Viêm hạch lymphô là gì?",
+      "options": [
+        {
+          "text": "Sự tăng sinh ác tính của hạch lymphô"
+        },
+        {
+          "text": "Tình trạng viêm của hạch bạch huyết"
+        },
+        {
+          "text": "Thoái hóa mỡ trong hạch bạch huyết"
+        },
+        {
+          "text": "Rối loạn miễn dịch của hệ bạch huyết"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm hạch lymphô cấp không đặc hiệu thường gặp nhất ở vị trí nào?",
+      "options": [
+        {
+          "text": "Hạch cổ và hạch nách"
+        },
+        {
+          "text": "Hạch trung thất"
+        },
+        {
+          "text": "Hạch ổ bụng"
+        },
+        {
+          "text": "Hạch chậu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất của viêm hạch lymphô cấp không đặc hiệu là?",
+      "options": [
+        {
+          "text": "Vi khuẩn liên cầu và tụ cầu"
+        },
+        {
+          "text": "Nhiễm nấm"
+        },
+        {
+          "text": "Nhiễm ký sinh trùng"
+        },
+        {
+          "text": "Nhiễm lao"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm mô học của viêm hạch lymphô cấp không đặc hiệu?",
+      "options": [
+        {
+          "text": "Trung tâm mầm lớn với thâm nhiễm bạch cầu trung tính"
+        },
+        {
+          "text": "Xơ hóa lan tỏa hạch lymphô"
+        },
+        {
+          "text": "Hoại tử đông đặc trung tâm hạch"
+        },
+        {
+          "text": "Sự tăng sinh quá mức của tế bào mast"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Viêm hạch lymphô do nhiễm virus thường có đặc điểm nào?",
+      "options": [
+        {
+          "text": "Chỉ ảnh hưởng một hạch đơn độc"
+        },
+        {
+          "text": "Viêm hạch lymphô toàn thân"
+        },
+        {
+          "text": "Gây hoại tử mỡ hạch lymphô"
+        },
+        {
+          "text": "Không gây ra triệu chứng toàn thân"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Viêm hạch lymphô mạn không đặc hiệu thường do nguyên nhân nào?",
+      "options": [
+        {
+          "text": "Vi khuẩn lao và giang mai"
+        },
+        {
+          "text": "Nhiễm virus cúm"
+        },
+        {
+          "text": "Chấn thương cơ học"
+        },
+        {
+          "text": "Nhiễm trùng cấp tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm của viêm hạch lymphô mạn?",
+      "options": [
+        {
+          "text": "Hạch sưng và đỏ đau"
+        },
+        {
+          "text": "Hạch to kéo dài và ít đau"
+        },
+        {
+          "text": "Hạch nhỏ lại sau vài ngày"
+        },
+        {
+          "text": "Hoại tử nhanh chóng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hội chứng HLH là gì?",
+      "options": [
+        {
+          "text": "Rối loạn tự miễn làm tiêu hủy hạch lymphô"
+        },
+        {
+          "text": "Kích hoạt quá mức của đại thực bào và tế bào T độc"
+        },
+        {
+          "text": "Quá trình xơ hóa hạch lymphô toàn thân"
+        },
+        {
+          "text": "Sự tăng sinh ác tính của tế bào B"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân phổ biến nhất gây HLH thứ phát là?",
+      "options": [
+        {
+          "text": "Nhiễm virus Epstein-Barr (EBV)"
+        },
+        {
+          "text": "Nhiễm khuẩn tụ cầu"
+        },
+        {
+          "text": "Thiếu hụt vitamin B12"
+        },
+        {
+          "text": "Mất nước nặng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tiêu chuẩn chính trong chẩn đoán HLH là gì?",
+      "options": [
+        {
+          "text": "Tăng ferritin máu"
+        },
+        {
+          "text": "Giảm hồng cầu đơn thuần"
+        },
+        {
+          "text": "Hạch lymphô teo nhỏ"
+        },
+        {
+          "text": "Tăng bạch cầu trung tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sinh thiết tủy xương của bệnh nhân HLH cho thấy đặc điểm nào?",
+      "options": [
+        {
+          "text": "Đại thực bào thực bào các tế bào máu"
+        },
+        {
+          "text": "Tăng sinh tế bào plasma"
+        },
+        {
+          "text": "Giảm sản xuất bạch cầu hạt"
+        },
+        {
+          "text": "Hoại tử mô mỡ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điều trị chính của HLH bao gồm?",
+      "options": [
+        {
+          "text": "Ức chế miễn dịch và chặn cytokine"
+        },
+        {
+          "text": "Dùng kháng sinh phổ rộng"
+        },
+        {
+          "text": "Xạ trị hạch lymphô"
+        },
+        {
+          "text": "Cắt bỏ hạch lymphô"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tân sinh lymphô bao gồm nhóm bệnh nào?",
+      "options": [
+        {
+          "text": "Bệnh bạch cầu và u lymphô và rối loạn tế bào huyết tương"
+        },
+        {
+          "text": "Chỉ bệnh bạch cầu"
+        },
+        {
+          "text": "Chỉ u lymphô"
+        },
+        {
+          "text": "Chỉ rối loạn tế bào huyết tương"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dấu hiệu đặc trưng của u lymphô Hodgkin là?",
+      "options": [
+        {
+          "text": "Tế bào Reed-Sternberg"
+        },
+        {
+          "text": "Hoại tử trung tâm hạch"
+        },
+        {
+          "text": "Sự xâm nhập bạch cầu trung tính"
+        },
+        {
+          "text": "Xơ hóa mạch máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dạng u lymphô không Hodgkin phổ biến nhất là?",
+      "options": [
+        {
+          "text": "U lymphô tế bào B lớn lan tỏa (DLBCL)"
+        },
+        {
+          "text": "U lymphô Burkitt"
+        },
+        {
+          "text": "U lymphô tế bào T ngoại vi"
+        },
+        {
+          "text": "Bệnh bạch cầu lymphô mạn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đột biến gen nào liên quan đến bệnh bạch cầu dòng tủy mạn (CML)?",
+      "options": [
+        {
+          "text": "BCR-ABL"
+        },
+        {
+          "text": "TP53"
+        },
+        {
+          "text": "RAS"
+        },
+        {
+          "text": "MYC"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U lymphô Burkitt có đặc điểm nào trên tiêu bản mô học?",
+      "options": [
+        {
+          "text": "Kiểu tăng sinh \"bầu trời đầy sao\" (starry sky pattern)"
+        },
+        {
+          "text": "Hoại tử trung tâm nang lymphô"
+        },
+        {
+          "text": "Xơ hóa lan tỏa"
+        },
+        {
+          "text": "Thâm nhiễm tế bào mast"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chuyển đoạn t(14;18) thường gặp trong loại u lymphô nào?",
+      "options": [
+        {
+          "text": "U lymphô nang (Follicular lymphoma)"
+        },
+        {
+          "text": "U lymphô Hodgkin"
+        },
+        {
+          "text": "Bệnh bạch cầu lymphô cấp tính (ALL)"
+        },
+        {
+          "text": "U lymphô tế bào T"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố nguy cơ môi trường gây bệnh bạch cầu tủy cấp tính (AML)?",
+      "options": [
+        {
+          "text": "Phơi nhiễm benzene"
+        },
+        {
+          "text": "Ăn thực phẩm nhiều muối"
+        },
+        {
+          "text": "Thiếu vitamin D"
+        },
+        {
+          "text": "Hút thuốc lá thụ động"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Virus Epstein-Barr (EBV) có liên quan đến loại u lymphô nào?",
+      "options": [
+        {
+          "text": "U lymphô Burkitt"
+        },
+        {
+          "text": "Bệnh bạch cầu tủy mạn"
+        },
+        {
+          "text": "U lymphô tế bào NK"
+        },
+        {
+          "text": "U lymphô Hodgkin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hội chứng thực bào lymphô-histiocyte máu (HLH) có thể dẫn đến biến chứng nào nghiêm trọng nhất?",
+      "options": [
+        {
+          "text": "Suy đa tạng"
+        },
+        {
+          "text": "Viêm hạch lymphô khu trú"
+        },
+        {
+          "text": "Tăng bạch cầu ái toan"
+        },
+        {
+          "text": "Giảm ferritin máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong bệnh bạch cầu lymphô cấp (ALL) và dấu ấn miễn dịch nào là đặc trưng của dòng tế bào B?",
+      "options": [
+        {
+          "text": "CD19"
+        },
+        {
+          "text": "CD3"
+        },
+        {
+          "text": "CD56"
+        },
+        {
+          "text": "CD8"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Biểu hiện lâm sàng phổ biến của u lymphô Hodgkin là gì?",
+      "options": [
+        {
+          "text": "Sưng hạch không đau"
+        },
+        {
+          "text": "Sốt kéo dài nhưng không sưng hạch"
+        },
+        {
+          "text": "Tăng bạch cầu trung tính"
+        },
+        {
+          "text": "Xuất huyết tự phát"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dạng u lymphô Hodgkin phổ biến nhất là?",
+      "options": [
+        {
+          "text": "Dạng xơ cục"
+        },
+        {
+          "text": "Dạng tế bào hỗn hợp"
+        },
+        {
+          "text": "Dạng giàu lymphô"
+        },
+        {
+          "text": "Dạng nghèo lymphô"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U lymphô không Hodgkin nào có liên quan chặt chẽ với vi khuẩn Helicobacter pylori?",
+      "options": [
+        {
+          "text": "U lymphô MALT dạ dày"
+        },
+        {
+          "text": "U lymphô Burkitt"
+        },
+        {
+          "text": "U lymphô tế bào T ngoại vi"
+        },
+        {
+          "text": "U lymphô tế bào B lớn lan tỏa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chỉ số nào thường tăng cao trong hội chứng thực bào lymphô-histiocyte máu (HLH)?",
+      "options": [
+        {
+          "text": "Ferritin"
+        },
+        {
+          "text": "Albumin"
+        },
+        {
+          "text": "Canxi"
+        },
+        {
+          "text": "Bạch cầu đa nhân trung tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tổn thương mô học điển hình của bệnh bạch cầu dòng tủy mạn (CML) là gì?",
+      "options": [
+        {
+          "text": "Tăng sinh dòng bạch cầu hạt"
+        },
+        {
+          "text": "Thâm nhiễm tế bào plasma"
+        },
+        {
+          "text": "Hoại tử lan tỏa"
+        },
+        {
+          "text": "Tăng sinh mô xơ trong tủy xương"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệu pháp điều trị nhắm trúng đích trong bệnh bạch cầu dòng tủy mạn (CML) sử dụng thuốc nào?",
+      "options": [
+        {
+          "text": "Imatinib"
+        },
+        {
+          "text": "Methotrexate"
+        },
+        {
+          "text": "Rituximab"
+        },
+        {
+          "text": "Vincristine"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong u lymphô tế bào B lớn lan tỏa (DLBCL) và xét nghiệm nào giúp phân biệt giữa các phân nhóm tiên lượng?",
+      "options": [
+        {
+          "text": "Xét nghiệm gen MYC và BCL2 và BCL6"
+        },
+        {
+          "text": "Đo hoạt độ men LDH"
+        },
+        {
+          "text": "Soi tủy đồ"
+        },
+        {
+          "text": "Miễn dịch hóa mô CD4 và CD8"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm quan trọng giúp phân biệt u lymphô Hodgkin với u lymphô không Hodgkin là gì?",
+      "options": [
+        {
+          "text": "Sự hiện diện của tế bào Reed-Sternberg"
+        },
+        {
+          "text": "Tổn thương lan tỏa ngoài hạch"
+        },
+        {
+          "text": "Sự xâm nhập mô kẽ của tế bào B nhỏ"
+        },
+        {
+          "text": "Mức độ xơ hóa hạch lymphô"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lymphoma là gì?",
+      "options": [
+        {
+          "text": "Bệnh lý ác tính của tế bào lympho"
+        },
+        {
+          "text": "Viêm hạch lymphô mạn tính"
+        },
+        {
+          "text": "Rối loạn miễn dịch nhẹ"
+        },
+        {
+          "text": "Nhiễm trùng hạch bạch huyết"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Loại u lymphô nào thường gặp nhất?",
+      "options": [
+        {
+          "text": "U lymphô tế bào B lớn lan tỏa (DLBCL)"
+        },
+        {
+          "text": "U lymphô Burkitt"
+        },
+        {
+          "text": "U lymphô tế bào T ngoại vi"
+        },
+        {
+          "text": "U lymphô Hodgkin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm tế bào đặc trưng của u lymphô Hodgkin là gì?",
+      "options": [
+        {
+          "text": "Tế bào Reed-Sternberg"
+        },
+        {
+          "text": "Tế bào Burkitt"
+        },
+        {
+          "text": "Tế bào plasma"
+        },
+        {
+          "text": "Tế bào mast"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong các phân nhóm u lymphô Hodgkin và loại nào phổ biến nhất?",
+      "options": [
+        {
+          "text": "Loại xơ cục"
+        },
+        {
+          "text": "Loại tế bào hỗn hợp"
+        },
+        {
+          "text": "Loại giàu lympho"
+        },
+        {
+          "text": "Loại nghèo lympho"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trong u lymphô Burkitt và chuyển đoạn nhiễm sắc thể nào thường gặp?",
+      "options": [
+        {
+          "text": "t(8;14) liên quan đến gen MYC"
+        },
+        {
+          "text": "t(14;18) liên quan đến gen BCL2"
+        },
+        {
+          "text": "t(9;22) liên quan đến BCR-ABL"
+        },
+        {
+          "text": "t(11;14) liên quan đến cyclin D1"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "U lymphô không Hodgkin nào có liên quan mật thiết với virus Epstein-Barr (EBV)?",
+      "options": [
+        {
+          "text": "U lymphô Burkitt"
+        },
+        {
+          "text": "U lymphô tế bào B lớn lan tỏa (DLBCL)"
+        },
+        {
+          "text": "U lymphô tế bào T ngoại vi"
+        },
+        {
+          "text": "Bệnh bạch cầu lympho mạn (CLL)"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dấu ấn miễn dịch nào phổ biến trong u lymphô tế bào B lớn lan tỏa (DLBCL)?",
+      "options": [
+        {
+          "text": "CD20"
+        },
+        {
+          "text": "CD3"
+        },
+        {
+          "text": "CD56"
+        },
+        {
+          "text": "CD117"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Triệu chứng \"B symptoms\" trong lymphoma bao gồm?",
+      "options": [
+        {
+          "text": "Sốt và đổ mồ hôi đêm và giảm cân không rõ nguyên nhân"
+        },
+        {
+          "text": "Ho dai dẳng và mệt mỏi và phát ban"
+        },
+        {
+          "text": "Đau khớp và gan lách to và phù nề"
+        },
+        {
+          "text": "Tiêu chảy kéo dài và đau bụng và sụt cân"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố tiên lượng quan trọng nhất trong u lymphô không Hodgkin là?",
+      "options": [
+        {
+          "text": "Chỉ số IPI (International Prognostic Index)"
+        },
+        {
+          "text": "Mức độ xâm lấn hạch lymphô"
+        },
+        {
+          "text": "Tình trạng miễn dịch bệnh nhân"
+        },
+        {
+          "text": "Số lượng bạch cầu trung tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệu pháp điều trị tiêu chuẩn cho u lymphô tế bào B lớn lan tỏa (DLBCL) là?",
+      "options": [
+        {
+          "text": "Hóa trị R-CHOP"
+        },
+        {
+          "text": "Xạ trị đơn thuần"
+        },
+        {
+          "text": "Liệu pháp miễn dịch đơn thuần"
+        },
+        {
+          "text": "Phẫu thuật cắt bỏ hạch"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

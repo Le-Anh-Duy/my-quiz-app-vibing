@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "text": "Đau đầu migraine có đặc điểm nào sau đây:",
+      "options": [
+        {
+          "text": "Đau một bên đầu"
+        },
+        {
+          "text": "Đau như búa bổ"
+        },
+        {
+          "text": "Kèm buồn nôn, sợ ánh sáng"
+        },
+        {
+          "text": "Cả a và c"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào sau đây gợi ý đột quỵ nhồi máu não:",
+      "options": [
+        {
+          "text": "Liệt nửa người đột ngột"
+        },
+        {
+          "text": "Nói ngọng"
+        },
+        {
+          "text": "Méo miệng"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh Parkinson có triệu chứng đặc trưng nào:",
+      "options": [
+        {
+          "text": "Run khi nghỉ"
+        },
+        {
+          "text": "Cứng cơ"
+        },
+        {
+          "text": "Chậm vận động"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào sau đây không phải của viêm màng não:",
+      "options": [
+        {
+          "text": "Đau đầu dữ dội"
+        },
+        {
+          "text": "Sốt cao"
+        },
+        {
+          "text": "Cứng gáy"
+        },
+        {
+          "text": "Liệt nửa người"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Động kinh có biểu hiện nào sau đây:",
+      "options": [
+        {
+          "text": "Co giật toàn thân"
+        },
+        {
+          "text": "Mất ý thức"
+        },
+        {
+          "text": "Ngã ra"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Dấu hiệu Babinski dương tính gặp trong tổn thương:",
+      "options": [
+        {
+          "text": "Đường vận động trung ương"
+        },
+        {
+          "text": "Đường vận động ngoại vi"
+        },
+        {
+          "text": "Tiểu não"
+        },
+        {
+          "text": "Thần kinh ngoại biên"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh lý nào sau đây gây run có chủ đích:",
+      "options": [
+        {
+          "text": "Bệnh Parkinson"
+        },
+        {
+          "text": "Cường giáp"
+        },
+        {
+          "text": "Run sinh lý"
+        },
+        {
+          "text": "Xơ cứng rải rác"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào sau đây gợi ý tăng áp lực nội sọ:",
+      "options": [
+        {
+          "text": "Đau đầu buổi sáng"
+        },
+        {
+          "text": "Nôn phun"
+        },
+        {
+          "text": "Phù gai thị"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất của đột quỵ não là:",
+      "options": [
+        {
+          "text": "Nhồi máu não"
+        },
+        {
+          "text": "Xuất huyết não"
+        },
+        {
+          "text": "Vỡ phình mạch"
+        },
+        {
+          "text": "Tắc mạch não"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dấu hiệu nào sau đây giúp phân biệt liệt trung ương và liệt ngoại vi:",
+      "options": [
+        {
+          "text": "Phản xạ gân xương"
+        },
+        {
+          "text": "Trương lực cơ"
+        },
+        {
+          "text": "Dấu hiệu Babinski"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": "d"
+    }
+  ]
+}

@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "text": "Cơ chế chính gây khó thở trong suy tim là:",
+      "options": [
+        {
+          "text": "Giảm áp lực cuối tâm trương thất trái"
+        },
+        {
+          "text": "Giảm áp lực mao mạch phổi"
+        },
+        {
+          "text": "Tăng áp lực cuối tâm trương thất trái dẫn đến ứ máu ở mao mạch phổi"
+        },
+        {
+          "text": "Giảm áp lực thủy tĩnh"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ chế khó thở khi gắng sức ở bệnh nhân suy tim là do:",
+      "options": [
+        {
+          "text": "Khi thất phải bơm máu lên phổi giảm dẫn đến giảm lượng máu được oxy hóa từ đó gây khó thở"
+        },
+        {
+          "text": "Thoát dịch từ mao mạch vào mô kẽ gây phù mô kẽ dẫn đến cản trở sự trao đổi khí"
+        },
+        {
+          "text": "Thoát dịch từ mao mạch vào phế nang làm giảm dung tích sống và khuếch tán khí"
+        },
+        {
+          "text": "Cơ thể cần nhu cầu oxy cao hơn mà tim thì không đáp ứng nổi dẫn đến tình trạng thiếu oxy từ đó gây khó thở"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cơ chế khó thở khi nằm ở bệnh nhân suy tim là do:",
+      "options": [
+        {
+          "text": "Thoát dịch từ mao mạch vào mô kẽ gây phù mô kẽ dẫn đến cản trở sự trao đổi khí"
+        },
+        {
+          "text": "Thoát dịch từ mao mạch vào phế nang làm giảm dung tích sống và khuếch tán khí"
+        },
+        {
+          "text": "Khi nằm đầu thấp thì lượng máu từ tim trở về phổi nhiều hơn nên làm tăng tình trạng xung huyết phổi"
+        },
+        {
+          "text": "Cơ thể cần nhu cầu oxy cao hơn mà tim thì không đáp ứng nổi dẫn đến tình trạng thiếu oxy từ đó gây khó thở"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cơ chế khó thở về đêm ở bệnh nhân suy tim là do:",
+      "options": [
+        {
+          "text": "Thoát dịch từ mao mạch vào mô kẽ gây phù mô kẽ dẫn đến cản trở sự trao đổi khí"
+        },
+        {
+          "text": "Thoát dịch từ mao mạch vào phế nang làm giảm dung tích sống và khuếch tán khí"
+        },
+        {
+          "text": "Khi nằm đầu thấp thì lượng máu từ tim trở về phổi nhiều hơn nên làm tăng tình trạng xung huyết phổi"
+        },
+        {
+          "text": "Thần kinh phó giao cảm sẽ hoạt động mạnh về đêm sẽ giảm cung lượng tim do giảm tần số tim từ đó gây ứ máu phổi tăng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khó thở trong suy tim xảy ra khi bệnh nhân nằm, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Khó thở sẽ hết hoặc giảm khi bệnh nhân ngồi dậy"
+        },
+        {
+          "text": "Bệnh nhân hết khó thở khi kê chân lên cao"
+        },
+        {
+          "text": "Bệnh nhân phải nằm đầu cao"
+        },
+        {
+          "text": "Bệnh nhân nặng thường ngủ ngồi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân gây ngất do tim, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Rối loạn nhịp"
+        },
+        {
+          "text": "Hẹp van động mạch chủ"
+        },
+        {
+          "text": "Bệnh cơ tim phì đại"
+        },
+        {
+          "text": "Hở van 2 lá"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tím trung ương thường gặp ở vị trí nào:",
+      "options": [
+        {
+          "text": "Đầu chi"
+        },
+        {
+          "text": "Vành tai"
+        },
+        {
+          "text": "Lưỡi"
+        },
+        {
+          "text": "Môi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tím ngoại biên thường gặp ở vị trí nào, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Đầu chi"
+        },
+        {
+          "text": "Vành tai"
+        },
+        {
+          "text": "Lưỡi"
+        },
+        {
+          "text": "Môi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phù trong suy tim, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Phù mềm"
+        },
+        {
+          "text": "Ấn lõm"
+        },
+        {
+          "text": "Phù 2 chi dưới"
+        },
+        {
+          "text": "Không đối xứng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tính chất đau ngực trong đau thắt ngực điển hình kiểu mạch vành:",
+      "options": [
+        {
+          "text": "Đau như dao đâm"
+        },
+        {
+          "text": "Đau nhói"
+        },
+        {
+          "text": "Đè nặng"
+        },
+        {
+          "text": "Đau rát"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố làm tăng cơn đau trong đau thắt ngực điển hình kiểu mạch vành, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Gắng sức"
+        },
+        {
+          "text": "Xúc cảm"
+        },
+        {
+          "text": "Nghỉ ngơi"
+        },
+        {
+          "text": "Thời tiết lạnh"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố làm giảm đau trong đau thắt ngực điển hình kiểu mạch vành, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Nghỉ ngơi"
+        },
+        {
+          "text": "Ngậm Nitroglycerin"
+        },
+        {
+          "text": "Thuốc giãn mạch vành"
+        },
+        {
+          "text": "Thuốc giảm đau"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Vị trí đau ngực trong nhồi máu cơ tim cấp thành dưới thường gặp:",
+      "options": [
+        {
+          "text": "Hạ sườn trái"
+        },
+        {
+          "text": "Sau xương ức"
+        },
+        {
+          "text": "Ngực trái"
+        },
+        {
+          "text": "Thượng vị"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hướng lan trong đau ngực điển hình kiểu mạch vành, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Vai"
+        },
+        {
+          "text": "Cằm"
+        },
+        {
+          "text": "Tay trái"
+        },
+        {
+          "text": "Chân"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Sờ mỏm tim để xác định:",
+      "options": [
+        {
+          "text": "Vị trí mỏm tim"
+        },
+        {
+          "text": "Tính chất mỏm tim"
+        },
+        {
+          "text": "Dấu hiệu Harzer"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mỏm tim đập bình thường ở:",
+      "options": [
+        {
+          "text": "Liên sườn 4 đường trung đòn phải"
+        },
+        {
+          "text": "Liên sườn 4-5 đường trung đòn trái"
+        },
+        {
+          "text": "Liên sườn 5 đường nách trước trái"
+        },
+        {
+          "text": "Liên sườn 5 đường nách giữa trái"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sờ có thể phát hiện diện đập bất thường của tim ở vị trí nào, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Liên sườn 2 cạnh ức phải"
+        },
+        {
+          "text": "Liên sườn 2 cạnh ức trái"
+        },
+        {
+          "text": "Liên sườn 3-4 cạnh ức trái"
+        },
+        {
+          "text": "Liên sườn 5-6 cạnh ức phải"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghe tim tiếng T1 là do:",
+      "options": [
+        {
+          "text": "Van động mạch chủ và van động mạch phổi đóng lại"
+        },
+        {
+          "text": "Van 2 lá và van 3 lá mở ra"
+        },
+        {
+          "text": "Van 2 lá và van 3 lá đóng lại"
+        },
+        {
+          "text": "Van động mạch chủ và van động mạch phổi mở ra"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghe tim tiếng T2 là do:",
+      "options": [
+        {
+          "text": "Van động mạch chủ và van động mạch phổi đóng lại"
+        },
+        {
+          "text": "Van 2 lá và van 3 lá mở ra"
+        },
+        {
+          "text": "Van 2 lá và van 3 lá đóng lại"
+        },
+        {
+          "text": "Van động mạch chủ và van động mạch phổi mở ra"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nghe tim tiếng T3 còn gọi là tiếng ngựa phi tâm trương, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Do máu đổ đầy thất nhanh vào 1 thất đã giãn"
+        },
+        {
+          "text": "Là dấu hiệu của suy tim"
+        },
+        {
+          "text": "Nghe rõ bằng màng ống nghe"
+        },
+        {
+          "text": "Nghe ở mỏm tim, tư thế nằm nghiêng trái"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghe tim tiếng T4 còn gọi là tiếng ngựa phi tâm thu, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Do nhĩ co bóp"
+        },
+        {
+          "text": "Nghe ở cuối tâm trương"
+        },
+        {
+          "text": "Do máu tống vào 1 thất không giãn được"
+        },
+        {
+          "text": "Nghe rõ bằng màng ống nghe"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghe tim tiếng click tống máu, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Nghe ở đầu thì tâm thu"
+        },
+        {
+          "text": "Gặp trong hẹp van động mạch chủ"
+        },
+        {
+          "text": "Gặp trong hẹp van 2 lá"
+        },
+        {
+          "text": "Gặp trong hẹp van động mạch phổi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghe tim tiếng clac mở van 2 lá, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Nghe ở đầu thì tâm trương"
+        },
+        {
+          "text": "Gặp trong hẹp van 2 lá"
+        },
+        {
+          "text": "Nghe rõ bằng màng ống nghe"
+        },
+        {
+          "text": "Nghe rõ ở mỏm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Rung miu là:",
+      "options": [
+        {
+          "text": "Cảm giác sờ thấy bằng đầu ngón tay"
+        },
+        {
+          "text": "Cảm giác sờ thấy bằng lòng bàn tay"
+        },
+        {
+          "text": "Cảm giác sờ thấy bằng cả bàn tay"
+        },
+        {
+          "text": "Cảm giác sờ thấy khi áp tai vào"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Rung miu trong hẹp van 2 lá, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Vị trí ở mỏm tim"
+        },
+        {
+          "text": "Thì tâm trương"
+        },
+        {
+          "text": "Nghe rõ khi ngồi"
+        },
+        {
+          "text": "Giống như sờ lưng mèo"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tiếng thổi tâm thu xảy ra khi:",
+      "options": [
+        {
+          "text": "Giữa tiếng T2 và tiếng T1"
+        },
+        {
+          "text": "Giữa tiếng T1 và tiếng T2"
+        },
+        {
+          "text": "Cuối tiếng T2 và đầu tiếng T1"
+        },
+        {
+          "text": "Đầu tiếng T1 và cuối tiếng T2"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tiếng thổi tâm trương xảy ra khi:",
+      "options": [
+        {
+          "text": "Giữa tiếng T2 và tiếng T1"
+        },
+        {
+          "text": "Giữa tiếng T1 và tiếng T2"
+        },
+        {
+          "text": "Cuối tiếng T2 và đầu tiếng T1"
+        },
+        {
+          "text": "Đầu tiếng T1 và cuối tiếng T2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nghe tim hẹp van 2 lá, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Vị trí liên sườn 4-5 đường trung đòn trái"
+        },
+        {
+          "text": "Tiếng thổi tiền tâm thu"
+        },
+        {
+          "text": "Rung tâm trương"
+        },
+        {
+          "text": "Nghe rõ khi bệnh nhân ngồi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghe tim hở van động mạch chủ, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Vị trí liên sườn 3 cạnh ức trái"
+        },
+        {
+          "text": "Tiếng thổi tâm trương"
+        },
+        {
+          "text": "Nghe rõ khi ngồi cúi ra trước"
+        },
+        {
+          "text": "Thổi lan ra nách"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghe tim hẹp van động mạch chủ, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Vị trí liên sườn 2 cạnh ức phải"
+        },
+        {
+          "text": "Tiếng thổi tâm thu"
+        },
+        {
+          "text": "Thổi lan lên cổ"
+        },
+        {
+          "text": "Nghe rõ khi bệnh nhân nằm nghiêng trái"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tiếng rung Flint là:",
+      "options": [
+        {
+          "text": "Rung tâm trương trong hẹp van 2 lá"
+        },
+        {
+          "text": "Thổi tâm trương trong hở van động mạch chủ"
+        },
+        {
+          "text": "Rung tâm trương trong hẹp van 3 lá"
+        },
+        {
+          "text": "Rung tâm trương trong hở van động mạch chủ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghe tim hở van 2 lá, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Vị trí liên sườn 4,5 đường trung đòn trái"
+        },
+        {
+          "text": "Tiếng thổi tâm thu"
+        },
+        {
+          "text": "Nghe rõ bằng phần màng"
+        },
+        {
+          "text": "Lan ra nách hoặc xương ức"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cường độ tiếng thổi 2/6:",
+      "options": [
+        {
+          "text": "Không thay đổi cường độ khi thay đổi tư thế"
+        },
+        {
+          "text": "Cường độ nhẹ"
+        },
+        {
+          "text": "Sờ có rung miu"
+        },
+        {
+          "text": "Là tiếng thổi thực thể"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cường độ tiếng thổi 3/6:",
+      "options": [
+        {
+          "text": "Không thay đổi cường độ khi thay đổi tư thế"
+        },
+        {
+          "text": "Cường độ nhẹ"
+        },
+        {
+          "text": "Sờ có rung miu"
+        },
+        {
+          "text": "Là tiếng thổi cơ năng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cường độ tiếng thổi 4/6:",
+      "options": [
+        {
+          "text": "Không thay đổi cường độ khi thay đổi tư thế"
+        },
+        {
+          "text": "Tiếng thổi mạnh có rung miu"
+        },
+        {
+          "text": "Là tiếng thổi cơ năng"
+        },
+        {
+          "text": "Tiếng thổi nhẹ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cường độ tiếng thổi 6/6:",
+      "options": [
+        {
+          "text": "Nghe được âm thổi khi nhấc ống nghe lên 1 phần"
+        },
+        {
+          "text": "Nghe được âm thổi gián tiếp qua bàn tay thầy thuốc"
+        },
+        {
+          "text": "Có rung miu nhưng nhấc ống nghe khỏi thành ngực thì không nghe nữa"
+        },
+        {
+          "text": "Nghe được âm thổi khi nhấc ống nghe khỏi thành ngực"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Tiếng thổi cơ năng sinh ra do:",
+      "options": [
+        {
+          "text": "Tổn thương thực thể tại van tim"
+        },
+        {
+          "text": "Sự thay đổi về huyết động"
+        },
+        {
+          "text": "Tổn thương tại cơ tim"
+        },
+        {
+          "text": "Tổn thương vách liên thất"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tiếng thổi thực thể sinh ra do:",
+      "options": [
+        {
+          "text": "Tổn thương thực thể tại van tim"
+        },
+        {
+          "text": "Sự thay đổi về huyết động"
+        },
+        {
+          "text": "Sốt cao"
+        },
+        {
+          "text": "Thiếu máu nặng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khám mạch cần xác định:",
+      "options": [
+        {
+          "text": "Tần số, nhịp điệu"
+        },
+        {
+          "text": "Cường độ, độ nảy"
+        },
+        {
+          "text": "Thành mạch"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mạch nảy mạnh chìm sâu là dấu hiệu của:",
+      "options": [
+        {
+          "text": "Hẹp van động mạch chủ"
+        },
+        {
+          "text": "Hở van động mạch chủ"
+        },
+        {
+          "text": "Hẹp van 2 lá"
+        },
+        {
+          "text": "Hở van 2 lá"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Tĩnh mạch cảnh trong nổi, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Suy tim phải"
+        },
+        {
+          "text": "Suy tim toàn bộ"
+        },
+        {
+          "text": "Hở van 2 lá"
+        },
+        {
+          "text": "Hẹp van 2 lá"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nghiệm pháp phản hồi gan - tĩnh mạch cảnh dương tính khi:",
+      "options": [
+        {
+          "text": "Ấn gan làm tĩnh mạch cảnh nổi rõ hơn"
+        },
+        {
+          "text": "Ấn gan làm tĩnh mạch cảnh xẹp đi"
+        },
+        {
+          "text": "Ấn gan làm tĩnh mạch cảnh không thay đổi"
+        },
+        {
+          "text": "Ấn gan gây đau"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phân độ đau ngực theo CCS I:",
+      "options": [
+        {
+          "text": "Những hoạt động thể lực bình thường gây đau thắt ngực"
+        },
+        {
+          "text": "Đau thắt ngực chỉ xuất hiện khi hoạt động thể lực rất mạnh"
+        },
+        {
+          "text": "Hạn chế nhẹ hoạt động thể lực bình thường"
+        },
+        {
+          "text": "Đau thắt ngực xuất hiện khi leo cao >1 tầng gác thông thường bằng cầu thang hoặc đi bộ dài hơn 2 dãy nhà"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân độ đau ngực theo CCS II:",
+      "options": [
+        {
+          "text": "Những hoạt động thể lực bình thường không gây đau thắt ngực"
+        },
+        {
+          "text": "Hạn chế đáng kể hoạt động thể lực thông thường"
+        },
+        {
+          "text": "Hạn chế nhẹ hoạt động thể lực thông thường"
+        },
+        {
+          "text": "Đau thắt ngực xuất hiện khi gắng sức nhẹ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân độ đau ngực theo CCS III:",
+      "options": [
+        {
+          "text": "Các hoạt động thể lực bình thường không gây đau thắt ngực"
+        },
+        {
+          "text": "Hạn chế nhẹ hoạt động thể lực thông thường"
+        },
+        {
+          "text": "Hạn chế đáng kể hoạt động thể lực thông thường"
+        },
+        {
+          "text": "Đau thắt ngực khi đi bộ dài dưới từ 1-2 dãy nhà"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân độ đau ngực theo CCS IV:",
+      "options": [
+        {
+          "text": "Các hoạt động thể lực bình thường không gây đau thắt ngực"
+        },
+        {
+          "text": "Đau thắt ngực khi đi bộ dài từ 1-2 dãy nhà hoặc leo cao 1 tầng gác"
+        },
+        {
+          "text": "Đau thắt ngực khi làm việc thông thường"
+        },
+        {
+          "text": "Đau thắt ngực khi gắng sức nhẹ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hồi hộp đánh trống ngực, chọn câu SAI:",
+      "options": [
+        {
+          "text": "Là tình trạng bệnh nhân như cảm thấy tim đập nhanh, tim đập mạnh, mất nhịp"
+        },
+        {
+          "text": "Nguyên nhân thường gặp là rối loạn nhịp"
+        },
+        {
+          "text": "Là một triệu chứng thực thể"
+        },
+        {
+          "text": "Thường không có giá trị trong chẩn đoán"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Có bao nhiêu ý sau là ĐÚNG khi mô tả cơ chế khó thở do suy tim trái và hẹp van 2 lá: (i). Tăng áp lực cuối tâm trương thất trái gây ứ trệ tuần hoàn. (ii). Thoát dịch vào mô kẽ gây cản trở trao đổi khí. (iii). Thoát dịch vào phế nang làm giảm dung tích sống và khuếch tán khí. (iv). Tổ chức phổi sung huyết làm hạn chế khí ra vào phổi. (v). Hậu quả làm giảm PaO2 và giảm PaCO2",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "(Tình huống) Bệnh nhân nam 60 tuổi vào viện vì đau nặng ngực sau xương ức. Bệnh khởi phát đau cách 1 giờ, đau ngực sau xương ức sau khi đi bộ nhanh khoảng 100m, cảm giác như đè nặng, đau thành cơn khoảng 15 phút, nằm nghỉ thấy giảm, không lan. Phân loại CCS của bệnh nhân này là:",
+      "options": [
+        {
+          "text": "CCS I"
+        },
+        {
+          "text": "CCS II"
+        },
+        {
+          "text": "CCS III"
+        },
+        {
+          "text": "CCS IV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "(Tình huống) Bệnh nhân nam, 68 tuổi vào viện vì đau nặng ngực sau xương ức. Bệnh khởi phát đau cách 2 giờ, đau ngực sau xương ức sau khi đi lên 1 tầng gác, cảm giác như đè nặng, đau thành cơn khoảng 10 phút, nằm nghỉ thấy giảm. Bệnh nhân cho biết gần đây chỉ đi trong nhà cũng thấy mệt và nặng ngực. Phân loại CCS bệnh nhân này là:",
+      "options": [
+        {
+          "text": "CCS I"
+        },
+        {
+          "text": "CCS II"
+        },
+        {
+          "text": "CCS III"
+        },
+        {
+          "text": "CCS IV"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

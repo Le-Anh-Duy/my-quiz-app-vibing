@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Răng giả bằng sứ có ưu điểm nổi bật nào so với răng giả bằng nhựa acrylic?",
+      "options": [
+        {
+          "text": "Dễ dàng liên kết hóa học với nền hàm nhựa PMMA"
+        },
+        {
+          "text": "Dễ dàng mài chỉnh trong không gian liên hàm rất hẹp"
+        },
+        {
+          "text": "Rất dẻo dai và không bao giờ bị nứt vỡ khi va chạm"
+        },
+        {
+          "text": "Độ cứng cao, khả năng chống mài mòn xuất sắc và giữ độ bóng, màu sắc bền vững theo thời gian"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cơ chế liên kết giữa răng giả bằng sứ và nền hàm nhựa acrylic trong phục hình là gì?",
+      "options": [
+        {
+          "text": "Liên kết thủy hóa xi măng"
+        },
+        {
+          "text": "Liên kết hóa học đồng hóa trị"
+        },
+        {
+          "text": "Liên kết từ tính nam châm"
+        },
+        {
+          "text": "Liên kết cơ học nhờ chốt kim loại (pin) ở răng trước hoặc hốc lưu (diatoric) ở răng sau"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ưu điểm quan trọng nhất của răng giả bằng nhựa acrylic so với răng sứ là:",
+      "options": [
+        {
+          "text": "Không bao giờ bị mòn theo năm tháng"
+        },
+        {
+          "text": "Liên kết hóa học hoàn hảo với nền nhựa, dễ mài sửa và hấp thu giảm sốc lực nhai bảo vệ mô nâng đỡ"
+        },
+        {
+          "text": "Phát ra tiếng kêu giòn tan vui tai khi ăn nhai"
+        },
+        {
+          "text": "Độ cứng bề mặt cao hơn men răng tự nhiên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nhược điểm sinh học chính khi sử dụng răng giả bằng sứ đối diện với răng thật là gì?",
+      "options": [
+        {
+          "text": "Làm tụt nướu của tất cả các răng còn lại"
+        },
+        {
+          "text": "Độ cứng của sứ lớn hơn men răng nên dễ gây mòn vẹt nhanh chóng các răng thật đối diện"
+        },
+        {
+          "text": "Gây sâu ngà răng thật tức thì"
+        },
+        {
+          "text": "Làm răng thật bị đổi màu sang màu xám"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi so màu răng giả dưới ánh sáng phòng khám, nguồn ánh sáng được xem là tiêu chuẩn và lý tưởng nhất là:",
+      "options": [
+        {
+          "text": "Ánh sáng đèn sấy composite"
+        },
+        {
+          "text": "Ánh sáng đèn LED chiếu trực tiếp sát mặt răng"
+        },
+        {
+          "text": "Ánh sáng đèn huỳnh quang màu vàng ấm"
+        },
+        {
+          "text": "Ánh sáng ban ngày tự nhiên dịu nhẹ (không quá chói, tốt nhất vào buổi sáng hoặc đầu giờ chiều hướng bắc)"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Quy tắc về thời gian khi nhìn so màu răng trên lâm sàng để tránh hiện tượng mỏi mắt là:",
+      "options": [
+        {
+          "text": "Không nên nhìn chăm chú vào răng quá 5 giây mỗi lần; nên nhìn vào phông màu trung tính (xanh lam nhạt/xám) để mắt hồi phục"
+        },
+        {
+          "text": "Chỉ được nhìn dưới 1 giây rồi nhắm mắt lại"
+        },
+        {
+          "text": "So màu trong bóng tối hoàn toàn"
+        },
+        {
+          "text": "Phải nhìn chăm chú liên tục ít nhất 30 giây"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tại sao trước khi tiến hành so màu răng giả cần phải đánh bóng và làm sạch các răng thật còn lại?",
+      "options": [
+        {
+          "text": "Để loại bỏ vôi răng, mảng bám ố vàng và chất bẩn giúp xác định chính xác màu sắc thật của men răng"
+        },
+        {
+          "text": "Để làm men răng mỏng đi dễ nhìn thấu tủy"
+        },
+        {
+          "text": "Để làm răng thật trắng sáng hơn răng giả"
+        },
+        {
+          "text": "Để tránh làm trầy xước cây so màu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thao tác nào cần thực hiện đối với cây so màu (răng mẫu) trước khi đưa vào so sánh cạnh răng thật của bệnh nhân?",
+      "options": [
+        {
+          "text": "Bôi một lớp cồn 70 độ lên mặt ngoài"
+        },
+        {
+          "text": "Sấy thật khô bằng hơi nóng"
+        },
+        {
+          "text": "Làm ướt răng mẫu bằng nước để tái lập độ khúc xạ và phản xạ ánh sáng tương tự điều kiện ẩm ướt trong miệng"
+        },
+        {
+          "text": "Quét một lớp sáp mỏng lên mặt nhai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo học thuyết tam thể của Léon Williams, hình thể của răng cửa giữa hàm trên có sự tương đồng hài hòa với:",
+      "options": [
+        {
+          "text": "Hình dạng của vòm khẩu cái"
+        },
+        {
+          "text": "Hình dạng của sóng hàm dưới"
+        },
+        {
+          "text": "Hình thể khuôn mặt nhìn từ phía trước khi úp ngược (mặt vuông, mặt tam giác, mặt bầu dục)"
+        },
+        {
+          "text": "Kích thước của bàn tay bệnh nhân"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm hình thái răng trước ở nữ giới thường được chọn để tạo nét thẩm mỹ tự nhiên là:",
+      "options": [
+        {
+          "text": "Bờ cắn mòn vẹt phẳng lì"
+        },
+        {
+          "text": "Thân răng ngắn bè hình tam giác ngược"
+        },
+        {
+          "text": "Các góc cắn vuông vức, rìa cắn thẳng và gờ răng sắc nét mạnh mẽ"
+        },
+        {
+          "text": "Các góc cắn bo tròn nhẹ, đường nét uốn lượn mềm mại và kích thước thân răng thanh mảnh duyên dáng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Ở người cao tuổi, khi lựa chọn răng giả phía trước, bác sĩ nên chú ý đặc điểm giải phẫu và màu sắc nào?",
+      "options": [
+        {
+          "text": "Răng hoàn toàn trong suốt không có màu"
+        },
+        {
+          "text": "Răng phải dài gấp đôi răng người trẻ tuổi"
+        },
+        {
+          "text": "Răng có tông màu sậm hơn, có độ mòn nhẹ ở rìa cắn và có thể mô phỏng lộ nhẹ vùng cổ ngà"
+        },
+        {
+          "text": "Răng có màu trắng sáng tinh khôi, rìa cắn còn nguyên múi nụ (mammelon)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một mốc giải phẫu quan trọng ngoài mặt để ước tính vị trí đỉnh của răng nanh trên cung hàm là:",
+      "options": [
+        {
+          "text": "Đường thẳng đứng gióng từ góc trong của mắt"
+        },
+        {
+          "text": "Đường ngang qua hai khóe miệng"
+        },
+        {
+          "text": "Đường nối hai dái tai"
+        },
+        {
+          "text": "Đường thẳng đứng gióng từ rìa ngoài cánh mũi xuống"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đường cười (smile line) của bệnh nhân khi cười tươi tối đa có ý nghĩa gì trong việc lựa chọn chiều dài răng trước?",
+      "options": [
+        {
+          "text": "Giúp chọn chiều cao thân răng trước sao cho bờ môi trên chạm ngang cổ răng, tránh để lộ quá nhiều nền nướu giả khi cười"
+        },
+        {
+          "text": "Quyết định số lượng móc dây tròn"
+        },
+        {
+          "text": "Xác định vị trí của lỗ cằm"
+        },
+        {
+          "text": "Xác định độ rộng của răng cối lớn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi lựa chọn kích thước ngoài - trong (chiều rộng mặt nhai) của các răng sau nhân tạo, nguyên tắc cơ bản là:",
+      "options": [
+        {
+          "text": "Mặt nhai phải nhọn như mũi kim"
+        },
+        {
+          "text": "Mặt nhai răng sau phải phẳng hoàn toàn ở mọi lứa tuổi"
+        },
+        {
+          "text": "Nên chọn mặt nhai hẹp hơn răng thật để giảm diện tích tiếp xúc, giảm áp lực tải đè nén lên sóng hàm"
+        },
+        {
+          "text": "Nên chọn mặt nhai rộng hơn răng tự nhiên để tăng lực nhai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chỉ định sử dụng răng sau có độ dốc múi giải phẫu lớn (30° – 33°) là:",
+      "options": [
+        {
+          "text": "Bệnh nhân cao tuổi có sóng hàm tiêu phẳng dẹt hoàn toàn"
+        },
+        {
+          "text": "Bệnh nhân trẻ tuổi, sóng hàm còn cao và săn chắc, các răng đối diện còn nguyên hệ thống múi rãnh giải phẫu"
+        },
+        {
+          "text": "Bệnh nhân bị mất răng loại I Kennedy với sóng hàm phập phồng"
+        },
+        {
+          "text": "Bệnh nhân có khớp cắn đối đầu phía sau"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Răng sau nhân tạo có múi phẳng (0° - răng phi giải phẫu) thường được chỉ định trong trường hợp nào?",
+      "options": [
+        {
+          "text": "Người trẻ tuổi muốn ăn nhai đồ dai"
+        },
+        {
+          "text": "Người cao tuổi có sóng hàm tiêu xương nặng, khớp cắn hai hàm bị xô lệch nhiều hoặc cử động nhai chủ yếu theo phương ngang"
+        },
+        {
+          "text": "Chỉ định bắt buộc khi làm răng sứ"
+        },
+        {
+          "text": "Khi phục hình chỉ thay thế một răng cối nhỏ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo quy chuẩn sắp răng trước hàm trên theo mặt phẳng trán, bờ cắn của răng cửa bên trên (R12, R22) có vị trí như thế nào so với mặt phẳng nhai?",
+      "options": [
+        {
+          "text": "Chạm vào mặt phẳng nhai giống như răng cửa giữa"
+        },
+        {
+          "text": "Nằm cách (ngắn hơn) mặt phẳng nhai khoảng 0,5 – 1,0 mm"
+        },
+        {
+          "text": "Chạm sát và nằm thấp hơn mặt phẳng nhai 1 mm"
+        },
+        {
+          "text": "Nằm cao hơn bờ cắn răng cửa giữa 3 mm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vị trí tiếp xúc của đỉnh múi răng nanh hàm trên (R13, R23) so với mặt phẳng nhai phục hình là:",
+      "options": [
+        {
+          "text": "Nằm thấp hơn mặt phẳng nhai 1 mm"
+        },
+        {
+          "text": "Nằm cao hơn mặt phẳng nhai 2 mm"
+        },
+        {
+          "text": "Chạm đúng vào mặt phẳng nhai"
+        },
+        {
+          "text": "Nằm cách mặt phẳng nhai 3 mm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Về độ nghiêng trục ngoài - trong khi nhìn nghiêng của răng nanh hàm trên:",
+      "options": [
+        {
+          "text": "Cổ răng hơi nhô ra ngoài tạo gờ nanh nâng đỡ khóe mép, thân răng thẳng đứng hoặc hơi nghiêng nhẹ"
+        },
+        {
+          "text": "Thân răng nghiêng cụp hẳn vào trong vòm miệng 45 độ"
+        },
+        {
+          "text": "Trục răng nằm ngang song song mặt phẳng nhai"
+        },
+        {
+          "text": "Rìa cắn chìa ra ngoài tối đa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi sắp răng trước hàm dưới, độ cắn chìa (overjet) và độ cắn phủ (overbite) sinh lý bình thường giữa răng trước trên và dưới nên đạt:",
+      "options": [
+        {
+          "text": "0 mm (cắn đối đầu tuyệt đối)"
+        },
+        {
+          "text": "5 – 7 mm"
+        },
+        {
+          "text": "Trên 10 mm"
+        },
+        {
+          "text": "1 – 2 mm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đường cong bù trừ khớp cắn theo chiều trước - sau được hình thành khi sắp các răng cối nhân tạo được gọi là:",
+      "options": [
+        {
+          "text": "Đường cong Camper"
+        },
+        {
+          "text": "Đường cong Spee"
+        },
+        {
+          "text": "Đường cong Monson"
+        },
+        {
+          "text": "Đường cong Wilson"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đường cong bù trừ khớp cắn theo chiều ngoài - trong (giữa các múi ngoài và múi trong của răng cối hai bên) là:",
+      "options": [
+        {
+          "text": "Đường cong Spee"
+        },
+        {
+          "text": "Đường cong Francfort"
+        },
+        {
+          "text": "Đường cong Bonwill"
+        },
+        {
+          "text": "Đường cong Wilson"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi khoảng mất răng bị thu hẹp đáng kể do các răng thật bên cạnh bị xô nghiêng vào khoảng trống, giải pháp sắp răng trước là:",
+      "options": [
+        {
+          "text": "Cho các răng giả sắp hơi chồng mép nhẹ lên nhau để tạo nét tự nhiên hoặc chọn răng giả có kích thước chiều ngang nhỏ hơn"
+        },
+        {
+          "text": "Mài ngắn xương hàm"
+        },
+        {
+          "text": "Nhổ luôn hai răng thật bên cạnh"
+        },
+        {
+          "text": "Bỏ qua không sắp răng vào vị trí đó"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mục đích chính của buổi hẹn lâm sàng 'Thử răng' (lần hẹn 3) trên bệnh nhân là:",
+      "options": [
+        {
+          "text": "Để mài phẳng toàn bộ các múi răng giả bằng đá mài"
+        },
+        {
+          "text": "Để nhổ các răng lung lay còn lại"
+        },
+        {
+          "text": "Để dán vĩnh viễn hàm giả bằng xi măng"
+        },
+        {
+          "text": "Để kiểm tra và đánh giá toàn diện về thẩm mỹ ngoài mặt, kích thước dọc, tương quan tâm và phát âm trước khi chuyển sang khâu ép nhựa"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Khi thử răng sáp trong miệng, nếu đường giữa hai răng cửa giữa trên bị lệch so với đường giữa mặt, bác sĩ cần xử trí như thế nào?",
+      "options": [
+        {
+          "text": "Gỡ răng cửa ra khỏi sáp và sắp xếp lại ngay trên lâm sàng sao cho trùng khớp với đường giữa khuôn mặt"
+        },
+        {
+          "text": "Để nguyên vì sau này ép nhựa sẽ tự thẳng lại"
+        },
+        {
+          "text": "Mài vẹt nửa cạnh cắn của răng cửa bên"
+        },
+        {
+          "text": "Khuyên bệnh nhân nên nghiêng đầu khi giao tiếp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi kiểm tra phát âm ở buổi thử răng, nếu bệnh nhân phát âm các âm môi - răng như 'F', 'V' bị ngọng hoặc khó khăn, nguyên nhân thường do:",
+      "options": [
+        {
+          "text": "Gối hậu nha bị bao phủ quá dày"
+        },
+        {
+          "text": "Lồi cùng hàm trên bị tiêu"
+        },
+        {
+          "text": "Răng cửa dưới quá ngắn"
+        },
+        {
+          "text": "Chiều dài hoặc vị trí ngoài - trong của rìa cắn răng cửa trên chưa chuẩn (bờ cắn răng cửa trên không chạm nhẹ vào đường ướt môi dưới)"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nếu ở vị trí cắn khít trung tâm trong buổi thử răng, bệnh nhân chỉ chạm răng ở một bên và bên kia bị hở, điều này chứng tỏ:",
+      "options": [
+        {
+          "text": "Độ dày của nền tạm quá chuẩn"
+        },
+        {
+          "text": "Đây là hiện tượng khớp cắn bình thường của hàm tháo lắp"
+        },
+        {
+          "text": "Đã có sai sót trong quá trình ghi tương quan tâm hoặc vô giá khớp sai"
+        },
+        {
+          "text": "Răng giả bên chạm bị tụt xuống dưới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thao tác quan trọng không thể thiếu ở cuối buổi thử răng trước khi gửi labo hoàn thiện là:",
+      "options": [
+        {
+          "text": "Cho bệnh nhân soi gương, giải thích và nhận được sự đồng thuận hoàn toàn của bệnh nhân về màu sắc, hình thể và thẩm mỹ răng"
+        },
+        {
+          "text": "Thoa ngay một lớp dầu bóng lên mặt răng"
+        },
+        {
+          "text": "Yêu cầu bệnh nhân cắn nát gối sáp"
+        },
+        {
+          "text": "Lột bỏ toàn bộ nền tạm nhựa"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi sắp các răng sau trên sống hàm dưới, đỉnh rãnh giữa của các răng cối phải nằm ở vị trí nào so với sống hàm?",
+      "options": [
+        {
+          "text": "Nằm lệch hẳn ra phía ngách hành lang má"
+        },
+        {
+          "text": "Nằm lệch hoàn toàn về phía lưỡi cách đỉnh sống hàm 5 mm"
+        },
+        {
+          "text": "Nằm thẳng góc ngay trên đường đỉnh của sống hàm vô răng"
+        },
+        {
+          "text": "Nằm ngang bằng với đáy sàn miệng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi làm sáp điêu khắc nền hàm sau khi sắp răng hoàn tất, yêu cầu đối với bề mặt ngoài của lớp sáp nướu giả là:",
+      "options": [
+        {
+          "text": "Đắp sáp thật dày che phủ toàn bộ thân răng giả"
+        },
+        {
+          "text": "Để mặt sáp sần sùi lồi lõm sắc nhọn để bám thức ăn"
+        },
+        {
+          "text": "Điêu khắc mô phỏng gờ chân răng tự nhiên, làm sạch sáp dính trên thân răng và làm láng bóng bề mặt"
+        },
+        {
+          "text": "Khoét thủng các lỗ trên nền sáp"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

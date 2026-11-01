@@ -1,0 +1,3001 @@
+{
+  "questions": [
+    {
+      "text": "Những điểm thuận lợi của hàm trên là:",
+      "options": [
+        {
+          "text": "Núm sau răng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ “a”"
+        },
+        {
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ “a”."
+        },
+        {
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schorder"
+        },
+        {
+          "text": "Núm sau răng cửa, sống hàm rộng và săn chắc và lồi cùng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mặt phẳng nào sau đây là mặt phẳng camper:",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng nối 2 điểm tragus và phía dưới cánh mũi."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua bờ cắn của răng cửa và mặt nhai các răng cối"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua đường thẳng nối 2 con ngươi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mặt phẳng Camper là mặt phẳng:",
+      "options": [
+        {
+          "text": "Đi ngang qua tâm ống tai ngoài và điểm gai mũi trước."
+        },
+        {
+          "text": "Đi ngang qua tâm ống tai ngoài và điểm gai mũi sau"
+        },
+        {
+          "text": "Đi ngang qua điểm thấp nhất tai ngoài và điểm gai mũi sau"
+        },
+        {
+          "text": "Tất cả đúng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mặt phẳng Camper là:",
+      "options": [
+        {
+          "text": "Mặt phẳng đi ngang qua hai điểm tragus và điểm giữa mũi"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua bờ cắm răng cửa và mặt nhai răng cối"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và điểm phía dưới cánh mũi."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng Francfort là:",
+      "options": [
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm ở hai nắp tai và điểm ở khóe mắt"
+        },
+        {
+          "text": "Là mặt phẳng đi qua cạnh cắn răng trước và mặt nhai răng sau"
+        },
+        {
+          "text": "Là mặt nhai"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng Francfort là:",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng nối hai điểm tragus và phía dưới cánh mũi"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua bờ cắn răng cửa và mặt nhai của các răng cối"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua đường thẳng nối hai con ngươi"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mặt phẳng nhai phục hình là:",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng trùng với mặt phẳng Camper"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm dưới hốc mắt"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm trags và điểm dưới cánh mũi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Vùng nào sau đây chịu nén:",
+      "options": [
+        {
+          "text": "Lổ khẩu cái sau"
+        },
+        {
+          "text": "Lồi rắn"
+        },
+        {
+          "text": "Vùng khẩu cái sau"
+        },
+        {
+          "text": "Vòm khẩu cái."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hệ số nhai hàm trên, câu nào sau đây đúng:\nRăng          1           2           3           4          5           6           7           8",
+      "options": [
+        {
+          "text": "Hệ số nhai:        1          2           4            3         3           5            5           3"
+        },
+        {
+          "text": "Hệ số nhai:        2          1           4            3         3           5            5           3."
+        },
+        {
+          "text": "Hệ số nhai:        2          1           3            3         3           5            5           3"
+        },
+        {
+          "text": "Hệ số nhai:        1          2           3            3         3           5            5           3"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trường hợp mất răng sau:\n7      6      5      4      3      2      1       1       2      x       x       x        x       7",
+      "options": [
+        {
+          "text": "Mất răng loại  II Kennedy"
+        },
+        {
+          "text": "Mất răng loại III Kennedy"
+        },
+        {
+          "text": "Mất răng loại IV Kennedy Applegate"
+        },
+        {
+          "text": "Mất răng loại V Kennedy Applegate."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trường hợp sau, thuộc loại mất răng nào:\n7      x      x      x      x      x      x         x      x      x       x       x        6       7",
+      "options": [
+        {
+          "text": "Mất răng loại V Kennedy."
+        },
+        {
+          "text": "Mất răng loại V Kennedy Applegate"
+        },
+        {
+          "text": "Mất răng loại VI Knennedy"
+        },
+        {
+          "text": "Mất răng loại VI Kennedy Applegate"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trường hợp sau, thuộc loại mất răng nào:\nx       x       x       x       x       x       11        21      x      x       x       x        x       x",
+      "options": [
+        {
+          "text": "Mất răng loại V Kennedy"
+        },
+        {
+          "text": "Mất răng loại V Kennedy Applegate"
+        },
+        {
+          "text": "Mất răng loại VI Kennedy."
+        },
+        {
+          "text": "Mất răng loại VI Kennedy Applegate"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mất răng ở hàm trên như sau, được phân loại theo Kennedy là:\nx    x    x   x    x   3   x    x   1   2    3    4    5     6    7     8",
+      "options": [
+        {
+          "text": "Mất răng loại I, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại II, biến thể 1."
+        },
+        {
+          "text": "Mất răng loại III, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại IV, biến thể 1"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong phục hình tháo lắp bán hàm",
+      "options": [
+        {
+          "text": "Độ lõm của thân răng"
+        },
+        {
+          "text": "Điểm tiếp xúc"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Núm sau răng cửa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những điểm thuận lợi của hàm dưới trong PHỤC HÌNH THÁO LẮP bán hàm",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng còn lại trên hàm"
+        },
+        {
+          "text": "Nơi bám của dây chằng"
+        },
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Đường chéo trong"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng"
+        },
+        {
+          "text": "Vùng sau răng cửa"
+        },
+        {
+          "text": "Sống hàm"
+        },
+        {
+          "text": "Lồi rắn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong PHỤC HÌNH THÁO LẮP bán hàm",
+      "options": [
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Núm sau răng cửa"
+        },
+        {
+          "text": "Đường chéo trong"
+        },
+        {
+          "text": "Đường chéo ngoài"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ở một hàm răng lành mạnh, răng nào có hệ số nhai cao nhất trong các răng được nêu ra sau đây:",
+      "options": [
+        {
+          "text": "R 12"
+        },
+        {
+          "text": "R 11"
+        },
+        {
+          "text": "R 28"
+        },
+        {
+          "text": "R 48"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hệ số nhai hàm trên, câu nào sau đây đúng:\nRăng           1           2           3           4          5           6           7           8",
+      "options": [
+        {
+          "text": "Hệ số nhai:        1          2           4            3         3           5            5           3"
+        },
+        {
+          "text": "Hệ số nhai:        2          1           4            3         3           5            5           3."
+        },
+        {
+          "text": "Hệ số nhai:        2          1           3            3         3           5            5           3"
+        },
+        {
+          "text": "Hệ số nhai:        1          2           3            3         3           5            5           3"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trường hợp mất răng sau:\n7      6      5      4      3      2      1       1       2      x       x       x        x       7",
+      "options": [
+        {
+          "text": "Mất răng loại  II Kennedy"
+        },
+        {
+          "text": "Mất răng loại III Kennedy"
+        },
+        {
+          "text": "Mất răng loại IV Kennedy Applegate"
+        },
+        {
+          "text": "Mất răng loại V Kennedy Applegate."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trường hợp sau, thuộc loại mất răng nào:\n7      x      x      x      x      x      x         x      x      x       x       x        6       7",
+      "options": [
+        {
+          "text": "Mất răng loại V Kennedy."
+        },
+        {
+          "text": "Mất răng loại V Kennedy Applegate"
+        },
+        {
+          "text": "Mất răng loại VI Knennedy"
+        },
+        {
+          "text": "Mất răng loại VI Kennedy Applegate"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trường hợp sau, thuộc loại mất răng nào:\nx       x       x       x       x       x       11        21      x      x       x       x        x       x",
+      "options": [
+        {
+          "text": "Mất răng loại V Kennedy"
+        },
+        {
+          "text": "Mất răng loại V Kennedy Applegate"
+        },
+        {
+          "text": "Mất răng loại VI Kennedy."
+        },
+        {
+          "text": "Mất răng loại VI Kennedy Applegate"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mất răng ở hàm trên như sau, được phân loại theo Kennedy là:\nx    x    x   x    x   3   x    x   1   2    3    4    5     6    7     8",
+      "options": [
+        {
+          "text": "Mất răng loại I, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại II, biến thể 1."
+        },
+        {
+          "text": "Mất răng loại III, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại IV, biến thể 1"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy",
+      "image": "images/image3.png",
+      "options": [
+        {
+          "text": "Loại IV, biến thể 3"
+        },
+        {
+          "text": "Loại I, biến thể 2."
+        },
+        {
+          "text": "Loại II, biến thể 3"
+        },
+        {
+          "text": "Loại I"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mất răng theo phân loại Kennedy",
+      "image": "images/image4.png",
+      "options": [
+        {
+          "text": "Loại III, biến thể 2"
+        },
+        {
+          "text": "Loại II, biến thể 2"
+        },
+        {
+          "text": "Loại V"
+        },
+        {
+          "text": "Loại VI"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy",
+      "image": "images/image5.png",
+      "options": [
+        {
+          "text": "Loại IV, biến thể 1"
+        },
+        {
+          "text": "Loại III, biến thể 1"
+        },
+        {
+          "text": "Loại IV, biến thể 2"
+        },
+        {
+          "text": "Loại III, biến thể 2"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy",
+      "image": "images/image6.png",
+      "options": [
+        {
+          "text": "Mất răng loại IV"
+        },
+        {
+          "text": "Mất răng loại IV, biến thể 2"
+        },
+        {
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "text": "Mất răng loại I, biến thể 1"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy",
+      "image": "images/image7.png",
+      "options": [
+        {
+          "text": "Mất răng loại II, biến thể 2"
+        },
+        {
+          "text": "Mất răng loại III, biến thể 2"
+        },
+        {
+          "text": "Mất răng loại IV"
+        },
+        {
+          "text": "Mất răng loại IV, biến thể 2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mặt phẳng camper là gì?",
+      "options": [
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus ( ở hai nắp tai) và điểm phía dưới cánh mũi."
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Cả hai đều đúng"
+        },
+        {
+          "text": "Cả hai đều sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý bất lợi hàm dưới:",
+      "options": [
+        {
+          "text": "Sống hàm"
+        },
+        {
+          "text": "Gối hậu nha"
+        },
+        {
+          "text": "Điểm tiếp xúc giữa các răng thật"
+        },
+        {
+          "text": "Nơi bám của cơ và dây chằng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hệ số nhai của răng khôn hàm trên so với hàm dưới?",
+      "options": [
+        {
+          "text": "Lớn hơn"
+        },
+        {
+          "text": "Nhỏ hơn"
+        },
+        {
+          "text": "Bằng nhau"
+        },
+        {
+          "text": "Không xác định"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mất răng từ 15-16, 25-27 là mất răng theo KENNEDY loại mất?",
+      "image": "images/image8.jpeg",
+      "options": [
+        {
+          "text": "Loại 2 biến thể 1"
+        },
+        {
+          "text": "Loại 1"
+        },
+        {
+          "text": "Loại 3 biến thể 1"
+        },
+        {
+          "text": "Loại 4"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo chỉ số đánh giá chức năng nhai thì, chọn sai:",
+      "options": [
+        {
+          "text": "Các răng cối nhỏ trên và dưới như nhau."
+        },
+        {
+          "text": "Các răng cửa giữa trên và dưới như nhau."
+        },
+        {
+          "text": "Các răng cửa bên trên và dưới như nhau."
+        },
+        {
+          "text": "Các răng nanh trên và dứoi như nhau."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Những phần tử cơ thể và sinh lý thuận lợi ở hàm trên trừ:",
+      "options": [
+        {
+          "text": "Vùng sau răng cửa"
+        },
+        {
+          "text": "Đường đỉnh sống hàm"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Triền sống hàm phía khẩu cái"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "*Mất răng theo phân loại Kennedy gồm bao nhiêu loại căn bản:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "*Mặt phẳng nhai hàm dưới gồm:",
+      "options": [
+        {
+          "text": "Mặt phẳng Camper"
+        },
+        {
+          "text": "Mặt phẳng Francfort"
+        },
+        {
+          "text": "Mặt phẳng nhai phục hình"
+        },
+        {
+          "text": "A, B, C"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Đây là phân loại Kenedy nào?",
+      "image": "images/image9.jpeg",
+      "options": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "II"
+        },
+        {
+          "text": "III"
+        },
+        {
+          "text": "IV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại Kennedy. Đáp án đúng:",
+      "options": [
+        {
+          "text": "Loại 1: mất răng sau bên trái hoặc bên phải"
+        },
+        {
+          "text": "Loại 1: mất răng sau bên trái và bên phải"
+        },
+        {
+          "text": "Loại 1: mất răng trước bên trái hoặc bên phải"
+        },
+        {
+          "text": "Loại 1: mất răng trước bên trái và bên phải"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Chọn câu đúng:",
+      "options": [
+        {
+          "text": "Phần tử cơ thể và sinh lý thuận lợi cho việc thực hiện hàm giả chỉ có ở hàm trên"
+        },
+        {
+          "text": "Mặt phẳng Camper là mặt phẳng đi qua bờ cắn của răng cửa và mặt nhai của các răng cối"
+        },
+        {
+          "text": "Mặt phẳng Francfort là mặt phẳng đi qua 2 điểm tragus và điểm phía dưới cánh mũi"
+        },
+        {
+          "text": "Đỉnh sống hàm là phần tử thuận lợi cho việc thực hiện hàm giả vì được bao phủ bởi lớp niêm mạc sợi săn chắc, chịu đựng được các lực."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Chọn câu SAI. Phân loại mất răng theo Kennedy:",
+      "options": [
+        {
+          "text": "Chỉ có loại I là có biến thể, các loại còn lại không có"
+        },
+        {
+          "text": "Loại II là mất răng sau một bên"
+        },
+        {
+          "text": "Gồm 4 loại căn bản và 2 loại đặc biệt"
+        },
+        {
+          "text": "Loại I biến thể 1 là mất răng sau hai bên và thêm một đoạn mất răng phía trước"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Điểm giải phẫu học có ở hàm dưới là:",
+      "options": [
+        {
+          "text": "Đường cung chữ a"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Rãnh chân bướm hàm"
+        },
+        {
+          "text": "Dây chằng chân bướm hàm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý bất lợi là:",
+      "options": [
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Giới hạn khẩu cái cứng và mềm"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Độ công lồi của thân răng còn lại trên hàm"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại mất răng theo APPLEGATE, loại nào đơn giản và thường gặp nhất",
+      "options": [
+        {
+          "text": "Loại I"
+        },
+        {
+          "text": "Loại II"
+        },
+        {
+          "text": "Loại VI"
+        },
+        {
+          "text": "Loại VI"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại KENNEDY trong trường hợp mất răng sau một bên và thêm một đoạn mất răng phía trước",
+      "options": [
+        {
+          "text": "Loại 1 biến thể 2"
+        },
+        {
+          "text": "Loại 2 biến thể 1"
+        },
+        {
+          "text": "Loại 3 biến thể 2"
+        },
+        {
+          "text": "Loại 4 biến thể 1"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Khi mất răng sau một bên, đoạn mất răng còn kẹp ở hai đầu và thêm hai đoạn mất răng phía trước, phân loại theo Kennedy thuộc loại nào:",
+      "options": [
+        {
+          "text": "Mất răng loại III"
+        },
+        {
+          "text": "Mất răng loại IV biến thể 2"
+        },
+        {
+          "text": "Mất răng loại III biến thể 2"
+        },
+        {
+          "text": "Mất răng loại III biến thể 3"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Tổng hệ số nhai hàm dưới là bao nhiêu?",
+      "options": [
+        {
+          "text": "24"
+        },
+        {
+          "text": "26"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "30"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chọn câu đúng về hệ số nhai",
+      "options": [
+        {
+          "text": "Hệ số nhai R8 hàm dưới là 3"
+        },
+        {
+          "text": "Hệ số nhai R4 hai hàm giống nhau"
+        },
+        {
+          "text": "Hệ số nhai R6 hai hàm khác nhau"
+        },
+        {
+          "text": "Thông thường, tổng số X của hệ số nhai toàn hàm được định là 90"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Những phần tử cơ thể và sinh lý thuận lợi cho việc làm hàm giả hàm dưới, ngoại trừ",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng còn lại trên hàm."
+        },
+        {
+          "text": "Sống hàm."
+        },
+        {
+          "text": "Đường chéo trong."
+        },
+        {
+          "text": "Gối hậu nha."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại Kennedy, chọn câu sai",
+      "options": [
+        {
+          "text": "Loại I: mất răng sau hai bên."
+        },
+        {
+          "text": "Loại II: mất răng sau hai bên."
+        },
+        {
+          "text": "Loại III: mất răng sau một bên và đoạn mất răng còn răng kẹp giữa hai đầu."
+        },
+        {
+          "text": "Loại IV: mất răng phía trước, các răng sau còn đủ không cách đoạn."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại theo Applegate, chọn câu sai",
+      "options": [
+        {
+          "text": "Gồm 6 loại hàm mất răng bán phần dựa trên cách nâng đỡ của phục hình."
+        },
+        {
+          "text": "Loại II: mất răng sau một bên."
+        },
+        {
+          "text": "Nhược điểm: dựa trên cách nâng đỡ của phục hình."
+        },
+        {
+          "text": "Loại VI: loại đơn giản nhất và có lẽ là kiểu mất răng thường gặp nhất trên cung hàm."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Mặt phẳng nào sau đây là mặt phẳng Camper?",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng nối 2 điểm tragus và phía dưới cánh mũi."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua 2 điểm tragus và lỗ dưới hốc mắt."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua bờ cắn của răng cửa và mặt nhai của răng cối."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua đường thẳng nối 2 con ngươi."
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại mất răng Kennedy gồm mấy loại căn bản:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Trong 4 loại căn bản mất răng Kennedy thì loại nào là không có biến thể:",
+      "options": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "II"
+        },
+        {
+          "text": "III"
+        },
+        {
+          "text": "IV"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm phía dưới cánh mũi là:",
+      "options": [
+        {
+          "text": "Mp Camper"
+        },
+        {
+          "text": "Mp Francfort"
+        },
+        {
+          "text": "Mp nhai phục hình"
+        },
+        {
+          "text": "Mp Trombone"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại theo APPLEGATE thì có bao nhiêu loại mất răng?",
+      "options": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "8"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Theo KENNEDY , Mất răng được xem là loại I khi nào?",
+      "options": [
+        {
+          "text": "Mất răng sau một bên"
+        },
+        {
+          "text": "Mất răng sau hai bên"
+        },
+        {
+          "text": "Mất răng sau một bên và đoạn mất răng còn răng kẹp hai đầu"
+        },
+        {
+          "text": "Mất răng trước"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Ở hàm trên, hệ số nhai của răng nào sau đây là nhỏ nhất?",
+      "options": [
+        {
+          "text": "R1"
+        },
+        {
+          "text": "R2"
+        },
+        {
+          "text": "R3"
+        },
+        {
+          "text": "R4"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Mặt phẳng camper là?",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm phía dưới cánh mũi"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng song song với mặt phẳng Francfort, nó đi qua bờ của răng cửa và mặt phẳng nhai của răng cối"
+        },
+        {
+          "text": "Tất cả đều đúng"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy:\n1. Loại I        a. mất răng sau 1 bên\n2. Loại II        b. mất răng sau 2 bên\n3. Loại III        c. mất răng phía trước, các răng sau còn đủ không cách đoạn\n4. Loại IV        d. mất răng sau một bên và đoạn mất răng còn răng kẹp ở hai đầu",
+      "options": [
+        {
+          "text": "1c, 2b, 3a, 4d"
+        },
+        {
+          "text": "1d, 2c, 3a, 4d"
+        },
+        {
+          "text": "1a, 2d, 3c, 4b"
+        },
+        {
+          "text": "1b, 2a, 3d, 4c"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Loại sống hàm nào thuận lợi cho sự bám dính hàm giả",
+      "options": [
+        {
+          "text": "Thấp hình tam giác"
+        },
+        {
+          "text": "Phẳng"
+        },
+        {
+          "text": "Hẹp"
+        },
+        {
+          "text": "Cao, rộng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng bán hàm theo Kennedy thì loại I là:",
+      "options": [
+        {
+          "text": "Mất răng sau 2 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên và đoạn mất răng còn răng kẹp ở 2 đầu"
+        },
+        {
+          "text": "Mất răng phía trước, các răng sau còn đủ không cách đoạn"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Điểm thuận lợi ở hàm trên là?",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng"
+        },
+        {
+          "text": "Vùng sau răng cửa"
+        },
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Cả ba câu trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Điểm bất lợi ở hàm trên là?",
+      "options": [
+        {
+          "text": "Núm sau răng cửa"
+        },
+        {
+          "text": "Vùng Schorder"
+        },
+        {
+          "text": "U xương và gai xương"
+        },
+        {
+          "text": "Lồi cùng"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "“Mất răng sau một bên, đoạn mất răng còn răng kẹp hai đầu” thuộc loại mất răng nào theo Kenndy",
+      "options": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "II"
+        },
+        {
+          "text": "III"
+        },
+        {
+          "text": "IV"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại mất răng theo Applegate giống với phân loại mất răng theo Kennedy ở những loại nào",
+      "options": [
+        {
+          "text": "I, II và IV"
+        },
+        {
+          "text": "I, II và III"
+        },
+        {
+          "text": "II, III và IV"
+        },
+        {
+          "text": "III, IV và V"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo Kennedy gồm bao nhiêu loại mất răng căn bản:",
+      "options": [
+        {
+          "text": "3 loại"
+        },
+        {
+          "text": "4 loại"
+        },
+        {
+          "text": "5 loại"
+        },
+        {
+          "text": "6 loại"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân mất răng sau hai bên và thêm 2 đoạn mất răng phía trước được xếp vào loại mất răng và biến thể nào?",
+      "options": [
+        {
+          "text": "Loại 1, biến thể 2"
+        },
+        {
+          "text": "Loại 1, biến thể 3"
+        },
+        {
+          "text": "Loại 2, biến thể 2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phân độ Kennedy loại IV:",
+      "options": [
+        {
+          "text": "Mất răng sau 2 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên và đoạn mất răng còn răng kẹp ở 2 đầu"
+        },
+        {
+          "text": "Mất răng phía trước, các răng sau còn đủ không cách đoạn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy của hình sau",
+      "image": "images/image10.png",
+      "options": [
+        {
+          "text": "Loại 2 biến thể 2"
+        },
+        {
+          "text": "Loại 3 biến thể 2"
+        },
+        {
+          "text": "Loại 4 biến thể 2"
+        },
+        {
+          "text": "Loại 1 biến thể 1"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Yếu tố nào sau đây là yếu tố thuận lợi:",
+      "options": [
+        {
+          "text": "Núm sau răng cửa trên"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "U xương, gai xương lớn"
+        },
+        {
+          "text": "Tam giác hậu hàm săn chắc"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Có mấy loại mất răng theo Kennedy:",
+      "options": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ý nghĩa phân loại mất răng theo Kennendy:",
+      "options": [
+        {
+          "text": "Cho thấy hình thái mất răng"
+        },
+        {
+          "text": "Đưa ra kế hoạch điều trị"
+        },
+        {
+          "text": "và B đúng"
+        },
+        {
+          "text": "và B sai"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ưu điểm riêng của phân loại Applegate:",
+      "options": [
+        {
+          "text": "Đơn giản, dễ nhận diện"
+        },
+        {
+          "text": "Đa số được mọi người chấp nhận"
+        },
+        {
+          "text": "Cho một hướng để phác họa loại phục hình"
+        },
+        {
+          "text": "Dựa trên cách nâng đỡ của phục hình"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "text": "Đâu là phần tử cơ thể và sinh lý thuận lợi",
+      "options": [
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Thắng bên"
+        },
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Dây chằng chân bướm hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vùng Schroder là vùng lõm ở khẩu cái từ vị trí răng nào",
+      "options": [
+        {
+          "text": "Răng nanh trở vào trong"
+        },
+        {
+          "text": "Răng cối nhỏ trở vào trong"
+        },
+        {
+          "text": "Răng cối lớn trở vào trong"
+        },
+        {
+          "text": "Răng cửa giữa trở vào trong"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hệ số nhai của các răng nào sau đây bằng nhau",
+      "options": [
+        {
+          "text": "R1 và R2"
+        },
+        {
+          "text": "R3 và R4"
+        },
+        {
+          "text": "R4 và R5"
+        },
+        {
+          "text": "R5 và R6"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại mất răng theo Applegate thì loại mất răng nào thường gặp nhất",
+      "options": [
+        {
+          "text": "I"
+        },
+        {
+          "text": "III"
+        },
+        {
+          "text": "IV"
+        },
+        {
+          "text": "VI"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Theo Applegate có mấy loại mất răng bán phần?",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo Kennedy, trường hợp mất răng loại II là",
+      "options": [
+        {
+          "text": "Mất răng sau hai bên"
+        },
+        {
+          "text": "Mất răng sau một bên"
+        },
+        {
+          "text": "Mất răng răng sau một bên và đoạn mất răng c̣n răng kẹp ở hai đầu"
+        },
+        {
+          "text": "Mất răng phía trước, các răng sau c̣n đủ không cách đoạn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đường vòng lớn nhất theo quan niệm phục hình răng",
+      "options": [
+        {
+          "text": "Phụ thuộc độ nghiêng của trục răng so với mặt phẳng nằm ngang"
+        },
+        {
+          "text": "Không  phụ thuộc độ nghiêng của trục răng so với mặt phẳng nằm ngang"
+        },
+        {
+          "text": "Là một đường duy nhất ở hướng lắp đã chọn"
+        },
+        {
+          "text": "Là nhiều đường ở hướng lắp đã chọn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Những điểm KHÔNG thuận lợi của hàm dưới là:",
+      "options": [
+        {
+          "text": "Gối hậu nha."
+        },
+        {
+          "text": "Độ cong lòi của thân răng còn lại trên hàm."
+        },
+        {
+          "text": "Điểm tiếp xúc giữa các răng thật."
+        },
+        {
+          "text": "Đường chéo trong."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nối thông tin hai cột để có phân loại mất răng đúng theo Kennedy\n1. Loại I, biến thể 1 | a) Mất răng sau hai bên và thêm hai đoạn mất răng phía trước.\n2. Loại I, biến thể 2 | b) Mất răng sau hai bên và thêm một đoạn mất răng phía trước.\n3. Loại III | c) Mất răng phía trước, các răng sau còn đủ không cách đoạn.\n4. Loại IV | d) Mất răng sau một bên và đoạn mất răng còn răng kẹp ở hai đầu.\nPhân loại mất răng theo Kennedy, hãy chọn đáp án đúng?",
+      "options": [
+        {
+          "text": "1-a, 2-b, 3-c, 4-d."
+        },
+        {
+          "text": "1-a, 2-b, 3-d, 4-c."
+        },
+        {
+          "text": "1-b, 2-c, 3-a, 4-d."
+        },
+        {
+          "text": "1-b, 2-a, 3-d, 4-c."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mất răng ở hàm dưới như sau, được phân loại theo Kennedy là:\n4     1           1  3 4",
+      "options": [
+        {
+          "text": "Mất răng loại I, biến thể 1."
+        },
+        {
+          "text": "Mất răng loại I, biến thể 2."
+        },
+        {
+          "text": "Mất răng loại II, biến thể 1."
+        },
+        {
+          "text": "Mất răng loại II, biến thể 2."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai?\n8 7 6 5 4 3 2 1    2 3 4 5 6 7 8\n8 7                       5 4 3 2 1 1 2 3",
+      "options": [
+        {
+          "text": "60%"
+        },
+        {
+          "text": "65%"
+        },
+        {
+          "text": "70%"
+        },
+        {
+          "text": "75%"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mất răng ở hàm trên như sau, được phân loại theo Kennedy là:\n7                              7 8",
+      "options": [
+        {
+          "text": "Mất răng loại III, biến thể 1."
+        },
+        {
+          "text": "Mất răng loại IV."
+        },
+        {
+          "text": "Mất răng loại V."
+        },
+        {
+          "text": "Mất răng loại VI."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Những phần tử cơ thể là sinh lý thuận lợi của hàm trên:",
+      "options": [
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Thắng bên"
+        },
+        {
+          "text": "Núm răng cửa sau"
+        },
+        {
+          "text": "Vùng Schroder"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Có bao nhiêu câu đúng :\n1. Phần tử cơ thể và sinh lý bất lợi của hàm dưới là:  Nơi bám của cơ và dây chằng, sống hàm (S)\n2. Mặt phẳng Camper: là mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm phía dưới cánh mũi (Đ)\n3. Mặt phẳng Camper :  Mặt phẳng đi qua đường thẳng nối 2 con ngươi ( S)\n4. Có hơn 65000 kiểu mất rang trên một cung hàm ( Đ )",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mất răng hàm trên như sau, được phân loại theo Kennedy là:\n8 x x x 4 x 2 x │ x 2 3 4 5 6 7 8",
+      "options": [
+        {
+          "text": "Loại I, biến thể 2"
+        },
+        {
+          "text": "Loại I, biến thể 3"
+        },
+        {
+          "text": "Loại III, biến thể 2"
+        },
+        {
+          "text": "Loại III, biến thể 3"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại theo Kennedy có bao nhiêu loại mất răng căn bản:",
+      "options": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "10"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo Kennedy, trường hợp mất răng loại II là",
+      "options": [
+        {
+          "text": "Mất răng sau hai bên"
+        },
+        {
+          "text": "Mất răng sau một bên"
+        },
+        {
+          "text": "Mất răng răng sau một bên và đoạn mất răng c̣n răng kẹp ở hai đầu"
+        },
+        {
+          "text": "Mất răng phía trước, các răng sau c̣n đủ không cách đoạn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi sắp các răng sau, nếu trục giữa hai sống hàm là 50° thì:",
+      "options": [
+        {
+          "text": "Sắp răng trên sống hàm"
+        },
+        {
+          "text": "Sắp răng trong diện tích chịu lực"
+        },
+        {
+          "text": "Sắp răng theo khớp cắn ngược"
+        },
+        {
+          "text": "Sắp răng theo KTDMức khó"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khắc khoá cho gối sáp được dùng trong trường hợp:",
+      "options": [
+        {
+          "text": "Mất răng loại 3 Kennydy"
+        },
+        {
+          "text": "Mất răng loại 1 Kennydy"
+        },
+        {
+          "text": "Mất răng loại 2 Kennydy"
+        },
+        {
+          "text": "B và C đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cấu trúc nào sau đây gây bất lợi khi mang hàm giả, ngoại trừ :",
+      "options": [
+        {
+          "text": "Torus."
+        },
+        {
+          "text": "Thắng bên."
+        },
+        {
+          "text": "Vùng Schrober."
+        },
+        {
+          "text": "Gối hậu nha."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Theo Kennedy, mất răng loại I là loại mất răng nào sau đây:",
+      "options": [
+        {
+          "text": "Mất răng sau 1 bên."
+        },
+        {
+          "text": "Mất răng sau 2 bên."
+        },
+        {
+          "text": "Mất răng sau 1 bên và còn răng kẹp ở hai đầu."
+        },
+        {
+          "text": "Mất răng sau 2 bên và còn răng kẹp ở hai đầu."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trường hợp nào sau đây khi ghi tương quan trung tâm phải khắc khóa chữ H :",
+      "options": [
+        {
+          "text": "Hàm trên mất răng loại I, hàm dưới mất răng loại IV"
+        },
+        {
+          "text": "Hàm trên mất răng loại I, hàm dưới mất răng loại I"
+        },
+        {
+          "text": "Hàm trên mất răng loại II. Hàm dưới mất răng loại III"
+        },
+        {
+          "text": "Hàm trên mất răng loại II, hàm dưới mất răng loại IV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Khi sắp quá giới hạn của đường nào sau đây về phía lưỡi, bệnh nhân sẽ bị cản trở phát âm và phục hình không vững :",
+      "options": [
+        {
+          "text": "Đường cong Spee"
+        },
+        {
+          "text": "Đường cong Wilson"
+        },
+        {
+          "text": "Đường Pound"
+        },
+        {
+          "text": "Đường Williams"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trường hợp nào sau đây khó nhất khi ghi tương quan :",
+      "options": [
+        {
+          "text": "Các răng thật ở hàm trên và dưới tiếp xúc với nhau tại kích thước dọc có khoảng nghỉ sinh lí 3mm"
+        },
+        {
+          "text": "Các răng thật có tiếp xúc nhưng cho khoảng nghỉ sinh lí quá nhiều"
+        },
+        {
+          "text": "Các răng thật có tiếp xúc nhưng cho khoảng nghỉ sinh lí quá ít"
+        },
+        {
+          "text": "Các răng thật không tiếp xúc nhạu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những hình thái/mốc giải phẩu nào sau đây tạo thuận lợi cho việc thực hiện hàm giả:",
+      "options": [
+        {
+          "text": "Núm sau răng cửa hàm trên (incisive papilla)"
+        },
+        {
+          "text": "Vùng lõm ở khẩu cái từ vị trí các răng cối trở vào trong ở hàm trên"
+        },
+        {
+          "text": "Các răng còn lại cung hàm có độ cong lồi nhất định của thân răng"
+        },
+        {
+          "text": "Những nơi mà cơ và dây chằng bám vào"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mất răng loại 1 kennedy có bao nhiêu biến thể:",
+      "options": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "2"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo Kennedy mất răng có mấy loại chính:",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Loại Kennedy loại I là mất nhóm răng :",
+      "options": [
+        {
+          "text": "Mất nhóm răng hàm có răng giới hạn phía sau"
+        },
+        {
+          "text": "Mất nhóm răng hàm một bên không có răng giới hạn phía sau"
+        },
+        {
+          "text": "Mất nhóm răng cửa trước"
+        },
+        {
+          "text": "Mất nhóm răng hàm hai bên không có răng giới hạn phía sau"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Loại kennedy loại I biến thể 1 là mất nhóm răng :",
+      "options": [
+        {
+          "text": "Có răng giới hạn phía sau và một đoạn răng phía trước"
+        },
+        {
+          "text": "Có răng giới hạn phía sau và 2 đoạn răng phía trước"
+        },
+        {
+          "text": "Hai bên không có răng giới hạn phía sau và một đoạn răng phía trước"
+        },
+        {
+          "text": "Hai bên không có răng giới hạn phía sau và một đoạn răng phía trước"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý bất lợi là:",
+      "options": [
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Giới hạn khẩu cái cứng và mềm"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Độ công lồi của thân răng còn lại trên hàm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại theo Kennedy cho sơ đồ răng hàm trên sau đây:\n4  3                        1  2  3",
+      "options": [
+        {
+          "text": "Mất răng loại I,biến thể 1"
+        },
+        {
+          "text": "Mất răng loại II, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại I, biến thể"
+        },
+        {
+          "text": "Mất răng loại III, biến thể 1"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hệ số nhai của R13 là:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Theo Kennedy, thì mất răng loại II là:",
+      "options": [
+        {
+          "text": "Mất răng sau hai bên"
+        },
+        {
+          "text": "Mất răng sau một bên"
+        },
+        {
+          "text": "Mất răng răng sau một bên và đoạn mất răng c̣òn răng kẹp ở hai đầu"
+        },
+        {
+          "text": "Mất răng phía trước, các răng sau c̣òn đủ không cách đoạn"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại mất răng, CHỌN CÂU SAI:",
+      "options": [
+        {
+          "text": "Phân loại mất răng theo Kennedy gồm 4 loại căn bản"
+        },
+        {
+          "text": "Phân loại mất răng theo Applegate gồm 6 loại hàm mất răng"
+        },
+        {
+          "text": "Phân loại theo Kennedy, chỉ có loại I, II, III mới có biến thể"
+        },
+        {
+          "text": "Phân loại theo Kennedy, tất cả các loại mất răng đều có biến thể"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cho sơ đồ răng dưới đây, bệnh nhân mất răng còn lại bao nhiên phần trăm chức năng nhai:\n8 7       4 3 2 1    1 2 3 4\n8 7 6    4 3 2 1                5 6 7 8",
+      "options": [
+        {
+          "text": "34%"
+        },
+        {
+          "text": "66%"
+        },
+        {
+          "text": "64%"
+        },
+        {
+          "text": "54%"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Lực nào sau đây tác động lên hàm giả theo chiều đứng:",
+      "options": [
+        {
+          "text": "Vận động đưa hàm sang bên trong động tác nhai"
+        },
+        {
+          "text": "Vận động đưa hàm ra trước"
+        },
+        {
+          "text": "Vận động của những thắng môi má, lưỡi"
+        },
+        {
+          "text": "Vận động lui sau trong động tác nuốt"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đây là loại mất răng nào theo Kennedy:",
+      "image": "images/image13.jpeg",
+      "options": [
+        {
+          "text": "Loại 3 biến thể 1"
+        },
+        {
+          "text": "Loại 3 biến thể 2"
+        },
+        {
+          "text": "Loại 2 biến thể 1"
+        },
+        {
+          "text": "Loại 2 biến thể 2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đây là mất răng loại nào theo Kennedy:",
+      "image": "images/image14.jpeg",
+      "options": [
+        {
+          "text": "Loại 1 biến thể 1"
+        },
+        {
+          "text": "Loại 1 biến thể 2"
+        },
+        {
+          "text": "Loại 2 biến thể 1"
+        },
+        {
+          "text": "Loại 2 biến thể 2"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mặt phẳng Camper:",
+      "options": [
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và điểm phía dưới cánh mũi"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua bờ cắn của răng cửa và mặt nhai của các răng cối hàm trên"
+        },
+        {
+          "text": "Là mặt phẳng tưởng tượng đi qua hai lỗ dưới hốc mắt"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Theo Kennedy, hình dưới đây là mất răng loai mấy:",
+      "image": "images/image15.jpeg",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phải tìm chiều cao tầng mặt dưới ở tư thế nghỉ sinh lý khi:",
+      "options": [
+        {
+          "text": "chỉ còn 1 điểm chạm"
+        },
+        {
+          "text": "không còn điểm chạm"
+        },
+        {
+          "text": "còn 2 điểm chạm"
+        },
+        {
+          "text": "còn đủ 3 điểm chạm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy dựa vào - 3",
+      "options": [
+        {
+          "text": "Số lượng điểm chạm và vị trí mất răng"
+        },
+        {
+          "text": "Vị trí mất răng và tính chất khoảng mất răng"
+        },
+        {
+          "text": "Tính chất khoảng mất răng và khả năng nâng đỡ của các răng giới hạn"
+        },
+        {
+          "text": "Chỉ định điều trị phục hình cụ thể"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trường hợp mất răng sau đây: x 7 x 5 4 3 x x x x 3 x 5 x x x phân loại theo Kennedy: - 3",
+      "options": [
+        {
+          "text": "Loại 4 biến thể 3"
+        },
+        {
+          "text": "Loại 2 biến thể 4"
+        },
+        {
+          "text": "Loại 3 biến thể 2"
+        },
+        {
+          "text": "Loại 2 biến thể 3"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọn câu đúng về phân loại mất răng bán hàm theo Kennedy:",
+      "options": [
+        {
+          "text": "Loại I: mất răng sau 2 bên."
+        },
+        {
+          "text": "Loại II: mất răng trước."
+        },
+        {
+          "text": "Loại III: mất răng sau 1 bên."
+        },
+        {
+          "text": "Loại IV: mất răng trước và răng sau 1 bên."
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trên bệnh nhân mất răng: R38, R37, R36, R32, R48, R47, R46, R41, R42. Phân loại Kenneydy của bệnh nhân này là:",
+      "options": [
+        {
+          "text": "Loại II biến thể 1."
+        },
+        {
+          "text": "Loại I biến thể 2."
+        },
+        {
+          "text": "Loại I biến thể 3."
+        },
+        {
+          "text": "Loại IV."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những điểm nào sau đây là bất lợi cho hàm trên trong việc thực hiện hàm giả, ngoại trừ",
+      "options": [
+        {
+          "text": "Núm sau răng cửa"
+        },
+        {
+          "text": "Vùng Schroder"
+        },
+        {
+          "text": "Vùng sau răng cửa"
+        },
+        {
+          "text": "Lồi rắn hàm trên"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mất răng hàm trên như sau, được phân loại Kennedy là:\n8 4 3 2 1 1 2 3 4",
+      "options": [
+        {
+          "text": "Mất răng loại I, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại II, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại III, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại IV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mất răng loại III theo Kennedy",
+      "options": [
+        {
+          "text": "Mất răng sau 2 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên và đoạn mất răng xen kẽ"
+        },
+        {
+          "text": "Mất răng phía trước"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Theo Kennedy, phân loại nào không có biến thể:",
+      "options": [
+        {
+          "text": "Loại I"
+        },
+        {
+          "text": "Loại II"
+        },
+        {
+          "text": "Loại III"
+        },
+        {
+          "text": "Loại IV"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân mất răng như sau:\n8 7 6 5 4 3 2 1    1 2 3 4 5 6 7 8\n4 3 2 1                5 6 7 8\nVới tình trạng bị mất răng như trên cùng với sự tiêu 2/3 xương ổ và tình trạng tụt nướu răng 24,25,26 thì phần trăm chức năng nhai của bệnh nhân có thể là?",
+      "options": [
+        {
+          "text": "60%"
+        },
+        {
+          "text": "50%"
+        },
+        {
+          "text": "40%"
+        },
+        {
+          "text": "76%"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phân loại mất răng sau đây theo Kennedy:\n8 7 6 5 4                 4 5 6 7 8\n5 4 3 2 1        6 7 8",
+      "options": [
+        {
+          "text": "Cung hàm trên loại IV, cung hàm dưới loại II"
+        },
+        {
+          "text": "Cung hàm trên loại IV, cung hàm dưới loại II biến thể I"
+        },
+        {
+          "text": "Cung hàm trên loại IV, cung hàm dưới loại III"
+        },
+        {
+          "text": "Cung hàm trên loại III, cung hàm dưới loại II biến thể I"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng còn lại trên hàm."
+        },
+        {
+          "text": "Nơi bám của dây chằng."
+        },
+        {
+          "text": "Lồi cùng"
+        },
+        {
+          "text": "Đường chéo trong."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
+      "options": [
+        {
+          "text": "Vùng Schooder."
+        },
+        {
+          "text": "Núm sau răng cửa."
+        },
+        {
+          "text": "Đường chéo trong."
+        },
+        {
+          "text": "Đường chéo ngoài."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong PHỤC HÌNH THÁO LẮPBH: 3-tb",
+      "options": [
+        {
+          "text": "Độ lõm của thân răng."
+        },
+        {
+          "text": "Điểm tiếp xúc."
+        },
+        {
+          "text": "Vùng Schooder."
+        },
+        {
+          "text": "Núm sau răng cửa."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm: 3-tb",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng."
+        },
+        {
+          "text": "Vùng sau răng cửa."
+        },
+        {
+          "text": "Sống hàm."
+        },
+        {
+          "text": "Lồi cắn."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng Camper là: 3-tb",
+      "options": [
+        {
+          "text": "Mặt phẳng đi ngang hai điểm tragus và điểm giữa múi."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua bờ cắn răng cửa và mặt nhai răng cối."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và điểm phía dưới cánh mũi."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng Franfcost là: 3-tb",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm ở hai nắp tai và điểm ở khóe mắt."
+        },
+        {
+          "text": "Mặt phẳng đi ngang qua cạnh cắn răng trước và mặt nhai răng sau."
+        },
+        {
+          "text": "Là mặt nhai."
+        },
+        {
+          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng nhai phục hình là: 3-tb",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng trùng với mặt phẳng Camper."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối."
+        },
+        {
+          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới hốc mắt."
+        },
+        {
+          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới cánh mũi."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chọn câu sai:\nTheo mặt phằng trán:",
+      "options": [
+        {
+          "text": "Răng cửa giữa: trục răng thẳng đứng (trục G-X: 0°)"
+        },
+        {
+          "text": "Răng cửa bên: trục răng nghiêng nhẹ về phía xa (trục G-X: 2°)"
+        },
+        {
+          "text": "Răng nanh: trục răng nghiêng xa nhiều (trục G-X: 5°), cổ răng về phía xa"
+        },
+        {
+          "text": "Đường đỉnh răng nanh và cạnh cắn các răng trước dưới nằm trên 1 đường cong"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Những điểm cần lưu ý nào khi sắp các răng sau?",
+      "options": [
+        {
+          "text": "Khi sắp các răng sau, ưu tiên về mặt thẩm mỹ"
+        },
+        {
+          "text": "Nếu trục giữa 2 sống hàm là 70° và 60° thì sắp răng theo khớp cắn ngược"
+        },
+        {
+          "text": "Nếu trục giữa 2 sống hàm là 90° và 70° thì sắp răng trên sống hàm"
+        },
+        {
+          "text": "Diện tích vùng chịu lực ở vùng răng sau hàm trên là trên đường sống hàm sau khi tiêu xương"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "phần tử cơ thể và sinh lý bất lợi cho việc thực hiện hàm giả ở hàm trên, NGOẠI TRỪ:",
+      "options": [
+        {
+          "text": "Núm sau răng cửa"
+        },
+        {
+          "text": "Đường nối giữa xương hàm trên"
+        },
+        {
+          "text": "Giới hạn giữa khẩu cái cứng và khẩu cái mềm"
+        },
+        {
+          "text": "Vùng Schroder"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "mặt phẳng nhai là",
+      "options": [
+        {
+          "text": "Mặt phẳng của hàm trên"
+        },
+        {
+          "text": "Mặt phẳng của hàm dưới"
+        },
+        {
+          "text": "Mặt phẳng đi qua hai điểm tragus (ở hai nắp tai) và điểm phía dưới cánh mũi"
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi qua hai điểm tragus và lỗ dưới hốc mắt"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "mất răng phía trước, các răng sau còn đủ không cách đoạn được phân loại mấy theo KENNEDY",
+      "options": [
+        {
+          "text": "Loại I"
+        },
+        {
+          "text": "Loại II"
+        },
+        {
+          "text": "Loại III"
+        },
+        {
+          "text": "Loại IV"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Những điểm thuận lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng còn lại trên hàm."
+        },
+        {
+          "text": "Nơi bám của dây chằng."
+        },
+        {
+          "text": "Lồi cùng."
+        },
+        {
+          "text": "Đường chéo trong."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý bất lợi của hàm dưới trong phục hình tháo lắp bán hàm: 3-tb",
+      "options": [
+        {
+          "text": "Vùng Schooder."
+        },
+        {
+          "text": "Núm sau răng cửa."
+        },
+        {
+          "text": "Đường chéo trong."
+        },
+        {
+          "text": "Đường chéo ngoài."
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phần tử cơ thể và sinh lý thuận lợi của hàm trên trong PHỤC HÌNH THÁO LẮPBH: 3-tb",
+      "options": [
+        {
+          "text": "Độ lõm của thân răng."
+        },
+        {
+          "text": "Điểm tiếp xúc."
+        },
+        {
+          "text": "Vùng Schooder."
+        },
+        {
+          "text": "Núm sau răng cửa."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những điểm bất lợi của hàm trên trong PHỤC HÌNH THÁO LẮP bán hàm: 3-tb",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng."
+        },
+        {
+          "text": "Vùng sau răng cửa."
+        },
+        {
+          "text": "Sống hàm."
+        },
+        {
+          "text": "Lồi rắn."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng Camper là: 3-tb",
+      "options": [
+        {
+          "text": "Mặt phẳng đi ngang hai điểm tragus và điểm giữa múi."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua bờ cắn răng cửa và mặt nhai răng cối."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm tragus và điểm phía dưới cánh mũi."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng Franfcost là: 3-tb",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng đi ngang qua hai điểm ở hai nắp tai và điểm ở khóe mắt."
+        },
+        {
+          "text": "Mặt phẳng đi ngang qua cạnh cắn răng trước và mặt nhai răng sau."
+        },
+        {
+          "text": "Là mặt nhai."
+        },
+        {
+          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và lỗ dưới hốc mắt."
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mặt phẳng nhai phục hình là:",
+      "options": [
+        {
+          "text": "Mặt phẳng tưởng tượng trùng với mặt phẳng Camper."
+        },
+        {
+          "text": "Mặt phẳng tưởng tượng song song với mặt phẳng Camper, nó đi qua bờ cắn của răng cửa và mặt nhai của các răng cối."
+        },
+        {
+          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới hốc mắt."
+        },
+        {
+          "text": "Mp tưởng tượng đi ngang qua hai điểm tragus và điểm dưới cánh mũi."
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trường hợp nào có thể cần phải xác định lại KTD",
+      "options": [
+        {
+          "text": "Hàm trên và hàm dưới mất răng loại I Kennedy"
+        },
+        {
+          "text": "Hàm trên mất răng loại I, hàm dưới mất răng loại II Kennedy"
+        },
+        {
+          "text": "Hàm trên mất răng loại IV, hàm dưới mất răng loại V Applegate"
+        },
+        {
+          "text": "Hàm trên và hàm dưới mất răng loại VI Kennedy"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Mất răng loại II biến thể 2",
+      "options": [
+        {
+          "text": "Mất răng sau một bên và thêm một đoạn mất răng phía trước"
+        },
+        {
+          "text": "Mất răng sau hai bên và thêm hai đoạn mất răng phía trước"
+        },
+        {
+          "text": "Mất răng sau một bên và đoạn mất răng còn kẹp ở hai đầu và thêm hai đoạn mất răng phía trước"
+        },
+        {
+          "text": "Mất răng sau một bên và thêm hai đoạn mất răng phía trước"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm thuận lợi của hàm trên cho việc thực hiện hàm giả",
+      "options": [
+        {
+          "text": "Độ cong lồi của thân răng còn lại trên cung hàm"
+        },
+        {
+          "text": "Điểm tiếp xúc"
+        },
+        {
+          "text": "Sống hàm"
+        },
+        {
+          "text": "a,b,c đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại theo Kennedy có mấy loại mất răng cơ bản:",
+      "options": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "hệ số nhai của R8 hàm trên là bao nhiêu:",
+      "options": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mất răng nào theo phân loại của KENNEDY là khó làm nhất:",
+      "options": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phân loại II mất răng theo Kennedy, chọn câu đúng:",
+      "options": [
+        {
+          "text": "Mất răng phía trước, các răng sau còn đủ không cách đoạn"
+        },
+        {
+          "text": "Mất răng sau 1 bên"
+        },
+        {
+          "text": "Mất răng sau 2 bên"
+        },
+        {
+          "text": "Mất răng sau 1 bên và đoạn mất răng còn răng kẹp ở 2 đầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những điểm thuận lợi của hàm trên",
+      "options": [
+        {
+          "text": "Núm sau rằng cửa, đỉnh sống hàm, lồi cùng, đường rung chữ “a\""
+        },
+        {
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, vùng Schroder"
+        },
+        {
+          "text": "Vùng sau răng cửa, lồi cùng, đường rung chữ “a\" và dây chẳng chân bướm hàm"
+        },
+        {
+          "text": "Vùng sau răng cửa, sống hàm rộng và săn chắc, lồi cùng và đường rung chữ “a\""
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng nào được sử dụng phổ biến trên lâm sàng:",
+      "options": [
+        {
+          "text": "KENNEDY"
+        },
+        {
+          "text": "APPLEGATE"
+        },
+        {
+          "text": "CAMPER"
+        },
+        {
+          "text": "FRANCFORT"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phân loại mất răng theo APPLEGATE gồm mấy loại:",
+      "options": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mất răng loại mấy theo KENNEDY là không có biến thể:\n156.",
+      "image": "images/image16.png",
+      "options": [
+        {
+          "text": "Loại I"
+        },
+        {
+          "text": "Loại II"
+        },
+        {
+          "text": "Loại III"
+        },
+        {
+          "text": "Loại IV"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennydy",
+      "options": [
+        {
+          "text": "Loại II, Biến thể 1"
+        },
+        {
+          "text": "Loại III, Biến thể 1"
+        },
+        {
+          "text": "Loại IV, Biến thể 1"
+        },
+        {
+          "text": "Loại IV, Biến thể 2"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Núm sau răng cửa",
+      "options": [
+        {
+          "text": "Là điểm bất lợi khi làm phục hình vì có thần kinh và mạch máu đi ra"
+        },
+        {
+          "text": "Là điểm bất lợi khi làm phục hình vì nhiều mô mỡ"
+        },
+        {
+          "text": "Là điểm thuận lợi khi làm phục hình vì được che chở bởi lớp niêm mạc sợi săn chắc, chịu được các lực"
+        },
+        {
+          "text": "Là điểm thuận đợi khi làm phục hình vì có nhiều mô mỡ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Vùng Schroder là?",
+      "options": [
+        {
+          "text": "Từ răng cửa giữa đến đường A"
+        },
+        {
+          "text": "Từ răng nanh đến đường A"
+        },
+        {
+          "text": "Từ răng cối nhỏ đến đường A"
+        },
+        {
+          "text": "Từ răng cối lớn đến đường A"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Phân loại mất răng theo Kennedy – Applegate, loạ mất răng nào có thể làm phục hình cố định:",
+      "options": [
+        {
+          "text": "Loại 1 và 3"
+        },
+        {
+          "text": "Loại 2 và 5"
+        },
+        {
+          "text": "Loại 4 và 6"
+        },
+        {
+          "text": "Cả 3 câu trên"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mất răng loại Kennedy I là :",
+      "options": [
+        {
+          "text": "Mất răng có răng giới hạn phía sau và 1 đoạn răng phía trước"
+        },
+        {
+          "text": "Mất răng sau 2 bên"
+        },
+        {
+          "text": "Mất răng  một bên không có răng giới hạn phía sau"
+        },
+        {
+          "text": "Mất răng hai bên không có răng giới hạn phía sau và 2 đoạn răng phía trước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những phần tử cơ thể và sinh lý bất lợi ở hàm trên là:",
+      "options": [
+        {
+          "text": "Núm sau răng cửa"
+        },
+        {
+          "text": "Đường nối giữa XHT"
+        },
+        {
+          "text": "Vùng schroder"
+        },
+        {
+          "text": "Tất cả câu trên đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Điểm bất lợi khác nhau giữa hàm trên và hàm dưới là:",
+      "options": [
+        {
+          "text": "Nơi bám cơ"
+        },
+        {
+          "text": "Vùng schroder"
+        },
+        {
+          "text": "Lồi xương"
+        },
+        {
+          "text": "Nơi bám dây chằng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mặt phẳng Camper là mặt phẳng tưởng tưởng:",
+      "options": [
+        {
+          "text": "Nối 2 điểm Tragus và phía dưới cánh mũi"
+        },
+        {
+          "text": "Nối 2 điểm Tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Nối bờ cắn răng cửa và mặt nhai các răng cối"
+        },
+        {
+          "text": "Đi ngang qua đường thẳng nối 2 con ngươi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Mặt phẳng Francfort là mặt phẳng tưởng tượng:",
+      "options": [
+        {
+          "text": "Nối 2 điểm Tragus và phía dưới cánh mũi"
+        },
+        {
+          "text": "Nối 2 điểm Tragus và lỗ dưới hốc mắt"
+        },
+        {
+          "text": "Nối bờ cắn răng cửa và mặt nhai các răng cối"
+        },
+        {
+          "text": "Đi ngang qua đường thẳng nối 2 con ngươi"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mất răng ở hàm trên như sau, được phân loại theo Kennedy là\n3    1       2    3    4    5    6    7    8",
+      "options": [
+        {
+          "text": "Mất răng loại I, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại II, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại III, biến thể 1"
+        },
+        {
+          "text": "Mất răng loại IV"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai\n8     7    6   5   4   3   2    1        4      5        7      8\n5   4   3   2    1          1     2     3      6    7      8",
+      "options": [
+        {
+          "text": "30%"
+        },
+        {
+          "text": "40%"
+        },
+        {
+          "text": "50 %"
+        },
+        {
+          "text": "60%"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân mất răng như sau còn lại bao nhiêu phần trăm chức năng nhai\n8        6   5   4   3   2    1  1   2   6    7      8\n8   7   5   4   3   2    1   3  4  5    6    7     8",
+      "options": [
+        {
+          "text": "23%"
+        },
+        {
+          "text": "77%"
+        },
+        {
+          "text": "45%"
+        },
+        {
+          "text": "55%"
+        }
+      ],
+      "answer": "c"
+    }
+  ]
+}

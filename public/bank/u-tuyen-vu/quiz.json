@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "text": "Ung thư vú là bệnh ung thư phổ biến nhất ở phụ nữ chiếm khoảng bao nhiêu phần trăm tổng số ca ung thư mới trên toàn cầu?",
+      "options": [
+        {
+          "text": "10%"
+        },
+        {
+          "text": "15%"
+        },
+        {
+          "text": "25%"
+        },
+        {
+          "text": "40%"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nguy cơ chính của ung thư vú là gì?",
+      "options": [
+        {
+          "text": "Nhiễm virus HPV"
+        },
+        {
+          "text": "Tiếp xúc với tia UV"
+        },
+        {
+          "text": "Đột biến BRCA1/BRCA2"
+        },
+        {
+          "text": "Nhiễm vi khuẩn Helicobacter pylori"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đột biến BRCA1 và BRCA2 làm tăng nguy cơ mắc ung thư vú lên bao nhiêu lần so với dân số chung?",
+      "options": [
+        {
+          "text": "2–5 lần"
+        },
+        {
+          "text": "5–10 lần"
+        },
+        {
+          "text": "10–20 lần"
+        },
+        {
+          "text": "Không liên quan đến nguy cơ ung thư vú"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Yếu tố nào dưới đây có thể làm giảm nguy cơ ung thư vú?",
+      "options": [
+        {
+          "text": "Béo phì"
+        },
+        {
+          "text": "Dùng liệu pháp hormone thay thế"
+        },
+        {
+          "text": "Cho con bú"
+        },
+        {
+          "text": "Tiền sử gia đình có người mắc ung thư vú"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Yếu tố nào KHÔNG làm tăng nguy cơ ung thư vú?",
+      "options": [
+        {
+          "text": "Dậy thì sớm"
+        },
+        {
+          "text": "Mãn kinh muộn"
+        },
+        {
+          "text": "Tập thể dục thường xuyên"
+        },
+        {
+          "text": "Tiền sử xạ trị vùng ngực"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dạng ung thư vú xâm lấn phổ biến nhất là gì?",
+      "options": [
+        {
+          "text": "Ung thư tiểu thùy xâm lấn"
+        },
+        {
+          "text": "Ung thư thể nhầy"
+        },
+        {
+          "text": "Ung thư ống tuyến xâm lấn"
+        },
+        {
+          "text": "Ung thư dạng nội mạc"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư vú dạng nào có tiên lượng tốt nhất?",
+      "options": [
+        {
+          "text": "Ung thư dạng tủy"
+        },
+        {
+          "text": "Ung thư thể ống tuyến nhỏ"
+        },
+        {
+          "text": "Ung thư thể nhầy"
+        },
+        {
+          "text": "Ung thư vú ba âm tính"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Độ mô học nào có tiên lượng xấu nhất trong ung thư vú?",
+      "options": [
+        {
+          "text": "Độ 1"
+        },
+        {
+          "text": "Độ 2"
+        },
+        {
+          "text": "Độ 3"
+        },
+        {
+          "text": "Không liên quan đến tiên lượng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Loại ung thư vú nào có khuynh hướng lan rộng nhưng khó phát hiện trên hình ảnh học?",
+      "options": [
+        {
+          "text": "Ung thư ống tuyến xâm lấn"
+        },
+        {
+          "text": "Ung thư tiểu thùy xâm lấn"
+        },
+        {
+          "text": "Ung thư vú ba âm tính"
+        },
+        {
+          "text": "Ung thư biểu mô nhầy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu ấn phân tử nào liên quan đến tiên lượng tốt hơn trong ung thư vú?",
+      "options": [
+        {
+          "text": "HER2 dương tính"
+        },
+        {
+          "text": "Ki-67 cao"
+        },
+        {
+          "text": "POLE đột biến"
+        },
+        {
+          "text": "p53 đột biến"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đột biến nào thường gặp trong ung thư vú di truyền?",
+      "options": [
+        {
+          "text": "TP53"
+        },
+        {
+          "text": "PIK3CA"
+        },
+        {
+          "text": "BRCA1/BRCA2"
+        },
+        {
+          "text": "KRAS"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư vú ba âm tính có đặc điểm gì?",
+      "options": [
+        {
+          "text": "ER (+), PR (+), HER2 (+)"
+        },
+        {
+          "text": "ER (-), PR (-), HER2 (-)"
+        },
+        {
+          "text": "ER (+), PR (-), HER2 (-)"
+        },
+        {
+          "text": "ER (-), PR (+), HER2 (+)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân nhóm phân tử nào của ung thư vú có tiên lượng tốt nhất?",
+      "options": [
+        {
+          "text": "Luminal A"
+        },
+        {
+          "text": "Luminal B"
+        },
+        {
+          "text": "HER2 dương tính"
+        },
+        {
+          "text": "Triple-negative"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "HER2 khuếch đại có liên quan đến cơ chế nào trong ung thư vú?",
+      "options": [
+        {
+          "text": "Mất điều hòa chu kỳ tế bào"
+        },
+        {
+          "text": "Tăng hoạt động tyrosine kinase"
+        },
+        {
+          "text": "Giảm sửa chữa DNA"
+        },
+        {
+          "text": "Ức chế miễn dịch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ki-67 là chỉ số gì trong ung thư vú?",
+      "options": [
+        {
+          "text": "Tỷ lệ phân bào"
+        },
+        {
+          "text": "Mức độ hoại tử"
+        },
+        {
+          "text": "Đáp ứng miễn dịch"
+        },
+        {
+          "text": "Đột biến gen"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Triệu chứng sớm nhất thường gặp của ung thư vú là gì?",
+      "options": [
+        {
+          "text": "Đau vú"
+        },
+        {
+          "text": "Chảy dịch núm vú"
+        },
+        {
+          "text": "Khối u sờ thấy"
+        },
+        {
+          "text": "Tụt núm vú"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chụp nhũ ảnh có giá trị nhất ở nhóm phụ nữ nào?",
+      "options": [
+        {
+          "text": "Dưới 30 tuổi"
+        },
+        {
+          "text": "30-40 tuổi"
+        },
+        {
+          "text": "Sau mãn kinh"
+        },
+        {
+          "text": "Nam giới"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Sinh thiết vú nào được ưu tiên để chẩn đoán mô bệnh học?",
+      "options": [
+        {
+          "text": "Chọc hút kim nhỏ (FNA)"
+        },
+        {
+          "text": "Sinh thiết kim lõi"
+        },
+        {
+          "text": "Sinh thiết lỏng"
+        },
+        {
+          "text": "Sinh thiết cắt bỏ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "CA 15-3 là dấu ấn sinh học dùng để làm gì trong ung thư vú?",
+      "options": [
+        {
+          "text": "Sàng lọc sớm"
+        },
+        {
+          "text": "Chẩn đoán xác định"
+        },
+        {
+          "text": "Theo dõi tái phát"
+        },
+        {
+          "text": "Đánh giá đáp ứng điều trị"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hệ thống phân giai đoạn nào được dùng trong ung thư vú?",
+      "options": [
+        {
+          "text": "FIGO"
+        },
+        {
+          "text": "Ann Arbor"
+        },
+        {
+          "text": "TNM"
+        },
+        {
+          "text": "Dukes"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Điều trị nào là nền tảng chính cho ung thư vú giai đoạn sớm?",
+      "options": [
+        {
+          "text": "Hóa trị"
+        },
+        {
+          "text": "Xạ trị"
+        },
+        {
+          "text": "Phẫu thuật"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phẫu thuật bảo tồn vú thường được chỉ định khi nào?",
+      "options": [
+        {
+          "text": "Giai đoạn IV"
+        },
+        {
+          "text": "Giai đoạn sớm"
+        },
+        {
+          "text": "Ung thư ba âm tính"
+        },
+        {
+          "text": "Di căn xa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Thuốc nào là liệu pháp đích cho ung thư vú HER2 dương tính?",
+      "options": [
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Trastuzumab"
+        },
+        {
+          "text": "Letrozole"
+        },
+        {
+          "text": "Bevacizumab"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư vú ba âm tính có phác đồ điều trị nào hiệu quả nhất?",
+      "options": [
+        {
+          "text": "Hóa trị dựa trên anthracycline và taxane"
+        },
+        {
+          "text": "Liệu pháp nội tiết"
+        },
+        {
+          "text": "Liệu pháp kháng HER2"
+        },
+        {
+          "text": "Xạ trị đơn thuần"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Liệu pháp nội tiết nào được sử dụng cho ung thư vú ER dương tính?",
+      "options": [
+        {
+          "text": "Trastuzumab"
+        },
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Cisplatin"
+        },
+        {
+          "text": "Paclitaxel"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ung thư vú giai đoạn nào có tiên lượng tốt nhất?",
+      "options": [
+        {
+          "text": "Giai đoạn I"
+        },
+        {
+          "text": "Giai đoạn II"
+        },
+        {
+          "text": "Giai đoạn III"
+        },
+        {
+          "text": "Giai đoạn IV"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi ung thư vú di căn xa cơ quan nào thường bị ảnh hưởng nhất?",
+      "options": [
+        {
+          "text": "Phổi"
+        },
+        {
+          "text": "Xương"
+        },
+        {
+          "text": "Não"
+        },
+        {
+          "text": "Gan"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Giai đoạn III của ung thư vú đặc trưng bởi điều gì?",
+      "options": [
+        {
+          "text": "Di căn xa"
+        },
+        {
+          "text": "Xâm lấn da thành ngực hoặc hạch nách cố định"
+        },
+        {
+          "text": "Giới hạn trong tuyến vú"
+        },
+        {
+          "text": "Không xâm lấn hạch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm nào là dấu hiệu tiên lượng xấu trong ung thư vú?",
+      "options": [
+        {
+          "text": "ER dương tính"
+        },
+        {
+          "text": "HER2 âm tính"
+        },
+        {
+          "text": "Ki-67 cao (>20%)"
+        },
+        {
+          "text": "Kích thước u <2 cm"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Ung thư vú ba âm tính có tiên lượng như thế nào so với các loại khác?",
+      "options": [
+        {
+          "text": "Tốt hơn"
+        },
+        {
+          "text": "Trung bình"
+        },
+        {
+          "text": "Xấu hơn"
+        },
+        {
+          "text": "Không ảnh hưởng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Dấu ấn sinh học nào giúp đánh giá nguy cơ tái phát ung thư vú?",
+      "options": [
+        {
+          "text": "CA 15-3"
+        },
+        {
+          "text": "AFP"
+        },
+        {
+          "text": "PSA"
+        },
+        {
+          "text": "CEA"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Dấu ấn nào liên quan đến ung thư vú có HER2 dương tính?",
+      "options": [
+        {
+          "text": "Ki-67"
+        },
+        {
+          "text": "p53"
+        },
+        {
+          "text": "HER2/neu"
+        },
+        {
+          "text": "CA 19-9"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xét nghiệm nào có thể giúp xác định nguy cơ di truyền ung thư vú?",
+      "options": [
+        {
+          "text": "Định lượng ER PR"
+        },
+        {
+          "text": "Phân tích BRCA1/BRCA2"
+        },
+        {
+          "text": "Chụp nhũ ảnh"
+        },
+        {
+          "text": "Xét nghiệm CA 125"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bộ xét nghiệm nào có thể giúp xác định bệnh nhân có cần hóa trị hay không?",
+      "options": [
+        {
+          "text": "Oncotype DX"
+        },
+        {
+          "text": "Mammography"
+        },
+        {
+          "text": "CA 19-9"
+        },
+        {
+          "text": "Xét nghiệm máu tổng quát"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phương pháp nào là tiêu chuẩn vàng trong xác định HER2 dương tính?",
+      "options": [
+        {
+          "text": "Xét nghiệm miễn dịch mô hóa (IHC)"
+        },
+        {
+          "text": "Xét nghiệm sinh hóa"
+        },
+        {
+          "text": "PCR"
+        },
+        {
+          "text": "Định lượng CA 15-3"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phẫu thuật nào được áp dụng cho bệnh nhân ung thư vú giai đoạn sớm?",
+      "options": [
+        {
+          "text": "Cắt bỏ toàn bộ tuyến vú"
+        },
+        {
+          "text": "Phẫu thuật bảo tồn vú"
+        },
+        {
+          "text": "Hóa trị đơn thuần"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trastuzumab được sử dụng trong điều trị ung thư vú có đặc điểm nào?",
+      "options": [
+        {
+          "text": "ER dương tính"
+        },
+        {
+          "text": "PR âm tính"
+        },
+        {
+          "text": "HER2 dương tính"
+        },
+        {
+          "text": "Triple-negative"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Tamoxifen có cơ chế hoạt động như thế nào?",
+      "options": [
+        {
+          "text": "Ức chế HER2"
+        },
+        {
+          "text": "Chống estrogen tại mô vú"
+        },
+        {
+          "text": "Kích thích thụ thể androgen"
+        },
+        {
+          "text": "Ức chế tyrosine kinase"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong ung thư vú giai đoạn III phương pháp điều trị nào thường được chỉ định đầu tiên?",
+      "options": [
+        {
+          "text": "Hóa trị tân bổ trợ"
+        },
+        {
+          "text": "Xạ trị"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        },
+        {
+          "text": "Phẫu thuật ngay lập tức"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Chỉ định nào phù hợp nhất cho liệu pháp ức chế CDK4/6 (như palbociclib)?",
+      "options": [
+        {
+          "text": "Ung thư vú ba âm tính"
+        },
+        {
+          "text": "HER2 dương tính"
+        },
+        {
+          "text": "ER dương tính HER2 âm tính"
+        },
+        {
+          "text": "Không có thụ thể nội tiết"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Khi nào xạ trị thường được chỉ định sau phẫu thuật ung thư vú?",
+      "options": [
+        {
+          "text": "Luôn luôn"
+        },
+        {
+          "text": "Khi có di căn xa"
+        },
+        {
+          "text": "Sau phẫu thuật bảo tồn vú"
+        },
+        {
+          "text": "Khi bệnh nhân từ chối hóa trị"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Hóa trị nào là phổ biến nhất trong ung thư vú?",
+      "options": [
+        {
+          "text": "Methotrexate đơn thuần"
+        },
+        {
+          "text": "Cisplatin + Etoposide"
+        },
+        {
+          "text": "Doxorubicin + Cyclophosphamide"
+        },
+        {
+          "text": "Bevacizumab"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Chỉ định nào phù hợp nhất cho liệu pháp miễn dịch với Pembrolizumab?",
+      "options": [
+        {
+          "text": "HER2 dương tính"
+        },
+        {
+          "text": "ER dương tính"
+        },
+        {
+          "text": "Triple-negative với biểu hiện PD-L1"
+        },
+        {
+          "text": "Ung thư vú tại chỗ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Thuốc nào là lựa chọn hàng đầu cho bệnh nhân ung thư vú có đột biến BRCA?",
+      "options": [
+        {
+          "text": "Olaparib"
+        },
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Trastuzumab"
+        },
+        {
+          "text": "Cyclophosphamide"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Sau phẫu thuật nếu ung thư vú có di căn hạch liệu pháp nào thường được chỉ định?",
+      "options": [
+        {
+          "text": "Theo dõi không điều trị"
+        },
+        {
+          "text": "Chỉ xạ trị"
+        },
+        {
+          "text": "Hóa trị bổ trợ"
+        },
+        {
+          "text": "Phẫu thuật lại"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "ADC (Antibody-Drug Conjugate) nào đang được nghiên cứu trong ung thư vú?",
+      "options": [
+        {
+          "text": "Trastuzumab Deruxtecan"
+        },
+        {
+          "text": "Bevacizumab"
+        },
+        {
+          "text": "Letrozole"
+        },
+        {
+          "text": "Paclitaxel"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Phương pháp nào có thể theo dõi tái phát ung thư vú sớm?",
+      "options": [
+        {
+          "text": "Chụp nhũ ảnh"
+        },
+        {
+          "text": "Siêu âm"
+        },
+        {
+          "text": "Sinh thiết lỏng"
+        },
+        {
+          "text": "MRI"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Liệu pháp miễn dịch chủ yếu nhắm vào mục tiêu nào trong ung thư vú?",
+      "options": [
+        {
+          "text": "HER2"
+        },
+        {
+          "text": "PD-1/PD-L1"
+        },
+        {
+          "text": "EGFR"
+        },
+        {
+          "text": "VEGF"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ số nào có thể giúp đánh giá nguy cơ tái phát trong ung thư vú ER dương tính?",
+      "options": [
+        {
+          "text": "HER2"
+        },
+        {
+          "text": "Oncotype DX"
+        },
+        {
+          "text": "CA 19-9"
+        },
+        {
+          "text": "AFP"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chất ức chế PARP được dùng để điều trị ung thư vú có đột biến nào?",
+      "options": [
+        {
+          "text": "TP53"
+        },
+        {
+          "text": "BRCA1/BRCA2"
+        },
+        {
+          "text": "PIK3CA"
+        },
+        {
+          "text": "HER2"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân nữ 45 tuổi có ung thư vú ER dương tính PR dương tính HER2 âm tính. Liệu pháp nào phù hợp nhất?",
+      "options": [
+        {
+          "text": "Trastuzumab"
+        },
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Bevacizumab"
+        },
+        {
+          "text": "Cisplatin"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân có ung thư vú ba âm tính di căn gan. Phương pháp điều trị tối ưu?",
+      "options": [
+        {
+          "text": "Liệu pháp nội tiết"
+        },
+        {
+          "text": "Xạ trị"
+        },
+        {
+          "text": "Hóa trị + Miễn dịch trị liệu"
+        },
+        {
+          "text": "Phẫu thuật"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh nhân 55 tuổi có khối u vú HER2 dương tính phương pháp điều trị nào hiệu quả nhất?",
+      "options": [
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Trastuzumab + Hóa trị"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        },
+        {
+          "text": "Chỉ xạ trị"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân trẻ phát hiện BRCA1 đột biến lựa chọn dự phòng nào hợp lý nhất?",
+      "options": [
+        {
+          "text": "Theo dõi định kỳ"
+        },
+        {
+          "text": "Hóa trị dự phòng"
+        },
+        {
+          "text": "Cắt bỏ tuyến vú dự phòng"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Một bệnh nhân ung thư vú có HER2 dương tính sau 1 năm tái phát di căn. Lựa chọn tiếp theo?",
+      "options": [
+        {
+          "text": "Trastuzumab + Paclitaxel"
+        },
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        },
+        {
+          "text": "Chỉ xạ trị"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Một bệnh nhân nữ 35 tuổi được chẩn đoán ung thư vú giai đoạn II có ER dương tính HER2 âm tính. Liệu pháp nào được ưu tiên sau phẫu thuật?",
+      "options": [
+        {
+          "text": "Xạ trị đơn thuần"
+        },
+        {
+          "text": "Hóa trị + Tamoxifen"
+        },
+        {
+          "text": "Chỉ theo dõi định kỳ"
+        },
+        {
+          "text": "Chỉ hóa trị"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong ung thư vú di căn xương phương pháp điều trị bổ trợ nào thường được sử dụng?",
+      "options": [
+        {
+          "text": "Hóa trị liều cao"
+        },
+        {
+          "text": "Bisphosphonates"
+        },
+        {
+          "text": "Phẫu thuật cắt bỏ tuyến vú"
+        },
+        {
+          "text": "Xạ trị toàn thân"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân có ung thư vú giai đoạn IV di căn gan ER âm tính HER2 dương tính. Liệu pháp nào tối ưu?",
+      "options": [
+        {
+          "text": "Liệu pháp nội tiết"
+        },
+        {
+          "text": "Trastuzumab + Pertuzumab + Hóa trị"
+        },
+        {
+          "text": "Chỉ xạ trị gan"
+        },
+        {
+          "text": "Theo dõi định kỳ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Một bệnh nhân ung thư vú ba âm tính giai đoạn tiến triển có biểu hiện PD-L1 dương tính. Điều trị nào phù hợp nhất?",
+      "options": [
+        {
+          "text": "Hóa trị + Pembrolizumab"
+        },
+        {
+          "text": "Tamoxifen"
+        },
+        {
+          "text": "Xạ trị đơn thuần"
+        },
+        {
+          "text": "Liệu pháp nội tiết"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Một bệnh nhân có tiền sử gia đình mắc ung thư vú xét nghiệm phát hiện đột biến BRCA1. Bệnh nhân chưa mắc ung thư phương pháp dự phòng nào phù hợp?",
+      "options": [
+        {
+          "text": "Phẫu thuật cắt bỏ tuyến vú dự phòng"
+        },
+        {
+          "text": "Chỉ theo dõi mỗi năm"
+        },
+        {
+          "text": "Dùng hóa trị liều thấp"
+        },
+        {
+          "text": "Liệu pháp miễn dịch"
+        }
+      ],
+      "answer": "a"
+    }
+  ]
+}

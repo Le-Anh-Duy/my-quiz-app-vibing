@@ -1,0 +1,1798 @@
+{
+  "questions": [
+    {
+      "text": "Triệu chứng nào sau đây không thuộc triệu chứng cơ năng hô hấp",
+      "options": [
+        {
+          "text": "Ho"
+        },
+        {
+          "text": "Ho ra máu"
+        },
+        {
+          "text": "Đau ngực"
+        },
+        {
+          "text": "Hô hấp nghịch thường"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nhóm kích thích gây ra ho thường gặp nhất là",
+      "options": [
+        {
+          "text": "Cơ học"
+        },
+        {
+          "text": "Viêm"
+        },
+        {
+          "text": "Tâm lý"
+        },
+        {
+          "text": "Chèn ép"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Mốc thời gian để phân loại ho theo thời gian xuất hiện là",
+      "options": [
+        {
+          "text": "2 tuần"
+        },
+        {
+          "text": "3 tuần"
+        },
+        {
+          "text": "4 tuần"
+        },
+        {
+          "text": "6 tuần"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trong các nhận định sau đây, nhận định nào là đúng về ho ra máu",
+      "options": [
+        {
+          "text": "Ho ra máu là tình trạng máu từ đường hô hấp trên thoát ra vùng miệng khi ho"
+        },
+        {
+          "text": "Ho ra máu là tình trạng máu từ đường hô hấp dưới thoát ra vùng miệng khi ho"
+        },
+        {
+          "text": "Ho ra máu là tình trạng máu từ đường tiêu hóa thoát ra vùng miệng khi ho"
+        },
+        {
+          "text": "Ho ra máu là tình trạng máu từ đường tiêu hóa và đường hô hấp trên thoát ra vùng miệng khi ho"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Ho ra máu mức độ nặng khi",
+      "options": [
+        {
+          "text": "Mạch nhanh, huyết áp tụt nhưng không suy hô hấp"
+        },
+        {
+          "text": "Có biểu hiện suy hô hấp, mạch nhanh nhưng huyết áp bình thường"
+        },
+        {
+          "text": "Có biểu hiện huyết áp tụt, mạch chậm, nhưng thường không suy hô hấp"
+        },
+        {
+          "text": "Có biểu hiện suy hô hấp và rối trụy tim mạch"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây tràn dịch màng phổi dịch thấm",
+      "options": [
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Hội chứng Dressler"
+        },
+        {
+          "text": "Lupus ban đỏ hệ thống"
+        },
+        {
+          "text": "Viêm khớp dạng thấp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi phân chia trung thất theo Lucy Squire trên X-quang ngực, tim thuộc trung thất nào",
+      "options": [
+        {
+          "text": "Trung thất trước"
+        },
+        {
+          "text": "Trung thất giữa"
+        },
+        {
+          "text": "Trung thất sau"
+        },
+        {
+          "text": "Trung thất trên"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cấu trúc nào sau đây không phải là thành phần của trung thất",
+      "options": [
+        {
+          "text": "Động mạch chủ ngực"
+        },
+        {
+          "text": "Thực quản"
+        },
+        {
+          "text": "Tĩnh mạch chủ trên"
+        },
+        {
+          "text": "Phổi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây tràn dịch màng phổi dịch tiết",
+      "options": [
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Hội chứng Demons-Meigs"
+        },
+        {
+          "text": "Viêm tụy cấp"
+        },
+        {
+          "text": "Hội chứng thận hư"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Trong các nguyên nhân sau đây, nguyên nhân nào gây tràn dịch màng phổi dịch tiết",
+      "options": [
+        {
+          "text": "Suy tim"
+        },
+        {
+          "text": "Xơ gan"
+        },
+        {
+          "text": "Tắc tĩnh mạch chủ trên"
+        },
+        {
+          "text": "Lao màng phổi"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Trong hở van động mạch chủ nghe tim rõ nhất, chọn câu ĐÚNG",
+      "options": [
+        {
+          "text": "Vị trí liên sườn 3 cạnh ức trái"
+        },
+        {
+          "text": "Tiếng thổi tâm thu"
+        },
+        {
+          "text": "Nghe rõ bằng phần màng"
+        },
+        {
+          "text": "Vị trí liên sườn 2 cạnh ức phải"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nghe tim hẹp van 2 lá, chọn câu SAI",
+      "options": [
+        {
+          "text": "Vị trí liên sườn 4,5 đường trung đòn trái"
+        },
+        {
+          "text": "Từ tiếng T1 cho đến tiếng T2"
+        },
+        {
+          "text": "Tiếng thổi tâm trương"
+        },
+        {
+          "text": "Tiếng rung tâm trương"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân này tổn thương ổ van tim nào",
+      "options": [
+        {
+          "text": "2 lá"
+        },
+        {
+          "text": "3 lá"
+        },
+        {
+          "text": "Van động mạch chủ"
+        },
+        {
+          "text": "Van động mạch phổi"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cơ chế gây khó thở trên bệnh nhân này",
+      "options": [
+        {
+          "text": "Thoát dịch từ mao mạch vào phế nang gây giảm khuếch tán khí"
+        },
+        {
+          "text": "Tổ chức phổi kém đàn hồi"
+        },
+        {
+          "text": "Tăng áp lực tuần hoàn phổi"
+        },
+        {
+          "text": "Cả 3 cơ chế trên"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân trên khi nghe tim có thể thấy dấu hiệu nào",
+      "options": [
+        {
+          "text": "Rung miu"
+        },
+        {
+          "text": "Tiếng Click tống máu"
+        },
+        {
+          "text": "Rung tâm trương"
+        },
+        {
+          "text": "Tiếng cọ màng tim"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "ECG hình ảnh nhịp nhanh đều có QRS dãn, chọn chẩn đoán ĐÚNG",
+      "options": [
+        {
+          "text": "Rung nhĩ đáp ứng thất nhanh có block nhánh"
+        },
+        {
+          "text": "Nhanh vào lại nhĩ thất thuận"
+        },
+        {
+          "text": "Nhanh xoang có block nhánh"
+        },
+        {
+          "text": "Nhanh thất đơn hình"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "ECG hình ảnh nhịp nhanh không đều có QRS dãn, chọn chẩn đoán KHÔNG ĐÚNG",
+      "options": [
+        {
+          "text": "Nhanh thất đa hình"
+        },
+        {
+          "text": "Rung nhĩ có đường phụ"
+        },
+        {
+          "text": "Xoắn đỉnh"
+        },
+        {
+          "text": "Nhanh thất đơn hình"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "ECG hình ảnh nhịp nhanh không đều có QRS dãn, chọn chẩn đoán KHÔNG ĐÚNG",
+      "options": [
+        {
+          "text": "Nhanh vào lại nhĩ thất"
+        },
+        {
+          "text": "Rung nhĩ có block nhánh"
+        },
+        {
+          "text": "Xoắn đỉnh"
+        },
+        {
+          "text": "Nhanh thất đa hình"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên nhân ST chênh lên trên ECG, chọn chẩn đoán KHÔNG ĐÚNG",
+      "options": [
+        {
+          "text": "Nhồi máu cơ tim"
+        },
+        {
+          "text": "Viêm màng ngoài tim"
+        },
+        {
+          "text": "Tái cực sớm"
+        },
+        {
+          "text": "Block nhánh trái"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Bệnh nhân xuất huyết trên da đa dạng (chấm, nốt và mảng), chảy máu chân răng. Kết quả xét nghiệm với PLT 200 x109/L, TS 15’ (3 – 7’), aPTT 30” (28 – 35”), PT 12” (10 – 14”). Chẩn đoán xuất huyết do",
+      "options": [
+        {
+          "text": "Thành mạch"
+        },
+        {
+          "text": "Chất lượng tiểu cầu"
+        },
+        {
+          "text": "Yếu tố đông máu"
+        },
+        {
+          "text": "Số lượng tiểu cầu"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Trớ là hiện tượng thức ăn từ đâu trở ngược ra miệng",
+      "options": [
+        {
+          "text": "Thực quản và họng"
+        },
+        {
+          "text": "Thực quản và dạ dày"
+        },
+        {
+          "text": "Thực quản và tá tràng"
+        },
+        {
+          "text": "Dạ dày và tá tràng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trình tự thăm khám bụng là",
+      "options": [
+        {
+          "text": "Nhìn, sờ, gõ, nghe"
+        },
+        {
+          "text": "Nhìn, nghe, gõ, sờ"
+        },
+        {
+          "text": "Nhìn, gõ, nghe, sờ"
+        },
+        {
+          "text": "Nhìn, sờ, nghe, gõ"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Những nguyên nhân gây đau bụng cấp. NGOẠI TRỪ",
+      "options": [
+        {
+          "text": "Thủng dạ dày"
+        },
+        {
+          "text": "Viêm tụy xuất huyết"
+        },
+        {
+          "text": "Viêm túi mật"
+        },
+        {
+          "text": "Lao ruột"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Nghiệm pháp Murphy để phát hiện cơ quan nào tổn thương",
+      "options": [
+        {
+          "text": "Gan"
+        },
+        {
+          "text": "Túi mật"
+        },
+        {
+          "text": "Ống mật"
+        },
+        {
+          "text": "Tụy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Các triệu chứng sau đây là của hội chứng suy chức năng gan, ngoại trừ",
+      "options": [
+        {
+          "text": "Sao mạch"
+        },
+        {
+          "text": "Chảy máu chân răng"
+        },
+        {
+          "text": "Lòng bàn tay son"
+        },
+        {
+          "text": "Lách to"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Sinh thiết qua ngã xuyên gan qua da thường dùng chẩn đoán",
+      "options": [
+        {
+          "text": "Ung thư gan"
+        },
+        {
+          "text": "Áp xe gan"
+        },
+        {
+          "text": "Sỏi trong gan"
+        },
+        {
+          "text": "Các bệnh lý viêm gan mạn"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hình ảnh các quai ruột giãn to và có nhiều mức nước-hơi xếp thành hình bậc thang trong chụp XQ bụng đứng không chuẩn bị gặp trong bệnh",
+      "options": [
+        {
+          "text": "Thủng tạng rỗng"
+        },
+        {
+          "text": "Tắc ruột"
+        },
+        {
+          "text": "Sỏi mật"
+        },
+        {
+          "text": "Sỏi tụy"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ số nào là xét nghiệm đơn độc tốt nhất để phân biệt báng do tăng áp cửa và báng không do tăng áp cửa",
+      "options": [
+        {
+          "text": "HVPG"
+        },
+        {
+          "text": "SAAG"
+        },
+        {
+          "text": "SAGA"
+        },
+        {
+          "text": "SAG"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Hội chứng Zollinger- Ellison có tăng tiết chất nào sau đây",
+      "options": [
+        {
+          "text": "Gastrin"
+        },
+        {
+          "text": "Pepsinogen"
+        },
+        {
+          "text": "Somatostatin"
+        },
+        {
+          "text": "Histamin"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Công thức tính SAAG",
+      "options": [
+        {
+          "text": "Nồng độ albumin huyết thanh – albumin dịch màng bụng"
+        },
+        {
+          "text": "Nồng độ albumin dịch màng bụng – albumin dịch huyết thanh"
+        },
+        {
+          "text": "Nồng độ albumin dịch màng bụng + albumin dịch huyết thanh"
+        },
+        {
+          "text": "Nồng độ protein dịch màng bụng – protein dịch huyết thanh"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Thiểu niệu được định nghĩa khi lượng nước tiểu",
+      "options": [
+        {
+          "text": "Không có nước tiểu"
+        },
+        {
+          "text": "< 0,5 ml/kg nếu theo dõi qua thông tiểu"
+        },
+        {
+          "text": "< 0,5 ml/kg/giờ nếu theo dõi qua thông tiểu"
+        },
+        {
+          "text": "< 0,5 ml/kg/24h nếu theo dõi qua thông tiểu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Vô niệu được xác định trên lâm sàng khi lượng nước tiểu trong 24h",
+      "options": [
+        {
+          "text": "< 100 ml"
+        },
+        {
+          "text": "< 400 ml"
+        },
+        {
+          "text": "Không có nước tiểu"
+        },
+        {
+          "text": "< 50 ml"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Tiếp cận bệnh nhân vô niệu, nguyên nhân nào cần phải loại trừ đầu tiên",
+      "options": [
+        {
+          "text": "Nhiễm trùng tiểu"
+        },
+        {
+          "text": "Tắc nghẽn đường niệu"
+        },
+        {
+          "text": "Hoại tử vỏ thận 2 bên"
+        },
+        {
+          "text": "Tắc động mạch thận"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đau quặn thận KHÔNG do nguyên nhân nào sau đây gây ra",
+      "options": [
+        {
+          "text": "Cục máu đông"
+        },
+        {
+          "text": "Ứ mủ bể thận"
+        },
+        {
+          "text": "Sỏi thận"
+        },
+        {
+          "text": "K thận"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nguyên nhân thận to",
+      "options": [
+        {
+          "text": "Nang thận, sỏi thận"
+        },
+        {
+          "text": "Thận ứ nước, nang thận"
+        },
+        {
+          "text": "Sỏi thận, Thận ứ nước"
+        },
+        {
+          "text": "Nang thận, sỏi thận, thận ứ nước"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Cận lâm sàng chẩn đoán hệ thận niệu, chọn câu SAI",
+      "options": [
+        {
+          "text": "Xét nghiệm huyết học"
+        },
+        {
+          "text": "Xét nghiệm sinh hóa"
+        },
+        {
+          "text": "Xét nghiệm nước tiểu"
+        },
+        {
+          "text": "Hình ảnh học"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Soi cặn lắng nước tiểu, có trụ hồng cầu và hồng cầu biến dạng nghĩ đến nơi tổn thương",
+      "options": [
+        {
+          "text": "Cầu thận"
+        },
+        {
+          "text": "Ống thận"
+        },
+        {
+          "text": "Bàng quang"
+        },
+        {
+          "text": "Niệu đạo"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Trụ nào xuất hiện trong nước tiểu đặc trưng cho bệnh suy thận mạn",
+      "options": [
+        {
+          "text": "Trụ bạch cầu"
+        },
+        {
+          "text": "Trụ sáp"
+        },
+        {
+          "text": "Trụ mỡ"
+        },
+        {
+          "text": "Trụ rộng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đơn vị dùng để đo độ lọc cầu thận là gì",
+      "options": [
+        {
+          "text": "Ml/phút/1,73m2 da"
+        },
+        {
+          "text": "Ml/phút"
+        },
+        {
+          "text": "Ml/giờ/1,73m2 da"
+        },
+        {
+          "text": "Ml/1,73m2 da"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Độ lọc cầu thận ở người bình thường là bao nhiêu",
+      "options": [
+        {
+          "text": "120 ml/phút/1,73m2 da"
+        },
+        {
+          "text": "120 ml/phút"
+        },
+        {
+          "text": "130ml/phút/1,73m2 da"
+        },
+        {
+          "text": "140 ml/phút/1,73m2 da"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Các biểu hiện lâm sàng phụ thuộc vào các yếu tố sau, NGOẠI TRỪ",
+      "options": [
+        {
+          "text": "Mức độ thiếu máu"
+        },
+        {
+          "text": "Diễn tiến thiếu máu"
+        },
+        {
+          "text": "Tuổi"
+        },
+        {
+          "text": "Nguyên nhân của thiếu máu"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Triệu chứng nào dưới đây có độ nhạy cao nhất trong chẩn đoán thiếu máu",
+      "options": [
+        {
+          "text": "Kết mạc mi dưới nhợt"
+        },
+        {
+          "text": "Giường móng tay nhợt"
+        },
+        {
+          "text": "Da lòng bàn tay nhợt"
+        },
+        {
+          "text": "Tóc dễ gãy rụng"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm của âm thổi do thiếu máu là",
+      "options": [
+        {
+          "text": "Nghe ở kỳ tâm trương"
+        },
+        {
+          "text": "Có thể nghe ở liên sườn IV bờ phải xương ức"
+        },
+        {
+          "text": "Cường độ thường 2/6 đến 3/6"
+        },
+        {
+          "text": "Cơ chế do hẹp “tương đối” van nhĩ thất"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Mốc thời gian để phân biệt một cách tương đối thiếu máu cấp và mạn tính là",
+      "options": [
+        {
+          "text": "1 tuần"
+        },
+        {
+          "text": "2 tuần"
+        },
+        {
+          "text": "3 tuần"
+        },
+        {
+          "text": "4 tuần"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Chỉ số RDW dự kiến (thường gặp) của bệnh nhân như thế nào",
+      "options": [
+        {
+          "text": "Tăng"
+        },
+        {
+          "text": "Giảm"
+        },
+        {
+          "text": "Bình thường"
+        },
+        {
+          "text": "Bình thường/giảm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xét về mặt cơ chế, đặc điểm xuất huyết của nhóm nguyên nhân nào có biểu hiện được xem là đa dạng nhất",
+      "options": [
+        {
+          "text": "Thành mạch"
+        },
+        {
+          "text": "Tiểu cầu"
+        },
+        {
+          "text": "Yếu tố đông máu"
+        },
+        {
+          "text": "von-Willebrand"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm nổi bật nhất của xuất huyết do nguyên nhân thành mạch",
+      "options": [
+        {
+          "text": "Xuất huyết tự nhiên"
+        },
+        {
+          "text": "Thường xuất huyết ở đầu xa chi"
+        },
+        {
+          "text": "Xuất huyết đối xứng hai bên"
+        },
+        {
+          "text": "Xuất huyết dạng chấm hoặc nốt hoặc mảng nhỏ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm xuất huyết do nguyên nhân tiểu cầu là",
+      "options": [
+        {
+          "text": "Thường xuất huyết sau va chạm"
+        },
+        {
+          "text": "Xuất hiện ở phần xa của chi"
+        },
+        {
+          "text": "Thường xuất huyết đa dạng"
+        },
+        {
+          "text": "Liên quan đến chất lượng tiểu cầu hơn số lượng"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Nguyên nhân thường gặp nhất gây xuất huyết do giảm số lượng tiểu cầu là",
+      "options": [
+        {
+          "text": "Nhiễm siêu vi"
+        },
+        {
+          "text": "Dùng thuốc aspirin"
+        },
+        {
+          "text": "Suy tủy thực sự"
+        },
+        {
+          "text": "Thiếu vitamin K1"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân nam 10 tuổi, vào viện vì mảng bầm ở vùng mông trái lan rộng xuống mặt sau đùi sau khi tiêm bắp. Kết quả xét nghiệm: SLTC 167 (109/L), TS 4 (phút), TP 80 (%), apTT 78 (giây). Nghĩ đến bất thường gì",
+      "options": [
+        {
+          "text": "Xuất huyết do thành mạch"
+        },
+        {
+          "text": "Xuất huyết giảm số lượng tiểu cầu"
+        },
+        {
+          "text": "Xuất huyết do rối loạn yếu tố đông máu"
+        },
+        {
+          "text": "Xuất huyết giảm chất lượng tiểu cầu"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Bệnh thần kinh trung ương gây ra yếu cơ là",
+      "options": [
+        {
+          "text": "Thoái hoá não"
+        },
+        {
+          "text": "Hội chứng Guillain-Barré"
+        },
+        {
+          "text": "Viêm đa dây thần kinh"
+        },
+        {
+          "text": "Nhược cơ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nào dưới đây thuộc phân nhóm bệnh synap thần kinh cơ",
+      "options": [
+        {
+          "text": "Hội chứng Guillain-Barré"
+        },
+        {
+          "text": "Hội chứng ống cổ tay"
+        },
+        {
+          "text": "Viêm đa dây thần kinh"
+        },
+        {
+          "text": "Nhược cơ"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Yếu cơ do bệnh thần kinh trung ương nào sau đây",
+      "options": [
+        {
+          "text": "Chấn thương sọ não"
+        },
+        {
+          "text": "Hội chứng Guillain-Barré"
+        },
+        {
+          "text": "Hội chứng ống cổ tay"
+        },
+        {
+          "text": "Hội chứng nhược cơ"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên nhân liệt nửa người xuất hiện đột ngột",
+      "options": [
+        {
+          "text": "Chấn thương sọ não"
+        },
+        {
+          "text": "U não"
+        },
+        {
+          "text": "Áp xe não"
+        },
+        {
+          "text": "Tụ máu dưới màng cứng mạn tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên nhân liệt nửa người xuất hiện từ từ",
+      "options": [
+        {
+          "text": "Chấn thương sọ não"
+        },
+        {
+          "text": "Đột quỵ"
+        },
+        {
+          "text": "Huyết khối"
+        },
+        {
+          "text": "U não"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hội chứng liệt mềm hai chi dưới bao gồm các triệu chứng",
+      "options": [
+        {
+          "text": "Trương lực cơ tăng"
+        },
+        {
+          "text": "Nếu liệt do viêm đa dây thần kinh thường liệt đồng đều ngọn chi và gốc chi."
+        },
+        {
+          "text": "Phản ứng thoái hoá điện âm tính"
+        },
+        {
+          "text": "Phản xạ gân xương giảm"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hội chứng cột sống thuộc phân nhóm hội chứng nào sau đây",
+      "options": [
+        {
+          "text": "Hội chứng liệt nửa người"
+        },
+        {
+          "text": "Hội chứng liệt hai chi dưới"
+        },
+        {
+          "text": "Hội chứng màng não"
+        },
+        {
+          "text": "Hội chứng thắt lưng hông"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hội chứng cột sống có đặc điểm",
+      "options": [
+        {
+          "text": "Đau thường ít khu trú rõ"
+        },
+        {
+          "text": "Đau dọc theo đường đi của dây thần kinh đùi xuống dưới chân."
+        },
+        {
+          "text": "Ít biến dạng cột sống"
+        },
+        {
+          "text": "Giảm biên độ hoạt động của cột sống thắt lưng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chẩn đoán hình ảnh học trong thần kinh bao gồm các phương pháp, CHỌN CÂU SAI",
+      "options": [
+        {
+          "text": "Điện não đồ"
+        },
+        {
+          "text": "Điện thế gợi"
+        },
+        {
+          "text": "Điện cơ đồ"
+        },
+        {
+          "text": "Cắt lớp vi tính sọ não"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Điện não đồ là sự ghi lại dao động điện thế của tế bào não, CHỌN CÂU SAI",
+      "options": [
+        {
+          "text": "Lan tỏa ra ngoài da đầu"
+        },
+        {
+          "text": "Có 2 sóng cơ bản là alpha và beta"
+        },
+        {
+          "text": "Bình thường điện thế dao động từ 10 – 100 µV"
+        },
+        {
+          "text": "Dải tần số 4 – 30 chu kỳ/giây"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Điện não đồ thường được chỉ định thường quy trong bệnh lý",
+      "options": [
+        {
+          "text": "Động kinh"
+        },
+        {
+          "text": "Sa sút trí tuệ"
+        },
+        {
+          "text": "Tổn thương choáng chỗ"
+        },
+        {
+          "text": "Migraine"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hình ảnh kết tập là hình ảnh khi màn hình dày đặc MUAP, không thấy đường đẳng điện nữa. Nhận định trên là",
+      "options": [
+        {
+          "text": "Đúng"
+        },
+        {
+          "text": "Sai"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Đặc điểm nào sau đây là đúng về chọc dò tủy sống",
+      "options": [
+        {
+          "text": "Là kỹ thuật đâm kim vào khoang dưới màng nhện"
+        },
+        {
+          "text": "Vị trí chọc dò thường ngang đốt sống L4-L5"
+        },
+        {
+          "text": "Dùng để chẩn đoán và điều trị các bệnh lý thần kinh trung ương"
+        },
+        {
+          "text": "Tất cả các đặc điểm trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Đặc điểm nào sau đây là đúng về dịch não tủy bình thường",
+      "options": [
+        {
+          "text": "Dịch có màu trong suốt"
+        },
+        {
+          "text": "Bạch cầu ≤ 10 tế bào/mm³, chủ yếu là lympho bào"
+        },
+        {
+          "text": "Không có hồng cầu"
+        },
+        {
+          "text": "Tất cả các đặc điểm trên đều đúng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chọc dò dịch não tủy trong trường hợp nào có nguy cơ dẫn đến biến chứng tụt não",
+      "options": [
+        {
+          "text": "Viêm màng não"
+        },
+        {
+          "text": "Xuất huyết dưới nhện"
+        },
+        {
+          "text": "Tăng áp lực nội sọ"
+        },
+        {
+          "text": "Đau đầu dữ dội"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Triệu chứng mỏi cơ-yếu cơ là triệu chứng",
+      "options": [
+        {
+          "text": "Cơ năng ít gặp"
+        },
+        {
+          "text": "Cơ năng thường gặp"
+        },
+        {
+          "text": "Thực thể ít gặp"
+        },
+        {
+          "text": "Thực thể thường gặp"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Triệu chứng co cứng cơ thường gặp trong trường hợp",
+      "options": [
+        {
+          "text": "Hạ calci máu"
+        },
+        {
+          "text": "Hạ Magie máu"
+        },
+        {
+          "text": "Hạ Kali máu"
+        },
+        {
+          "text": "Hạ Natri máu"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Triệu chứng teo cơ là triệu chứng",
+      "options": [
+        {
+          "text": "Cơ năng"
+        },
+        {
+          "text": "Thực thể"
+        },
+        {
+          "text": "Cơ năng và thực thể"
+        },
+        {
+          "text": "Không xác định được"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu cứng khớp buổi sáng hơn 1 giờ thường gặp trong bệnh lý",
+      "options": [
+        {
+          "text": "Thoái hóa khớp"
+        },
+        {
+          "text": "Viêm khớp dạng thấp"
+        },
+        {
+          "text": "Viêm khớp gút"
+        },
+        {
+          "text": "Loãng xương"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Dấu hiệu lắc rắc khi cử động khớp thường gặp trong bệnh lý",
+      "options": [
+        {
+          "text": "Thoái hóa khớp"
+        },
+        {
+          "text": "Gãy xương"
+        },
+        {
+          "text": "Viêm khớp gút"
+        },
+        {
+          "text": "Loãng xương"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Xét nghiệm yếu tố dạng thấp là xét nghiệm",
+      "options": [
+        {
+          "text": "Chẩn đoán xác định bệnh viêm khớp dạng thấp"
+        },
+        {
+          "text": "Góp phần chẩn đoán bệnh tự miễn"
+        },
+        {
+          "text": "Góp phần chẩn đoán bệnh viêm khớp dạng thấp"
+        },
+        {
+          "text": "Chẩn đoán xác định bệnh tự miễn"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Xét nghiệm anti-CCP là xét nghiệm",
+      "options": [
+        {
+          "text": "Chẩn đoán xác định bệnh viêm khớp dạng thấp"
+        },
+        {
+          "text": "Góp phần chẩn đoán bệnh tự miễn"
+        },
+        {
+          "text": "Góp phần chẩn đoán bệnh viêm khớp dạng thấp"
+        },
+        {
+          "text": "Chẩn đoán xác định bệnh tự miễn"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hình ảnh Xquang của thoái hóa khớp, chọn câu SAI",
+      "options": [
+        {
+          "text": "Hẹp khe khớp"
+        },
+        {
+          "text": "Gai xương"
+        },
+        {
+          "text": "Xơ đặc xương dưới sụn"
+        },
+        {
+          "text": "Thoái hóa khớp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Chỉ định chọc dịch khớp xét nghiệm bắt buộc trong trường hợp",
+      "options": [
+        {
+          "text": "Viêm khớp do vi tinh thể"
+        },
+        {
+          "text": "Viêm khớp nhiễm khuẩn"
+        },
+        {
+          "text": "Tràn dịch khớp gối sau chấn thương"
+        },
+        {
+          "text": "Tràn dịch khớp gối tái phát nhiều lần"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm của dịch khớp có máu, chọn câu SAI",
+      "options": [
+        {
+          "text": "Đỏ"
+        },
+        {
+          "text": "Độ nhớt tăng"
+        },
+        {
+          "text": "Bạch cầu khó xác định"
+        },
+        {
+          "text": "Cấy tùy thuộc"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Uống nhiều KHÔNG gặp trong bệnh nội tiết nào sau đây",
+      "options": [
+        {
+          "text": "Đái tháo đường"
+        },
+        {
+          "text": "Đái tháo nhạt"
+        },
+        {
+          "text": "Cường giáp"
+        },
+        {
+          "text": "Suy giáp"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Theo phân độ của WHO, bướu giáp to độ 2 là",
+      "options": [
+        {
+          "text": "Bướu giáp sờ nắn được nhưng không nhìn thấy khi ngửa cổ"
+        },
+        {
+          "text": "Bướu giáp nhìn thấy khi ngửa cổ"
+        },
+        {
+          "text": "Bướu giáp to, nhìn thấy cổ ở tư thế bình thường"
+        },
+        {
+          "text": "Bướu giáp sờ nắn được nhưng không nhìn thấy khi cổ ở tư thế bình thường"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Béo phì tập trung ở vùng mặt cổ, thượng đòn là biểu hiện điển hình",
+      "options": [
+        {
+          "text": "Suy vỏ thượng thận"
+        },
+        {
+          "text": "Hội chứng cushing"
+        },
+        {
+          "text": "Suy giáp"
+        },
+        {
+          "text": "Đái tháo đường"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Sạm da là triệu chứng chính của bệnh lý",
+      "options": [
+        {
+          "text": "Suy vỏ thượng thận nguyên phát"
+        },
+        {
+          "text": "Suy vỏ thượng thận thứ phát"
+        },
+        {
+          "text": "Suy tuyến yên"
+        },
+        {
+          "text": "Suy giáp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Hội chứng Cushing liên quan đến tình trạng",
+      "options": [
+        {
+          "text": "Aldosteron tăng cao trong máu kéo dài"
+        },
+        {
+          "text": "Aldosteron giảm thấp trong máu kéo dài"
+        },
+        {
+          "text": "Cortisol tăng cao trong máu kéo dài"
+        },
+        {
+          "text": "Cortisol giảm thấp trong máu kéo dài"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Cận lâm sàng thường dùng để xác chức năng tuyến giáp",
+      "options": [
+        {
+          "text": "Định lượng iod trong máu"
+        },
+        {
+          "text": "Đo chuyển hoá cơ bản"
+        },
+        {
+          "text": "Định lượng FT3, FT4, TSH trong máu"
+        },
+        {
+          "text": "Nghiệm pháp Werner"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đặc điểm cận lâm sàng của cường giáp nguyên phát",
+      "options": [
+        {
+          "text": "FT3 hoặc FT4 tăng, TSH tăng"
+        },
+        {
+          "text": "FT3 hoặc FT4 tăng, TSH giảm"
+        },
+        {
+          "text": "FT3 hoặc FT4 giảm, TSH giảm"
+        },
+        {
+          "text": "FT3 hoặc FT4 giảm, TSH tăng"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Đặc điểm cận lâm sàng của suy giáp nguyên phát",
+      "options": [
+        {
+          "text": "FT3 hoặc FT4 tăng, TSH tăng"
+        },
+        {
+          "text": "FT3 hoặc FT4 tăng, TSH giảm"
+        },
+        {
+          "text": "FT3 hoặc FT4 giảm, TSH giảm"
+        },
+        {
+          "text": "FT3 hoặc FT4 giảm, TSH tăng"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Độ tập trung iod 131 tăng trong trường hợp",
+      "options": [
+        {
+          "text": "Bướu giáp háo iod, suy giáp"
+        },
+        {
+          "text": "Suy giáp, đang điều trị thuốc kháng giáp"
+        },
+        {
+          "text": "Cường giáp, đang điều trị thuốc kháng giáp"
+        },
+        {
+          "text": "Cường giáp, bướu giáp háo iod"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Cường cận giáp nguyên phát",
+      "options": [
+        {
+          "text": "PTH máu tăng, Ca máu tăng"
+        },
+        {
+          "text": "PTH máu tăng, Ca máu giảm"
+        },
+        {
+          "text": "PTH máu giảm, Ca máu tăng"
+        },
+        {
+          "text": "PTH máu giảm, Ca máu giảm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khó thở xuất hiện khi công hô hấp có xu hướng",
+      "options": [
+        {
+          "text": "Giảm dần so với thông khí tối đa"
+        },
+        {
+          "text": "Đạt tới gần thông khí tối đa"
+        },
+        {
+          "text": "Vượt quá thông khí tối đa"
+        },
+        {
+          "text": "Bằng với thông khí tối đa"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Nguyên nhân nào gây khó thở thì hít vào",
+      "options": [
+        {
+          "text": "Hẹp phế quản"
+        },
+        {
+          "text": "Hen phế quản"
+        },
+        {
+          "text": "Giãn phế nang"
+        },
+        {
+          "text": "Bệnh phổi tắc nghẽn mạn tính"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Bệnh nhân khó thở xuất hiện đột ngột, nhiều ở thì thở ra. Nguyên nhân có thể do",
+      "options": [
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Tràn khí màng phổi"
+        },
+        {
+          "text": "Hen phế quản"
+        },
+        {
+          "text": "Suy tim toàn bộ"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Phù là tình trạng tích tụ dịch thừa ở",
+      "options": [
+        {
+          "text": "Khoảng kẽ"
+        },
+        {
+          "text": "Trong lòng mạch"
+        },
+        {
+          "text": "Trong tế bào"
+        },
+        {
+          "text": "Ngoài tế bào"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Cơ chế chính gây phù trong hội chứng thận hư",
+      "options": [
+        {
+          "text": "Giảm áp lực keo huyết tương"
+        },
+        {
+          "text": "Tăng áp lực tuỷ tĩnh huyết tương"
+        },
+        {
+          "text": "Giảm áp lực thuỷ tĩnh mô kẽ"
+        },
+        {
+          "text": "Tăng tính thấm mao mạch"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Nguyên nhân chính gây phù toàn thân thường liên quan đến",
+      "options": [
+        {
+          "text": "Suy tim, phù do thận, tắc nghẽn mạch bạch huyết, tắc tĩnh mạch"
+        },
+        {
+          "text": "Suy tim, phù do thận, xơ gan và thiểu dưỡng"
+        },
+        {
+          "text": "Xơ gan và thiểu dưỡng, tắc nghẽn mạch bạch huyết, tắc tĩnh mạch"
+        },
+        {
+          "text": "Tắc nghẽn mạch bạch huyết, tắc tĩnh mạch"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh nhân xơ gan cổ trướng, thường liên quan đến cơ chế nào sau đây",
+      "options": [
+        {
+          "text": "Tăng áp lực thủy tĩnh, giảm áp lực keo"
+        },
+        {
+          "text": "Tăng tính thấm mao mạch phúc mạc, giảm áp lực keo"
+        },
+        {
+          "text": "Tăng tính thấm mao mạch phúc mạc, rò dịch vào khoang phúc mạc"
+        },
+        {
+          "text": "Tăng áp lực thủy tĩnh, tăng tính thấm mao mạch phúc mạc"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "SAAG = 1,2 g/dl, gợi ý",
+      "options": [
+        {
+          "text": "Không có tăng áp lực tĩnh mạch cửa"
+        },
+        {
+          "text": "Có tăng áp lực tĩnh mạch cửa"
+        },
+        {
+          "text": "Không có tăng áp lực tĩnh mạch trên gan"
+        },
+        {
+          "text": "Có tăng áp lực tĩnh mạch trên gan"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Bệnh lý nào sau đây gây sốt đột ngột",
+      "options": [
+        {
+          "text": "Viêm phổi"
+        },
+        {
+          "text": "Lao phổi"
+        },
+        {
+          "text": "Thương hàn"
+        },
+        {
+          "text": "Thấp khớp"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi thân nhiệt tăng 1°C thì nhịp tim tăng thêm bao nhiêu lần một phút",
+      "options": [
+        {
+          "text": "5-10"
+        },
+        {
+          "text": "10-15"
+        },
+        {
+          "text": "15-20"
+        },
+        {
+          "text": "20-25"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phân ly mạch nhiệt độ thường gặp ở bệnh lý nào",
+      "options": [
+        {
+          "text": "Thương hàn"
+        },
+        {
+          "text": "Sốt rét"
+        },
+        {
+          "text": "Lao"
+        },
+        {
+          "text": "Viêm đường mật"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "text": "Khi khám bệnh nhân hôn mê, người khám nên tiếp cận bệnh nhân như thế nào sau đây",
+      "options": [
+        {
+          "text": "Bắt đầu bằng cách gọi tên bệnh nhân một cách nhỏ nhẹ, sau đó tăng âm lượng, sau đó vừa gọi vừa lay bệnh nhân thật mạnh"
+        },
+        {
+          "text": "Bắt đầu bằng cách lay nhẹ bệnh nhân, sau đó lay mạnh sau đó vừa lay vừa gọi tên bệnh nhân thật to"
+        },
+        {
+          "text": "Bắt đầu bằng cách gọi tên bệnh nhân một cách nhỏ nhẹ, sau đó tăng âm lượng, sau đó vừa gọi vừa lay nhẹ bệnh nhân"
+        },
+        {
+          "text": "Bắt đầu bằng cách gọi tên bệnh nhân một cách nhỏ nhẹ, sau đó tăng âm lượng, sau đó vừa gọi vừa lay bệnh nhân thật mạnh"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "text": "Đồng tử co nhỏ như đầu đinh ghim hoặc 1mm, mất phản xạ với ánh sáng gặp trong hôn mê do nguyên nhân nào sau đây",
+      "options": [
+        {
+          "text": "Thiếu oxy não"
+        },
+        {
+          "text": "Ngộ độc scopolamin"
+        },
+        {
+          "text": "Ngộ độc atropin"
+        },
+        {
+          "text": "Tổn thương cầu não"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "text": "Hôn mê có cổ cứng gặp trong trường hợp nào sau đây",
+      "options": [
+        {
+          "text": "Xuất huyết não"
+        },
+        {
+          "text": "Xuất huyết màng não"
+        },
+        {
+          "text": "Nhồi máu não"
+        },
+        {
+          "text": "Viêm não"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "text": "Phù gai là dấu hiệu của vấn đề nào sau đây",
+      "options": [
+        {
+          "text": "Giảm áp lực nội sọ"
+        },
+        {
+          "text": "Tăng áp lực nội sọ"
+        },
+        {
+          "text": "Áp lực nội sọ bình thường"
+        },
+        {
+          "text": "Bệnh lý không liên quan gì đến áp lực nội sọ"
+        }
+      ],
+      "answer": "b"
+    }
+  ]
+}
